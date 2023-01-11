@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Don't Go Breaking My Heart;Elton John & Kiki Dee;['Pop'];266.0;0.0
+1;Love Is Alive;Gary Wright;['Pop'];230.0;0.0
+2;Moonlight Feels Right;Starbuck;['Pop', 'Rock'];221.0;0.0
+3;Let 'em In;Wings;['Rock'];311.0;0.0
+4;You Should Be Dancing;Bee Gees;['Pop'];257.0;0.0
+5;Rock And Roll Music;The Beach Boys;['Rock'];148.0;0.0
+6;Got To Get You Into My Life;The Beatles;['Rock'];149.0;0.0
+7;Kiss And Say Goodbye;The Manhattans;['R&B'];265.0;0.0
+8;You'll Never Find Another Love Like Mine;Lou Rawls;['R&B', 'Soul'];266.0;0.0
+9;Afternoon Delight;Starland Vocal Band;['Pop'];193.0;0.0
+10;If You Know What I Mean;Neil Diamond;['Pop'];225.0;0.0
+11;Turn The Beat Around;Vicki Sue Robinson;['Pop'];204.0;0.0
+12;Get Closer;Seals & Crofts (Featuring Carolyn Willis);[];;
+13;This Masquerade;George Benson;['Pop'];196.0;0.0
+14;Tear The Roof Off The Sucker (Give Up The Funk);Parliament;['R&B'];348.0;0.0
+15;You're My Best Friend;Queen;['Rock'];170.0;0.0
+16;I'm Easy;Keith Carradine;['Pop'];193.0;0.0
+17;Baby, I Love Your Way;Peter Frampton;['Rock'];290.0;0.0
+18;I'd Really Love To See You Tonight;England Dan & John Ford Coley;['Pop'];159.0;0.0
+19;A Fifth Of Beethoven;Walter Murphy & The Big Apple Band;['R&B', 'Soul'];184.0;0.0
+20;Last Child;Aerosmith;['Pop'];206.0;0.0
+21;Play That Funky Music;Wild Cherry;['Rock'];300.0;0.0
+22;Young Hearts Run Free;Candi Staton;['R&B'];248.0;0.0
+23;Say You Love Me;Fleetwood Mac;['Pop'];249.0;0.0
+24;Sophisticated Lady (She's A Different Lady);Natalie Cole;['R&B'];207.0;0.0
+25;(Shake, Shake, Shake) Shake Your Booty;KC And The Sunshine Band;['Pop'];185.0;0.0
+26;Heaven Must Be Missing An Angel (part 1);Tavares;['Jeunesse'];264.0;0.0
+27;I'll Be Good To You;The Brothers Johnson;['R&B'];288.0;0.0
+28;Something He Can Feel;Aretha Franklin;['Pop', 'Rock'];374.0;0.0
+29;Summer;War;['Dance'];226.0;1.0
+30;Let Her In;John Travolta;['Pop'];181.0;0.0
+31;Another Rainy Day In New York City;Chicago;['Pop', 'Rock'];181.0;0.0
+32;Who'd She Coo?;Ohio Players;['R&B'];272.0;0.0
+33;More, More, More Pt. 1;Andrea True Connection;['Films/Jeux vidéo', 'Musiques de films'];179.0;0.0
+34;A Little Bit More;Dr. Hook;['Pop'];173.0;0.0
+35;Lowdown;Boz Scaggs;['Pop'];315.0;0.0
+36;Wham Bam (Shang-A-Lang);Silver;['Rock'];212.0;0.0
+37;C'mon Marianne;Donny Osmond;['Pop'];142.0;0.0
+38;Shower The People;James Taylor;['Rock'];271.0;0.0
+39;I'm Gonna Let My Heart Do The Walking;The Supremes;['Pop'];212.0;0.0
+40;Getaway;Earth, Wind & Fire;['R&B'];226.0;0.0
+41;Devil Woman;Cliff Richard;['Rock'];214.0;0.0
+42;I Need To Be In Love;Carpenters;['Pop'];230.0;0.0
+43;The Boys Are Back In Town;Thin Lizzy;['Pop'];269.0;0.0
+44;Springtime Mama;Henry Gross;[];;
+45;With Your Love;Jefferson Starship;['Rock'];216.0;0.0
+46;Teddy Bear;Red Sovine;['Country'];298.0;0.0
+47;Hold On;Sons Of Champlin;['Pop', 'Soul & Funk'];513.0;0.0
+48;Take The Money And Run;Steve Miller;['Rock'];170.0;0.0
+49;Steppin' Out;Neil Sedaka;[];;
+50;Still The One;Orleans;['Rock'];234.0;0.0
+51;Street Singin';Lady Flash;[];;
+52;She's Gone;Daryl Hall John Oates;['Pop'];313.0;0.0
+53;Ten Percent;Double Exposure;['Dance'];427.0;0.0
+54;Gotta Be The One;Maxine Nightingale;['R&B', 'Soul & Funk', 'Soul'];176.0;0.0
+55;Wake Up Susan;The Spinners;['R&B'];205.0;0.0
+56;Ode To Billie Joe;Bobbie Gentry;['Country'];254.0;0.0
+57;One Love In My Lifetime;Diana Ross;['R&B'];220.0;0.0
+58;Honey Child;Bad Company;['Rock', 'Hard Rock'];197.0;0.0
+59;Hey Shirley (This Is Squirrely);Shirley & Squirrely;[];;
+60;Hard Work;John Handy;['Jazz'];414.0;0.0
+61;Shop Around;Captain & Tennille;['Pop'];203.0;0.0
+62;Silly Love Songs;Wings;['Rock'];355.0;0.0
+63;Don't Touch Me There;The Tubes;['Rock'];211.0;0.0
+64;Everything's Coming Up Love;David Ruffin;['R&B'];214.0;0.0
+65;Misty Blue;Dorothy Moore;['Classique', 'Pop', 'R&B'];220.0;0.0
+66;No, No, Joe;Silver Convention;['Pop', 'Disco'];178.0;0.0
+67;Rainbow In Your Eyes;Leon & Mary Russell;['Pop'];252.0;0.0
+68;Ode To Billy Joe - Main Title;Bobbie Gentry;[];;
+69;Light Up The World With Sunshine;Hamilton, Joe Frank & Dennison;[];;
+70;Devil With A Blue Dress;Pratt & McClain;['Pop'];256.0;0.0
+71;Struttin' My Stuff;Elvin Bishop;['Pop', 'Rock', 'Blues', 'R&B', 'Soul'];240.0;0.0
+72;Magic Man;Heart;['Pop'];328.0;0.0
+73;(The System Of) Doctor Tarr And Professor Fether;The Alan Parsons Project;['Pop', 'Rock'];260.0;0.0
+74;I Never Cry;Alice Cooper;['Rock', 'Hard Rock'];224.0;0.0
+75;You To Me Are Everything;The Real Thing;['R&B'];209.0;0.0
+76;Funny How Time Slips Away;Dorothy Moore;['Rock', 'Blues'];228.0;0.0
+77;I Can't Hear You No More/Music Is My Life;Helen Reddy;[];;
+78;Mary Hartman, Mary Hartman;The Deadly Nightshade;['Country', 'Folk'];199.0;0.0
+79;Don't Stop Believin';Olivia Newton-John;['Pop'];213.0;0.0
+80;I've Been Lovin' You;Easy Street;['Classique', 'Rock'];220.0;0.0
+81;It Keeps You Runnin';Carly Simon;['Rock'];238.0;0.0
+82;(Don't Fear) The Reaper;Blue Oyster Cult;['Rock'];308.0;0.0
+83;Showdown;Electric Light Orchestra;['Rock'];249.0;0.0
+84;The More You Do It (The More I Like It Done To Me);Ronnie Dyson;['R&B'];191.0;0.0
+85;You To Me Are Everything;Broadway;[];;
+86;Popsicle Toes;Michael Franks;['Jazz'];275.0;0.0
+87;Superstar;Paul Davis;['Films/Jeux vidéo', 'Comédies musicales'];199.0;0.0
+88;Cotton Candy;The Sylvers;['R&B'];181.0;0.0
+89;Rescue Me;Melissa Manchester;['R&B'];186.0;0.0
+90;Can't Change My Heart;Cate Bros.;['Pop'];168.0;0.0
+91;Party Line;Andrea True Connection;['R&B'];406.0;0.0
+92;Out Of The Darkness;David Crosby/Graham Nash;[];;
+93;Roots, Rock, Reggae;Bob Marley And The Wailers;['Reggae'];218.0;0.0
+94;Hideaway;John Sebastian;['Pop'];175.0;0.0
+95;Sara Smile;Daryl Hall John Oates;['Pop'];187.0;0.0
+96;Foxy Lady;Crown Heights Affair;['R&B', 'Soul'];308.0;0.0
+97;You To Me Are Everything, Part I;Revelation;[];;
+98;Never Gonna Fall In Love Again;Eric Carmen;['Pop'];224.0;0.0
+99;Dancin' Kid;Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III;[];;

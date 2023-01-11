@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;See You Again;Wiz Khalifa Featuring Charlie Puth;['Rap/Hip Hop'];229.0;0.0
+1;Bad Blood;Taylor Swift Featuring Kendrick Lamar;[];208.0;0.0
+2;Trap Queen;Fetty Wap;['Rap/Hip Hop'];222.0;1.0
+3;Cheerleader;OMI;['Electro', 'Techno/House', 'Dance', 'Reggae'];174.0;0.0
+4;Shut Up And Dance;WALK THE MOON;['Alternative'];199.0;0.0
+5;Uptown Funk!;Mark Ronson Featuring Bruno Mars;['Pop'];269.0;1.0
+6;Want To Want Me;Jason Derulo;['Pop'];207.0;0.0
+7;Hey Mama;David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack;['Dance'];192.0;0.0
+8;Honey, I'm Good.;Andy Grammer;['Pop'];199.0;0.0
+9;Earned It (Fifty Shades Of Grey);The Weeknd;['Films/Jeux vidéo', 'Musiques de films'];252.0;0.0
+10;Watch Me;Silento;['Rap/Hip Hop'];185.0;0.0
+11;Can't Feel My Face;The Weeknd;['R&B'];213.0;0.0
+12;Fight Song;Rachel Platten;['Pop', 'Pop internationale', 'Rock'];202.0;0.0
+13;Worth It;Fifth Harmony Featuring Kid Ink;['Pop', 'Pop internationale', 'Rock'];224.0;0.0
+14;Where Are U Now;Skrillex & Diplo With Justin Bieber;['Electro', 'Dance'];250.0;0.0
+15;Talking Body;Tove Lo;['Alternative'];238.0;1.0
+16;Lean On;Major Lazer & DJ Snake Featuring MO;['Electro'];176.0;0.0
+17;You Know You Like It;DJ Snake & AlunaGeorge;['Dance'];247.0;0.0
+18;Sugar;Maroon 5;['Pop'];235.0;1.0
+19;Thinking Out Loud;Ed Sheeran;['Pop'];281.0;0.0
+20;Post To Be;Omarion Featuring Chris Brown & Jhene Aiko;['Rap/Hip Hop', 'R&B'];226.0;1.0
+21;The Hills;The Weeknd;['R&B'];242.0;1.0
+22;Nasty Freestyle;T-Wayne;['Rap/Hip Hop'];142.0;1.0
+23;Love Me Like You Do;Ellie Goulding;['Films/Jeux vidéo', 'Musiques de films'];250.0;0.0
+24;This Summer's Gonna Hurt...;Maroon 5;[];227.0;0.0
+25;Flex (Ooh Ooh Ooh);Rich Homie Quan;['Rap/Hip Hop'];177.0;1.0
+26;Girl Crush;Little Big Town;['Country'];193.0;0.0
+27;B**** Better Have My Money;Rihanna;[];;
+28;Slow Motion;Trey Songz;['R&B'];197.0;0.0
+29;Elastic Heart;Sia;['Pop'];257.0;0.0
+30;The Night Is Still Young;Nicki Minaj;['Rap/Hip Hop'];227.0;1.0
+31;Take Your Time;Sam Hunt;['Country'];243.0;0.0
+32;Budapest;George Ezra;['Pop', 'Singer & Songwriter'];202.0;0.0
+33;Photograph;Ed Sheeran;['Pop'];258.0;0.0
+34;Dear Future Husband;Meghan Trainor;['Pop'];184.0;0.0
+35;Kick The Dust Up;Luke Bryan;['Country'];190.0;0.0
+36;Somebody;Natalie La Rose Featuring Jeremih;['Pop', 'R&B'];187.0;0.0
+37;Style;Taylor Swift;['Pop'];231.0;0.0
+38;Sangria;Blake Shelton;['Country'];233.0;0.0
+39;Shake It Off;Taylor Swift;['Pop'];219.0;0.0
+40;G.D.F.R.;Flo Rida Featuring Sage The Gemini & Lookas;['Rap/Hip Hop'];190.0;0.0
+41;Blank Space;Taylor Swift;['Pop'];231.0;0.0
+42;Be Real;Kid Ink Featuring DeJ Loaf;['Rap/Hip Hop'];206.0;1.0
+43;Fun;Pitbull Featuring Chris Brown;['Pop'];202.0;0.0
+44;Bright;Echosmith;['Alternative'];220.0;0.0
+45;Love Me Like You Mean It;Kelsea Ballerini;['Country'];200.0;0.0
+46;Little Toy Guns;Carrie Underwood;['Country'];210.0;0.0
+47;Blessings;Big Sean Featuring Drake;['Rap/Hip Hop'];258.0;1.0
+48;Uma Thurman;Fall Out Boy;['Alternative'];211.0;0.0
+49;Classic Man;Jidenna Featuring Roman GianArthur;['Rap/Hip Hop', 'R&B'];226.0;1.0
+50;Tonight Looks Good On You;Jason Aldean;['Country'];231.0;0.0
+51;House Party;Sam Hunt;['Country'];190.0;0.0
+52;Like A Wrecking Ball;Eric Church;['Country'];198.0;0.0
+53;Love You Like That;Canaan Smith;['Country'];203.0;0.0
+54;Commas;Future;['Rap/Hip Hop'];237.0;1.0
+55;Diamond Rings And Old Barstools;Tim McGraw With Catherine Dunn;[];;
+56;Crash And Burn;Thomas Rhett;['Country'];190.0;0.0
+57;Baby Be My Love Song;Easton Corbin;['Country'];199.0;0.0
+58;One Last Time;Ariana Grande;['Pop'];197.0;0.0
+59;Sippin' On Fire;Florida Georgia Line;['Country'];193.0;0.0
+60;Wet Dreamz;J. Cole;['Rap/Hip Hop'];239.0;1.0
+61;Buy Me A Boat;Chris Janson;['Country'];179.0;0.0
+62;Loving You Easy;Zac Brown Band;['Country'];155.0;0.0
+63;One Hell Of An Amen;Brantley Gilbert;['Country'];221.0;0.0
+64;I Really Like You;Carly Rae Jepsen;['Pop'];204.0;0.0
+65;Don't It;Billy Currington;['Country'];184.0;0.0
+66;Wild Child;Kenny Chesney With Grace Potter;['Country'];189.0;0.0
+67;How Many Times;DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean;['Rap/Hip Hop'];263.0;1.0
+68;Stitches;Shawn Mendes;['Pop'];206.0;0.0
+69;The Matrimony;Wale Featuring Usher;['Rap/Hip Hop'];395.0;1.0
+70;Planez;Jeremih Featuring J. Cole;[];;
+71;Crushin' It;Brad Paisley;['Country'];220.0;0.0
+72;Ghost Town;Adam Lambert;['Pop'];208.0;1.0
+73;Renegades;X Ambassadors;['Alternative'];195.0;0.0
+74;Smoke;A Thousand Horses;['Country'];219.0;0.0
+75;Kiss You In The Morning;Michael Ray;['Country'];181.0;0.0
+76;Lay Me Down;Sam Smith;['Pop'];253.0;0.0
+77;I Need Your Love;Shaggy Featuring Mohombi, Faydee, Costi;['Pop'];217.0;0.0
+78;Energy;Drake;['Rap/Hip Hop'];181.0;1.0
+79;Young & Crazy;Frankie Ballard;['Country'];180.0;0.0
+80;Pretty Girls;Britney Spears & Iggy Azalea;['Pop', 'Pop internationale', 'Rock'];163.0;0.0
+81;Hell Of A Night;Dustin Lynch;['Country'];190.0;0.0
+82;El Perdon (Forgiveness);Nicky Jam & Enrique Iglesias;['Rap/Hip Hop'];206.0;0.0
+83;B**** I'm Madonna;Madonna Featuring Nicki Minaj;['Pop'];229.0;0.0
+84;John Cougar, John Deere, John 3:16;Keith Urban;['Country'];221.0;0.0
+85;Know Yourself;Drake;['Rap/Hip Hop'];275.0;1.0
+86;Marvin Gaye;Charlie Puth Featuring Meghan Trainor;['Pop'];187.0;0.0
+87;Flashlight;Jessie J;['Films/Jeux vidéo', 'Musiques de films'];208.0;0.0
+88;Beautiful Now;Zedd Featuring Jon Bellion;['Dance', 'Pop'];219.0;0.0
+89;This Could Be Us;Rae Sremmurd;['Rap/Hip Hop'];206.0;1.0
+90;Hood Go Crazy;Tech N9Ne Featuring 2 Chainz & B.o.B;[];;
+91;Lose My Mind;Brett Eldredge;['Country'];155.0;0.0
+92;Sparks;Hilary Duff;['Pop'];185.0;0.0
+93;Believe;Mumford & Sons;['Alternative'];220.0;0.0
+94;Coffee;Miguel;['R&B'];286.0;1.0
+95;I Don't Get Tired (#IDGT);Kevin Gates Featuring August Alsina;['Rap/Hip Hop'];209.0;1.0
+96;Tear In My Heart;twenty one pilots;['Alternative'];188.0;0.0
+97;Flicka Da Wrist;Chedda Da Connect;['Rap/Hip Hop'];222.0;1.0
+98;Nasty;Bandit Gang Marco Featuring Dro;['Rap/Hip Hop', 'Dirty South'];189.0;1.0
+99;Good Thing;Sage The Gemini Featuring Nick Jonas;['Pop'];28.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Mrs. Brown You've Got A Lovely Daughter;Herman's Hermits;['Pop'];157.0;0.0
+1;Game Of Love;Wayne Fontana & The Mindbenders;['Films/Jeux vidéo', 'Musiques de films'];124.0;0.0
+2;I Know A Place;Petula Clark;['Pop'];162.0;0.0
+3;I'm Telling You Now;Freddie And The Dreamers;['Pop'];128.0;0.0
+4;I'll Never Find Another You;The Seekers;['Folk'];163.0;0.0
+5;Tired Of Waiting For You;The Kinks;['Rock'];149.0;0.0
+6;Count Me In;Gary Lewis And The Playboys;['Pop'];152.0;0.0
+7;Silhouettes;Herman's Hermits;['Rock'];121.0;0.0
+8;The Last Time;The Rolling Stones;['Rock'];221.0;0.0
+9;Stop! In The Name Of Love;The Supremes;['Pop', 'Disco'];250.0;0.0
+10;The Clapping Song (Clap Pat Clap Slap);Shirley Ellis;['R&B'];170.0;0.0
+11;Cast Your Fate To The Wind;Sounds Orchestral;['Pop'];195.0;0.0
+12;Go Now!;The Moody Blues;['Rock'];192.0;0.0
+13;I'll Be Doggone;Marvin Gaye;['R&B'];166.0;0.0
+14;One Kiss For Old Times' Sake;Ronnie Dove;['Pop'];186.0;0.0
+15;Shotgun;Jr. Walker & The All Stars;['Pop'];177.0;0.0
+16;Just Once In My Life;The Righteous Brothers;['Pop'];218.0;0.0
+17;Ticket To Ride;The Beatles;['Rock'];190.0;0.0
+18;Ooo Baby Baby;The Miracles;['Pop'];166.0;0.0
+19;It's Growing;The Temptations;['R&B'];178.0;0.0
+20;Baby The Rain Must Fall;Glenn Yarbrough;['Pop'];139.0;0.0
+21;Got To Get You Off My Mind;Solomon Burke;['Rock'];153.0;0.0
+22;Nowhere To Run;Martha & The Vandellas;['R&B'];177.0;0.0
+23;Wooly Bully;Sam The Sham and the Pharaohs;['Rock', 'Rock & Roll/Rockabilly'];139.0;0.0
+24;Can't You Hear My Heartbeat;Herman's Hermits;['Rock'];135.0;0.0
+25;It's Gonna Be Alright;Gerry And The Pacemakers;['Rock'];145.0;0.0
+26;The Race Is On;Jack Jones;[];106.0;0.0
+27;It's Not Unusual;Tom Jones;['Pop'];119.0;0.0
+28;Bumble Bee;The Searchers;['Pop', 'Rock'];134.0;0.0
+29;Land Of 1000 Dances;Cannibal And The Headhunters;['Rock'];133.0;0.0
+30;I Do Love You;Billy Stewart;['Rock', 'Blues'];181.0;0.0
+31;She's About A Mover;Sir Douglas Quintet;['Rock'];145.0;0.0
+32;Woman's Got Soul;The Impressions;['Soul'];147.0;0.0
+33;We're Gonna Make It;Little Milton;['Pop'];157.0;0.0
+34;Help Me, Rhonda;The Beach Boys;['Rock'];168.0;0.0
+35;I Understand (Just How You Feel);Freddie And The Dreamers;['Rock'];153.0;0.0
+36;......And Roses And Roses;Andy Williams;['Pop'];166.0;0.0
+37;"Peaches ""N"" Cream";The Ikettes;['Rock', 'Blues', 'R&B', 'Soul'];137.0;0.0
+38;Iko Iko;The Dixie Cups;['R&B'];123.0;0.0
+39;Dream On Little Dreamer;Perry Como;['Pop'];140.0;0.0
+40;Crazy Downtown;Allan Sherman;['Pop'];179.0;0.0
+41;The Entertainer;Tony Clarke;['Rock', 'Blues'];155.0;0.0
+42;Reelin' And Rockin';The Dave Clark Five;['Pop'];167.0;0.0
+43;Subterranean Homesick Blues;Bob Dylan;['Rock'];141.0;0.0
+44;It's Got The Whole World Shakin';Sam Cooke;['R&B'];165.0;0.0
+45;When I'm Gone;Brenda Holloway;['Pop'];124.0;0.0
+46;True Love Ways;Peter And Gordon;['Pop'];159.0;0.0
+47;Just A Little;The Beau Brummels;['Rock'];145.0;0.0
+48;Girl Don't Come;Sandie Shaw;['Pop'];133.0;0.0
+49;Let's Do The Freddie;Chubby Checker;['Pop'];146.0;0.0
+50;Crying In The Chapel;Elvis Presley With The Jordanaires;[];;
+51;(The Bees Are For The Birds) The Birds Are For The Bees;The Newbeats;['Pop'];133.0;0.0
+52;Out In The Streets;The Shangri-Las;['Pop'];167.0;0.0
+53;Truly, Truly, True;Brenda Lee;[];;
+54;Goodbye My Lover Goodbye;The Searchers;[];;
+55;I Can't Stop Thinking Of You;Bobbi Martin;['Country'];169.0;0.0
+56;Somebody Else Is Taking My Place;Al Martino;['Pop'];142.0;0.0
+57;She's Coming Home;The Zombies;['Rock'];158.0;0.0
+58;The Barracuda;Alvin Cash & The Crawlers;['R&B', 'Soul'];140.0;0.0
+59;Think Of The Good Times;Jay & The Americans;['Rock'];170.0;0.0
+60;A Woman Can Change A Man;Joe Tex;['R&B', 'Soul vieille école', 'Soul'];161.0;0.0
+61;What Do You Want With Me;Chad & Jeremy;['Pop'];177.0;0.0
+62;Do The Freddie;Freddie And The Dreamers;['Pop'];119.0;0.0
+63;Toy Soldier;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+64;10 Little Bottles;Johnny Bond;[];;
+65;You Were Made For Me;Freddie And The Dreamers;['Pop'];139.0;0.0
+66;Queen Of The House;Jody Miller;['Country'];157.0;0.0
+67;Back In My Arms Again;The Supremes;['Pop'];172.0;0.0
+68;"(See You At The) ""Go-Go""";Dobie Gray;['Pop'];176.0;0.0
+69;Whipped Cream;Herb Alpert's Tijuana Brass;[];;
+70;Yes It Is;The Beatles;['Rock'];162.0;0.0
+71;Nothing Can Stop Me;Gene Chandler;['R&B'];177.0;0.0
+72;Now That You've Gone;Connie Stevens;['Pop'];189.0;0.0
+73;Something You Got;Chuck Jackson & Maxine Brown;['R&B', 'Soul'];171.0;0.0
+74;You Can Have Him;Dionne Warwick;['Pop'];214.0;0.0
+75;Super-cali-fragil-istic-expi-ali-docious;Julie Andrews-Dick Van Dyke;[];;
+76;Why Did I Choose You;Barbra Streisand;['Pop'];168.0;0.0
+77;All Of My Life;Lesley Gore;['Pop'];149.0;0.0
+78;I Gotta Woman (Part One);Ray Charles and his Orchestra;[];;
+79;I Need You;Chuck Jackson;['Rock', 'Blues', 'R&B'];189.0;0.0
+80;You Were Only Fooling (While I Was Falling In Love);Vic Damone;['Pop'];154.0;0.0
+81;Al's Place;Al (He's the King) Hirt;[];;
+82;Hush, Hush, Sweet Charlotte;Patti Page;['Pop'];129.0;0.0
+83;Three O'Clock In The Morning;Bert Kaempfert And His Orchestra;['Pop'];153.0;0.0
+84;Chim, Chim, Cheree;The New Christy Minstrels;[];120.0;0.0
+85;Boo-Ga-Loo;Tom and Jerrio;[];;
+86;Come On Over To My Place;The Drifters;['R&B'];151.0;0.0
+87;Wishing It Was You;Connie Francis;['Pop'];178.0;0.0
+88;The Mouse;Soupy Sales;['Jeunesse'];120.0;0.0
+89;Chains Of Love;The Drifters;['Pop'];165.0;0.0
+90;Good Lovin';The Olympics;['Pop'];153.0;0.0
+91;Georgie Porgie;Jewel Akens;['Pop', 'Pop internationale', 'Variété Internationale', 'Rock', 'Soul & Funk', 'Soul'];129.0;0.0
+92;Gotta Have Your Love;The Sapphires;['Pop', 'Rock', 'Soul'];136.0;0.0
+93;Sad Tomorrows;Trini Lopez;['Rock'];164.0;0.0
+94;Apples And Bananas;Lawrence Welk And His Orchestra;[];;
+95;Concrete And Clay;Unit Four plus Two;['Pop', 'Rock'];135.0;0.0
+96;In The Meantime;Georgie Fame And The Blue Flames;['Pop'];154.0;0.0
+97;Concrete And Clay;Eddie Rambeau;['Pop', 'Rock'];136.0;0.0
+98;Voodoo Woman;Bobby Goldsboro;['Country', 'Pop'];132.0;0.0
+99;He Ain't No Angel;The Ad Libs;['R&B'];165.0;0.0

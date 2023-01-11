@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'll Be Missing You;Puff Daddy & Faith Evans Featuring 112;['Pop'];248.0;0.0
+1;MMMBop;Hanson;['Pop'];268.0;0.0
+2;Bitch;Meredith Brooks;['Pop'];252.0;0.0
+3;Return Of The Mack;Mark Morrison;['R&B'];213.0;0.0
+4;"Look Into My Eyes (From ""Batman & Robin"")";Bone Thugs-N-Harmony;[];;
+5;Say You'll Be There;Spice Girls;['Pop'];235.0;0.0
+6;I Belong To You (Every Time I See Your Face);Rome;['R&B'];273.0;0.0
+7;It's Your Love;Tim McGraw With Faith Hill;['Country'];221.0;0.0
+8;G.H.E.T.T.O.U.T.;Changing Faces;['R&B'];264.0;1.0
+9;The Freshmen;The Verve Pipe;['Alternative', 'Rock'];269.0;0.0
+10;Foolish Games/You Were Meant For Me;Jewel;[];;
+11;Do You Know (What It Takes);Robyn;['Pop'];221.0;0.0
+12;Quit Playing Games (With My Heart);Backstreet Boys;['Pop'];232.0;0.0
+13;Hard To Say I'm Sorry;Az Yet Featuring Peter Cetera;['R&B', 'Soul'];195.0;0.0
+14;"For You I Will (From ""Space Jam"")";Monica;[];;
+15;Smile;Scarface Featuring 2Pac & Johnny P;['Electro', 'Dance', 'Rap/Hip Hop'];301.0;0.0
+16;Semi-Charmed Life;Third Eye Blind;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];268.0;0.0
+17;I Want You;Savage Garden;['Pop'];234.0;0.0
+18;Cupid;Puff Daddy (Featuring Mase);[];;
+19;Can't Nobody Hold Me Down;Paula Cole;[];;
+20;Where Have All The Cowboys Gone?;Raybon Bros.;[];;
+21;Butterfly Kisses;The Notorious B.I.G.;[];;
+22;Hypnotize;Freak Nasty;[];;
+23;Da' Dip;Duncan Sheik;[];;
+24;Barely Breathing;K-Ci & JoJo;[];;
+25;You Bring Me Up;Michael Bolton;[];;
+26;"Go The Distance (From ""Hercules"")";LeAnn Rimes;[];;
+27;How Do I Live;Joe;['Country'];267.0;0.0
+28;"Don't Wanna Be A Player (From ""Booty Call"")";Bee Gees;[];;
+29;Alone;Toni Braxton;['R&B'];291.0;0.0
+30;I Love Me Some Him/I Don't Want To;Various Artists;[];;
+31;ESPN Presents The Jock Jam;White Town;[];;
+32;Your Woman;Tony Toni Tone;[];;
+33;Thinking Of You;Le Click;[];;
+34;Call Me;R. Kelly;[];;
+35;"I Believe I Can Fly (From ""Space Jam"")";Warren G Featuring Ronald Isley;[];;
+36;Smokin' Me Out;Toni Braxton;[];;
+37;Un-Break My Heart;Babyface;[];;
+38;Every Time I Close My Eyes;Blessid Union Of Souls;[];;
+39;I Wanna Be There;Brownstone;[];;
+40;5 Miles To Empty;Bruce Springsteen;[];;
+41;Secret Garden;Trisha Yearwood;[];;
+42;"How Do I Live (From ""Con Air"")";En Vogue;[];;
+43;Don't Let Go (Love);3rd Party;[];;
+44;Can U Feel It;Wyclef Jean Featuring Refugee Allstars;[];;
+45;We Trying To Stay Alive;Gina G;[];;
+46;Gimme Some Love;B-Rock & The Bizz;[];;
+47;My Baby Daddy;Depeche Mode;[];;
+48;It's No Good;Coolio Featuring 40 Thevz;[];;
+49;"C U When U Get There (From ""Nothing To Lose"")";DJ Taz Featuring Raheem The Dream;[];;
+50;That's Right;Sheryl Crow;[];;
+51;Everyday Is A Winding Road;Real McCoy;[];;
+52;One More Time;Christion;[];;
+53;Full Of Smoke;Billy Lawrence Featuring MC Lyte;[];;
+54;Come On;Sneaker Pimps;[];;
+55;6 Underground;Richard Marx;[];;
+56;Until I Find You Again;Kenny Lattimore;[];;
+57;For You;DJ Company;['Electro', 'Dance'];326.0;0.0
+58;Rhythm Of Love;Jocelyn Enriquez;[];;
+59;A Little Bit Of Ecstasy;U2;[];;
+60;Staring At The Sun;New Edition;[];;
+61;One More Day;Nu Flavor Featuring Roger;[];;
+62;Sweet Sexy Thing;Celine Dion;[];;
+63;All By Myself;Bill Engvall With Special Guest Travis Tritt;[];;
+64;Here's Your Sign (Get The Picture);Tha Alkaholiks Featuring Ol' Dirty Bastard;[];;
+65;Hip Hop Drunkies;Ray J;[];;
+66;"Let It Go (From ""Set It Off"")";The Lemonheads;[];;
+67;"If I Could Change (From ""I'm Bout It"")";Warren G;[];;
+68;I Shot The Sheriff;No Mercy;[];;
+69;When I Die;Tori Amos;[];;
+70;Silent All These Years;Keith Sweat (Featuring Ronald Isley);[];;
+71;Come With Me;CRU Featuring Slick Rick;[];;
+72;Just Another Case;Veronica (Featuring Craig Mack);[];;
+73;"No One But You (From ""Baps"")";Collective Soul;[];;
+74;Listen;Nine Inch Nails;['Rap/Hip Hop'];123.0;0.0
+75;"The Perfect Drug (From ""Lost Highway"")";Paul McCartney;[];;
+76;"The World Tonight (From ""Fathers' Day"")";Laurnea;[];;
+77;Can't Let Go;Deborah Cox;[];;
+78;Things Just Ain't The Same;Suga Free;[];;
+79;If U Stay Ready;Whitney Houston;[];;
+80;"My Heart Is Calling (From ""The Preacher's Wife"")";MC Luscious Featuring Kinsui;[];;
+81;Da' Dip;Damage;[];;
+82;Love II Love;Kenny G;[];;
+83;Havana;John Mellencamp;[];;
+84;Just Another Day;The O'Jays;[];;
+85;What's Stopping You;Westside Connection;[];;
+86;Gangstas Make The World Go Round;Faithless;[];;
+87;Insomnia;Jon Secada;[];;
+88;Too Late, Too Soon;OutKast;[];;
+89;Jazzy Belle;Michael Jackson;[];;
+90;Blood On The Dance Floor;Gyrl;[];;
+91;"Get Your Groove On (From ""Baps"")";Hev-D;[];;
+92;Big Daddy;Corina;['Pop', 'Folk'];190.0;0.0
+93;Summertime Summertime;Shades;['Pop'];103.0;0.0
+94;Serenade;Mint Condition;[];;
+95;You Don't Have To Hurt No More;Erasure;[];;
+96;In My Arms;Beck;['Jazz'];312.0;0.0
+97;The New Pollution;Joose;[];;
+98;If Tomorrow Never Comes;Whitney Houston;[];;
+99;"Step By Step (From ""The Preacher's Wife"")";;[];;

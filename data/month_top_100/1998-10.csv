@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The First Night;Monica;['R&B', 'Soul'];235.0;0.0
+1;I Don't Want To Miss A Thing;Aerosmith;['Rock'];299.0;0.0
+2;One Week;Barenaked Ladies;['Pop'];169.0;0.0
+3;Crush;Jennifer Paige;['Pop'];200.0;0.0
+4;I'll Be;Edwin McCain;['Country'];266.0;0.0
+5;My Way;Usher;['R&B'];219.0;0.0
+6;Time After Time;Inoj;['R&B'];255.0;0.0
+7;The Boy Is Mine;Brandy & Monica;['Pop'];294.0;0.0
+8;Daydreamin';Tatyana Ali;['Pop'];300.0;0.0
+9;When The Lights Go Out;Five;['Pop'];249.0;0.0
+10;Too Close;Next;['R&B', 'Soul'];259.0;1.0
+11;This Kiss;Faith Hill;['Country'];194.0;0.0
+12;You're Still The One;Shania Twain;['Country'];212.0;0.0
+13;I Still Love You;Next;['R&B', 'Soul'];254.0;1.0
+14;Thinkin' Bout It;Gerald Levert;['R&B'];391.0;0.0
+15;Never Ever;All Saints;['Pop'];387.0;0.0
+16;I Can Do That;Montell Jordan;['R&B'];286.0;0.0
+17;Lookin' At Me;Mase Featuring Puff Daddy;['Rap/Hip Hop'];255.0;1.0
+18;Adia;Sarah McLachlan;['Pop'];244.0;0.0
+19;Lately;Divine;['R&B', 'Soul'];218.0;0.0
+20;Westside;TQ;['R&B'];304.0;1.0
+21;Touch It;Monifah;['R&B'];285.0;1.0
+22;Still A G Thang;Snoop Dogg;['Rap/Hip Hop'];259.0;1.0
+23;Cruel Summer;Ace Of Base;['Pop'];215.0;0.0
+24;Truly Madly Deeply;Savage Garden;['Pop'];277.0;0.0
+25;Because Of You;98 Degrees;['R&B'];296.0;0.0
+26;Make It Hot;"Nicole Featuring Missy ""Misdemeanor"" Elliott & Mocha";['R&B'];241.0;1.0
+27;All My Life;K-Ci & JoJo;['Pop'];331.0;0.0
+28;Friend Of Mine;Kelly Price;['R&B'];377.0;0.0
+29;Splackavellie;Pressha;['R&B'];242.0;0.0
+30;So Into You;Tamia;['Rock'];261.0;0.0
+31;Say It;Voices Of Theory;['Rap/Hip Hop', 'R&B'];269.0;0.0
+32;Ghetto Supastar (That Is What You Are);Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya;[];;
+33;Intergalactic;Beastie Boys;['Rap/Hip Hop'];231.0;0.0
+34;Movin' On;Mya Featuring Silkk The Shocker;[];;
+35;Nobody Else;Tyrese;['R&B', 'Soul'];232.0;0.0
+36;Still Not A Player;Big Punisher Featuring Joe;[];;
+37;Goodbye To My Homies;Master P Featuring Silkk The Shocker, Sons Of Funk And Mo B. Dick;[];;
+38;Come With Me;Puff Daddy Featuring Jimmy Page;['Pop'];364.0;0.0
+39;SuperThug (What What);Noreaga;[];;
+40;I Don't Want To Wait;Paula Cole;['Pop', 'Rock'];320.0;0.0
+41;Shimmer;Fuel;['Rock'];214.0;0.0
+42;Ray Of Light;Madonna;['Pop'];367.0;0.0
+43;How's It Going To Be;Third Eye Blind;['Alternative', 'Pop', 'Rock', 'Rock Indé/Pop Rock'];253.0;0.0
+44;Together Again;Janet;['Pop'];301.0;0.0
+45;To The Moon And Back;Savage Garden;['Pop'];341.0;0.0
+46;Gettin' Jiggy Wit It;Will Smith;['Pop'];228.0;0.0
+47;How Do I Live;LeAnn Rimes;['Country'];267.0;0.0
+48;Sex And Candy;Marcy Playground;['Alternative'];172.0;0.0
+49;I Had No Right;P.M. Dawn;['Rap/Hip Hop'];301.0;0.0
+50;Invasion Of The Flat Booty B*****s;Too $hort;[];;
+51;Nobody's Supposed To Be Here;Deborah Cox;['Pop', 'R&B', 'Soul'];262.0;0.0
+52;Ooh La La;Rod Stewart;['Pop', 'Rock'];256.0;0.0
+53;Jackie's Strength;Tori Amos;['Pop'];266.0;0.0
+54;Horse & Carriage;Cam'Ron Featuring Mase;['Rap/Hip Hop'];241.0;1.0
+55;Money Ain't A Thang;JD Featuring Jay-Z;[];;
+56;Gotta Be;Jagged Edge;['R&B'];215.0;0.0
+57;Landslide;Fleetwood Mac;['Pop'];199.0;0.0
+58;Touch Me;Solo;['R&B'];258.0;0.0
+59;Yesterday;Debelah Morgan;[];;
+60;Only When I Lose Myself;Depeche Mode;['Pop'];275.0;0.0
+61;Cleopatra's Theme;Cleopatra;['Pop'];249.0;0.0
+62;Can't We Try;Rockell [Duet With Collage];['Electro', 'Dance'];257.0;0.0
+63;What U See Is What U Get;Xzibit;['Rap/Hip Hop'];311.0;1.0
+64;Nobody Does It Better;Nate Dogg Featuring Warren G;['Rap/Hip Hop'];270.0;0.0
+65;If You Could Read My Mind;Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez;['Dance', 'Pop'];206.0;0.0
+66;26 Cents;The Wilkinsons;['Country'];231.0;0.0
+67;Heaven's What I Feel;Gloria Estefan;['Pop'];301.0;0.0
+68;You Only Have To Say You Love Me;Hannah Jones;['Dance', 'Pop'];715.0;0.0
+69;Dr. Greenthumb;Cypress Hill;['Rap/Hip Hop'];189.0;1.0
+70;Definition;Mos Def & Kweli Are Black Star;['Pop'];206.0;1.0
+71;I Should Cheat On You;J'Son;[];;
+72;Woof Woof;69 Boyz;['Rap/Hip Hop'];271.0;0.0
+73;How's It Goin' Down;DMX Featuring Faith Evans;[];;
+74;Stop;Spice Girls;['Pop'];204.0;0.0
+75;I Get Lonely;Janet Featuring BLACKstreet;['R&B'];296.0;0.0
+76;Paper;Queen Latifah Featuring Apache;[];;
+77;Lost In Love;Nastyboy Klick;['Rap/Hip Hop'];247.0;0.0
+78;Delicious;Pure Sugar;['Pop'];295.0;0.0
+79;Here We Go;Funkmaster Flex Presents Khadejia Featuring Product;[];;
+80;You Won't Forget Me;La Bouche;['Pop'];196.0;0.0
+81;Can I Get A...;Jay-Z Featuring Amil (Of Major Coinz) & Ja;[];;
+82;It's Alright;Memphis Bleek (& Jay-Z);['Rap/Hip Hop'];241.0;1.0
+83;Shorty (You Keep Playin' With My Mind);Imajin Featuring Keith Murray;['R&B'];295.0;0.0
+84;Ava Adore;The Smashing Pumpkins;['Rock'];270.0;0.0
+85;'98 Thug Paradise;Tragedy, Capone, Infinite;[];;
+86;Wide Open Spaces;Dixie Chicks;['Country'];223.0;0.0
+87;I Ain't Havin' That;Heltah Skeltah Featuring Starang Wondah Of O.G.C. & Doc Holiday;[];;
+88;Destiny;Myron;['R&B'];216.0;0.0
+89;What I Didn't Know;Athenaeum;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];218.0;0.0
+90;Whatcha Gone Do?;Link;['Rap/Hip Hop', 'R&B', 'R&B vieille école'];259.0;0.0
+91;Remember When;Color Me Badd;['R&B'];256.0;0.0
+92;Hey Now Now;Swirl 360;['Rock'];277.0;0.0
+93;I Wasn't With It;Jesse Powell;['R&B'];261.0;0.0
+94;Find A Way;A Tribe Called Quest;['Rap/Hip Hop'];203.0;0.0
+95;How Do I Say I'm Sorry;Tami Davis;[];;
+96;Wishlist;Pearl Jam;['Pop'];206.0;0.0
+97;The Cup Of Life (The Official Song Of The World Cup, France '98);Ricky Martin;['Pop'];271.0;0.0
+98;Black Ice (Sky High);Goodie Mob Featuring Outkast;['Rap/Hip Hop'];205.0;1.0
+99;One Heart At A Time;Various Artists;['Pop'];242.0;0.0

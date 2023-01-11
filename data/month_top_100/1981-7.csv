@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Bette Davis Eyes;Kim Carnes;['Pop'];225.0;0.0
+1;All Those Years Ago;George Harrison;['Rock'];227.0;0.0
+2;The One That You Love;Air Supply;['Alternative'];223.0;0.0
+3;Jessie's Girl;Rick Springfield;['Rock'];195.0;0.0
+4;You Make My Dreams;Daryl Hall John Oates;['Pop'];190.0;0.0
+5;Elvira;The Oak Ridge Boys;['Country'];174.0;0.0
+6;Medley;Stars On 45;['Pop'];233.0;0.0
+7;A Woman Needs Love (Just Like You Do);Ray Parker Jr. & Raydio;['Pop', 'R&B'];246.0;0.0
+8;"Theme From ""Greatest American Hero"" (Believe It or Not)";Joey Scarbury;['Pop'];194.0;0.0
+9;I Don't Need You;Kenny Rogers;['Country'];206.0;0.0
+10;This Little Girl;Gary U.S. Bonds;['Rock'];222.0;0.0
+11;Sukiyaki;A Taste Of Honey;['R&B'];223.0;0.0
+12;America;Neil Diamond;['Pop'];258.0;0.0
+13;Hearts;Marty Balin;['Rock'];258.0;0.0
+14;Is It You;Lee Ritenour;['Jazz'];269.0;0.0
+15;What Are We Doin' In Love;Dottie West with Kenny Rogers;[];;
+16;Gemini Dream;The Moody Blues;['Pop'];249.0;0.0
+17;Slow Hand;The Pointer Sisters;['Pop'];231.0;0.0
+18;Boy From New York City;The Manhattan Transfer;['Jazz'];222.0;0.0
+19;Winning;Santana;['Rock'];209.0;0.0
+20;Modern Girl;Sheena Easton;['Pop'];219.0;0.0
+21;Time;The Alan Parsons Project;['Rock'];304.0;0.0
+22;Queen Of Hearts;Juice Newton;['Country'];207.0;0.0
+23;Being With You;Smokey Robinson;['R&B'];246.0;0.0
+24;Fool In Love With You;Jim Photoglo;['Pop'];226.0;0.0
+25;Living Inside Myself;Gino Vannelli;['Pop'];263.0;0.0
+26;Seven Year Ache;Rosanne Cash;['Country'];195.0;0.0
+27;Sweet Baby;Stanley Clarke/George Duke;['Jazz'];227.0;0.0
+28;Take It On The Run;REO Speedwagon;['Pop'];239.0;0.0
+29;Nobody Wins;Elton John;['Pop'];216.0;0.0
+30;I Love You;Climax Blues Band;['Pop', 'Rock'];246.0;0.0
+31;Stronger Than Before;Carole Bayer Sager;['Pop', 'Rock'];212.0;0.0
+32;Don't Let Him Go;REO Speedwagon;['Pop'];225.0;0.0
+33;The Stroke;Billy Squier;['Rock'];217.0;0.0
+34;It's Now Or Never;John Schneider;['Country'];205.0;0.0
+35;A Life Of Illusion;Joe Walsh;['Rock'];210.0;0.0
+36;Still Right Here In My Heart;Pure Prairie League;['Country'];176.0;0.0
+37;Touch Me When We're Dancing;Carpenters;['Pop'];201.0;0.0
+38;Jones Vs. Jones;Kool & The Gang;['R&B'];256.0;0.0
+39;Two Hearts;Stephanie Mills Featuring Teddy Pendergrass;[];;
+40;Double Dutch Bus;Frankie Smith;['R&B', 'Soul & Funk'];320.0;0.0
+41;(There's) No Gettin' Over Me;Ronnie Milsap;['Country'];199.0;0.0
+42;The Breakup Song (They Don't Write 'Em);Greg Kihn Band;['Pop'];179.0;0.0
+43;In The Air Tonight;Phil Collins;['Pop', 'Rock'];335.0;0.0
+44;Give It To Me Baby;Rick James;['R&B'];249.0;0.0
+45;Rock And Roll Dreams Come Through;Jim Steinman;['Rock'];387.0;0.0
+46;It Didn't Take Long;Spider;['Classique', 'Rock'];232.0;0.0
+47;Lady (You Bring Me Up);Commodores;['Pop'];289.0;0.0
+48;The Waiting;Tom Petty And The Heartbreakers;['Rock'];239.0;0.0
+49;Sweetheart;Franke & The Knockouts;['Pop', 'Rock'];251.0;0.0
+50;Urgent;Foreigner;['Rock', 'Hard Rock'];271.0;0.0
+51;Fantasy Girl;38 Special;['Rock'];244.0;0.0
+52;Feels So Right;Alabama;['Country'];217.0;0.0
+53;Shaddap You Face;Joe Dolce;['Films/Jeux vidéo', 'Comédie', 'Folk'];193.0;0.0
+54;Tom Sawyer;Rush;['Rock'];276.0;0.0
+55;Too Much Time On My Hands;Styx;['Rock'];271.0;0.0
+56;Angel Of The Morning;Juice Newton;['Country'];254.0;0.0
+57;Just The Two Of Us;Grover Washington, Jr. With Bill Withers;[];;
+58;Don't Want To Wait Anymore;The Tubes;['Rock'];233.0;0.0
+59;You Are Forever;Smokey Robinson;['R&B'];266.0;0.0
+60;How 'bout Us;Champaign;['Pop'];273.0;0.0
+61;The Kid Is Hot Tonite;Loverboy;['Pop'];265.0;0.0
+62;What She Does To Me (The Diana Song);The Producers;[];;
+63;Suzi;Randy VanWarmer;['Pop'];189.0;0.0
+64;Some Changes Are For Good;Dionne Warwick;['R&B'];230.0;0.0
+65;Love On A Two Way Street;Stacy Lattisaw;['Rock'];253.0;0.0
+66;Some Days Are Diamonds (Some Days Are Stone);John Denver;['Country'];239.0;0.0
+67;Say What;Jesse Winchester;['Rock', 'Folk'];190.0;0.0
+68;Promises;Barbra Streisand;['Pop'];261.0;0.0
+69;Everlasting Love;Rex Smith/Rachel Sweet;['Rock'];225.0;0.0
+70;Fly Away;Blackfoot;['Rock'];177.0;0.0
+71;The Real Thing;The Brothers Johnson;['R&B'];234.0;0.0
+72;Walk Right Now;The Jacksons;['Pop', 'R&B'];388.0;0.0
+73;It Hurts To Be In Love;Dan Hartman;[];;
+74;Cool Love;Pablo Cruise;['Pop'];231.0;0.0
+75;Watching The Wheels;John Lennon;['Rock'];239.0;0.0
+76;What Cha' Gonna Do For Me;Chaka Khan;['R&B'];235.0;0.0
+77;Another Ticket;Eric Clapton;['Rock'];250.0;0.0
+78;Nicole;Point Blank;['Classique', 'Rock'];233.0;0.0
+79;Really Wanna Know You;Gary Wright;[];;
+80;Sign Of The Gypsy Queen;April Wine;['Rock'];256.0;0.0
+81;She Did It;Michael Damian;[];;
+82;Nightwalker;Gino Vannelli;['Pop'];263.0;0.0
+83;You're My Girl;Franke & The Knockouts;['Pop', 'Rock'];184.0;0.0
+84;Since I Don't Have You;Don McLean;['Rock'];155.0;0.0
+85;Don't Let Go The Coat;The Who;['Pop'];227.0;0.0
+86;Hard Times;James Taylor;['Pop'];220.0;0.0
+87;Someday, Someway;Robert Gordon;['Rock'];145.0;0.0
+88;Rich Man;Terri Gibbs;['Country'];189.0;0.0
+89;American Memories;Shamus M'Cool;[];;
+90;On And On And On;ABBA;['Pop'];220.0;0.0
+91;I Can Take Care Of Myself;Billy & The Beaters;['Rock', 'Rock & Roll/Rockabilly'];210.0;0.0
+92;Morning Train (Nine To Five);Sheena Easton;['Pop'];197.0;0.0
+93;Yearning For Your Love;The Gap Band;['R&B'];343.0;0.0
+94;Ready For Love;Silverado;[];;
+95;Arc Of A Diver;Steve Winwood;['Pop'];312.0;0.0
+96;I Missed Again;Phil Collins;['Pop', 'Rock'];224.0;0.0
+97;Give A Little Bit More;Cliff Richard;['Rock'];218.0;0.0
+98;Brooklyn Girls;Robbie Dupree;['Rock'];206.0;0.0
+99;Lovin' The Night Away;The Dillman Band;['Classique', 'Rock'];237.0;0.0

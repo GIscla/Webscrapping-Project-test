@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Cheerleader;OMI;['Electro', 'Techno/House', 'Dance', 'Reggae'];174.0;0.0
+1;Can't Feel My Face;The Weeknd;['R&B'];213.0;0.0
+2;See You Again;Wiz Khalifa Featuring Charlie Puth;['Rap/Hip Hop'];229.0;0.0
+3;Bad Blood;Taylor Swift Featuring Kendrick Lamar;[];208.0;0.0
+4;Watch Me;Silento;['Rap/Hip Hop'];185.0;0.0
+5;Trap Queen;Fetty Wap;['Rap/Hip Hop'];222.0;1.0
+6;Shut Up And Dance;WALK THE MOON;['Alternative'];199.0;0.0
+7;Fight Song;Rachel Platten;['Pop', 'Pop internationale', 'Rock'];202.0;0.0
+8;Lean On;Major Lazer & DJ Snake Featuring MO;['Electro'];176.0;0.0
+9;The Hills;The Weeknd;['R&B'];242.0;1.0
+10;Hey Mama;David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack;['Dance'];192.0;0.0
+11;Where Are U Now;Skrillex & Diplo With Justin Bieber;['Electro', 'Dance'];250.0;0.0
+12;Honey, I'm Good.;Andy Grammer;['Pop'];199.0;0.0
+13;Worth It;Fifth Harmony Featuring Kid Ink;['Pop', 'Pop internationale', 'Rock'];224.0;0.0
+14;Uptown Funk!;Mark Ronson Featuring Bruno Mars;['Pop'];269.0;1.0
+15;Good For You;Selena Gomez Featuring A$AP Rocky;['Pop'];199.0;0.0
+16;Want To Want Me;Jason Derulo;['Pop'];207.0;0.0
+17;679;Fetty Wap Featuring Remy Boyz;[];319.0;1.0
+18;Post To Be;Omarion Featuring Chris Brown & Jhene Aiko;['Rap/Hip Hop', 'R&B'];226.0;1.0
+19;Sugar;Maroon 5;['Pop'];235.0;1.0
+20;Photograph;Ed Sheeran;['Pop'];258.0;0.0
+21;Earned It (Fifty Shades Of Grey);The Weeknd;['Films/Jeux vidéo', 'Musiques de films'];252.0;0.0
+22;B**** Better Have My Money;Rihanna;[];;
+23;Thinking Out Loud;Ed Sheeran;['Pop'];281.0;0.0
+24;Girl Crush;Little Big Town;['Country'];193.0;0.0
+25;Talking Body;Tove Lo;['Alternative'];238.0;1.0
+26;Classic Man;Jidenna Featuring Roman GianArthur;['Rap/Hip Hop', 'R&B'];226.0;1.0
+27;All Eyes On You;Meek Mill Featuring Chris Brown & Nicki Minaj;['Rap/Hip Hop'];223.0;1.0
+28;Flex (Ooh Ooh Ooh);Rich Homie Quan;['Rap/Hip Hop'];177.0;1.0
+29;You Know You Like It;DJ Snake & AlunaGeorge;['Dance'];247.0;0.0
+30;Cool For The Summer;Demi Lovato;['Pop'];214.0;1.0
+31;Love Me Like You Do;Ellie Goulding;['Films/Jeux vidéo', 'Musiques de films'];250.0;0.0
+32;Elastic Heart;Sia;['Pop'];257.0;0.0
+33;Nasty Freestyle;T-Wayne;['Rap/Hip Hop'];142.0;1.0
+34;Slow Motion;Trey Songz;['R&B'];197.0;0.0
+35;Uma Thurman;Fall Out Boy;['Alternative'];211.0;0.0
+36;Kick The Dust Up;Luke Bryan;['Country'];190.0;0.0
+37;Take Your Time;Sam Hunt;['Country'];243.0;0.0
+38;House Party;Sam Hunt;['Country'];190.0;0.0
+39;Fun;Pitbull Featuring Chris Brown;['Pop'];202.0;0.0
+40;This Summer's Gonna Hurt...;Maroon 5;[];227.0;0.0
+41;Sangria;Blake Shelton;['Country'];233.0;0.0
+42;Somebody;Natalie La Rose Featuring Jeremih;['Pop', 'R&B'];187.0;0.0
+43;Be Real;Kid Ink Featuring DeJ Loaf;['Rap/Hip Hop'];206.0;1.0
+44;R.I.C.O.;Meek Mill Featuring Drake;['Rap/Hip Hop'];197.0;1.0
+45;Tonight Looks Good On You;Jason Aldean;['Country'];231.0;0.0
+46;Shake It Off;Taylor Swift;['Pop'];219.0;0.0
+47;Style;Taylor Swift;['Pop'];231.0;0.0
+48;Crash And Burn;Thomas Rhett;['Country'];190.0;0.0
+49;One Hell Of An Amen;Brantley Gilbert;['Country'];221.0;0.0
+50;Love You Like That;Canaan Smith;['Country'];203.0;0.0
+51;Like A Wrecking Ball;Eric Church;['Country'];198.0;0.0
+52;Buy Me A Boat;Chris Janson;['Country'];179.0;0.0
+53;The Night Is Still Young;Nicki Minaj;['Rap/Hip Hop'];227.0;1.0
+54;Marvin Gaye;Charlie Puth Featuring Meghan Trainor;['Pop'];187.0;0.0
+55;Loving You Easy;Zac Brown Band;['Country'];155.0;0.0
+56;Stitches;Shawn Mendes;['Pop'];206.0;0.0
+57;Renegades;X Ambassadors;['Alternative'];195.0;0.0
+58;Planez;Jeremih Featuring J. Cole;[];;
+59;Kiss You In The Morning;Michael Ray;['Country'];181.0;0.0
+60;I Don't Like It, I Love It;Flo Rida Featuring Robin Thicke & Verdine White;['Rap/Hip Hop'];224.0;0.0
+61;John Cougar, John Deere, John 3:16;Keith Urban;['Country'];221.0;0.0
+62;This Could Be Us;Rae Sremmurd;['Rap/Hip Hop'];206.0;1.0
+63;Commas;Future;['Rap/Hip Hop'];237.0;1.0
+64;Young & Crazy;Frankie Ballard;['Country'];180.0;0.0
+65;Crushin' It;Brad Paisley;['Country'];220.0;0.0
+66;Bright;Echosmith;['Alternative'];220.0;0.0
+67;Hell Of A Night;Dustin Lynch;['Country'];190.0;0.0
+68;Lose My Mind;Brett Eldredge;['Country'];155.0;0.0
+69;Wet Dreamz;J. Cole;['Rap/Hip Hop'];239.0;1.0
+70;Like I'm Gonna Lose You;Meghan Trainor Featuring John Legend;['Pop'];225.0;0.0
+71;Baby Be My Love Song;Easton Corbin;['Country'];199.0;0.0
+72;Love Me Like You Mean It;Kelsea Ballerini;['Country'];200.0;0.0
+73;Ghost Town;Adam Lambert;['Pop'];208.0;1.0
+74;The Matrimony;Wale Featuring Usher;['Rap/Hip Hop'];395.0;1.0
+75;El Perdon (Forgiveness);Nicky Jam & Enrique Iglesias;['Rap/Hip Hop'];206.0;0.0
+76;How Many Times;DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean;['Rap/Hip Hop'];263.0;1.0
+77;Good Thing;Sage The Gemini Featuring Nick Jonas;['Pop'];28.0;0.0
+78;Real Life;Jake Owen;['Country'];169.0;0.0
+79;Kings Never Die;Eminem Featuring Gwen Stefani;[];449.0;0.0
+80;Do It Again;Pia Mia Featuring Chris Brown & Tyga;['Pop'];193.0;0.0
+81;Don't It;Billy Currington;['Country'];184.0;0.0
+82;Beautiful Now;Zedd Featuring Jon Bellion;['Dance', 'Pop'];219.0;0.0
+83;Yoga;Janelle Monae & Jidenna;['Pop'];217.0;0.0
+84;Sippin' On Fire;Florida Georgia Line;['Country'];193.0;0.0
+85;Little Toy Guns;Carrie Underwood;['Country'];210.0;0.0
+86;My Way;Fetty Wap Featuring Monty;['Rap/Hip Hop'];213.0;1.0
+87;Alright;Kendrick Lamar;['Rap/Hip Hop'];219.0;1.0
+88;Break Up With Him;Old Dominion;['Country', 'Folk'];207.0;0.0
+89;Should've Been Us;Tori Kelly;['Pop'];186.0;0.0
+90;Ex's & Oh's;Elle King;['Alternative'];202.0;0.0
+91;Fly;Maddie & Tae;['Country'];217.0;0.0
+92;I Really Like You;Carly Rae Jepsen;['Pop'];204.0;0.0
+93;Burning House;Cam;['Country'];231.0;0.0
+94;Tear In My Heart;twenty one pilots;['Alternative'];188.0;0.0
+95;Lord Knows;Meek Mill;['Films/Jeux vidéo', 'Musiques de films'];320.0;1.0
+96;I'm Comin' Over;Chris Young;['Country'];197.0;0.0
+97;Jump Out The Face;Meek Mill Featuring Future;['Rap/Hip Hop'];161.0;1.0
+98;Hood Go Crazy;Tech N9Ne Featuring 2 Chainz & B.o.B;[];;
+99;One Man Can Change The World;Big Sean Featuring Kanye West & John Legend;['Rap/Hip Hop'];253.0;1.0

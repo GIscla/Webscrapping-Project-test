@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Un-Break My Heart;Toni Braxton;['R&B', 'Soul'];270.0;0.0
+1;"I Believe I Can Fly (From ""Space Jam"")";R. Kelly;[];;
+2;Don't Let Go (Love);En Vogue;['R&B'];291.0;0.0
+3;No Diggity;BLACKstreet (Featuring Dr. Dre);['Pop'];305.0;0.0
+4;Nobody;Keith Sweat Featuring Athena Cage;['Dance', 'Rock'];264.0;0.0
+5;"I Believe In You And Me (From ""The Preacher's Wife"")";Whitney Houston;[];;
+6;Mouth;Merril Bainbridge;['Pop'];205.0;0.0
+7;I'm Still In Love With You;New Edition;['R&B'];279.0;0.0
+8;"I Finally Found Someone (From ""The Mirror Has Two Faces"")";Barbra Streisand & Bryan Adams;['Pop'];221.0;0.0
+9;Macarena (Bayside Boys Mix);Los Del Rio;[];;
+10;It's All Coming Back To Me Now;Celine Dion;['Pop'];456.0;0.0
+11;Pony;Ginuwine;['R&B'];324.0;0.0
+12;"Fly Like An Eagle (From ""Space Jam"")";Seal;['Jeunesse'];253.0;0.0
+13;"Last Night (From ""The Nutty Professor"")";Az Yet;[];;
+14;When You Love A Woman;Journey;['Pop', 'Rock'];250.0;0.0
+15;If It Makes You Happy;Sheryl Crow;['Pop'];323.0;0.0
+16;Where Do You Go;No Mercy;['Pop'];272.0;0.0
+17;What Kind Of Man Would I Be;Mint Condition;['R&B'];246.0;0.0
+18;No Time;Lil' Kim Featuring Puff Daddy;[];;
+19;I Love You Always Forever;Donna Lewis;['Pop'];239.0;0.0
+20;This Is For The Lover In You;Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels;['R&B'];239.0;0.0
+21;Falling;Montell Jordan;['R&B'];244.0;0.0
+22;Street Dreams;Nas;['Rap/Hip Hop'];279.0;1.0
+23;"You Must Love Me (From ""Evita"")";Madonna;['Films/Jeux vidéo', 'Musiques de films'];170.0;0.0
+24;Twisted;Keith Sweat;['Dance', 'Rock'];260.0;0.0
+25;Cold Rock A Party;MC Lyte;['Rap/Hip Hop'];247.0;1.0
+26;"Tell Me (From ""Eddie"")";Dru Hill;[];;
+27;Foolish Games/You Were Meant For Me;Jewel;[];;
+28;Change The World;Eric Clapton;['Rock', 'Rock & Roll/Rockabilly'];234.0;0.0
+29;This Is Your Night;Amber;['Dance', 'Pop'];238.0;0.0
+30;Ooh Aah... Just A Little Bit;Gina G;['Pop'];182.0;0.0
+31;You're Makin' Me High/Let It Flow;Toni Braxton;['Pop', 'R&B', 'Soul'];262.0;0.0
+32;Come See Me;dc Talk;[];;
+33;Between You And Me;OutKast;[];;
+34;Steelo;Dishwalla;[];;
+35;ATLiens;Nate Dogg Featuring Snoop Doggy Dogg;[];;
+36;Counting Blue Cars;John Mellencamp;[];;
+37;Never Leave Me Alone;Alanis Morissette;[];;
+38;Key West Intermezzo (I Saw You First);Quad City DJ's;[];;
+39;You Learn/You Oughta Know;The Cranberries;[];;
+40;"Space Jam (From ""Space Jam"")";Bryan Adams;[];;
+41;When You're Gone/Free To Decide;Westside Connection;[];;
+42;Let's Make A Night To Remember;Ghost Town DJ's;[];;
+43;Bow Down;Mack 10 & Tha Dogg Pound;[];;
+44;My Boo;The Smashing Pumpkins;[];;
+45;"Nothin' But The Cavi Hit (From ""Rhyme & Reason"")";LL Cool J;[];;
+46;Thirty-Three;Donell Jones;[];;
+47;Loungin;Brandy, Tamia, Gladys Knight & Chaka Khan;[];;
+48;Knocks Me Off My Feet;Aaliyah;[];;
+49;"Missing You (From ""Set It Off"")";Donna Lewis;[];;
+50;If Your Girl Only Knew;The Blackout Allstars;[];;
+51;Without Love;Gloria Estefan;[];;
+52;I Like It;Rod Stewart;['Pop'];286.0;0.0
+53;I'm Not Giving You Up;Johnny Gill Featuring Roger Troutman;[];;
+54;If We Fall In Love Tonight;Los Del Rio;[];;
+55;It's Your Body;Alan Jackson;[];;
+56;Macarena Christmas;Total;[];;
+57;Little Bitty;K-Ci & JoJo;[];;
+58;When Boy Meets Girl;LL Cool J;[];;
+59;"How Could You (From ""Bulletproof"")";Duncan Sheik;[];;
+60;"Ain't Nobody (From ""Beavis And Butt-Head Do America"")";Better Than Ezra;[];;
+61;Barely Breathing;Rockell;[];;
+62;Desperately Wanting;Da Brat;[];;
+63;I Fell In Love;Metallica;[];;
+64;Sittin' On Top Of The World;The Braids;[];;
+65;Hero Of The Day;Kenny G;[];;
+66;"Bohemian Rhapsody (From ""High School High"")";Luscious Jackson;[];;
+67;The Moment;Goodfellaz;[];;
+68;Naked Eye;New Edition;[];;
+69;Sugar Honey Ice Tea;Crush;[];;
+70;Hit Me Off;R.E.M.;[];;
+71;Jellyhead;Richie Rich;[];;
+72;Bittersweet Me;Shania Twain;[];;
+73;Let's Ride;Le Click;[];;
+74;God Bless The Child;Melissa Etheridge;[];;
+75;Tonight Is The Night;Trace Adkins;[];;
+76;Nowhere To Go;John Michael Montgomery;[];;
+77;Every Light In The House;Luther Vandross;[];;
+78;Friends;Wild Orchid;[];;
+79;I Can Make It Better;Susanna Hoffs;[];;
+80;At Night I Pray;The Original;[];;
+81;All I Want;Freak Nasty;[];;
+82;I Luv U Baby;Robert Miles Featuring Maria Nayler;[];;
+83;Da' Dip;The Wonders;[];;
+84;One And One;Warren G Featuring Adina Howard;[];;
+85;"That Thing You Do! (From ""That Thing You Do!"")";The Tony Rich Project;[];;
+86;"What's Love Got To Do With It (From ""Supercop"")";Phil Collins;[];;
+87;Leavin';Camp Lo;[];;
+88;Dance Into The Light;Lost Boyz;[];;
+89;Luchini aka (This Is It);Lost Boyz;[];;
+90;Music Makes Me High;The Isley Brothers Featuring Angela Winbush;[];;
+91;Get Up;Johnny Gill;[];;
+92;Floatin' On Your Love;Mista;[];;
+93;Let's Get The Mood Right;Monifah;[];;
+94;Lady;Elton John;['Pop'];244.0;0.0
+95;You Don't Have To Love Me;Deborah Cox;[];;
+96;You Can Make History (Young Again);Amanda Marshall;[];;
+97;The Sound Of My Tears;Redman Featuring K-Solo;[];;
+98;Birmingham;;['Rap/Hip Hop'];242.0;0.0
+99;That's How It Is (It's Like That);;[];;

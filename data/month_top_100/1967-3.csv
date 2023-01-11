@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Ruby Tuesday;The Rolling Stones;['Rock'];196.0;0.0
+1;Love Is Here And Now You're Gone;The Supremes;['Pop'];165.0;0.0
+2;Kind Of A Drag;The Buckinghams;['Rock'];124.0;0.0
+3;Baby I Need Your Lovin';Johnny Rivers;['Pop', 'Rock'];199.0;0.0
+4;Georgy Girl;The Seekers;['Rock'];140.0;0.0
+5;The Beat Goes On;Sonny & Cher;['Pop'];210.0;0.0
+6;Gimme Some Lovin';The Spencer Davis Group;['Pop'];178.0;0.0
+7;Then You Can Tell Me Goodbye;The Casinos;['R&B'];187.0;0.0
+8;Sock It To Me-Baby!;Mitch Ryder And The Detroit Wheels;['Rock'];192.0;0.0
+9;I'm A Believer;The Monkees;['Pop'];167.0;0.0
+10;Mercy, Mercy, Mercy;Cannonball Adderley;['Jazz'];310.0;0.0
+11;(We Ain't Got) Nothin' Yet;Blues Magoos;['Rock'];135.0;0.0
+12;My Cup Runneth Over;Ed Ames;['Country'];164.0;0.0
+13;It Takes Two;Marvin Gaye & Kim Weston;['R&B'];176.0;0.0
+14;Pretty Ballerina;The Left Banke;['Rock'];158.0;0.0
+15;Go Where You Wanna Go;The 5th Dimension;['Pop'];142.0;0.0
+16;I Had Too Much To Dream (Last Night);The Electric Prunes;['Pop'];177.0;0.0
+17;You Got To Me;Neil Diamond;['Pop'];173.0;0.0
+18;The Hunter Gets Captured By The Game;The Marvelettes;[];170.0;0.0
+19;For What It's Worth (Stop, Hey What's That Sound);Buffalo Springfield;['Pop'];153.0;0.0
+20;Happy Together;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];176.0;0.0
+21;Darling Be Home Soon;The Lovin' Spoonful;['Pop'];215.0;0.0
+22;There's A Kind Of Hush;Herman's Hermits;['Pop'];153.0;0.0
+23;Epistle To Dippy;Donovan;['Rock'];188.0;0.0
+24;98.6;Keith;['Pop', 'Rock'];194.0;0.0
+25;Dedicated To The One I Love;The Mamas & The Papas;[];178.0;0.0
+26;Let's Fall In Love;Peaches & Herb;[];158.0;0.0
+27;I've Been Lonely Too Long;The Young Rascals;[];181.0;0.0
+28;So You Want To Be A Rock 'N' Roll Star;The Byrds;[];126.0;0.0
+29;Niki Hoeky;P.J. Proby;[];152.0;0.0
+30;Green, Green Grass Of Home;Tom Jones;['Pop'];184.0;0.0
+31;California Nights;Lesley Gore;['Pop'];172.0;0.0
+32;Indescribably Blue;Elvis Presley With The Jordanaires and The Imperials Quartet;[];;
+33;Everybody Needs Somebody To Love;Wilson Pickett;['R&B'];139.0;0.0
+34;Music To Watch Girls By;Bob Crewe Generation;['Pop'];177.0;0.0
+35;Penny Lane;The Beatles;['Rock'];180.0;0.0
+36;Ups And Downs;Paul Revere & The Raiders;['Pop'];169.0;0.0
+37;Stand By Me;Spyder Turner;['Rock'];182.0;0.0
+38;I'll Take Care Of Your Cares;Frankie Laine;['Pop', 'R&B'];156.0;0.0
+39;The Dis-Advantages Of You;The Brass Ring featuring Phil Bodner;[];;
+40;I Think We're Alone Now;Tommy James And The Shondells;['Pop'];131.0;0.0
+41;Tell It Like It Is;Aaron Neville;['Soul'];165.0;0.0
+42;Daddy's Little Girl;Al Martino;['Pop'];150.0;0.0
+43;Pucker Up Buttercup;Jr. Walker & The All Stars;['R&B'];195.0;0.0
+44;Strawberry Fields Forever;The Beatles;['Rock'];247.0;0.0
+45;Pushin' Too Hard;The Seeds;['Alternative', 'Rock indé', 'Pop', 'Rock'];158.0;0.0
+46;No Milk Today;Herman's Hermits;['Rock'];176.0;0.0
+47;Sit Down, I Think I Love You;The Mojo Men;['Rock'];142.0;0.0
+48;Snoopy Vs. The Red Baron;The Royal Guardsmen;['Rock'];160.0;0.0
+49;The Love I Saw In You Was Just A Mirage;Smokey Robinson & The Miracles;['R&B'];180.0;0.0
+50;One More Mountain To Climb;Ronnie Dove;['Pop'];153.0;0.0
+51;Lady;Jack Jones;['Jazz'];146.0;0.0
+52;No Fair At All;The Association;['Pop', 'Rock'];157.0;0.0
+53;The 59th Street Bridge Song (Feelin' Groovy);Harpers Bizarre;['Pop'];151.0;0.0
+54;Let's Spend The Night Together;The Rolling Stones;['Rock'];215.0;0.0
+55;Wish You Didn't Have To Go;James & Bobby Purify;['Pop'];136.0;0.0
+56;Spooky;Mike Sharpe;[];;
+57;The Return Of The Red Baron;The Royal Guardsmen;[];172.0;0.0
+58;Lovin' You;Bobby Darin;[];234.0;0.0
+59;Morningtown Ride;The Seekers;['Folk'];161.0;0.0
+60;I Dig You Baby;Jerry Butler;['R&B'];161.0;0.0
+61;Are You Lonely For Me;Freddy Scott;[];;
+62;All;James Darren;['Jazz'];258.0;0.0
+63;Keep A Light In The Window Till I Come Home;Solomon Burke;[];;
+64;It's Now Winters Day;Tommy Roe;['Rock'];140.0;0.0
+65;Tiny Bubbles;Don Ho and the Aliis;[];163.0;0.0
+66;The People In Me;The Music Machine;['Rock'];180.0;0.0
+67;Jimmy Mack;Martha & The Vandellas;['R&B'];172.0;0.0
+68;Hung Up In Your Eyes;Brian Hyland;['Pop'];144.0;0.0
+69;When Something Is Wrong With My Baby;Sam & Dave;['Soul'];198.0;0.0
+70;Skate Now;Lou Courtney;[];;
+71;Peek-A-Boo;The New Vaudeville Band;['Pop'];183.0;0.0
+72;One, Two, Three;Ramsey Lewis;['Jazz'];206.0;0.0
+73;Every Day I Have The Blues;Billy Stewart;['Soul'];175.0;0.0
+74;Love You So Much;New Colony Six;['Alternative', 'Rock indé', 'Rock'];121.0;0.0
+75;There Goes My Everything;Jack Greene;['Pop'];148.0;0.0
+76;Dry Your Eyes;Brenda & The Tabulations;['R&B', 'Soul & Funk', 'Soul'];164.0;0.0
+77;Soul Time;Shirley Ellis;['Pop'];162.0;0.0
+78;Raise Your Hand;Eddie Floyd;['R&B'];142.0;0.0
+79;I Never Loved A Man (The Way I Love You);Aretha Franklin;['Pop'];147.0;0.0
+80;Western Union;The Five Americans;['Alternative', 'Rock indé', 'Pop', 'Rock'];150.0;0.0
+81;Mairzy Doats;The Innocence;['Pop'];102.0;0.0
+82;Beggin';"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+83;Don't Do It;Micky Dolenz;[];;
+84;With This Ring;The Platters;[];165.0;0.0
+85;Kansas City;James Brown And The Famous Flames;[];;
+86;My Special Prayer;Joe Simon;['R&B', 'Soul'];162.0;0.0
+87;Show Me;Joe Tex;['R&B'];178.0;0.0
+88;Travlin' Man;Stevie Wonder;['R&B'];172.0;0.0
+89;This Is My Song;Petula Clark;['Pop', 'Rock'];207.0;0.0
+90;The Dark End Of The Street;James Carr;['R&B', 'Soul'];153.0;0.0
+91;Baby, Help Me;Percy Sledge;['R&B', 'Soul'];158.0;0.0
+92;Gonna Get Along Without Ya' Now;Trini Lopez;[];112.0;0.0
+93;Because Of You;Chris Montez;['Pop'];146.0;0.0
+94;Ooh Baby;Bo Diddley;['Rock'];229.0;0.0
+95;I Don't Want To Lose You;Jackie Wilson;['Soul'];159.0;0.0
+96;You Always Hurt Me;The Impressions;['Soul'];134.0;0.0
+97;Summer Wine;Nancy Sinatra with Lee Hazlewood;[];;
+98;Girl Don't Care;Gene Chandler;['Soul'];161.0;0.0
+99;Mercy, Mercy, Mercy;Larry Williams & Johnny Watson;[];;

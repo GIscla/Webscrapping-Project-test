@@ -1,0 +1,25 @@
+{% extends 'base.html'%}
+{%block title %}
+    Menu
+{% endblock %}
+{%block home_current%}
+    <span class="sr-only">(current)</span>
+{%endblock%}
+{%block content%}
+<div style="text-align:center; margin: auto; width:700px">
+    <form action="/menu" method="POST" enctype="multipart/form-data">
+			<div class="form-group">
+                <div style="margin-top:25px; margin-bottom:40px">
+                        <div style="margin-top:50px; margin-bottom:10px;">
+                            <input type="number" id="year" name="year" value="2022" min="1958" max="2022" style="height:75px; width:115px; font-size: 40px">
+                            <input type="number" id="month" name="month" value="12" min="1" max="12" style="height:75px; width:75px; font-size: 40px">
+                        </div>
+                    <button type="submit" class="btn btn-primary" style="height:75px; width:200px; margin-top:25px; background:#262626; font-size:30px; border-style: none">Get HOT100</button>
+                </div>
+            </div>
+    </form>
+</div>
+    <video autoplay muted loop width="100%" style="margin: 50px 0px 0px 0px">
+        <source src="{{url_for('static', filename='default/vinyl.mp4' )}}" type="video/mp4">
+    </video>
+{%endblock%}

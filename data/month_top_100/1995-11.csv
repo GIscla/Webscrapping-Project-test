@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Fantasy;Mariah Carey;['Pop'];243.0;0.0
+1;"Gangsta's Paradise (From ""Dangerous Minds"")";Coolio Featuring L.V.;[];;
+2;Runaway;Janet Jackson;['Pop'];214.0;0.0
+3;Kiss From A Rose;Seal;['Pop'];288.0;0.0
+4;Tell Me;Groove Theory;['R&B'];236.0;0.0
+5;As I Lay Me Down;Sophie B. Hawkins;['Pop'];248.0;0.0
+6;Only Wanna Be With You;Hootie & The Blowfish;['Pop'];229.0;0.0
+7;You Are Not Alone;Michael Jackson;['Pop'];345.0;0.0
+8;Back For Good;Take That;['Pop'];242.0;0.0
+9;Roll To Me;Del Amitri;['Rock'];132.0;0.0
+10;Who Can I Run To;Xscape;['Pop'];216.0;0.0
+11;Name;Goo Goo Dolls;['Pop'];270.0;0.0
+12;Brokenhearted;Brandy;['Rock'];352.0;0.0
+13;Carnival;Natalie Merchant;['Pop', 'Rock'];361.0;0.0
+14;I Can Love You Like That;All-4-One;['Pop'];257.0;0.0
+15;Run-Around;Blues Traveler;['Rock'];280.0;0.0
+16;Waterfalls;TLC;['R&B'];279.0;0.0
+17;Do You Sleep?;Lisa Loeb & Nine Stories;['Pop'];233.0;0.0
+18;I'd Lie For You (And That's The Truth);Meat Loaf;['Rock'];401.0;0.0
+19;I Got 5 On It;Luniz;['Rap/Hip Hop'];253.0;0.0
+20;Breakfast At Tiffany's;Deep Blue Something;['Pop'];257.0;0.0
+21;I'll Be There For You/This House Is Not A Home;The Rembrandts;['Pop', 'Rock'];406.0;0.0
+22;December;Collective Soul;['Rock'];285.0;0.0
+23;Before You Walk Out Of My Life/Like This And Like That;Monica;[];;
+24;Pretty Girl;Jon B;['R&B'];257.0;0.0
+25;Dreaming Of You;Selena;['Pop', 'Latino'];314.0;0.0
+26;Boombastic/In The Summertime;Shaggy;[];;
+27;Sentimental;Deborah Cox;[];;
+28;Let Me Be The One;Blessid Union Of Souls;[];;
+29;Comedown;Bush;[];;
+30;"Colors Of The Wind (From ""Pocahontas"")";Vanessa Williams;['Jeunesse'];257.0;0.0
+31;He's Mine;MoKenStef;['Rap/Hip Hop'];250.0;0.0
+32;Sugar Hill;AZ;['Rap/Hip Hop'];249.0;1.0
+33;'Til You Do Me Right;After 7;['Pop'];294.0;0.0
+34;1st Of Tha Month;Bone Thugs-N-Harmony;['Rap/Hip Hop'];314.0;1.0
+35;Don't Take It Personal (Just One Of Dem Days);Monica;['R&B', 'Soul'];258.0;0.0
+36;Incarcerated Scarfaces/Ice Cream;Raekwon;[];;
+37;Ain't Nuthin' But A She Thing;Salt-N-Pepa;['Rap/Hip Hop'];269.0;0.0
+38;Anything;3T;['R&B'];321.0;0.0
+39;"A Girl Like You (From ""Empire Records"")";Edwyn Collins;[];;
+40;Someone To Love;Jon B. Featuring Babyface;['Films/Jeux vidéo', 'Musiques de films'];273.0;0.0
+41;Heaven;Solo;['Pop'];349.0;0.0
+42;"How High (From ""The Show"")";Redman/Method Man;[];;
+43;Missing;Everything But The Girl;['Pop'];247.0;0.0
+44;Let Her Cry;Hootie & The Blowfish;['Pop'];318.0;0.0
+45;Macarena (Bayside Boys Mix);Los Del Rio;[];;
+46;"Feel The Funk (From ""Dangerous Minds"")";Immature;[];;
+47;I Like It, I Love It;Tim McGraw;['Country'];205.0;0.0
+48;I Wanna B With U;Fun Factory;['Electro', 'Dance', 'Disco'];213.0;0.0
+49;Water Runs Dry;Boyz II Men;['Pop'];200.0;0.0
+50;Throw Your Set In The Air;Cypress Hill;['Rap/Hip Hop'];205.0;1.0
+51;Cell Therapy;Goodie Mob;['Rap/Hip Hop'];277.0;1.0
+52;I Hate U;Prince;['Pop'];233.0;0.0
+53;"Summertime In The LBC (From ""The Show"")";The Dove Shack;[];;
+54;Automatic Lover (Call For Love);Real McCoy;['Pop'];227.0;0.0
+55;Liquid Swords;Genius/GZA;[];;
+56;One More Chance/Stay With Me;The Notorious B.I.G.;['Rap/Hip Hop'];277.0;0.0
+57;Can I Touch You...There?;Michael Bolton;['Pop'];316.0;0.0
+58;Set U Free;Planet Soul;['Electro', 'Techno/House', 'Dance'];258.0;0.0
+59;Danger;Blahzay Blahzay;['Rap/Hip Hop'];220.0;0.0
+60;Hook;Blues Traveler;['Rock'];290.0;0.0
+61;Come With Me;Shai;['R&B'];279.0;0.0
+62;Good;Better Than Ezra;['Rock'];185.0;0.0
+63;Vibin';Boyz II Men;['Pop'];267.0;0.0
+64;A Mover La Colita;Artie The 1 Man Party;['Electro', 'Sports'];297.0;0.0
+65;Brown Sugar;D'Angelo;['R&B'];262.0;1.0
+66;Player's Anthem;Junior M.A.F.I.A.;['Rap/Hip Hop'];313.0;0.0
+67;Runnin';The Pharcyde;['Rap/Hip Hop'];296.0;1.0
+68;Boom Boom Boom;The Outhere Brothers;['Dance'];253.0;1.0
+69;You Used To Love Me;Faith Evans;['R&B'];269.0;0.0
+70;Magic Carpet Ride;The Mighty Dub Katz;['Dance'];435.0;0.0
+71;Runaway;The Corrs;['Pop', 'Pop internationale', 'Variété Internationale'];265.0;0.0
+72;East Side Rendezvous;Frost;['Rap/Hip Hop', 'Old School'];273.0;1.0
+73;"I Miss You (Come Back Home) (From ""New York Undercover"")";Monifah;[];;
+74;Where Ever You Are;Terry Ellis;['R&B'];298.0;0.0
+75;Solitude;Edwin McCain;['Country'];270.0;0.0
+76;Already Missing You;Gerald Levert & Eddie Levert, Sr.;['R&B', 'Soul & Funk', 'Soul'];294.0;0.0
+77;Downtown Venus;P.M. Dawn;['Rap/Hip Hop'];213.0;0.0
+78;Hooked On You;Silk;['R&B'];289.0;0.0
+79;MC's Act Like They Don't Know;KRS-One;['Pop'];295.0;1.0
+80;Sexual Healing;Max-A-Million;['Rock'];243.0;0.0
+81;We've Got It Goin' On;Backstreet Boys;['Pop'];219.0;0.0
+82;Somethin' 4 Da Honeyz;Montell Jordan;['Rap/Hip Hop'];276.0;0.0
+83;Bomdigi;Erick Sermon;['Rap/Hip Hop'];214.0;1.0
+84;Real Hip Hop;Das EFX;['Rap/Hip Hop'];247.0;0.0
+85;Forever Tonight;Peter Cetera & Crystal Bernard;['Pop', 'Rock'];278.0;0.0
+86;Blessed;Elton John;['Pop'];248.0;0.0
+87;Wings Of The Morning;Capleton;['Rap/Hip Hop'];233.0;0.0
+88;Cruisin';D'Angelo;['R&B'];384.0;0.0
+89;Love U 4 Life;Jodeci;['R&B'];294.0;0.0
+90;Scatman (Ski-Ba-Bop-Ba-Dop-Bop);Scatman John;['Pop'];215.0;0.0
+91;Jeeps, Lex Coups, Bimaz & Benz;Lost Boyz;['Rap/Hip Hop'];272.0;1.0
+92;Temptations;2Pac;['Rap/Hip Hop'];300.0;1.0
+93;Molly (Sixteen Candles);Sponge;['Pop'];222.0;0.0
+94;(If You're Not In It For Love) I'm Outta Here!/The Woman In Me;Shania Twain;['Country'];270.0;0.0
+95;West Up!;WC & The Maad Circle;['R&B'];284.0;1.0
+96;Sittin' On Chrome;Masta Ace Incorporated;['Rap/Hip Hop'];250.0;1.0
+97;Crazy Cool;Paula Abdul;['Pop'];277.0;0.0
+98;Can't Cry Anymore;Sheryl Crow;['Pop'];221.0;0.0
+99;"(You Make Me Feel Like) A Natural Woman (From ""New York Undercover"")";Mary J. Blige;[];;

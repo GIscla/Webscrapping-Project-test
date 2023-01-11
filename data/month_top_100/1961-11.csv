@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Big Bad John;Jimmy Dean;['Country'];185.0;0.0
+1;Runaround Sue;Dion;[];153.0;0.0
+2;Bristol Stomp;The Dovells;['Pop'];141.0;0.0
+3;Hit The Road Jack;Ray Charles And His Orchestra With The Raelettes;[];;
+4;Fool #1;Brenda Lee;['Country', 'Pop'];146.0;0.0
+5;Sad Movies (Make Me Cry);Sue Thompson;['Country', 'Pop'];198.0;0.0
+6;This Time;Troy Shondell;['Dance', 'Pop'];153.0;0.0
+7;The Fly;Chubby Checker;['Pop', 'Rock'];145.0;0.0
+8;I Love How You Love Me;The Paris Sisters;['R&B'];123.0;0.0
+9;Tower Of Strength;Gene McDaniels;['R&B', 'Soul & Funk'];135.0;0.0
+10;Let's Get Together;Hayley Mills and Hayley Mills;['Films/Jeux vidéo', 'Musiques de films'];125.0;0.0
+11;Ya Ya;Lee Dorsey;['R&B'];144.0;0.0
+12;A Wonder Like You;Rick Nelson;['Pop'];156.0;0.0
+13;The Way You Look Tonight;The Lettermen;[];141.0;0.0
+14;You're The Reason;Bobby Edwards;['Country'];157.0;0.0
+15;(He's My) Dreamboat;Connie Francis;['Pop'];162.0;0.0
+16;Please Mr. Postman;The Marvelettes;['R&B'];149.0;0.0
+17;Crying;Roy Orbison;['Classique', 'Jazz'];164.0;0.0
+18;Mexico;Bob Moore and His Orch.;[];;
+19;I Understand (Just How You Feel);The G-Clefs;['Pop'];165.0;0.0
+20;Sweets For My Sweet;The Drifters;['Pop'];145.0;0.0
+21;What A Party;Fats Domino;['Rock'];118.0;0.0
+22;Everlovin';Rick Nelson;['Pop'];129.0;0.0
+23;Big John;The Shirelles;['Pop', 'Rock', 'R&B'];140.0;0.0
+24;Candy Man;Roy Orbison;['Pop'];165.0;0.0
+25;Crazy;Patsy Cline;['Country'];163.0;0.0
+26;Goodbye Cruel World;James Darren;['Pop'];136.0;0.0
+27;Heartaches;The Marcels;['Rock', 'Blues', 'Soul'];148.0;0.0
+28;Don't Blame Me;The Everly Brothers;['Classique', 'Rock'];202.0;0.0
+29;Foot Stomping - Part 1;The Flares;['R&B vieille école'];137.0;0.0
+30;Stick Shift;Duals;['Rock', 'Rock & Roll/Rockabilly'];149.0;0.0
+31;School Is In;Gary U.S. Bonds;['R&B'];128.0;0.0
+32;Look In My Eyes;The Chantels;['Pop'];137.0;0.0
+33;You Must Have Been A Beautiful Baby;Bobby Darin;['Rock', 'Rock & Roll/Rockabilly'];247.0;0.0
+34;So Long Baby;Del Shannon;['Dance', 'Pop'];117.0;0.0
+35;Take Five;The Dave Brubeck Quartet;['Jazz'];322.0;0.0
+36;Moon River;Jerry Butler;['Electro', 'Dance'];160.0;0.0
+37;September In The Rain;Dinah Washington;['Jazz'];129.0;0.0
+38;I Wanna Thank You;Bobby Rydell;['Pop'];146.0;0.0
+39;God, Country And My Baby;Johnny Burnette;['Rock'];131.0;0.0
+40;Please Don't Go;Ral Donner;['Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+41;Hollywood;Connie Francis;['Pop'];134.0;0.0
+42;Anybody But Me;Brenda Lee;[];144.0;0.0
+43;Rock-A-Bye Your Baby With A Dixie Melody;Aretha Franklin;['Pop', 'R&B'];140.0;0.0
+44;Just Out Of Reach (Of My Two Open Arms);Solomon Burke;['Rock', 'Blues', 'Soul'];170.0;0.0
+45;Tonight;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+46;Take Good Care Of My Baby;Bobby Vee;['Pop'];150.0;0.0
+47;Little Sister;Elvis Presley;['Pop'];233.0;0.0
+48;Moon River;Henry Mancini And His Orchestra;['Jazz', 'Pop'];161.0;0.0
+49;I Really Love You;The Stereos;['Rock'];135.0;0.0
+50;The Mountain's High;Dick and DeeDee;['Pop', 'Rock'];138.0;0.0
+51;My True Story;The Jive Five With Joe Rene And Orchestra;[];;
+52;The Bridge Of Love;Joe Dowell;['Pop'];115.0;0.0
+53;In The Middle Of A Heartache;Wanda Jackson;['Country'];155.0;0.0
+54;Movin';Bill Black's Combo;['Soul'];123.0;0.0
+55;Under The Moon Of Love;Curtis Lee;['Pop', 'Rock'];172.0;0.0
+56;(Marie's The Name) His Latest Flame;Elvis Presley;['Pop'];127.0;0.0
+57;Missing You;Ray Peterson;['Pop'];165.0;0.0
+58;I'll Be Seeing You;Frank Sinatra;['Jazz'];186.0;0.0
+59;Morning After;Mar-Keys;['R&B', 'Soul & Funk'];134.0;0.0
+60;Berlin Melody;Billy Vaughn And His Orchestra;['Jazz'];128.0;0.0
+61;Blue Moon;The Ventures;['Pop'];562.0;0.0
+62;Your Last Goodbye;Floyd Cramer;['Country'];147.0;0.0
+63;Gypsy Woman;The Impressions;['Soul'];140.0;0.0
+64;The Way I Am;Jackie Wilson;['R&B'];129.0;0.0
+65;Feel It;Sam Cooke;['R&B', 'Soul'];174.0;0.0
+66;Bright Lights Big City;Jimmy Reed;['Rock', 'Blues'];169.0;0.0
+67;My Heart Belongs To Only You;Jackie Wilson;['Pop', 'Singer & Songwriter'];165.0;0.0
+68;Let There Be Drums;Sandy Nelson;['Rock'];136.0;0.0
+69;Everybody's Gotta Pay Some Dues;The Miracles;['Films/Jeux vidéo', 'Musiques de films'];178.0;0.0
+70;Somewhere Along The Way;Steve Lawrence;[];168.0;0.0
+71;Young Boy Blues;Ben E. King;['R&B', 'Soul'];141.0;0.0
+72;Come September;Billy Vaughn And His Orchestra;['Electro', 'Dance'];149.0;0.0
+73;It's Gonna Work Out Fine;Ike & Tina Turner;['Rock'];182.0;0.0
+74;Sometime;Gene Thomas;['Pop'];143.0;0.0
+75;Danny Boy;Andy Williams;[];175.0;0.0
+76;Your Ma Said You Cried In Your Sleep Last Night;Kenny Dino;['Rock'];127.0;0.0
+77;Three Steps From The Altar;Shep And The Limelites;[];138.0;0.0
+78;It's Your World;Marty Robbins;['Rock'];135.0;0.0
+79;Smile;Timi Yuro;['Pop'];166.0;0.0
+80;Town Without Pity;Gene Pitney;['Rock'];176.0;0.0
+81;Tonight;Eddie Fisher;['Pop'];158.0;0.0
+82;'Til;The Angels;['Pop'];151.0;0.0
+83;I Don't Know Why;Linda Scott;['Electro', 'Dance'];142.0;0.0
+84;For Me And My Gal;Freddy Cannon;['Pop'];149.0;0.0
+85;On Bended Knees;Clarence Henry;['Pop', 'R&B'];108.0;0.0
+86;Human;Tommy Hunt;['Pop', 'R&B', 'Soul'];155.0;0.0
+87;Fly By Night;Andy Williams;['Pop'];153.0;0.0
+88;Walk On By;Leroy Van Dyke;['Country'];144.0;0.0
+89;Sad Movies (Make Me Cry);The Lennon Sisters;[];;
+90;Broken Heart And A Pillow Filled With Tears;Patti Page;['Pop'];121.0;0.0
+91;Language Of Love;John D. Loudermilk;['Folk'];139.0;0.0
+92;I Cried My Last Tear;Ernie K-Doe;['Rock', 'Rock & Roll/Rockabilly'];133.0;0.0
+93;It's Too Soon To Know;Etta James;['Rock', 'Blues'];167.0;0.0
+94;The Gypsy Rover;The Highwaymen;['Country'];178.0;0.0
+95;I Wonder (If Your Love Will Ever Belong To Me);The Pentagons;['R&B', 'Soul'];142.0;0.0
+96;Turn Around, Look At Me;Glen Campbell;['Country'];156.0;0.0
+97;Steps 1 And 2;Jack Scott;['Pop', 'Rock'];164.0;0.0
+98;Just Because;The McGuire Sisters;['Pop'];138.0;0.0
+99;Losing Your Love;Jim Reeves;['Country'];134.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Ring My Bell;Anita Ward;['R&B'];491.0;0.0
+1;Bad Girls;Donna Summer;['Films/Jeux vidéo', 'Musiques de films'];295.0;0.0
+2;Hot Stuff;Donna Summer;['R&B'];314.0;0.0
+3;Chuck E.'s In Love;Rickie Lee Jones;['Pop'];209.0;0.0
+4;She Believes In Me;Kenny Rogers;['Country'];251.0;0.0
+5;The Logical Song;Supertramp;['Rock'];249.0;0.0
+6;Boogie Wonderland;Earth, Wind & Fire With The Emotions;['Pop'];288.0;0.0
+7;We Are Family;Sister Sledge;['Dance', 'Disco'];216.0;0.0
+8;Makin' It;David Naughton;['Pop', 'Disco'];189.0;0.0
+9;I Want You To Want Me;Cheap Trick;['Rock'];191.0;0.0
+10;Gold;John Stewart;['Rock'];244.0;0.0
+11;Love You Inside Out;Bee Gees;['Pop'];251.0;0.0
+12;Shine A Little Love;Electric Light Orchestra;['Rock'];251.0;0.0
+13;Just When I Needed You Most;Randy VanWarmer;['Rock'];241.0;0.0
+14;You Take My Breath Away;Rex Smith;['Pop'];197.0;0.0
+15;Dance The Night Away;Van Halen;['Pop'];189.0;0.0
+16;When You're In Love With A Beautiful Woman;Dr. Hook;['Rock'];175.0;0.0
+17;Ain't No Stoppin' Us Now;McFadden & Whitehead;['R&B', 'Soul'];421.0;0.0
+18;I Can't Stand It No More;Peter Frampton;['Rock'];251.0;0.0
+19;Days Gone Down (Still Got The Light In Your Eyes);Gerry Rafferty;['Pop'];387.0;0.0
+20;You Can't Change That;Raydio;['Pop', 'R&B'];204.0;0.0
+21;Does Your Mother Know;ABBA;['Pop'];193.0;0.0
+22;Heart Of The Night;Poco;['Rock'];294.0;0.0
+23;I Was Made For Lovin' You;KISS;['Rock'];271.0;0.0
+24;Good Times;Chic;['Pop'];495.0;0.0
+25;Do It Or Die;Atlanta Rhythm Section;['Pop', 'Rock'];221.0;0.0
+26;Mama Can't Buy You Love;Elton John;['Pop'];244.0;0.0
+27;Minute By Minute;The Doobie Brothers;['Pop', 'Rock'];223.0;0.0
+28;Shadows In The Moonlight;Anne Murray;['Pop'];209.0;0.0
+29;People Of The South Wind;Kansas;['Rock'];218.0;0.0
+30;Getting Closer;Wings;['Pop'];201.0;0.0
+31;Up On The Roof;James Taylor;['Pop', 'Pop internationale', 'Rock'];454.0;0.0
+32;The Main Event/Fight;Barbra Streisand;['Pop'];293.0;0.0
+33;One Way Or Another;Blondie;['Pop'];208.0;0.0
+34;Weekend;Wet Willie;['Rock'];402.0;0.0
+35;Sad Eyes;Robert John;['Pop'];253.0;0.0
+36;Lead Me On;Maxine Nightingale;['Pop'];175.0;0.0
+37;Reunited;Peaches & Herb;['Pop'];341.0;0.0
+38;Is She Really Going Out With Him?;Joe Jackson;['Rock'];215.0;0.0
+39;Married Men;Bette Midler;['Pop'];226.0;0.0
+40;Rock 'n' Roll Fantasy;Bad Company;['Rock', 'Hard Rock'];211.0;0.0
+41;Get Used To It;Roger Voudouris;['Pop'];182.0;0.0
+42;If I Said You Have A Beautiful Body Would You Hold It Against Me;Bellamy Brothers;['Country'];193.0;0.0
+43;Shakedown Cruise;Jay Ferguson;['Pop'];252.0;0.0
+44;Go West;Village People;['Dance', 'Pop', 'Rock'];250.0;0.0
+45;Suspicions;Eddie Rabbitt;['Country', 'Pop'];258.0;0.0
+46;Shake Your Body (Down To The Ground);The Jacksons;['Pop', 'Pop internationale', 'Rock'];233.0;0.0
+47;Kiss In The Dark;Pink Lady;['Alternative', 'Pop'];239.0;0.0
+48;Wasn't It Good;Cher;['Pop'];263.0;0.0
+49;Do You Wanna Go Party;KC And The Sunshine Band;['Rap/Hip Hop'];228.0;0.0
+50;Vengeance;Carly Simon;['Pop'];254.0;0.0
+51;My Sharona;The Knack;['Rock'];295.0;0.0
+52;If You Can't Give Me Love;Suzi Quatro;['Rock'];232.0;0.0
+53;I'll Never Love This Way Again;Dionne Warwick;['R&B'];209.0;0.0
+54;The Devil Went Down To Georgia;The Charlie Daniels Band;['Country'];214.0;0.0
+55;Amanda;Waylon;['Country'];179.0;0.0
+56;Since I Don't Have You;Art Garfunkel;['Pop'];218.0;0.0
+57;Morning Dance;Spyro Gyra;['Jazz'];256.0;0.0
+58;Rock Me;Nick Gilder;['Pop'];168.0;0.0
+59;Heaven Must Have Sent You;Bonnie Pointer;['R&B'];214.0;0.0
+60;You Angel You;Manfred Mann's Earth Band;['Rock', 'Rock & Roll/Rockabilly'];310.0;0.0
+61;Highway Song;Blackfoot;['Rock'];450.0;0.0
+62;Renegade;Styx;['Rock'];253.0;0.0
+63;Hold On;Triumph;['Rock', 'Hard Rock'];365.0;0.0
+64;Hot Summer Nights;Night;['Classique', 'Rock'];203.0;0.0
+65;You Gonna Make Me Love Somebody Else;The Jones Girls;['Pop'];270.0;0.0
+66;Born To Be Alive;Patrick Hernandez;['Dance', 'Pop'];188.0;0.0
+67;Long Live Rock;The Who;['Rock'];215.0;0.0
+68;Let's Go;The Cars;['Pop'];215.0;0.0
+69;Last Of The Singing Cowboys;The Marshall Tucker Band;['Rock'];256.0;0.0
+70;You're The Only One;Dolly Parton;['Pop'];199.0;0.0
+71;We've Got Love;Peaches & Herb;['R&B'];202.0;0.0
+72;Light My Fire/137 Disco Heaven;Amii Stewart;['Dance'];504.0;0.0
+73;I Do Love You;GQ;['Pop'];288.0;0.0
+74;Motown Review;Philly Cream;['R&B', 'Soul'];348.0;0.0
+75;You're My Weakness;Faith Band;['Classique', 'Rock'];271.0;0.0
+76;After The Love Has Gone;Earth, Wind & Fire;['R&B'];279.0;0.0
+77;Goodbye Stranger;Supertramp;['Rock'];348.0;0.0
+78;I Know A Heartache When I See One;Jennifer Warnes;['Pop'];208.0;0.0
+79;Goodnight Tonight;Wings;['Rock'];262.0;0.0
+80;Girl Of My Dreams;Bram Tchaikovsky;['Pop'];251.0;0.0
+81;I'll Know Her When I See Her;Cooper Brothers Band;[];;
+82;Cuba;The Gibson Brothers;['Pop'];453.0;0.0
+83;Oh Well;Rockets;['Classique', 'Rock'];196.0;0.0
+84;Sweets For My Sweet;Tony Orlando;[];;
+85;When I Dream;Crystal Gayle;['Country'];168.0;0.0
+86;Here I Go (Fallin' In Love Again);Frannie Golde;['Rock'];200.0;0.0
+87;Keep On Running Away;Lazy Racer;['Classique', 'Rock'];209.0;0.0
+88;Different Worlds;Maureen McGovern;[];;
+89;Deeper Than The Night;Olivia Newton-John;['Pop'];219.0;0.0
+90;Make Love To Me;Helen Reddy;['Pop'];229.0;0.0
+91;In The Navy;Village People;['Dance', 'Pop', 'Rock'];339.0;0.0
+92;Disco Nights (Rock-Freak);G.Q.;['R&B', 'Soul'];233.0;0.0
+93;Ain't Love A Bitch;Rod Stewart;['Pop', 'Rock'];279.0;0.0
+94;Don't Ever Wanna Lose Ya;New England;['Classique', 'Rock'];322.0;0.0
+95;Love Is The Answer;England Dan & John Ford Coley;['Rock'];284.0;0.0
+96;Hot Number;Foxy;['Pop'];253.0;0.0
+97;Heart Of Glass;Blondie;['Pop'];252.0;0.0
+98;(Wish I Could Fly Like) Superman;The Kinks;['Rock'];216.0;0.0
+99;Feel That You're Feelin';Maze Featuring Frankie Beverly;[];;

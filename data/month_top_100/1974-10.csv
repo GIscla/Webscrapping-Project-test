@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Honestly Love You;Olivia Newton-John;['Pop'];220.0;0.0
+1;Nothing From Nothing;Billy Preston;['Soul'];156.0;0.0
+2;Then Came You;Dionne Warwicke & Spinners;[];;
+3;Beach Baby;First Class;['Pop'];293.0;0.0
+4;You Haven't Done Nothin;Stevie Wonder;['R&B'];203.0;0.0
+5;Clap For The Wolfman;The Guess Who;['Rock'];258.0;0.0
+6;Another Saturday Night;Cat Stevens;['Pop'];151.0;0.0
+7;Hang On In There Baby;Johnny Bristol;['Pop'];200.0;0.0
+8;Sweet Home Alabama;Lynyrd Skynyrd;['Pop'];281.0;1.0
+9;Earache My Eye;Cheech & Chong Featuring Alice Bowie;[];;
+10;Can't Get Enough;Bad Company;['Rock', 'Hard Rock'];256.0;0.0
+11;Rock Me Gently;Andy Kim;['Pop'];208.0;0.0
+12;Never My Love;Blue Swede;['Pop'];149.0;0.0
+13;You Little Trustmaker;The Tymes;['Pop'];168.0;0.0
+14;Steppin' Out (Gonna Boogie Tonight);Tony Orlando & Dawn;['Pop'];172.0;0.0
+15;Stop And Smell The Roses;Mac Davis;['Country'];256.0;0.0
+16;Skin Tight;Ohio Players;['R&B'];474.0;0.0
+17;The Bitch Is Back;Elton John;['Pop'];224.0;0.0
+18;Jazzman;Carole King;['Pop'];225.0;0.0
+19;Do It Baby;The Miracles;['R&B'];185.0;0.0
+20;Love Me For A Reason;The Osmonds;['Pop'];202.0;0.0
+21;Can't Get Enough Of Your Love, Babe;Barry White;['Pop'];242.0;0.0
+22;I Shot The Sheriff;Eric Clapton;['Rock'];263.0;0.0
+23;I Love My Friend;Charlie Rich;['Country'];145.0;0.0
+24;(You're) Having My Baby;Paul Anka with Odia Coates;[];;
+25;Tin Man;America;['Rock'];209.0;0.0
+26;Fallin' In Love;The Souther, Hillman, Furay Band;[];;
+27;You Ain't Seen Nothing Yet/Free Wheelin';Bachman-Turner Overdrive;[];;
+28;Who Do You Think You Are;Bo Donaldson And The Heywoods;['Pop'];209.0;0.0
+29;Free Man In Paris;Joni Mitchell;['Pop'];183.0;0.0
+30;You And Me Against The World;Helen Reddy;['Pop'];191.0;0.0
+31;Life Is A Rock (But The Radio Rolled Me);Reunion;['Pop'];206.0;0.0
+32;Whatever Gets You Thru The Night;John Lennon With The Plastic Ono Nuclear Band;[];;
+33;Give It To The People;The Righteous Brothers;['Pop'];205.0;0.0
+34;Carefree Highway;Gordon Lightfoot;['Pop', 'Folk'];223.0;0.0
+35;Straight Shootin' Woman;Steppenwolf;['Rock'];248.0;0.0
+36;One Day At A Time;Marilyn Sellars;['Country'];211.0;0.0
+37;Do It ('til You're Satisfied);B.T. Express;['Pop', 'Disco'];353.0;0.0
+38;Kings Of The Party;Brownsville Station;['Rock'];256.0;0.0
+39;Back Home Again;John Denver;['Pop'];170.0;0.0
+40;I'm Leaving It (All) Up To You;Donny & Marie Osmond;['Pop'];167.0;0.0
+41;It's Only Rock 'N Roll (But I Like It);The Rolling Stones;['Rock'];307.0;0.0
+42;Surfin' U.S.A.;The Beach Boys;['Rock'];148.0;0.0
+43;Papa Don't Take No Mess (Part I);James Brown;[];;
+44;Tell Me Something Good;Rufus Featuring Chaka Khan;[];;
+45;The Need To Be;Jim Weatherly;['Pop'];230.0;0.0
+46;Let's Put It All Together;The Stylistics;['Pop'];333.0;0.0
+47;Higher Plane;Kool & The Gang;['Soul'];301.0;0.0
+48;Devotion;Earth, Wind & Fire;['R&B'];290.0;0.0
+49;Tell Her Love Has Felt The Need;Eddie Kendricks;['Soul & Funk'];265.0;0.0
+50;Honey, Honey;ABBA;['Pop'];175.0;0.0
+51;Everlasting Love;Carl Carlton;['R&B'];153.0;0.0
+52;Blood Is Thicker Than Water;William DeVaughn;['R&B', 'Soul'];441.0;0.0
+53;Feel Like Makin' Love;Roberta Flack;['Films/Jeux vidéo', 'Musiques de films', 'Soul'];175.0;0.0
+54;Second Avenue;Garfunkel;['Pop'];165.0;0.0
+55;I've Got The Music In Me;The Kiki Dee Band;['Pop'];309.0;0.0
+56;Overnight Sensation (Hit Record);Raspberries;[];;
+57;The Night Chicago Died;Paper Lace;['Pop'];210.0;0.0
+58;Longfellow Serenade;Neil Diamond;['Pop'];230.0;0.0
+59;Wild Thing;Fancy;['Rock', 'Films/Jeux vidéo', 'Musiques de films'];177.0;0.0
+60;Ain't Nothing Like The Real Thing;Aretha Franklin;['R&B'];229.0;0.0
+61;Love Don't Love Nobody - Pt. I;The Spinners;[];;
+62;Up For The Down Stroke;Parliament;['R&B'];303.0;0.0
+63;People Gotta Move;Gino Vannelli;['Pop'];198.0;0.0
+64;My Melody Of Love;Bobby Vinton;['Pop'];178.0;0.0
+65;So You Are A Star;The Hudson Brothers;[];;
+66;Live It Up Part 1;The Isley Brothers;['R&B'];186.0;0.0
+67;Honey Honey;Sweet Dreams;[];72.0;0.0
+68;Wildwood Weed;Jim Stafford;['Country'];160.0;0.0
+69;You Can Have Her;Sam Neely;[];;
+70;My Country;Jud Strunk;[];;
+71;Second Avenue;Tim Moore;[];;
+72;She Called Me Baby;Charlie Rich;['Pop'];141.0;0.0
+73;Distant Lover;Marvin Gaye;['R&B'];255.0;0.0
+74;Don't Send Nobody Else;Ace Spectrum;['R&B', 'Soul'];191.0;0.0
+75;Virgin Man;Smokey Robinson;['R&B'];307.0;0.0
+76;Sha-La-La (Make Me Happy);Al Green;['R&B', 'Soul'];177.0;0.0
+77;Play Something Sweet (Brickyard Blues);Three Dog Night;['Pop'];291.0;0.0
+78;Boogie Bands And One Night Stands;Kathy Dalton;['Pop'];186.0;0.0
+79;I Can Help;Billy Swan;['Country'];238.0;0.0
+80;La La Peace Song;O.C. Smith;['Pop'];237.0;0.0
+81;Do It, Fluid;The Blackbyrds;['R&B'];325.0;0.0
+82;James Dean;Eagles;['Rock'];229.0;0.0
+83;When Will I See You Again;The Three Degrees;['R&B'];178.0;0.0
+84;I'm A Ramblin' Man;Waylon Jennings;['Country'];166.0;0.0
+85;The Player - Part 1;First Choice;[];;
+86;After The Goldrush;Prelude;['Folk'];127.0;0.0
+87;Cat's In The Cradle;Harry Chapin;['Rock'];212.0;0.0
+88;She's Gone;Tavares;['R&B'];220.0;0.0
+89;Travelin' Shoes;Elvin Bishop;['Rock'];440.0;0.0
+90;Doraville;Atlanta Rhythm Section;['Rock'];413.0;0.0
+91;Fairytale;The Pointer Sisters;['Pop'];303.0;0.0
+92;Sugar Pie Guy Pt. 1;The Joneses;[];;
+93;La La Peace Song;Al Wilson;['Pop', 'R&B', 'Soul'];200.0;0.0
+94;Delta Dirt;Larry Gatlin;['Country'];130.0;0.0
+95;Rub It In;"Billy ""Crash"" Craddock";['Pop'];139.0;0.0
+96;Sideshow;Blue Magic;['Pop'];246.0;0.0
+97;One Hell Of A Woman;Mac Davis;['Country'];171.0;0.0
+98;It Could Have Been Me;Sami Jo;[];;
+99;I Saw A Man And He Danced With His Wife;Cher;['Rock'];194.0;0.0

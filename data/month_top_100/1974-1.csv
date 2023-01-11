@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Time In A Bottle;Jim Croce;['Rock'];146.0;0.0
+1;The Joker;The Steve Miller Band;['Rock'];264.0;0.0
+2;Leave Me Alone (ruby Red Dress);Helen Reddy;['Pop'];196.0;0.0
+3;The Most Beautiful Girl;Charlie Rich;['Country'];161.0;0.0
+4;Show And Tell;Al Wilson;['R&B'];207.0;0.0
+5;Smokin' In The Boy's Room;Brownsville Station;['Rock'];178.0;0.0
+6;Goodbye Yellow Brick Road;Elton John;['Pop'];195.0;0.0
+7;Never, Never Gonna Give Ya Up;Barry White;['R&B'];250.0;0.0
+8;Living For The City;Stevie Wonder;['Pop'];219.0;0.0
+9;I've Got To Use My Imagination;Gladys Knight And The Pips;['Rock'];208.0;0.0
+10;Top Of The World;Carpenters;['Alternative'];192.0;0.0
+11;Helen Wheels;Paul McCartney And Wings;['Rock'];227.0;0.0
+12;Let Me Be There;Olivia Newton-John;['Country'];201.0;0.0
+13;Hello It's Me;Todd Rundgren;['Pop', 'Rock'];264.0;0.0
+14;The Way We Were;Barbra Streisand;['Pop'];210.0;0.0
+15;You're Sixteen;Ringo Starr;['Pop'];169.0;0.0
+16;Love's Theme;Love Unlimited Orchestra;['R&B'];251.0;0.0
+17;Until You Come Back To Me (That's What I'm Gonna Do);Aretha Franklin;['R&B'];207.0;0.0
+18;When I Fall In Love/Are You Lonesome Tonight;Donny Osmond;[];;
+19;Me And Baby Brother;War;['Films/Jeux vidéo', 'Musiques de films'];207.0;0.0
+20;If You're Ready (Come Go With Me);The Staple Singers;['Dance', 'Soul'];269.0;0.0
+21;Rockin' Roll Baby;The Stylistics;['R&B', 'Soul'];272.0;0.0
+22;Just You 'n' Me;Chicago;['Rock'];224.0;0.0
+23;Livin' For You;Al Green;['R&B', 'Soul'];190.0;0.0
+24;MIND GAMES;John Lennon;['Rock'];253.0;0.0
+25;D'yer Mak'er;Led Zeppelin;['Rock'];262.0;0.0
+26;The Love I Lost (Part 1);Harold Melvin And The Blue Notes;['Soul'];212.0;0.0
+27;My Music;Loggins & Messina;['Pop'];183.0;0.0
+28;Sister Mary Elephant (Shudd-Up!);Cheech & Chong;[];;
+29;Spiders & Snakes;Jim Stafford;['Country'];186.0;0.0
+30;Walk Like A Man;Grand Funk;['Rock'];245.0;0.0
+31;Photograph;Ringo Starr;['Pop'];239.0;0.0
+32;Who's In The Strawberry Patch With Sally;Tony Orlando & Dawn;['Pop'];144.0;0.0
+33;Come Get To This;Marvin Gaye;['Pop'];161.0;0.0
+34;Space Race;Billy Preston;['R&B'];208.0;0.0
+35;Painted Ladies;Ian Thomas;[];;
+36;Jungle Boogie;Kool & The Gang;['Pop'];185.0;0.0
+37;I Got A Name;Jim Croce;['Pop', 'Singer & Songwriter'];192.0;0.0
+38;American Tune;Paul Simon;['Pop'];225.0;0.0
+39;If We Make It Through December;Merle Haggard;['Country'];163.0;0.0
+40;I Can't Stand The Rain;Ann Peebles;['R&B', 'Soul'];150.0;0.0
+41;This Time I'm Gone For Good;"Bobby ""Blue"" Bland";['Rock', 'Blues'];333.0;0.0
+42;Midnight Train To Georgia;Gladys Knight And The Pips;['R&B'];198.0;0.0
+43;"""Joy"" Pt. I";Isaac Hayes;[];;
+44;Tell Her She's Lovely;El Chicano;['Rock', 'Latino'];232.0;0.0
+45;Let Your Hair Down;The Temptations;['Pop'];158.0;0.0
+46;I Love;Tom T. Hall;['Country'];129.0;0.0
+47;Rock On;David Essex;['Pop'];204.0;0.0
+48;Let Me Serenade You;Three Dog Night;['Pop'];195.0;0.0
+49;Put Your Hands Together;The O'Jays;['Rap/Hip Hop'];210.0;0.0
+50;Baby Come Close;Smokey Robinson;['R&B'];297.0;0.0
+51;Keep Your Head To The Sky;Earth, Wind & Fire;['R&B'];310.0;0.0
+52;The River Of Love;B.W. Stevenson;[];;
+53;Love Has No Pride;Linda Ronstadt;['Pop'];252.0;0.0
+54;Midnight Rider;Gregg Allman;['Rock'];266.0;0.0
+55;Jim Dandy;Black Oak Arkansas;['Rock', 'Rock & Roll/Rockabilly'];252.0;0.0
+56;A Song I'd Like To Sing;Kris Kristofferson & Rita Coolidge;['Country'];241.0;0.0
+57;Some Guys Have All The Luck;The Persuaders;['Pop'];210.0;0.0
+58;I Found Sunshine;The Chi-lites;['Disco'];162.0;0.0
+59;Love Song;Anne Murray;['Pop'];168.0;0.0
+60;Showdown;Electric Light Orchestra;['Rock'];249.0;0.0
+61;A Fool Such As I;Bob Dylan;['Rock'];163.0;0.0
+62;I Wanna Know Your Name;The Intruders;['R&B', 'Soul'];349.0;0.0
+63;I Like To Live The Love;B.B. King;['Rock', 'Blues'];209.0;0.0
+64;Americans;Byron MacGregor;[];;
+65;Let Me Try Again (Laisse Moi Le Temps);Frank Sinatra;['Jazz'];211.0;0.0
+66;Hangin' Around;Edgar Winter Group;['Pop'];182.0;0.0
+67;Stoned To The Bone - Part 1;James Brown;[];;
+68;Last Kiss;Wednesday;['Pop', 'Rock'];143.0;0.0
+69;Last Time I Saw Him;Diana Ross;['R&B'];170.0;0.0
+70;It Doesn't Have To Be That Way;Jim Croce;['Rock'];154.0;0.0
+71;Please, Daddy;John Denver;[];157.0;0.0
+72;Smarty Pants;First Choice;['Soul'];164.0;0.0
+73;Teenage Lament '74;Alice Cooper;['Rock', 'Hard Rock'];232.0;0.0
+74;Can This Be Real;Natural Four;['R&B', 'Soul'];208.0;0.0
+75;Boogie Down;Eddie Kendricks;['Soul & Funk'];419.0;0.0
+76;I Shall Sing;Garfunkel;['Pop'];210.0;0.0
+77;Ain't Got No Home;The Band;['Rock'];204.0;0.0
+78;Blue Collar;Bachman-Turner Overdrive;['Pop'];371.0;0.0
+79;Abra-Ca-Dabra;The De Franco Family;[];;
+80;Somewhere Between Love And Tomorrow;Roy Clark;['Country'];206.0;0.0
+81;Wang Dang Doodle;The Pointer Sisters;['R&B'];325.0;0.0
+82;Raised On Robbery;Joni Mitchell;['Pop'];187.0;0.0
+83;One Tin Soldier, The Legend of Billy Jack;Coven;['Pop'];194.0;0.0
+84;Will You Love Me Tomorrow?;Melanie;['Folk'];180.0;0.0
+85;You're So Unique;Billy Preston;['R&B'];199.0;0.0
+86;My Sweet Lady;Cliff DeYoung;[];;
+87;Trying To Hold On To My Woman;Lamont Dozier;['Soul'];274.0;0.0
+88;Flashback;The 5th Dimension;['Pop'];217.0;0.0
+89;Daddy What If;Bobby Bare;['Country'];183.0;0.0
+90;It May Be Winter Outside, (But In My Heart It's Spring);Love Unlimited;['Pop'];187.0;0.0
+91;Star;Stealers Wheel;['Rock'];187.0;0.0
+92;Last Kiss;J. Frank Wilson and The Cavaliers;['Rock'];148.0;0.0
+93;Life Is A Song Worth Singing;Johnny Mathis;['Pop'];364.0;0.0
+94;Can't Say Nothin';Curtis Mayfield;['R&B', 'Soul & Funk', 'Soul'];216.0;0.0
+95;What It Comes Down To;The Isley Brothers;['R&B'];233.0;0.0
+96;This Is Your Song;Don Goodwin;['Pop'];194.0;0.0
+97;WOLD;Harry Chapin;['Pop'];313.0;0.0
+98;Let Me Get To Know You;Paul Anka;['Pop'];201.0;0.0
+99;Could You Ever Love Me Again;Gary & Dave;['Pop'];206.0;0.0

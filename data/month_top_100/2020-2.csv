@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Box;Roddy Ricch;['Rap/Hip Hop'];196.0;1.0
+1;Life Is Good;Future Featuring Drake;['Rap/Hip Hop'];237.0;1.0
+2;Godzilla;Eminem Featuring Juice WRLD;[];;
+3;Circles;Post Malone;['Rap/Hip Hop'];214.0;0.0
+4;Memories;Maroon 5;['Pop'];189.0;0.0
+5;10,000 Hours;Dan + Shay & Justin Bieber;['Country', 'Pop'];167.0;0.0
+6;Dance Monkey;Tones And I;['Alternative'];209.0;0.0
+7;Someone You Loved;Lewis Capaldi;['Alternative'];182.0;0.0
+8;Roxanne;Arizona Zervas;['Rap/Hip Hop'];163.0;1.0
+9;Lose You To Love Me;Selena Gomez;['Pop'];206.0;0.0
+10;Yummy;Justin Bieber;['Pop'];210.0;0.0
+11;Good As Hell;Lizzo;['Pop'];159.0;0.0
+12;BOP;DaBaby;['Rap/Hip Hop'];159.0;1.0
+13;Ballin';Mustard & Roddy Ricch;['Rap/Hip Hop'];180.0;1.0
+14;Don't Start Now;Dua Lipa;['Pop'];183.0;0.0
+15;What A Man Gotta Do;Jonas Brothers;['Pop'];180.0;0.0
+16;HIGHEST IN THE ROOM;Travis Scott;['Rap/Hip Hop', 'Pop'];175.0;1.0
+17;Good News;Mac Miller;['Rap/Hip Hop'];342.0;0.0
+18;Heartless;The Weeknd;['R&B'];200.0;1.0
+19;High Fashion;Roddy Ricch Featuring Mustard;['Rap/Hip Hop'];220.0;1.0
+20;Blinding Lights;The Weeknd;['R&B'];200.0;0.0
+21;The Bones;Maren Morris;['Country'];197.0;0.0
+22;Everything I Wanted;Billie Eilish;['Alternative'];245.0;0.0
+23;Trampoline;SHAED;['Pop'];184.0;0.0
+24;No Guidance;Chris Brown Featuring Drake;['R&B'];260.0;1.0
+25;You Should Be Sad;Halsey;['Alternative'];205.0;1.0
+26;Hot Girl Bummer;blackbear;['Pop'];188.0;0.0
+27;Darkness;Eminem;['Rap/Hip Hop'];337.0;1.0
+28;Woah;Lil Baby;['Rap/Hip Hop'];183.0;1.0
+29;Senorita;Shawn Mendes & Camila Cabello;['Pop'];190.0;0.0
+30;Those Kinda Nights;Eminem Featuring Ed Sheeran;[];;
+31;Adore You;Harry Styles;['Pop'];207.0;0.0
+32;Sum 2 Prove;Lil Baby;['Rap/Hip Hop'];205.0;1.0
+33;Suicidal;YNW Melly & Juice WRLD;['Rap/Hip Hop'];225.0;1.0
+34;Only Human;Jonas Brothers;['Pop'];183.0;0.0
+35;Unaccommodating;Eminem Featuring Young M.A;[];;
+36;Falling;Trevor Daniel;['Pop'];159.0;0.0
+37;Blue World;Mac Miller;['Rap/Hip Hop'];209.0;1.0
+38;Panini;Lil Nas X;['Alternative'];114.0;0.0
+39;My Oh My;Camila Cabello Featuring DaBaby;['Pop'];170.0;0.0
+40;Bad Guy;Billie Eilish;['Alternative'];194.0;0.0
+41;Hot;Young Thug Featuring Gunna;['Rap/Hip Hop'];193.0;1.0
+42;Truth Hurts;Lizzo;['Pop', 'R&B'];173.0;1.0
+43;I Don't Care;Ed Sheeran & Justin Bieber;['Pop'];219.0;0.0
+44;Even Though I'm Leaving;Luke Combs;['Country'];225.0;0.0
+45;One Man Band;Old Dominion;['Country'];186.0;0.0
+46;Bandit;Juice WRLD & YoungBoy Never Broke Again;['Rap/Hip Hop'];189.0;0.0
+47;Circles;Mac Miller;['Rap/Hip Hop'];170.0;0.0
+48;Sucker;Jonas Brothers;['Pop'];181.0;0.0
+49;Juicy;Doja Cat & Tyga;['R&B'];202.0;1.0
+50;Heartache Medication;Jon Pardi;['Country'];209.0;0.0
+51;You Gon' Learn;"Eminem Featuring Royce da 5'9"" & White Gold";[];;
+52;Kinfolks;Sam Hunt;['Country'];181.0;0.0
+53;Graveyard;Halsey;['Alternative'];181.0;0.0
+54;Tusa;Karol G & Nicki Minaj;['Rap/Hip Hop', 'Latino'];200.0;0.0
+55;South Of The Border;Ed Sheeran Featuring Camila Cabello & Cardi B;['Pop'];204.0;0.0
+56;Black Swan;BTS;['Musique asiatique'];198.0;0.0
+57;P*$$y Fairy (OTW);Jhene Aiko;['R&B'];181.0;1.0
+58;Futsal Shuffle 2020;Lil Uzi Vert;['Rap/Hip Hop'];198.0;1.0
+59;Ridin' Roads;Dustin Lynch;['Country'];205.0;0.0
+60;Leaving Heaven;Eminem Featuring Skylar Grey;[];;
+61;RITMO (Bad Boys For Life);Black Eyed Peas X J Balvin;[];218.0;0.0
+62;Complicated;Mac Miller;['Rap/Hip Hop'];232.0;0.0
+63;Hand Me Downs;Mac Miller;['Rap/Hip Hop'];298.0;0.0
+64;TOES;DaBaby Featuring Lil Baby & Moneybagg Yo;[];;
+65;Homesick;Kane Brown;['Country'];205.0;0.0
+66;Premonition (Intro);Eminem;['Rap/Hip Hop'];173.0;1.0
+67;I Can See;Mac Miller;['Rap/Hip Hop'];220.0;0.0
+68;VIBEZ;DaBaby;['Rap/Hip Hop'];144.0;1.0
+69;Slide;H.E.R. Featuring YG;[];;
+70;In Too Deep;Eminem;['Rap/Hip Hop'];194.0;1.0
+71;Heart On Ice;Rod Wave;['Rap/Hip Hop'];158.0;1.0
+72;I Hope;Gabby Barrett Featuring Charlie Puth;['Country'];209.0;0.0
+73;Start Wit Me;Roddy Ricch & Gunna;['Rap/Hip Hop'];158.0;1.0
+74;Woods;Mac Miller;['Rap/Hip Hop'];286.0;0.0
+75;Nobody But You;Blake Shelton Duet With Gwen Stefani;['Country'];194.0;0.0
+76;No Idea;Don Toliver;['Rap/Hip Hop'];154.0;0.0
+77;SUGAR;BrockHampton;['Rap/Hip Hop'];204.0;1.0
+78;BEST ON EARTH;Russ & BIA;['Rap/Hip Hop'];160.0;1.0
+79;Everybody;Mac Miller;['Rap/Hip Hop'];256.0;0.0
+80;Rare;Selena Gomez;['Pop'];194.0;0.0
+81;U Played;MoneyBagg Yo Featuring Lil Baby;[];;
+82;Marsh;Eminem;['Rap/Hip Hop'];200.0;1.0
+83;No Regrets;Eminem Featuring Don Toliver;[];;
+84;Out West;JACKBOYS Featuring Young Thug;['Rap/Hip Hop'];157.0;1.0
+85;More Hearts Than Mine;Ingrid Andress;['Country'];214.0;0.0
+86;I Wish Grandpas Never Died;Riley Green;['Country'];250.0;0.0
+87;Make Me Want To;Jimmie Allen;['Country'];172.0;0.0
+88;Lock It Up;Eminem Featuring Anderson .Paak;[];;
+89;What She Wants Tonight;Luke Bryan;['Country'];186.0;0.0
+90;Surf;Mac Miller;['Rap/Hip Hop'];330.0;0.0
+91;Say So;Doja Cat Featuring Nicki Minaj;['R&B'];206.0;1.0
+92;Stepdad;Eminem;['Rap/Hip Hop'];213.0;1.0
+93;Take What You Want;Post Malone Featuring Ozzy Osbourne & Travis Scott;['Rock', 'Hard Rock', 'Metal'];229.0;0.0
+94;We Back;Jason Aldean;['Country'];197.0;0.0
+95;homecoming queen?;Kelsea Ballerini;['Country'];167.0;0.0
+96;I Hope You're Happy Now;Carly Pearce & Lee Brice;['Country'];198.0;0.0
+97;Make No Sense;YoungBoy Never Broke Again;['Rap/Hip Hop'];148.0;1.0
+98;Easy;DaniLeigh Featuring Chris Brown;[];;
+99;That's On Me;Mac Miller;['Rap/Hip Hop'];217.0;0.0

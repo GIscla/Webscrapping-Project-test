@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Just Give Me A Reason;P!nk Featuring Nate Ruess;['Pop', 'Pop internationale', 'Rock'];242.0;0.0
+1;Can't Hold Us;Macklemore & Ryan Lewis Featuring Ray Dalton;['Rap/Hip Hop'];258.0;0.0
+2;Thrift Shop;Macklemore & Ryan Lewis Featuring Wanz;['Rap/Hip Hop'];235.0;1.0
+3;When I Was Your Man;Bruno Mars;['Pop'];213.0;0.0
+4;Gentleman;PSY;['Pop'];194.0;0.0
+5;Stay;Rihanna Featuring Mikky Ekko;['Pop', 'Singer & Songwriter'];240.0;0.0
+6;Mirrors;Justin Timberlake;['Pop', 'Pop internationale', 'Rock'];484.0;0.0
+7;Suit & Tie;Justin Timberlake Featuring JAY Z;['Pop', 'Pop internationale', 'Rock'];326.0;1.0
+8;Feel This Moment;Pitbull Featuring Christina Aguilera;['Pop'];229.0;0.0
+9;Started From The Bottom;Drake;['Rap/Hip Hop'];174.0;1.0
+10;Heart Attack;Demi Lovato;['Pop'];211.0;0.0
+11;Radioactive;Imagine Dragons;['Alternative'];186.0;0.0
+12;I Love It;Icona Pop Featuring Charli XCX;['Dance'];155.0;1.0
+13;Cruise;Florida Georgia Line Featuring Nelly;['Country', 'Singer & Songwriter'];216.0;0.0
+14;My Songs Know What You Did In The Dark (Light Em Up);Fall Out Boy;['Alternative'];186.0;0.0
+15;Love Me;Lil Wayne Featuring Drake & Future;['Rap/Hip Hop'];252.0;1.0
+16;Harlem Shake;Baauer;['Electro'];196.0;0.0
+17;Daylight;Maroon 5;['Pop'];225.0;0.0
+18;Get Lucky;Daft Punk Featuring Pharrell Williams;['Electro', 'Electro Pop/Electro Rock', 'Dance', 'Pop', 'Pop internationale', 'Rock'];248.0;0.0
+19;Wagon Wheel;Darius Rucker;['Country'];298.0;0.0
+20;Power Trip;J. Cole Featuring Miguel;['Rap/Hip Hop'];240.0;0.0
+21;Come & Get It;Selena Gomez;['Pop'];231.0;0.0
+22;Carry On;fun.;['Alternative'];278.0;0.0
+23;22;Taylor Swift;['Country'];232.0;0.0
+24;I Knew You Were Trouble.;Taylor Swift;['Country'];219.0;0.0
+25;Ho Hey;The Lumineers;['Alternative'];163.0;0.0
+26;Bad;Wale Featuring Tiara Thomas Or Rihanna;[];;
+27;Mama's Broken Heart;Miranda Lambert;['Country'];177.0;0.0
+28;Sweet Nothing;Calvin Harris Featuring Florence Welch;['Electro', 'Techno/House', 'Dance'];214.0;0.0
+29;Locked Out Of Heaven;Bruno Mars;['Pop'];233.0;0.0
+30;Troublemaker;Olly Murs Featuring Flo Rida;['Pop'];185.0;0.0
+31;The Way;Ariana Grande Featuring Mac Miller;['Pop'];225.0;1.0
+32;Downtown;Lady Antebellum;['Country'];197.0;0.0
+33;Scream & Shout;will.i.am & Britney Spears;['Pop'];284.0;1.0
+34;Get Your Shine On;Florida Georgia Line;['Country'];221.0;0.0
+35;Boys 'round Here;Blake Shelton Featuring Pistol Annies & Friends;['Country'];288.0;0.0
+36;Pour It Up;Rihanna;['Pop'];161.0;1.0
+37;F**kin Problems;A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar;['Rap/Hip Hop'];233.0;1.0
+38;Highway Don't Care;Tim McGraw With Taylor Swift;['Country'];279.0;0.0
+39;I Will Wait;Mumford & Sons;['Rock'];276.0;0.0
+40;Don't You Worry Child;Swedish House Mafia Featuring John Martin;['Electro'];212.0;0.0
+41;Sail;AWOLNATION;['Alternative', 'Rock'];259.0;0.0
+42;#thatPOWER;will.i.am Featuring Justin Bieber;[];280.0;0.0
+43;Alive;Krewella;['Dance'];290.0;0.0
+44;Bugatti;Ace Hood Featuring Future & Rick Ross;[];269.0;0.0
+45;Next To Me;Emeli Sande;['Pop'];196.0;0.0
+46;Sure Be Cool If You Did;Blake Shelton;['Country'];215.0;0.0
+47;It's Time;Imagine Dragons;['Alternative'];240.0;0.0
+48;If I Didn't Have You;Thompson Square;['Country'];202.0;0.0
+49;Little Talks;Of Monsters And Men;['Alternative'];266.0;0.0
+50;Fine China;Chris Brown;['R&B'];213.0;0.0
+51;1994;Jason Aldean;['Country'];242.0;0.0
+52;Pirate Flag;Kenny Chesney;['Country'];225.0;0.0
+53;DONE.;The Band Perry;['Country'];205.0;0.0
+54;Crash My Party;Luke Bryan;['Country'];226.0;0.0
+55;Give It All We Got Tonight;George Strait;['Country'];251.0;0.0
+56;Rich As F**k;Lil Wayne Featuring 2 Chainz;[];;
+57;Fall Down;will.i.am Featuring Miley Cyrus;[];;
+58;Cups (Pitch Perfect's When I'm Gone);Anna Kendrick;['Pop'];125.0;0.0
+59;Bitch, Don't Kill My Vibe;Kendrick Lamar;['Rap/Hip Hop'];310.0;1.0
+60;Like Jesus Does;Eric Church;['Country'];198.0;0.0
+61;Gone, Gone, Gone;Phillip Phillips;['Pop'];209.0;0.0
+62;Beat This Summer;Brad Paisley;['Country'];281.0;0.0
+63;I Drive Your Truck;Lee Brice;['Country'];234.0;0.0
+64;All Around The World;Justin Bieber Featuring Ludacris;[];243.0;0.0
+65;I Want Crazy;Hunter Hayes;['Country'];236.0;0.0
+66;I Can Take It From There;Chris Young;['Country', 'Pop'];158.0;0.0
+67;Here's To Never Growing Up;Avril Lavigne;['Pop'];214.0;1.0
+68;Loveeeeeee Song;Rihanna Featuring Future;['Pop'];256.0;0.0
+69;Clarity;Zedd Featuring Foxes;['Pop', 'Rock'];205.0;0.0
+70;Battle Scars;Lupe Fiasco & Guy Sebastian;['Rap/Hip Hop'];250.0;0.0
+71;We Still In This B****;B.o.B Featuring T.I. & Juicy J;['Rap/Hip Hop'];248.0;1.0
+72;Love And War;Tamar Braxton;['R&B'];173.0;0.0
+73;Anywhere With You;Jake Owen;['Country'];209.0;0.0
+74;The Other Side;Jason Derulo;['Pop'];226.0;0.0
+75;I Need Your Love;Calvin Harris Featuring Ellie Goulding;['Dance'];234.0;0.0
+76;Levitate;Hadouken!;['Electro', 'Dance'];285.0;0.0
+77;Molly;Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall;['Rap/Hip Hop'];211.0;0.0
+78;R.I.P.;Young Jeezy Featuring 2 Chainz;['Rap/Hip Hop'];200.0;0.0
+79;Kisses Down Low;Kelly Rowland;['R&B'];254.0;0.0
+80;All Gold Everything;Trinidad James;['Rap/Hip Hop'];187.0;1.0
+81;More Than Miles;Brantley Gilbert;['Country'];253.0;0.0
+82;Two Black Cadillacs;Carrie Underwood;['Country'];297.0;0.0
+83;Hey Pretty Girl;Kip Moore;['Country'];215.0;0.0
+84;High School;Nicki Minaj Featuring Lil Wayne;[];218.0;0.0
+85;U.O.E.N.O.;Rocko Featuring Future & Rick Ross;['Rap/Hip Hop'];263.0;1.0
+86;Lego House;Ed Sheeran;['Pop'];185.0;0.0
+87;How Many Drinks?;Miguel;['Pop', 'Pop internationale', 'Rock', 'R&B'];270.0;1.0
+88;Karate Chop (Remix);Future Featuring Lil Wayne;['Rap/Hip Hop'];276.0;1.0
+89;I Hit It First;Ray J Featuring Bobby Brackins;[];206.0;0.0
+90;Wings;Little Mix;['Pop'];206.0;0.0
+91;If I Lose Myself;OneRepublic;['Pop'];215.0;0.0
+92;Same Love;Macklemore & Ryan Lewis Featuring Mary Lambert;['Rap/Hip Hop'];320.0;0.0
+93;Blurred Lines;Robin Thicke Featuring T.I. + Pharrell;[];262.0;0.0
+94;Show Out;Juicy J Featuring Big Sean & Young Jeezy;['Rap/Hip Hop'];268.0;0.0
+95;Wild For The Night;A$AP Rocky Featuring Skrillex;['Rap/Hip Hop'];212.0;1.0
+96;Neva End;Future;['Rap/Hip Hop'];262.0;1.0
+97;Beat It;Sean Kingston Featuring Chris Brown & Wiz Khalifa;['Rap/Hip Hop', 'Pop', 'R&B'];254.0;1.0
+98;Freaks;French Montana Featuring Nicki Minaj;[];;
+99;Ready;Fabolous Featuring Chris Brown;['Rap/Hip Hop'];237.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Take A Bow;Madonna;['Pop'];321.0;0.0
+1;Candy Rain;Soul For Real;['R&B'];276.0;0.0
+2;Creep;TLC;['R&B'];268.0;0.0
+3;Red Light Special;TLC;['R&B'];303.0;0.0
+4;Strong Enough;Sheryl Crow;['Pop'];189.0;0.0
+5;Run Away;Real McCoy;['Pop'];243.0;0.0
+6;This Is How We Do It;Montell Jordan;['Rap/Hip Hop'];277.0;1.0
+7;Baby;Brandy;['Rock'];313.0;0.0
+8;Big Poppa/Warning;The Notorious B.I.G.;[];;
+9;You Gotta Be;Des'ree;['Pop'];240.0;0.0
+10;I Know;Dionne Farris;['Pop'];227.0;0.0
+11;If You Love Me;Brownstone;['R&B'];304.0;0.0
+12;Freak Like Me;Adina Howard;['Rap/Hip Hop', 'R&B'];253.0;0.0
+13;Hold My Hand;Hootie & The Blowfish;['Pop'];258.0;0.0
+14;Another Night;Real McCoy;['Pop'];236.0;0.0
+15;On Bended Knee;Boyz II Men;['Pop'];329.0;0.0
+16;This Lil' Game We Play;Subway (Featuring 702);['Pop'];299.0;0.0
+17;Like The Way I Do/If I Wanted To;Melissa Etheridge;[];;
+18;"Keep Their Heads Ringin' (From ""Friday"")";Dr. Dre;[];;
+19;Believe;Elton John;['Pop'];297.0;0.0
+20;In The House Of Stone And Light;Martin Page;['Pop'];300.0;0.0
+21;Always;Bon Jovi;['Pop'];353.0;0.0
+22;Thank You;Boyz II Men;['Pop'];275.0;0.0
+23;Dear Mama/Old School;2Pac;[];;
+24;Hold On;Jamie Walters;['Pop'];264.0;0.0
+25;Sukiyaki;4PM;[];;
+26;I Believe;Blessid Union Of Souls;['Pop'];267.0;0.0
+27;If You Think You're Lonely Now;K-Ci Hailey;['Films/Jeux vidéo', 'Musiques de films'];237.0;0.0
+28;Everlasting Love;Gloria Estefan;['Pop'];241.0;0.0
+29;You Don't Know How It Feels;Tom Petty;['Pop'];289.0;0.0
+30;I Live My Life For You;Firehouse;['Rock'];261.0;0.0
+31;The Rhythm Of The Night;Corona;['Electro', 'Dance', 'Disco'];264.0;0.0
+32;Before I Let You Go;BLACKstreet;['R&B'];301.0;0.0
+33;"You Got It (From ""Boys On The Side"")";Bonnie Raitt;[];;
+34;I'm The Only One;Melissa Etheridge;['Singer & Songwriter'];324.0;0.0
+35;Every Day Of The Week;Jade;['Pop'];315.0;0.0
+36;Dream About You/Funky Melody;Stevie B;['Electro', 'Dance'];243.0;0.0
+37;Cotton Eye Joe;Rednex;['Pop'];194.0;0.0
+38;Get Ready For This;2 Unlimited;['Pop'];222.0;0.0
+39;I Miss You;N2U;[];;
+40;House Of Love;Amy Grant With Vince Gill;['Pop'];282.0;0.0
+41;Get Down;Craig Mack;['Rap/Hip Hop'];266.0;1.0
+42;The Sweetest Days;Vanessa Williams;['Pop'];211.0;0.0
+43;Mr. Personality;Gillette;['Dance', 'Pop'];207.0;0.0
+44;"Here Comes The Hotstepper (From ""Ready To Wear"")";Ini Kamoze;[];;
+45;Short Dick Man;20 Fingers Featuring Gillette;[];;
+46;Foe Tha Love Of $;Bone Thugs-N-Harmony Featuring Eazy-E;[];;
+47;I Wanna Be Down;Brandy;['Rock'];291.0;0.0
+48;"Ask Of You (From ""Higher Learning"")";Raphael Saadiq;[];;
+49;100% Pure Love;Crystal Waters;['Pop'];278.0;0.0
+50;Tell Me When;The Human League;['Rock'];283.0;0.0
+51;"No More ""I Love You's""";Annie Lennox;['Pop'];291.0;0.0
+52;Can't Stop Lovin' You;Van Halen;[];;
+53;Brooklyn Zoo;Ol' Dirty Bastard;[];;
+54;Constantly;Immature;[];;
+55;Move It Like This;K7;[];;
+56;For Your Love;Stevie Wonder;[];;
+57;I'd Rather Be Alone;IV Xample;[];;
+58;I'll Be Around;Rappin' 4-Tay Featuring The Spinners;[];;
+59;Think Of You;Usher;['R&B', 'Soul'];229.0;0.0
+60;Mad Izm;Channel Live;['Rap/Hip Hop'];255.0;1.0
+61;(She's Got) Skillz;All-4-One;['Pop'];245.0;0.0
+62;Mental Picture;Jon Secada;['Rock'];259.0;0.0
+63;Let Her Cry;Hootie & The Blowfish;['Pop'];318.0;0.0
+64;Tour;Capleton;['Rap/Hip Hop'];286.0;0.0
+65;Until The End Of Time;Foreigner;['Pop'];292.0;0.0
+66;Never Find Someone Like You;Keith Martin;['Films/Jeux vidéo', 'Musiques de films'];271.0;0.0
+67;Here & Now;Letters To Cleo;['Alternative'];218.0;0.0
+68;Fat Boy;Max-A-Million;['Rock'];214.0;0.0
+69;Connection;Elastica;['Rock'];140.0;0.0
+70;Get Lifted;Keith Murray;['Rap/Hip Hop'];242.0;1.0
+71;She's A River;Simple Minds;['Rock'];332.0;0.0
+72;Shook Ones Part II;Mobb Deep;['Rock'];256.0;1.0
+73;Bang And Blame;R.E.M.;['Alternative'];327.0;0.0
+74;Close To You;Fun Factory;['Electro', 'Dance', 'Disco'];218.0;0.0
+75;Run-Around;Blues Traveler;['Rock'];280.0;0.0
+76;1-Luv;E-40 (Featuring Leviti);['Rap/Hip Hop'];308.0;1.0
+77;She Don't Use Jelly;The Flaming Lips;['Alternative'];222.0;0.0
+78;Joy;BLACKstreet;['R&B'];295.0;0.0
+79;Mishale;Andru Donalds;['R&B'];241.0;0.0
+80;Let's Get It On;Shabba Ranks;['Dance'];315.0;0.0
+81;Rodeo;95 South;['Rap/Hip Hop'];212.0;1.0
+82;Kitty Kitty;69 Boyz;['Rap/Hip Hop'];248.0;1.0
+83;Purple Medley;Prince;['Pop'];190.0;0.0
+84;Whutcha Want?;Nine;['Rap/Hip Hop'];275.0;1.0
+85;Lick It;Roula;['Dance', 'Pop'];215.0;1.0
+86;Sour Times (Nobody Loves Me);Portishead;['Pop'];254.0;0.0
+87;Total Eclipse Of The Heart;Nicki French;['Pop'];229.0;0.0
+88;People Don't Believe;Scarface Feat. Ice Cube;[];;
+89;Wonderful;Adam Ant;['Pop'];262.0;0.0
+90;Your Loving Arms;Billie Ray Martin;['Pop'];398.0;0.0
+91;"Shy Guy (From ""Bad Boys"")";Diana King;[];;
+92;Feel So High;Des'ree;['Pop'];233.0;0.0
+93;Dreamer;Livin' Joy;['Dance'];223.0;0.0
+94;The Keeper Of The Stars;Tracy Byrd;['Country'];261.0;0.0
+95;Foolin' Around;Changing Faces;['R&B'];268.0;0.0
+96;Always And Forever;Luther Vandross;['R&B'];293.0;0.0
+97;Safe + Sound;DJ Quik;['Rap/Hip Hop'];283.0;1.0
+98;"Whiney, Whiney (From ""Dumb And Dumber"")";Willi One Blood;[];;
+99;Promise Me;Lil Suzy;['Electro', 'Dance'];231.0;0.0

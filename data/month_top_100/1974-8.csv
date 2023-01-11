@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Annie's Song;John Denver;['Pop'];179.0;0.0
+1;Don't Let The Sun Go Down On Me;Elton John;['Pop'];347.0;0.0
+2;Feel Like Makin' Love;Roberta Flack;['Films/Jeux vidéo', 'Musiques de films', 'Soul'];175.0;0.0
+3;Rikki Don't Lose That Number;Steely Dan;['Pop'];272.0;0.0
+4;The Night Chicago Died;Paper Lace;['Pop'];210.0;0.0
+5;The Air That I Breathe;The Hollies;['Rock'];244.0;0.0
+6;Rock And Roll Heaven;The Righteous Brothers;['Pop'];211.0;0.0
+7;Please Come To Boston;Dave Loggins;['Pop', 'Rock'];247.0;0.0
+8;Call On Me;Chicago;['Pop', 'Rock'];242.0;0.0
+9;Sideshow;Blue Magic;['Pop'];246.0;0.0
+10;Waterloo;ABBA;['Pop'];165.0;0.0
+11;Rock Your Baby;George McCrae;['Pop'];384.0;0.0
+12;Rock The Boat;The Hues Corporation;['R&B'];188.0;0.0
+13;Wildwood Weed;Jim Stafford;['Country'];160.0;0.0
+14;Keep On Smilin';Wet Willie;['Pop'];235.0;0.0
+15;Takin' Care Of Business;Bachman-Turner Overdrive;['Rock'];293.0;0.0
+16;If You Talk In Your Sleep;Elvis Presley;['Pop'];155.0;0.0
+17;Radar Love;Golden Earring;['Pop'];386.0;0.0
+18;Tell Me Something Good;Rufus Featuring Chaka Khan;[];;
+19;On And On;Gladys Knight And The Pips;['R&B'];235.0;0.0
+20;Sure As I'm Sittin' Here;Three Dog Night;['Pop'];287.0;0.0
+21;Shinin' On;Grand Funk;['Rock'];165.0;0.0
+22;(You're) Having My Baby;Paul Anka with Odia Coates;[];;
+23;Rock Me Gently;Andy Kim;['Pop'];208.0;0.0
+24;You And Me Against The World;Helen Reddy;['Pop'];191.0;0.0
+25;I'm Leaving It (All) Up To You;Donny & Marie Osmond;['Pop'];167.0;0.0
+26;One Hell Of A Woman;Mac Davis;['Country'];171.0;0.0
+27;Machine Gun;Commodores;['Pop'];157.0;0.0
+28;Hang On In There Baby;Johnny Bristol;['Pop'];200.0;0.0
+29;Rub It In;"Billy ""Crash"" Craddock";['Pop'];139.0;0.0
+30;Finally Got Myself Together (I'm A Changed Man);The Impressions;['Rock'];188.0;0.0
+31;Wild Thing;Fancy;['Rock', 'Films/Jeux vidéo', 'Musiques de films'];177.0;0.0
+32;This Heart;Gene Redding;['Pop'];209.0;0.0
+33;I Shot The Sheriff;Eric Clapton;['Rock'];263.0;0.0
+34;Workin' At The Car Wash Blues;Jim Croce;['Rock'];154.0;0.0
+35;Fish Ain't Bitin';Lamont Dozier;['Pop'];261.0;0.0
+36;My Thang;James Brown;['R&B'];255.0;0.0
+37;Then Came You;Dionne Warwicke & Spinners;[];;
+38;Nothing From Nothing;Billy Preston;['Soul'];156.0;0.0
+39;Kung Fu;Curtis Mayfield;['R&B', 'Soul'];230.0;0.0
+40;River's Risin';Edgar Winter;['Pop'];200.0;0.0
+41;If You Love Me (let Me Know);Olivia Newton-John;['Country'];196.0;0.0
+42;Happiness Is Just Around The Bend;The Main Ingredient;['R&B'];379.0;0.0
+43;You Won't See Me;Anne Murray;['Pop'];244.0;0.0
+44;Come Monday;Jimmy Buffett;['Pop'];188.0;0.0
+45;Put Out The Light;Joe Cocker;['Rock', 'Rock & Roll/Rockabilly'];236.0;0.0
+46;Clap For The Wolfman;The Guess Who;['Rock'];258.0;0.0
+47;Hollywood Swinging;Kool & The Gang;['R&B'];279.0;0.0
+48;Billy, Don't Be A Hero;Bo Donaldson And The Heywoods;['Alternative'];206.0;0.0
+49;Be Thankful For What You Got;William DeVaughn;['R&B', 'Soul'];441.0;0.0
+50;Can't Get Enough Of Your Love, Babe;Barry White;['Pop'];242.0;0.0
+51;Time For Livin';Sly & The Family Stone;['Pop'];197.0;0.0
+52;Don't Knock My Love;Diana Ross & Marvin Gaye;['Pop'];143.0;0.0
+53;Old Home Filler-up An' Keep On-a-truckin' Cafe;C.W. McCall;['Country'];176.0;0.0
+54;Midnight At The Oasis;Maria Muldaur;['Pop'];229.0;0.0
+55;Ballero;War;['R&B'];203.0;0.0
+56;Let's Put It All Together;The Stylistics;['Pop'];333.0;0.0
+57;Jive Turkey (Part 1);Ohio Players;[];;
+58;Dancing Machine;Jackson 5;['R&B'];157.0;0.0
+59;Band On The Run;Paul McCartney And Wings;['Pop'];289.0;0.0
+60;Room Full Of Roses;Mickey Gilley;['Country'];167.0;0.0
+61;Don't Change Horses (In The Middle Of A Stream);Tower Of Power;['Pop'];284.0;0.0
+62;Between Her Goodbye And My Hello;Gladys Knight And The Pips;['R&B'];230.0;0.0
+63;You're Welcome, Stop On By;Bobby Womack;['R&B'];208.0;0.0
+64;Beach Baby;First Class;['Pop'];293.0;0.0
+65;Sundown;Gordon Lightfoot;['Pop', 'Folk'];213.0;0.0
+66;Kalimba Story;Earth, Wind & Fire;['R&B'];240.0;0.0
+67;You Make Me Feel Brand New;The Stylistics;['Soul'];291.0;0.0
+68;Rings;Lobo;['Rock'];209.0;0.0
+69;You Can't Be A Beacon (if Your Light Don't Shine);Donna Fargo;['Country', 'Pop', 'Rock', 'Spiritualité & religion'];181.0;0.0
+70;Sugar Baby Love;The Rubettes;['Pop'];212.0;0.0
+71;Sweet Home Alabama;Lynyrd Skynyrd;['Pop'];281.0;1.0
+72;I'm Coming Home;The Spinners;['R&B'];204.0;0.0
+73;Secretary;Betty Wright;['Rock'];173.0;0.0
+74;Already Gone;Eagles;['Pop'];255.0;0.0
+75;Who Do You Think You Are;Bo Donaldson And The Heywoods;['Pop'];209.0;0.0
+76;Free Man In Paris;Joni Mitchell;['Pop'];183.0;0.0
+77;It's Better To Have (and Don't Need);Don Covay;['R&B'];190.0;0.0
+78;If You Wanna Get To Heaven;Ozark Mountain Daredevils;['Rock'];184.0;0.0
+79;The Streak;Ray Stevens;['Dance', 'Pop'];195.0;0.0
+80;Walk On;Neil Young;['Rock'];162.0;0.0
+81;That's Not How It Goes;Bloodstone;['Pop'];182.0;0.0
+82;Dance Master Pt. 1;Willie Henderson;[];;
+83;Moonlight Special;Ray Stevens;['Country', 'Films/Jeux vidéo', 'Comédie'];316.0;0.0
+84;Eyes Of Silver;The Doobie Brothers;['Rock'];178.0;0.0
+85;Live It Up Part 1;The Isley Brothers;['R&B'];186.0;0.0
+86;Train Of Thought;Cher;['Pop'];155.0;0.0
+87;Get Out Of Denver;Bob Seger;['Rock'];176.0;0.0
+88;It Could Have Been Me;Sami Jo;[];;
+89;Rings;Reuben Howell;[];;
+90;Ma! (He's Making Eyes At Me);Lena Zavaroni;[];145.0;0.0
+91;La Grange;ZZ Top;['Pop', 'Rock'];232.0;0.0
+92;You Haven't Done Nothin;Stevie Wonder;['R&B'];203.0;0.0
+93;It's Only Rock 'N Roll (But I Like It);The Rolling Stones;['Rock'];307.0;0.0
+94;Wombling Summer Party;The Wombles;['Jeunesse'];242.0;0.0
+95;I Love My Friend;Charlie Rich;['Country'];145.0;0.0
+96;You Turned My World Around;Frank Sinatra;['Jazz'];167.0;0.0
+97;Makin' The Best Of A Bad Situation;Dick Feller;['Country', 'Films/Jeux vidéo', 'Comédie'];164.0;0.0
+98;The Man That Turned My Mama On;Tanya Tucker;['Country'];174.0;0.0
+99;Another Saturday Night;Cat Stevens;['Pop'];151.0;0.0

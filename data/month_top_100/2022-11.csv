@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Anti-Hero;Taylor Swift;['Pop'];200.0;0.0
+1;Lavender Haze;Taylor Swift;['Pop'];202.0;1.0
+2;Maroon;Taylor Swift;['Pop'];218.0;1.0
+3;Snow On The Beach;Taylor Swift Featuring Lana Del Rey;[];;
+4;Midnight Rain;Taylor Swift;['Pop'];174.0;0.0
+5;Bejeweled;Taylor Swift;['Pop'];194.0;0.0
+6;Question...?;Taylor Swift;['Pop'];210.0;1.0
+7;You're On Your Own, Kid;Taylor Swift;['Pop'];194.0;0.0
+8;Karma;Taylor Swift;['Pop'];204.0;1.0
+9;Vigilante Shit;Taylor Swift;['Pop'];164.0;1.0
+10;Unholy;Sam Smith & Kim Petras;['Pop'];156.0;0.0
+11;Bad Habit;Steve Lacy;['Pop', 'R&B', 'Soul'];232.0;1.0
+12;Mastermind;Taylor Swift;['Pop'];191.0;0.0
+13;Labyrinth;Taylor Swift;['Pop'];247.0;0.0
+14;Sweet Nothing;Taylor Swift;['Pop'];188.0;0.0
+15;As It Was;Harry Styles;['Pop'];167.0;0.0
+16;I Like You (A Happier Song);Post Malone Featuring Doja Cat;[];193.0;0.0
+17;I Ain't Worried;OneRepublic;['Pop'];148.0;0.0
+18;You Proof;Morgan Wallen;['Country'];157.0;0.0
+19;Would've, Could've, Should've;Taylor Swift;['Pop'];260.0;0.0
+20;Bigger Than The Whole Sky;Taylor Swift;['Pop'];218.0;0.0
+21;Super Freaky Girl;Nicki Minaj;['Rap/Hip Hop'];170.0;1.0
+22;Sunroof;Nicky Youre & dazy;['Pop'];169.0;0.0
+23;I'm Good (Blue);David Guetta & Bebe Rexha;['Dance'];175.0;1.0
+24;Under The Influence;Chris Brown;['R&B'];184.0;1.0
+25;The Great War;Taylor Swift;['Pop'];240.0;0.0
+26;Vegas;Doja Cat;['Pop'];182.0;1.0
+27;Something In The Orange;Zach Bryan;['Country'];228.0;0.0
+28;Wasted On You;Morgan Wallen;['Country'];178.0;0.0
+29;Jimmy Cooks;Drake Featuring 21 Savage;[];;
+30;Wait For U;Future Featuring Drake & Tems;['Rap/Hip Hop'];189.0;1.0
+31;Paris;Taylor Swift;['Pop'];196.0;0.0
+32;High Infidelity;Taylor Swift;['Pop'];231.0;0.0
+33;Tomorrow 2;GloRilla & Cardi B;['Rap/Hip Hop'];209.0;1.0
+34;Titi Me Pregunto;Bad Bunny;['Latino'];243.0;0.0
+35;About Damn Time;Lizzo;['Pop'];191.0;1.0
+36;The Kind Of Love We Make;Luke Combs;['Country'];224.0;0.0
+37;Late Night Talking;Harry Styles;['Pop'];177.0;0.0
+38;Cuff It;Beyonce;['Pop'];225.0;1.0
+39;She Had Me At Heads Carolina;Cole Swindell;['Country'];206.0;0.0
+40;Glitch;Taylor Swift;['Pop'];148.0;0.0
+41;Me Porto Bonito;Bad Bunny & Chencho Corleone;['Latino'];178.0;1.0
+42;Die For You;The Weeknd;['R&B'];260.0;0.0
+43;California Breeze;Lil Baby;['Rap/Hip Hop'];177.0;1.0
+44;Dear Reader;Taylor Swift;['Pop'];225.0;0.0
+45;Forever;Lil Baby Featuring Fridayy;[];;
+46;Hold Me Closer;Elton John & Britney Spears;['Pop'];202.0;0.0
+47;Just Wanna Rock;Lil Uzi Vert;['Rap/Hip Hop'];123.0;1.0
+48;5 Foot 9;Tyler Hubbard;['Country'];189.0;0.0
+49;Unstoppable;Sia;['Alternative', 'Electro', 'Dance', 'Pop'];217.0;0.0
+50;Thank God;Kane Brown With Katelyn Brown;[];;
+51;Fall In Love;Bailey Zimmerman;['Country'];232.0;0.0
+52;Rock And A Hard Place;Bailey Zimmerman;['Country'];207.0;0.0
+53;Golden Hour;JVKE;['Pop'];209.0;0.0
+54;Heyy;Lil Baby;['Rap/Hip Hop'];192.0;1.0
+55;Half Of Me;Thomas Rhett Featuring Riley Green;[];;
+56;Until I Found You;Stephen Sanchez;['Singer & Songwriter'];177.0;0.0
+57;Victoria's Secret;Jax;['Pop'];176.0;1.0
+58;Son Of A Sinner;Jelly Roll;['Rock'];232.0;1.0
+59;Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;['Pop'];210.0;1.0
+60;Romantic Homicide;d4vd;['Alternative'];132.0;0.0
+61;What My World Spins Around;Jordan Davis;['Country'];186.0;0.0
+62;Real Spill;Lil Baby;['Rap/Hip Hop'];198.0;1.0
+63;Don't Come Lookin';Jackson Dean;['Country'];187.0;0.0
+64;Monotonia;Shakira + Ozuna;['Pop'];158.0;0.0
+65;Stand On It;Lil Baby;['Rap/Hip Hop'];166.0;1.0
+66;Never Hating;Lil Baby & Young Thug;['Rap/Hip Hop'];160.0;1.0
+67;Wishful Drinking;Ingrid Andress With Sam Hunt;['Country'];194.0;0.0
+68;No Se Va;Grupo Frontera;['Latino'];194.0;0.0
+69;Free Mind;Tems;['R&B'];247.0;0.0
+70;Not Finished;Lil Baby;['Rap/Hip Hop'];163.0;1.0
+71;Music For A Sushi Restaurant;Harry Styles;['Pop'];193.0;0.0
+72;Pop Out;Lil Baby & Nardo Wick;['Rap/Hip Hop'];195.0;1.0
+73;Staying Alive;DJ Khaled Featuring Drake & Lil Baby;['Rap/Hip Hop', 'Pop'];178.0;1.0
+74;Poland;Lil Yachty;['Rap/Hip Hop'];83.0;1.0
+75;Whiskey On You;Nate Smith;['Country'];183.0;0.0
+76;Billie Eilish.;Armani White;['Rap/Hip Hop'];99.0;1.0
+77;Betty (Get Money);Yung Gravy;['Rap/Hip Hop'];146.0;0.0
+78;2 Be Loved (Am I Ready);Lizzo;['Pop'];187.0;0.0
+79;Wait In The Truck;HARDY Featuring Lainey Wilson;['Country'];277.0;0.0
+80;All Mine;Brent Faiyaz;['R&B', 'Soul'];216.0;1.0
+81;La Bachata;Manuel Turizo;['Rap/Hip Hop'];162.0;0.0
+82;Last Last;Burna Boy;[];172.0;0.0
+83;Glimpse Of Us;Joji;['Alternative', 'Pop'];233.0;0.0
+84;Freestyle;Lil Baby;['Rap/Hip Hop'];162.0;1.0
+85;Calm Down;Rema & Selena Gomez;['Pop'];239.0;0.0
+86;Gatubela;Karol G x Maldy;[];;
+87;Evergreen;Omar Apollo;['Pop'];216.0;0.0
+88;Pick Me Up;Gabby Barrett;['Country'];169.0;0.0
+89;Gotta Move On;Diddy & Bryson Tiller;['R&B'];160.0;0.0
+90;Perfect Timing;Lil Baby;['Rap/Hip Hop'];161.0;1.0
+91;Country On;Luke Bryan;['Country'];236.0;0.0
+92;Snap;Rosa Linn;['Alternative', 'Pop Indé', 'Pop'];179.0;0.0
+93;She Likes It;Russell Dickerson & Jake Scott;['Country'];163.0;0.0
+94;Made You Look;Meghan Trainor;['Pop'];134.0;0.0
+95;Dark Red;Steve Lacy;['R&B'];173.0;0.0
+96;From Now On;Lil Baby Featuring Future;[];;
+97;Forget Me;Lewis Capaldi;['Alternative'];203.0;0.0
+98;Miss You;Oliver Tree & Robin Schulz;['Pop'];206.0;1.0
+99;Despecha;Rosalia;['Pop'];157.0;0.0

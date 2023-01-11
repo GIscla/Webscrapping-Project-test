@@ -1,0 +1,102 @@
+;title;artist;genres;duration;explicit_content
+0;Rockstar;Post Malone Featuring 21 Savage;[];218.0;0.0
+1;Bodak Yellow (Money Moves);Cardi B;['Pop'];220.0;1.0
+2;1-800-273-8255;Logic Featuring Alessia Cara & Khalid;[];252.0;0.0
+3;Feel It Still;Portugal. The Man;['Alternative'];163.0;0.0
+4;Thunder;Imagine Dragons;['Alternative'];187.0;0.0
+5;Mi Gente;J Balvin & Willy William Featuring Beyonce;[];210.0;0.0
+6;Sorry Not Sorry;Demi Lovato;['Pop'];203.0;1.0
+7;Too Good At Goodbyes;Sam Smith;['Pop'];201.0;0.0
+8;Unforgettable;French Montana Featuring Swae Lee;['Rap/Hip Hop'];233.0;1.0
+9;Look What You Made Me Do;Taylor Swift;['Pop'];211.0;0.0
+10;I Get The Bag;Gucci Mane Featuring Migos;['Rap/Hip Hop'];233.0;1.0
+11;Attention;Charlie Puth;['Pop'];211.0;0.0
+12;What About Us;P!nk;['Chanson française', 'Pop'];271.0;0.0
+13;Believer;Imagine Dragons;['Alternative'];204.0;0.0
+14;Despacito;Luis Fonsi & Daddy Yankee Featuring Justin Bieber;['Latino'];232.0;0.0
+15;Bank Account;21 Savage;['Rap/Hip Hop'];220.0;1.0
+16;Rake It Up;Yo Gotti Featuring Nicki Minaj;['Rap/Hip Hop'];276.0;1.0
+17;Perfect;Ed Sheeran;['Pop'];258.0;0.0
+18;What Lovers Do;Maroon 5 Featuring SZA;[];198.0;0.0
+19;Havana;Camila Cabello Featuring Young Thug;['Pop'];217.0;0.0
+20;Strip That Down;Liam Payne Featuring Quavo;['Pop'];204.0;0.0
+21;Shape Of You;Ed Sheeran;['Pop', 'Singer & Songwriter'];233.0;0.0
+22;There's Nothing Holdin' Me Back;Shawn Mendes;['Pop'];199.0;0.0
+23;Slow Hands;Niall Horan;['Pop'];188.0;0.0
+24;Young Dumb & Broke;Khalid;['R&B'];202.0;0.0
+25;What Ifs;Kane Brown Featuring Lauren Alaina;['Country'];188.0;0.0
+26;Gucci Gang;Lil Pump;['Rap/Hip Hop'];124.0;1.0
+27;Praying;Kesha;['Pop', 'Pop internationale', 'Rock'];230.0;0.0
+28;I Fall Apart;Post Malone;['Rap/Hip Hop'];223.0;1.0
+29;That's What I Like;Bruno Mars;['Pop'];206.0;0.0
+30;Wild Thoughts;DJ Khaled Featuring Rihanna & Bryson Tiller;['Rap/Hip Hop'];204.0;1.0
+31;Bad At Love;Halsey;['Alternative'];181.0;0.0
+32;When It Rains It Pours;Luke Combs;['Country', 'Pop'];240.0;0.0
+33;Congratulations;Post Malone Featuring Quavo;[];220.0;0.0
+34;Humble.;Kendrick Lamar;['Rap/Hip Hop'];177.0;1.0
+35;XO TOUR Llif3;Lil Uzi Vert;['Rap/Hip Hop'];182.0;1.0
+36;Something Just Like This;The Chainsmokers & Coldplay;['Alternative', 'Pop Indé', 'Electro', 'Techno/House', 'Dance', 'Pop'];247.0;0.0
+37;New Rules;Dua Lipa;['Pop'];209.0;0.0
+38;Body Like A Back Road;Sam Hunt;['Country'];165.0;0.0
+39;Do Re Mi;blackbear;['R&B'];212.0;1.0
+40;Love Galore;SZA Featuring Travis Scott;['R&B'];275.0;1.0
+41;No Limit;G-Eazy Featuring A$AP Rocky & Cardi B;['Rap/Hip Hop'];245.0;1.0
+42;Location;Khalid;['R&B'];219.0;0.0
+43;Silence;Marshmello Featuring Khalid;['Dance', 'Pop', 'Pop internationale', 'Rock'];180.0;0.0
+44;The Weekend;SZA;['R&B'];272.0;1.0
+45;Say You Won't Let Go;James Arthur;['Pop', 'Pop internationale', 'Rock'];211.0;0.0
+46;Crew;GoldLink Featuring Brent Faiyaz & Shy Glizzy;['Rap/Hip Hop'];176.0;1.0
+47;Unforgettable;Thomas Rhett;['Country'];157.0;0.0
+48;No Promises;Cheat Codes Featuring Demi Lovato;['Dance'];223.0;0.0
+49;Every Little Thing;Carly Pearce;['Country', 'Singer & Songwriter'];179.0;0.0
+50;Butterfly Effect;Travis Scott;['Rap/Hip Hop'];190.0;0.0
+51;...Ready For It?;Taylor Swift;['Pop'];208.0;0.0
+52;Small Town Boy;Dustin Lynch;['Country'];205.0;0.0
+53;Greatest Love Story;LANCO;['Country'];222.0;0.0
+54;Pills And Automobiles;Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black;['R&B'];293.0;1.0
+55;The Way Life Goes;Lil Uzi Vert Featuring Nicki Minaj;['Rap/Hip Hop'];268.0;1.0
+56;Roll In Peace;Kodak Black Featuring XXXTENTACION;['Rap/Hip Hop'];213.0;1.0
+57;The Race;Tay-K;['Dance', 'Rap/Hip Hop'];104.0;1.0
+58;Love So Soft;Kelly Clarkson;['Pop'];172.0;0.0
+59;How Long;Charlie Puth;['Pop'];198.0;0.0
+60;Plain Jane;A$AP Ferg Featuring Nicki Minaj;['Rap/Hip Hop'];202.0;0.0
+61;Jocelyn Flores;XXXTENTACION;['Rap/Hip Hop'];119.0;1.0
+62;Transportin';Kodak Black;['Rap/Hip Hop'];169.0;1.0
+63;Glorious;Macklemore Featuring Skylar Grey;['Rap/Hip Hop'];222.0;0.0
+64;Relationship;Young Thug Featuring Future;['Rap/Hip Hop'];215.0;1.0
+65;More Girls Like You;Kip Moore;['Country'];154.0;0.0
+66;Light It Up;Luke Bryan;['Country'];177.0;0.0
+67;It's A Vibe;2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko;[];;
+68;Dusk Till Dawn;x4;[];;
+69;I'll Name The Dogs;Zayn Featuring Sia;[];;
+70;Curve;Blake Shelton;[];;
+71;Escapate Conmigo;Gucci Mane Featuring The Weeknd;[];;
+72;Heartache On The Dance Floor;Wisin Featuring Ozuna;[];;
+73;Let Me Go;Jon Pardi;[];;
+74;F**k Love;Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt;[];;
+75;Go Flex;XXXTENTACION Featuring Trippie Redd;[];;
+76;Fix A Drink;Post Malone;[];;
+77;Like I Loved You;Chris Janson;[];;
+78;All The Pretty Girls;Brett Young;[];;
+79;Losing Sleep;Kenny Chesney;[];;
+80;Sauce It Up;Chris Young;[];;
+81;High End;Lil Uzi Vert;[];;
+82;I Could Use A Love Song;Chris Brown Featuring Future & Young Thug;[];;
+83;Yours;Maren Morris;[];;
+84;Sky Walker;Russell Dickerson;[];;
+85;B.E.D.;Miguel Featuring Travis Scott;[];;
+86;Let You Down;Jacquees;[];;
+87;Friends;NF;['Rap/Hip Hop'];299.0;1.0
+88;Questions;Justin Bieber + BloodPop;[];;
+89;Lights Down Low;Chris Brown;[];;
+90;Too Hotty;MAX Featuring gnash;[];;
+91;Smooth;Quavo, Takeoff & Offset;[];;
+92;Round Here Buzz;Florida Georgia Line;[];;
+93;Feels;Eric Church;[];;
+94;Stunting Ain't Nuthin;Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean;[];;
+95;You Broke Up With Me;Gucci Mane Featuring Slim Jxmmi & Young Dolph;[];;
+96;Mayores;Walker Hayes;[];;
+97;Ask Me How I Know;Becky G Featuring Bad Bunny;[];;
+98;They Don't Know;Garth Brooks;[];;
+99;Do I Make You Wanna;Jason Aldean;[];;
+100;;Billy Currington;[];;

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;That's The Way Love Goes;Janet Jackson;['R&B'];265.0;0.0
+1;Freak Me;Silk;['Pop', 'Rock'];274.0;0.0
+2;Knockin' Da Boots;H-Town;['R&B'];331.0;0.0
+3;Weak;SWV;['R&B', 'Soul'];292.0;0.0
+4;"Love Is (From ""Beverly Hills, 90210"")";Vanessa Williams/Brian McKnight;[];;
+5;I'm So Into You;SWV;['R&B', 'Soul'];277.0;0.0
+6;Looking Through Patient Eyes;P.M. Dawn;['R&B'];249.0;1.0
+7;Show Me Love;Robin S.;['Pop'];269.0;0.0
+8;Have I Told You Lately;Rod Stewart;['Pop', 'Rock'];241.0;0.0
+9;"Bad Boys (Theme From ""Cops"")";Inner Circle;['Reggae'];229.0;0.0
+10;Come Undone;Duran Duran;['Rock'];256.0;0.0
+11;"Nuthin' But A ""G"" Thang";Dr. Dre;['Rap/Hip Hop'];235.0;0.0
+12;Don't Walk Away;Jade;['Dance'];284.0;0.0
+13;Ditty;Paperboy;['Rap/Hip Hop'];245.0;0.0
+14;I'll Never Get Over You (Getting Over Me);Expose;['Pop'];229.0;0.0
+15;I Have Nothing;Whitney Houston;['Films/Jeux vidéo', 'Musiques de films'];289.0;0.0
+16;Dre Day;Dr. Dre;['Rap/Hip Hop'];264.0;1.0
+17;Livin' On The Edge;Aerosmith;['Rock'];380.0;0.0
+18;Two Princes;Spin Doctors;['Pop'];257.0;0.0
+19;Three Little Pigs;Green Jelly;['Rock'];353.0;0.0
+20;Who Is It;Michael Jackson;['Pop'];393.0;0.0
+21;Connected;Stereo MC's;['Pop'];315.0;0.0
+22;Informer;Snow;['Pop'];268.0;0.0
+23;Nothin' My Love Can't Fix;Joey Lawrence;['Pop'];243.0;0.0
+24;More And More;Captain Hollywood Project;['Dance'];253.0;0.0
+25;Dazzey Duks;Duice;['Jeunesse', 'Rap/Hip Hop'];243.0;0.0
+26;Angel;Jon Secada;['Pop'];275.0;0.0
+27;Comforter;Shai;['Pop'];250.0;0.0
+28;It Was A Good Day;Ice Cube;['Rap/Hip Hop'];260.0;1.0
+29;In These Arms;Bon Jovi;['Rock'];319.0;0.0
+30;Hip Hop Hooray;Naughty By Nature;['Rap/Hip Hop', 'Rock', 'Hard Rock'];267.0;0.0
+31;Sleeping Satellite;Tasmin Archer;['Rock'];281.0;0.0
+32;Girl, I've Been Hurt;Snow;['Rap/Hip Hop'];252.0;0.0
+33;Somebody To Love;George Michael & Queen;['Pop'];318.0;0.0
+34;Dedicated;R. Kelly & Public Announcement;['Rap/Hip Hop', 'R&B', 'R&B contemporain'];277.0;0.0
+35;Wannagirl;Jeremy Jordan;['Pop'];277.0;0.0
+36;"Can't Help Falling In Love (From ""Sliver"")";UB40;[];;
+37;Regret;New Order;['Pop'];249.0;0.0
+38;What's Up?;4 Non Blondes;['Pop'];295.0;0.0
+39;Down With The King;Run-D.M.C.;['Rap/Hip Hop'];302.0;0.0
+40;That's What Love Can Do;Boy Krazy;['Pop'];201.0;0.0
+41;If I Ever Lose My Faith In You;Sting;['Pop'];265.0;0.0
+42;Whoomp! (There It Is);Tag Team;['R&B', 'Soul'];224.0;0.0
+43;"I'm Every Woman (From ""The Bodyguard"")";Whitney Houston;['R&B'];342.0;0.0
+44;Cat's In The Cradle;Ugly Kid Joe;['Rock', 'Metal'];250.0;0.0
+45;By The Time This Night Is Over;Kenny G With Peabo Bryson;['Jazz', 'Pop'];260.0;0.0
+46;"The Crying Game (From ""The Crying Game"")";Boy George;['Films/Jeux vidéo', 'Musiques de films'];202.0;0.0
+47;Six Feet Deep;Geto Boys;['Rap/Hip Hop'];324.0;1.0
+48;Ordinary World;Duran Duran;['Rock'];277.0;0.0
+49;Love Don't Love You;En Vogue;['R&B'];238.0;0.0
+50;I'm Gonna Get You;Bizarre Inc;['Dance'];321.0;0.0
+51;If I Could;Regina Belle;['R&B'];240.0;0.0
+52;Hero;David Crosby & Phil Collins;[];257.0;0.0
+53;Passin' Me By;The Pharcyde;['Rap/Hip Hop'];303.0;0.0
+54;Love No Limit;Mary J. Blige;['R&B'];299.0;0.0
+55;So Alone;Men At Large;['R&B'];447.0;0.0
+56;The Floor;Johnny Gill;['R&B'];313.0;0.0
+57;Tell Me What You Dream;Restless Heart Featuring Warren Hill;[];;
+58;Touch My Light;Big Mountain;['Pop', 'Reggae'];246.0;0.0
+59;Bed Of Roses;Bon Jovi;['Rock'];394.0;0.0
+60;Whoot, There It Is;95 South;['Rap/Hip Hop'];183.0;0.0
+61;Can't Get Enough Of Your Love;Taylor Dayne;['Pop'];266.0;0.0
+62;Slam;Onyx;['Rap/Hip Hop'];218.0;1.0
+63;Simple Life;Elton John;['Pop'];386.0;0.0
+64;Sweet Thing;Mary J. Blige;['R&B'];225.0;0.0
+65;"I Don't Wanna Fight (From ""What's Love Got To Do With It"")";Tina Turner;[];;
+66;Tap The Bottle;Young Black Teenagers;['Rap/Hip Hop'];240.0;1.0
+67;No Ordinary Love;Sade;['Pop'];440.0;0.0
+68;Little Miracles (Happen Every Day);Luther Vandross;['R&B'];281.0;0.0
+69;Typical Reasons (Swing My Way);Prince Markie Dee And The Soul Convention;['R&B', 'Soul'];267.0;0.0
+70;"Silence Is Broken (From ""Nowhere To Run"")";Damn Yankees;[];;
+71;That's The Way Love Is;Bobby Brown;['R&B'];291.0;0.0
+72;"Let's Go Through The Motions (From ""Who's The Man?"")";Jodeci;[];;
+73;Alibis;Tracy Lawrence;['Country'];182.0;0.0
+74;Deeper;Boss;['Rap/Hip Hop'];237.0;1.0
+75;I See Your Smile;Gloria Estefan;['Pop'];274.0;0.0
+76;I Love The Way You Love Me;John Michael Montgomery;['Rock'];238.0;0.0
+77;Cry No More;II D Extreme;['R&B'];282.0;0.0
+78;Love U More;Sunscreem;['Pop'];251.0;0.0
+79;Every Little Thing U Do;Christopher Williams;['R&B'];285.0;0.0
+80;Buddy X;Neneh Cherry;['Pop'];166.0;0.0
+81;The Morning Papers;Prince And The New Power Generation;['Pop'];222.0;0.0
+82;Don't Take Away My Heaven;Aaron Neville;['Pop'];280.0;0.0
+83;Walking In My Shoes;Depeche Mode;['Rock'];299.0;0.0
+84;Fields Of Gold;Sting;['Pop'];302.0;0.0
+85;Good Times With Bad Boys;Boy Krazy;['Pop'];189.0;0.0
+86;Supermodel (You Better Work);RuPaul;['Dance', 'Pop'];239.0;0.0
+87;ABC-123;Levert;['R&B'];355.0;0.0
+88;One Woman;Jade;['R&B', 'Soul & Funk', 'Soul'];289.0;0.0
+89;Voice Of Freedom;Freedom Williams;['Jazz'];284.0;0.0
+90;Give Him A Love He Can Feel;Tene Williams;['Rap/Hip Hop', 'R&B'];261.0;0.0
+91;It's My Life;Dr. Alban;['Pop'];239.0;0.0
+92;"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")";Baltimora;[];;
+93;Something's Goin' On;U.N.V.;['R&B', 'Soul'];340.0;0.0
+94;Romeo;Dolly Parton & Friends;['Pop'];229.0;0.0
+95;Baby I'm Yours;Shai;['Pop'];274.0;0.0
+96;Funky Child;Lords Of The Underground;['Rap/Hip Hop'];271.0;1.0
+97;Feed The Tree;Belly;['Alternative'];209.0;0.0
+98;"Who's The Man? (From ""Who's The Man"")";House Of Pain;[];;
+99;Gold Diggin' Girls;MC Nas-D & DJ Fred;[];;

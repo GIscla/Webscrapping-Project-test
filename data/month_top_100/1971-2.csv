@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Knock Three Times;Dawn;['Pop'];177.0;0.0
+1;One Bad Apple;The Osmonds;['Pop'];163.0;0.0
+2;My Sweet Lord/Isn't It A Pity;George Harrison;[];;
+3;Lonely Days;Bee Gees;['Pop'];225.0;0.0
+4;Rose Garden;Lynn Anderson;['Country'];173.0;0.0
+5;I Hear You Knocking;Dave Edmunds;['Pop'];167.0;0.0
+6;Groove Me;King Floyd;['Rock', 'Blues'];184.0;0.0
+7;Your Song;Elton John;['Pop'];241.0;0.0
+8;One Less Bell To Answer;The 5th Dimension;['Pop'];211.0;0.0
+9;If I Were Your Woman;Gladys Knight And The Pips;['R&B'];190.0;0.0
+10;Stoney End;Barbra Streisand;['Pop'];179.0;0.0
+11;Watching Scotty Grow;Bobby Goldsboro;['Country'];157.0;0.0
+12;It's Impossible;Perry Como;['Pop'];198.0;0.0
+13;Love The One You're With;Stephen Stills;['Pop', 'Rock'];184.0;0.0
+14;Mr. Bojangles;Nitty Gritty Dirt Band;['Country'];216.0;0.0
+15;Remember Me;Diana Ross;['R&B'];212.0;0.0
+16;Born To Wander;Rare Earth;['R&B'];202.0;0.0
+17;If You Could Read My Mind;Gordon Lightfoot;['Films/Jeux vidéo', 'Musiques de films'];231.0;0.0
+18;Amazing Grace;Judy Collins;['Pop', 'Folk'];248.0;0.0
+19;We Gotta Get You A Woman;Runt;['Pop', 'Rock'];187.0;0.0
+20;I Really Don't Want To Know/There Goes My Everything;Elvis Presley;[];;
+21;I Think I Love You;The Partridge Family Starring Shirley Jones Featuring David Cassidy;[];;
+22;Immigrant Song;Led Zeppelin;['Rock'];146.0;0.0
+23;Black Magic Woman;Santana;['Pop'];196.0;0.0
+24;Mama's Pearl;Jackson 5;['Pop'];193.0;0.0
+25;Stoned Love;The Supremes;[];178.0;0.0
+26;Amos Moses;Jerry Reed;['Country'];138.0;0.0
+27;For The Good Times;Ray Price;['Country'];183.0;0.0
+28;Let Your Love Go;Bread;['Rock'];145.0;0.0
+29;(Theme From) Love Story;Henry Mancini And His Orchestra;['Pop'];171.0;0.0
+30;(Do The) Push And Pull Part I;Rufus Thomas;[];;
+31;Have You Ever Seen The Rain/Hey Tonight;Creedence Clearwater Revival;[];;
+32;Somebody's Watching You;Little Sister;['R&B', 'Soul & Funk'];231.0;0.0
+33;Get Up, Get Into It, Get Involved (Pt. 1);James Brown;['R&B'];425.0;0.0
+34;1900 Yesterday;Liz Damon's Orient Express;['Pop'];178.0;0.0
+35;Precious, Precious;Jackie Moore;['R&B', 'Soul'];206.0;0.0
+36;Pay To The Piper;Chairman Of The Board;[];;
+37;Games;Redeye;['Alternative'];206.0;0.0
+38;Don't Let The Green Grass Fool You;Wilson Pickett;['R&B'];169.0;0.0
+39;Your Time To Cry;Joe Simon;['R&B', 'Soul'];179.0;0.0
+40;Temptation Eyes;The Grass Roots;['Rock'];236.0;0.0
+41;Burning Bridges;The Mike Curb Congregation;['Films/Jeux vidéo', 'Musiques de films'];165.0;0.0
+42;Mother;John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band;[];;
+43;Sweet Mary;Wadsworth Mansion;['Pop', 'Rock'];191.0;0.0
+44;Apeman;The Kinks;['Rock'];233.0;0.0
+45;D.O.A.;Bloodrock;['Rock'];274.0;0.0
+46;Jody's Got Your Girl And Gone;Johnnie Taylor;['R&B'];183.0;0.0
+47;When I'm Dead And Gone;McGuinness Flint;['Pop'];221.0;0.0
+48;Theme From Love Story;Francis Lai And His Orchestra;[];;
+49;Bridget The Midget (The Queen Of The Blues);Ray Stevens;['Pop'];219.0;0.0
+50;I'm So Proud;The Main Ingredient;['R&B', 'Soul'];213.0;0.0
+51;Stop The War Now;Edwin Starr;['R&B'];217.0;0.0
+52;(Don't Worry) If There's A Hell Below We're All Going To Go;Curtis Mayfield;['R&B', 'Soul'];206.0;0.0
+53;He Called Me Baby;Candi Staton;['Pop'];213.0;0.0
+54;God Bless Whoever Sent You;The Originals;['R&B'];196.0;0.0
+55;(I Can Feel Those Vibrations) This Love Is Real;Jackie Wilson;['Soul'];175.0;0.0
+56;Just Seven Numbers (Can Straighten Out My Life);Four Tops;['R&B'];186.0;0.0
+57;Help Me Make It Through The Night;Sammi Smith;['Country'];151.0;0.0
+58;Fresh As A Daisy;Emitt Rhodes;['Pop'];171.0;0.0
+59;She's A Lady;Tom Jones;['Pop'];172.0;0.0
+60;Me And Bobby McGee;Janis Joplin;['Rock'];271.0;0.0
+61;They Can't Take Away Our Music;Eric Burdon And War;['R&B'];410.0;0.0
+62;Proud Mary;Ike & Tina Turner;['R&B'];297.0;0.0
+63;Whole Lotta Love;C.C.S.;['Rock'];213.0;0.0
+64;Bed Of Rose's;The Statler Brothers;['Country'];148.0;0.0
+65;Superstar;Murray Head With The Trinidad Singers;[];;
+66;Beautiful People;The New Seekers featuring Eve Graham;[];;
+67;Cheryl Moana Marie;John Rowles;['Jazz'];197.0;0.0
+68;Whole Lotta Love;King Curtis & The Kingpins;[];;
+69;Hang On To Your Life;The Guess Who;['Pop', 'Rock'];252.0;0.0
+70;Just My Imagination (Running Away With Me);The Temptations;['Pop'];230.0;0.0
+71;It's Up To You Petula;Edison Lighthouse;['Pop'];177.0;0.0
+72;(She's A) Very Lovely Woman/The Long Way Around;Linda Ronstadt;[];;
+73;One Night Stand;The Magic Lanterns;[];;
+74;You're A Big Girl Now;The Stylistics;['R&B', 'Soul'];198.0;0.0
+75;Freedom;The Isley Brothers;['R&B'];218.0;0.0
+76;Ride A White Swan;Tyrannosaurus Rex;[];;
+77;I Love You For All Seasons;The Fuzz;['R&B', 'Soul'];188.0;0.0
+78;Blue Money;Van Morrison;['Rock'];269.0;0.0
+79;Mixed Up Guy;Joey Scarbury;[];;
+80;Country Road;James Taylor;['Rock'];205.0;0.0
+81;Make Me Happy;Bobby Bloom;[];;
+82;I Dig Everything About You;The Mob;['Pop', 'Rock'];154.0;0.0
+83;You're The One;The Three Degrees;['Pop'];204.0;0.0
+84;Keep The Customer Satisfied;Gary Puckett;['Rock'];158.0;0.0
+85;I Need You;The Friends Of Distinction;['Pop'];190.0;0.0
+86;For All We Know;Carpenters;['Pop'];152.0;0.0
+87;(Where Do I Begin) Love Story;Andy Williams;['Pop'];189.0;0.0
+88;We'll Have It Made;The Spinners;['R&B'];206.0;0.0
+89;Everything Is Good About You;The Lettermen;['Pop'];184.0;0.0
+90;Triangle Of Love (Hey Diddle Diddle);The Presidents;['Pop'];201.0;0.0
+91;The Glory Of Love;The Dells;['Pop'];234.0;0.0
+92;Angel Baby;Dusk;[];;
+93;Carolina Day;Livingston Taylor;['Pop'];188.0;0.0
+94;"Medley From ""Superstar"" (A Rock Opera)";The Assembled Multitude;[];;
+95;Didn't It Look So Easy;The Stairsteps;['R&B'];166.0;0.0
+96;Heavy Makes You Happy (Sha-Na-Boom Boom);The Staple Singers;['Jazz'];186.0;0.0
+97;I'll Be Home;Vikki Carr;['Pop'];198.0;0.0
+98;Fly Little White Dove Fly;The Bells;[];;
+99;Timothy;The Buoys;['Pop', 'Rock', 'Hard Rock'];256.0;0.0

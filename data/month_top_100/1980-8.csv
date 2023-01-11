@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Magic;Olivia Newton-John;['Pop'];272.0;0.0
+1;It's Still Rock And Roll To Me;Billy Joel;['Rock'];176.0;0.0
+2;Little Jeannie;Elton John;['Pop'];289.0;0.0
+3;Cupid/I've Loved You For A Long Time;The Spinners;['R&B'];236.0;0.0
+4;Shining Star;The Manhattans;['R&B'];279.0;0.0
+5;Take Your Time (Do It Right) Part 1;The S.O.S. Band;['R&B'];212.0;0.0
+6;Coming Up (Live At Glasgow);Paul McCartney And Wings;[];;
+7;Tired Of Toein' The Line;Rocky Burnette;['Pop'];223.0;0.0
+8;Emotional Rescue;The Rolling Stones;['Rock'];339.0;0.0
+9;Sailing;Christopher Cross;['Pop'];256.0;0.0
+10;In America;The Charlie Daniels Band;['Country'];198.0;0.0
+11;One Fine Day;Carole King;['Pop'];152.0;0.0
+12;More Love;Kim Carnes;['Pop'];218.0;0.0
+13;Love The World Away;Kenny Rogers;['Country'];191.0;0.0
+14;Steal Away;Robbie Dupree;['Rock'];206.0;0.0
+15;The Rose;Bette Midler;['Pop'];215.0;0.0
+16;Misunderstanding;Genesis;['Rock'];195.0;0.0
+17;Gimme Some Lovin';Blues Brothers;['Pop', 'Rock'];187.0;0.0
+18;All Night Long;Joe Walsh;['Rock'];329.0;0.0
+19;Empire Strikes Back (Medley);Meco;['Electro'];243.0;0.0
+20;Let My Love Open The Door;Pete Townshend;['Rock'];164.0;0.0
+21;Stand By Me;Mickey Gilley;['Country'];216.0;0.0
+22;Take A Little Rhythm;Ali Thomson;['Rock'];216.0;0.0
+23;JoJo;Boz Scaggs;['Rock'];353.0;0.0
+24;Old-Fashion Love;Commodores;['R&B'];203.0;0.0
+25;Into The Night;Benny Mardones;['Rock'];271.0;0.0
+26;Fame;Irene Cara;['Films/Jeux vidéo', 'Musiques de films'];316.0;0.0
+27;Make A Little Magic;The Dirt Band;['Country'];215.0;0.0
+28;Boulevard;Jackson Browne;['Pop'];200.0;0.0
+29;Why Not Me;Fred Knoblock;[];;
+30;All Out Of Love;Air Supply;['Pop'];340.0;0.0
+31;I Can't Let Go;Linda Ronstadt;['Latino'];229.0;0.0
+32;Let Me Love You Tonight;Pure Prairie League;['Pop'];166.0;0.0
+33;Tulsa Time/Cocaine;Eric Clapton And His Band;[];;
+34;Drivin' My Life Away;Eddie Rabbitt;['Country', 'Pop'];197.0;0.0
+35;You're The Only Woman (You & I);Ambrosia;['Rock'];258.0;0.0
+36;I'm Alive;Electric Light Orchestra;['Pop'];224.0;0.0
+37;Let's Get Serious;Jermaine Jackson;[];210.0;0.0
+38;Give Me The Night;George Benson;['Pop'];301.0;0.0
+39;Lookin' For Love;Johnny Lee;['Country'];215.0;0.0
+40;One In A Million You;Larry Graham;['Pop'];252.0;0.0
+41;Play The Game;Queen;['Rock'];211.0;0.0
+42;Walks Like A Lady;Journey;['Rock'];196.0;0.0
+43;Someone That I Used To Love;Natalie Cole;['Livres audio'];246.0;0.0
+44;Funkytown;Lipps, Inc.;['Pop'];237.0;1.0
+45;Hot Rod Hearts;Robbie Dupree;['Rock'];218.0;0.0
+46;Shandi;KISS;['Rock'];216.0;0.0
+47;Against The Wind;Bob Seger;['Rock'];334.0;0.0
+48;Upside Down;Diana Ross;['R&B'];245.0;0.0
+49;Love That Got Away;Firefall;['Country', 'Rock'];202.0;0.0
+50;Years From Now;Dr. Hook;[];;
+51;A Lover's Holiday;Change;[];;
+52;Biggest Part Of Me;Ambrosia;['Rock'];324.0;0.0
+53;Free Me;Roger Daltrey;['Rock'];239.0;0.0
+54;That Lovin' You Feelin' Again;Roy Orbison & Emmylou Harris;['Country', 'Pop'];252.0;0.0
+55;Beyond;Herb Alpert;['Jazz'];361.0;0.0
+56;I'm Alright;Kenny Loggins;['Films/Jeux vidéo', 'Musiques de films'];226.0;0.0
+57;One More Time For Love;Billy Preston & Syreeta;['R&B'];231.0;0.0
+58;You're Supposed To Keep Your Love For Me;Jermaine Jackson;['Pop'];334.0;0.0
+59;Hey There Lonely Girl;Robert John;['Rock'];180.0;0.0
+60;All Over The World;Electric Light Orchestra;['Pop'];242.0;0.0
+61;You Better Run;Pat Benatar;['Rock'];184.0;0.0
+62;Landlord;Gladys Knight And The Pips;['R&B'];269.0;0.0
+63;How Does It Feel To Be Back;Daryl Hall John Oates;['Pop'];275.0;0.0
+64;You'll Accomp'ny Me;Bob Seger;['Rock'];241.0;0.0
+65;Under The Gun;Poco;['Rock'];221.0;0.0
+66;Honey, Honey;David Hudson;['R&B', 'Soul'];261.0;0.0
+67;The Royal Mile (Sweet Darlin');Gerry Rafferty;[];;
+68;King Of The Hill;Rick Pinette & Oak;[];;
+69;Jesse;Carly Simon;['Pop'];261.0;0.0
+70;Don't Ask Me Why;Billy Joel;['Rock'];177.0;0.0
+71;Let's Go 'round Again;Average White Band;['Soul'];296.0;0.0
+72;He's So Shy;The Pointer Sisters;['Pop'];213.0;0.0
+73;Half Moon Silver;Hotel;['Pop'];212.0;0.0
+74;First Time Love;Livingston Taylor;['Pop', 'Pop indé/Folk'];190.0;0.0
+75;Don't Misunderstand Me;Rossington Collins Band;['Rock'];296.0;0.0
+76;No Night So Long;Dionne Warwick;['R&B'];207.0;0.0
+77;Cry Just A Little;Paul Davis;['R&B'];241.0;0.0
+78;(Call Me) When The Spirit Moves You;Touch;[];;
+79;You And Me;Rockie Robbins;['R&B'];289.0;0.0
+80;My Mistake;The Kingbees;['Reggae', 'Rock'];175.0;0.0
+81;First...Be A Woman;Lenore O'malley;[];;
+82;Rock It;Lipps, Inc.;['Dance'];222.0;0.0
+83;Fool For Your Loving;Whitesnake;['Rock'];248.0;0.0
+84;Stranger In My Home Town;Foghat;['Pop', 'Rock'];264.0;0.0
+85;Wango Tango;Ted Nugent;['Pop'];288.0;0.0
+86;Whatever You Decide;Randy VanWarmer;['Rock'];311.0;0.0
+87;Everything Is Alright;Spider;['Classique', 'Rock'];209.0;0.0
+88;Darlin';Yipes!!;[];;
+89;Just Can't Wait;The J. Geils Band;['Rock'];205.0;0.0
+90;Where Did We Go Wrong;Frankie Valli & Chris Forde;[];;
+91;Mirage;Eric Troyer;[];;
+92;Shiver And Shake;The Silencers;['Classique', 'Rock'];206.0;0.0
+93;Don't Fall In Love With A Dreamer;Kenny Rogers With Kim Carnes;['Country'];220.0;0.0
+94;On The Rebound;Russ Ballard;['Rock'];189.0;0.0
+95;She's Out Of My Life;Michael Jackson;['Pop', 'Disco', 'Soul & Funk'];218.0;0.0
+96;Cars;Gary Numan;['Alternative'];238.0;0.0
+97;Call Me;Blondie;['Pop'];212.0;0.0
+98;Should've Never Let You Go;Neil Sedaka & Dara Sedaka;['Pop'];258.0;0.0
+99;Dancin' In The Streets;Teri DeSario With K.C.;[];;

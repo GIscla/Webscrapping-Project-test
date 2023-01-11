@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;You Haven't Done Nothin;Stevie Wonder;['R&B'];203.0;0.0
+1;You Ain't Seen Nothing Yet/Free Wheelin';Bachman-Turner Overdrive;[];;
+2;Jazzman;Carole King;['Pop'];225.0;0.0
+3;The Bitch Is Back;Elton John;['Pop'];224.0;0.0
+4;Can't Get Enough;Bad Company;['Rock', 'Hard Rock'];256.0;0.0
+5;Whatever Gets You Thru The Night;John Lennon With The Plastic Ono Nuclear Band;[];;
+6;Steppin' Out (Gonna Boogie Tonight);Tony Orlando & Dawn;['Pop'];172.0;0.0
+7;Sweet Home Alabama;Lynyrd Skynyrd;['Pop'];281.0;1.0
+8;Stop And Smell The Roses;Mac Davis;['Country'];256.0;0.0
+9;Tin Man;America;['Rock'];209.0;0.0
+10;Back Home Again;John Denver;['Pop'];170.0;0.0
+11;Life Is A Rock (But The Radio Rolled Me);Reunion;['Pop'];206.0;0.0
+12;Carefree Highway;Gordon Lightfoot;['Pop', 'Folk'];223.0;0.0
+13;Do It ('til You're Satisfied);B.T. Express;['Pop', 'Disco'];353.0;0.0
+14;Then Came You;Dionne Warwicke & Spinners;[];;
+15;Do It Baby;The Miracles;['R&B'];185.0;0.0
+16;My Melody Of Love;Bobby Vinton;['Pop'];178.0;0.0
+17;The Need To Be;Jim Weatherly;['Pop'];230.0;0.0
+18;Everlasting Love;Carl Carlton;['R&B'];153.0;0.0
+19;Overnight Sensation (Hit Record);Raspberries;[];;
+20;Love Me For A Reason;The Osmonds;['Pop'];202.0;0.0
+21;Longfellow Serenade;Neil Diamond;['Pop'];230.0;0.0
+22;Love Don't Love Nobody - Pt. I;The Spinners;[];;
+23;I've Got The Music In Me;The Kiki Dee Band;['Pop'];309.0;0.0
+24;I Can Help;Billy Swan;['Country'];238.0;0.0
+25;When Will I See You Again;The Three Degrees;['R&B'];178.0;0.0
+26;Honey, Honey;ABBA;['Pop'];175.0;0.0
+27;Distant Lover;Marvin Gaye;['R&B'];255.0;0.0
+28;So You Are A Star;The Hudson Brothers;[];;
+29;Rockin' Soul;The Hues Corporation;['R&B'];188.0;0.0
+30;Wishing You Were Here;Chicago;['Rock'];276.0;0.0
+31;People Gotta Move;Gino Vannelli;['Pop'];198.0;0.0
+32;Sha-La-La (Make Me Happy);Al Green;['R&B', 'Soul'];177.0;0.0
+33;Second Avenue;Garfunkel;['Pop'];165.0;0.0
+34;Play Something Sweet (Brickyard Blues);Three Dog Night;['Pop'];291.0;0.0
+35;Angie Baby;Helen Reddy;['Pop'];211.0;0.0
+36;Cat's In The Cradle;Harry Chapin;['Rock'];212.0;0.0
+37;After The Goldrush;Prelude;['Folk'];127.0;0.0
+38;Nothing From Nothing;Billy Preston;['Soul'];156.0;0.0
+39;You Got The Love;Rufus Featuring Chaka Khan;[];;
+40;You Can Have Her;Sam Neely;[];;
+41;I Honestly Love You;Olivia Newton-John;['Pop'];220.0;0.0
+42;Devotion;Earth, Wind & Fire;['R&B'];290.0;0.0
+43;Skin Tight;Ohio Players;['R&B'];474.0;0.0
+44;You Little Trustmaker;The Tymes;['Pop'];168.0;0.0
+45;Doraville;Atlanta Rhythm Section;['Rock'];413.0;0.0
+46;She Called Me Baby;Charlie Rich;['Pop'];141.0;0.0
+47;Promised Land;Elvis Presley;['Pop'];177.0;0.0
+48;La La Peace Song;Al Wilson;['Pop', 'R&B', 'Soul'];200.0;0.0
+49;I Can't Leave You Alone;George McCrae;['Pop'];190.0;0.0
+50;Fairytale;The Pointer Sisters;['Pop'];303.0;0.0
+51;Beach Baby;First Class;['Pop'];293.0;0.0
+52;The Black-Eyed Boys;Paper Lace;['Rock'];228.0;0.0
+53;Touch Me;Fancy;['Pop', 'Rock'];230.0;0.0
+54;Kung Fu Fighting;Carl Douglas;['R&B', 'Soul'];197.0;0.0
+55;Virgin Man;Smokey Robinson;['R&B'];307.0;0.0
+56;Pretzel Logic;Steely Dan;['Pop'];272.0;0.0
+57;In The Bottle;Brother To Brother;['R&B', 'Soul & Funk'];199.0;0.0
+58;I Feel A Song (In My Heart)/Don't Burn Down The Bridge;Gladys Knight And The Pips;[];;
+59;You're The First, The Last, My Everything;Barry White;['Dance'];274.0;0.0
+60;Travelin' Shoes;Elvin Bishop;['Rock'];440.0;0.0
+61;La La Peace Song;O.C. Smith;['Pop'];237.0;0.0
+62;Sugar Pie Guy Pt. 1;The Joneses;[];;
+63;Heavy Fallin' Out;The Stylistics;['Soul'];192.0;0.0
+64;Laughter In The Rain;Neil Sedaka;['Pop'];170.0;0.0
+65;Give It To The People;The Righteous Brothers;['Pop'];205.0;0.0
+66;Three Ring Circus;Blue Magic;['Rock'];289.0;0.0
+67;Woman To Woman;Shirley Brown;['R&B'];238.0;0.0
+68;Early Morning Love;Sammy Johns;['Country', 'Rock', 'Singer & Songwriter'];169.0;0.0
+69;Ride 'em Cowboy;Paul Davis;['Pop'];236.0;0.0
+70;The Player - Part 1;First Choice;[];;
+71;Let's Straighten It Out;Latimore;['R&B', 'Soul'];359.0;0.0
+72;Ask Me;Ecstasy, Passion & Pain;['R&B', 'Soul & Funk', 'Soul'];243.0;0.0
+73;She's Gone;Tavares;['R&B'];220.0;0.0
+74;Never My Love;Blue Swede;['Pop'];149.0;0.0
+75;Fire, Baby I'm On Fire;Andy Kim;['Pop'];237.0;0.0
+76;Country Side Of Life;Wet Willie;['Rock'];210.0;0.0
+77;Willie And The Hand Jive;Eric Clapton;['Rock'];209.0;0.0
+78;Whatever You Got, I Want;Jackson 5;['R&B'];175.0;0.0
+79;Nobody;The Doobie Brothers;['Pop', 'Singer & Songwriter'];206.0;0.0
+80;Live It Up Part 1;The Isley Brothers;['R&B'];186.0;0.0
+81;Bungle In The Jungle;Jethro Tull;['Rock'];216.0;0.0
+82;Give Me A Reason To Be Gone;Maureen McGovern;[];;
+83;Loose Booty;Sly & The Family Stone;['Soul & Funk'];226.0;0.0
+84;Easy Street;Edgar Winter Group;['Pop'];252.0;0.0
+85;Don't Eat The Yellow Snow;Frank Zappa;['Rock'];125.0;0.0
+86;Bring Back The Love Of Yesterday;The Dells;['R&B'];225.0;0.0
+87;Evil Boll-weevil;Grand Canyon;[];;
+88;Never Can Say Goodbye;Gloria Gaynor;['Pop', 'Disco'];208.0;0.0
+89;Sexy Ida (Part 1);Ike & Tina Turner;['Rock'];149.0;0.0
+90;Candy's Going Bad;Golden Earring;['Pop'];372.0;0.0
+91;Shoe Shoe Shine;Dynamic Superiors;['R&B'];226.0;0.0
+92;Battle Of New Orleans;The Nitty Gritty Dirt Band;['Country'];224.0;0.0
+93;Earache My Eye;Cheech & Chong Featuring Alice Bowie;[];;
+94;Another Saturday Night;Cat Stevens;['Pop'];151.0;0.0
+95;Straight Shootin' Woman;Steppenwolf;['Rock'];248.0;0.0
+96;Don't Send Nobody Else;Ace Spectrum;['R&B', 'Soul'];191.0;0.0
+97;Clap For The Wolfman;The Guess Who;['Rock'];258.0;0.0
+98;Blood Is Thicker Than Water;William DeVaughn;['R&B', 'Soul'];441.0;0.0
+99;Papa Don't Take No Mess (Part I);James Brown;[];;

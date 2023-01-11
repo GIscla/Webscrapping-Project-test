@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Everybody's Somebody's Fool;Connie Francis;[];157.0;0.0
+1;Alley-Oop;Hollywood Argyles;['Pop', 'Rock'];162.0;0.0
+2;I'm Sorry;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];163.0;1.0
+3;Because They're Young;Duane Eddy And The Rebels;['Rock'];123.0;0.0
+4;Cathy's Clown;The Everly Brothers;['Pop'];144.0;0.0
+5;That's All You Gotta Do;Brenda Lee;['Pop'];148.0;0.0
+6;Burning Bridges;Jack Scott;['Country', 'Rock', 'Rock & Roll/Rockabilly'];165.0;0.0
+7;My Home Town;Paul Anka;['Pop'];30.0;0.0
+8;Mule Skinner Blues;The Fendermen;['Pop'];144.0;0.0
+9;A Rockin' Good Way (To Mess Around And Fall In Love);Dinah Washington & Brook Benton;['R&B'];148.0;0.0
+10;Only The Lonely (Know How I Feel);Roy Orbison;['Pop'];146.0;0.0
+11;Wonderful World;Sam Cooke;['R&B'];125.0;0.0
+12;Paper Roses;Anita Bryant;['Rock'];175.0;0.0
+13;Happy-Go-Lucky-Me;Paul Evans;['Pop'];116.0;0.0
+14;Alley-Oop;Dante and the Evergreens;['Rock', 'Rock & Roll/Rockabilly'];174.0;0.0
+15;Please Help Me, I'm Falling;Hank Locklin;['Pop'];133.0;0.0
+16;Good Timin';Jimmy Jones;['R&B'];130.0;0.0
+17;I Really Don't Want To Know;Tommy Edwards;['R&B'];139.0;0.0
+18;Won't You Come Home Bill Bailey;Bobby Darin;[];123.0;0.0
+19;When Will I Be Loved;The Everly Brothers;['Pop', 'Rock'];114.0;0.0
+20;Swingin' School;Bobby Rydell;['Pop'];134.0;0.0
+21;Tell Laura I Love Her;Ray Peterson;['Pop'];157.0;0.0
+22;Jealous Of You (Tango Della Gelosia);Connie Francis;['Pop'];147.0;0.0
+23;Love You So;Ron Holden with The Thunderbirds;[];;
+24;Runaround;The Fleetwoods;['Rock'];154.0;0.0
+25;Young Emotions;Ricky Nelson;['Classique', 'Rock'];154.0;0.0
+26;"Theme From ""The Unforgiven"" (The Need For Love)";Don Costa And His Orchestra And Chorus;['Films/Jeux vidéo', 'Musiques de films'];176.0;0.0
+27;Mack The Knife;Ella Fitzgerald;['Jazz'];297.0;0.0
+28;Pennies From Heaven;The Skyliners;['Pop'];129.0;0.0
+29;He'll Have To Stay;Jeanne Black;['Pop'];165.0;0.0
+30;Walking To New Orleans;Fats Domino;['Jazz'];118.0;0.0
+31;Ding-A-Ling;Bobby Rydell;['Pop'];149.0;0.0
+32;Josephine;Bill Black's Combo;[];146.0;0.0
+33;One Of Us (Will Weep Tonight);Patti Page;[];149.0;0.0
+34;Look For A Star;Garry Miles;['Pop'];144.0;0.0
+35;Another Sleepless Night;Jimmy Clanton;['Rock', 'Rock & Roll/Rockabilly'];130.0;0.0
+36;Look For A Star;Deane Hawley;['Rock'];129.0;0.0
+37;Train Of Love;Annette With The Afterbeats;[];;
+38;Stuck On You;Elvis Presley With The Jordanaires;[];;
+39;Sixteen Reasons;Connie Stevens;['Pop'];118.0;0.0
+40;Something Happened;Paul Anka;['Pop', 'Rock'];155.0;0.0
+41;I'm Gettin' Better;Jim Reeves;['Pop'];136.0;0.0
+42;Image Of A Girl;Safaris with The Phantom's Band;[];;
+43;Night;Jackie Wilson;['Rock'];164.0;0.0
+44;Greenfields;The Brothers Four;['Pop'];183.0;0.0
+45;There's Something On Your Mind (Part 2);Bobby Marchan;['R&B'];123.0;0.0
+46;Lonely Weekends;Charlie Rich;['Rock', 'Rock & Roll/Rockabilly'];127.0;0.0
+47;Down Yonder;Johnny And The Hurricanes;['Pop'];126.0;0.0
+48;Clap Your Hands;The Beau-Marks;['Rock'];121.0;0.0
+49;Is A Blue Bird Blue;Conway Twitty;['Country', 'Pop'];154.0;0.0
+50;All I Could Do Was Cry;Etta James;['R&B', 'Soul & Funk'];173.0;0.0
+51;Theme For Young Lovers;Percy Faith And His Orchestra;['Pop'];157.0;0.0
+52;Walking The Floor Over You;Pat Boone;['Pop'];144.0;0.0
+53;Lonely Winds;The Drifters;[];167.0;0.0
+54;Doggin' Around;Jackie Wilson;['Soul'];174.0;0.0
+55;Look For A Star;Billy Vaughn And His Orchestra;['Classique'];132.0;0.0
+56;Cherry Pie;Skip And Flip;['Pop'];135.0;0.0
+57;Banjo Boy;Jan And Kjeld;[];148.0;0.0
+58;Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini;Brian Hyland;['Rock', 'Rock & Roll/Rockabilly'];141.0;0.0
+59;Finger Poppin' Time;Hank Ballard And The Midnighters;['Pop'];133.0;0.0
+60;Hey Little One;Dorsey Burnette;['Country'];151.0;0.0
+61;Look For A Star - Part I;Garry Mills;[];;
+62;Spring Rain;Pat Boone;['Pop'];175.0;0.0
+63;Ooh Poo Pah Doo - Part II;Jessie Hill;['R&B', 'Soul'];138.0;0.0
+64;All The Love I've Got;Marv Johnson;[];150.0;0.0
+65;Bad Man Blunder;The Kingston Trio;[];157.0;0.0
+66;Where Are You;Frankie Avalon;['Pop'];158.0;0.0
+67;Trouble In Paradise;The Crests;['R&B'];144.0;0.0
+68;I Can't Help It;Adam Wade;['R&B', 'Soul & Funk'];155.0;0.0
+69;Dutchman's Gold;Walter Brennan With Billy Vaughn and his Orchestra;[];;
+70;Wake Me, Shake Me;The Coasters;['Dance', 'Pop'];149.0;0.0
+71;Sink The Bismark;Johnny Horton;['Country'];191.0;0.0
+72;Cradle Of Love;Johnny Preston;['Rock', 'Blues'];141.0;0.0
+73;Ain't Gonna Be That Way;Marv Johnson;['R&B'];150.0;0.0
+74;This Bitter Earth;Dinah Washington;['R&B'];147.0;0.0
+75;Is There Any Chance;Marty Robbins;['Country'];128.0;0.0
+76;Jump Over;Freddy Cannon;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];166.0;0.0
+77;My Tani;The Brothers Four;['Electro', 'Dance'];139.0;0.0
+78;Mission Bell;Donnie Brooks;['Pop'];148.0;0.0
+79;Question;Lloyd Price and His Orchestra;['Rock', 'Rock & Roll/Rockabilly'];147.0;0.0
+80;There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers);Red River Dave;[];;
+81;Johnny Freedom;Johnny Horton;['Country'];167.0;0.0
+82;Heartbreak (It's Hurtin' Me);Little Willie John;['R&B', 'Soul & Funk'];169.0;0.0
+83;Maria;Johnny Mathis;['Pop'];178.0;0.0
+84;National City;Joiner, Arkansas Junior High School Band;[];;
+85;Sticks And Stones;Ray Charles and his Orchestra;[];;
+86;Exclusively Yours;Carl Dobkins, Jr.;['Rock'];139.0;0.0
+87;Mountain Of Love;Harold Dorman;['Pop'];142.0;0.0
+88;Heartbreak (It's Hurtin' Me);Jon Thomas and Orchestra;[];;
+89;Don't Come Knockin';Fats Domino;['Rock', 'Rock & Roll/Rockabilly'];117.0;0.0
+90;One Boy;Joanie Sommers;['Pop', 'Folk'];196.0;0.0
+91;Feel So Fine;Johnny Preston;['Rock', 'Rock & Roll/Rockabilly', 'R&B', 'Soul & Funk'];125.0;0.0
+92;Do You Mind?;Andy Williams;['Dance', 'Pop'];132.0;0.0
+93;You Were Born To Be Loved;Billy Bland;['R&B vieille école'];141.0;0.0
+94;I Shot Mr. Lee;The Bobbettes;['R&B'];134.0;0.0
+95;Second Honeymoon;Johnny Cash;['Country'];114.0;0.0
+96;Stairway To Heaven;Neil Sedaka;['Pop'];159.0;0.0
+97;Too Young To Go Steady;Connie Stevens;['Pop'];132.0;0.0
+98;Pink Chiffon;Mitchell Torok;['Rock', 'Rock & Roll/Rockabilly'];150.0;0.0
+99;Over The Rainbow;The Demensions;['Pop'];179.0;0.0

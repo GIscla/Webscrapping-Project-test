@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;To Be With You;Mr. Big;['Rock'];210.0;0.0
+1;I'm Too Sexy;Right Said Fred;['Electro', 'Dance'];170.0;0.0
+2;Remember The Time;Michael Jackson;['Pop'];239.0;0.0
+3;I Love Your Smile;Shanice;['Pop'];228.0;0.0
+4;Save The Best For Last;Vanessa Williams;['Pop'];219.0;0.0
+5;Tears In Heaven;Eric Clapton;['Rock', 'Rock & Roll/Rockabilly'];280.0;0.0
+6;Diamonds And Pearls;Prince And The N.P.G.;[];;
+7;Masterpiece;Atlantic Starr;['Pop'];295.0;0.0
+8;Tell Me What You Want Me To Do;Tevin Campbell;['R&B'];256.0;0.0
+9;Good For Me;Amy Grant;['Pop'];239.0;0.0
+10;Don't Let The Sun Go Down On Me;George Michael/Elton John;['Pop'];347.0;0.0
+11;Smells Like Teen Spirit;Nirvana;['Rock'];301.0;0.0
+12;Missing You Now;Michael Bolton;['Pop'];274.0;0.0
+13;All 4 Love;Color Me Badd;['Pop'];211.0;0.0
+14;I Can't Dance;Genesis;['Rock'];241.0;0.0
+15;Uhh Ahh;Boyz II Men;['R&B'];228.0;0.0
+16;Finally;CeCe Peniston;['Dance'];249.0;0.0
+17;Breakin' My Heart (Pretty Brown Eyes);Mint Condition;['R&B'];356.0;0.0
+18;Justified And Ancient;The KLF Featuring Tammy Wynette;[];;
+19;Vibeology;Paula Abdul;['Pop'];316.0;0.0
+20;I'll Get By;Eddie Money;['Rock'];212.0;0.0
+21;The Way I Feel About You;Karyn White;['Dance'];275.0;0.0
+22;Thinkin' Back;Color Me Badd;['Pop'];322.0;0.0
+23;Beauty And The Beast;Celine Dion And Peabo Bryson;['Pop', 'Pop internationale', 'Rock'];244.0;0.0
+24;Mysterious Ways;U2;['Rock'];243.0;0.0
+25;Can't Let Go;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];267.0;0.0
+26;What Becomes Of The Brokenhearted;Paul Young;['Pop'];273.0;0.0
+27;Make It Happen;Mariah Carey;['Pop', 'Rock'];307.0;0.0
+28;2 Legit 2 Quit;M.C. Hammer;['Pop'];237.0;0.0
+29;Until Your Love Comes Back Around;RTZ;['Pop'];360.0;0.0
+30;Oochie Coochie;M.C. Brains;['Rap/Hip Hop'];221.0;0.0
+31;Keep It Comin';Keith Sweat;['Dance', 'Rock'];246.0;0.0
+32;I Can't Make You Love Me;Bonnie Raitt;['Country'];331.0;0.0
+33;We Got A Love Thang;CeCe Peniston;['R&B'];251.0;0.0
+34;Paper Doll;P.M. Dawn;['R&B'];293.0;1.0
+35;If You Go Away;NKOTB;['Pop'];331.0;0.0
+36;Everything Changes;Kathy Troccoli;[];262.0;0.0
+37;Hazard;Richard Marx;['Pop'];316.0;0.0
+38;Again Tonight;John Mellencamp;['Rock'];197.0;0.0
+39;Romeo & Juliet;Stacy Earl (Featuring The Wild Pair);['R&B'];255.0;0.0
+40;Move Any Mountain;The Shamen;['Alternative'];208.0;0.0
+41;Is It Good To You;Heavy D & The Boyz;['R&B'];292.0;0.0
+42;Stay;Jodeci;['R&B'];310.0;0.0
+43;A Deeper Love/Pride In The Name Of Love;Clivilles & Cole;[];;
+44;Stars;Simply Red;['Pop'];248.0;0.0
+45;Too Much Passion;The Smithereens;['Rock'];275.0;0.0
+46;On A Sunday Afternoon;Lighter Shade Of Brown;['Rap/Hip Hop', 'Old School'];212.0;1.0
+47;Too Blind To See It;Kym Sims;['Pop'];211.0;0.0
+48;Kiss You Back;Digital Underground;['Rap/Hip Hop'];221.0;0.0
+49;Baby Hold On To Me;Gerald Levert (Duet With Eddie Levert);[];;
+50;Mama, I'm Coming Home;Ozzy Osbourne;['Rock', 'Hard Rock', 'Metal'];251.0;0.0
+51;Black Or White;Michael Jackson;['Pop'];254.0;0.0
+52;You Showed Me;Salt-N-Pepa;['Rap/Hip Hop'];204.0;0.0
+53;Addams Groove;M.C. Hammer;['Rap/Hip Hop'];239.0;0.0
+54;Live And Let Die;Guns N' Roses;['Rock'];183.0;0.0
+55;No Son Of Mine;Genesis;['Rock'];400.0;0.0
+56;Can't Cry Hard Enough;The Williams Brothers;['Rock'];192.0;0.0
+57;You Are The One;Chris Cuevas;['Dance', 'Rock'];257.0;0.0
+58;What Goes Around Comes Around;Giggles;['Electro', 'Dance'];223.0;0.0
+59;Church Of Your Heart;Roxette;['Pop'];195.0;0.0
+60;I Need Money;Marky Mark & The Funky Bunch;['Rap/Hip Hop'];196.0;0.0
+61;Everything's Gonna Be Alright;Naughty By Nature;['Rap/Hip Hop', 'Rock', 'Hard Rock'];291.0;1.0
+62;Right Now;Van Halen;['Pop'];321.0;0.0
+63;There Will Never Be Another Tonight;Bryan Adams;['Pop'];280.0;0.0
+64;I've Got A Lot To Learn About Love;The Storm;['Rock'];265.0;0.0
+65;Ain't 2 Proud 2 Beg;TLC;['R&B', 'Soul'];336.0;0.0
+66;I Wanna Be Your Girl;Icy Blu;[];;
+67;Wildside;Marky Mark & The Funky Bunch;['Rap/Hip Hop'];304.0;0.0
+68;The Choice Is Yours;Black Sheep;['R&B'];243.0;0.0
+69;The Unforgiven;Metallica;['Pop'];386.0;0.0
+70;In Paradise;Laissez Faire;['Electro'];349.0;0.0
+71;The Globe;Big Audio;['Rock'];257.0;0.0
+72;I'm The One You Need;Jody Watley;['R&B'];262.0;0.0
+73;Nu Nu;Lidell Townsell;['Pop'];199.0;0.0
+74;Love Me All Up;Stacy Earl;['R&B'];297.0;0.0
+75;Kissing The Wind;Nia Peeples;[];;
+76;How I Could Just Kill A Man/The Phuncky Feel One;Cypress Hill;[];;
+77;Keep Coming Back;Richard Marx;['Pop'];409.0;0.0
+78;Ain't Gonna Hurt Nobody;Kid 'N Play;['Rap/Hip Hop', 'R&B'];298.0;1.0
+79;Caribbean Blue;Enya;['Pop'];239.0;0.0
+80;Everlasting Love;Tony Terry;['R&B'];318.0;0.0
+81;Forever My Lady;Jodeci;['R&B'];315.0;0.0
+82;Hearts Don't Think (They Feel);Natural Selection;['Pop'];256.0;0.0
+83;Don't Lose The Magic;Shawn Christopher;['Dance'];475.0;0.0
+84;Change;Lisa Stansfield;['Pop'];274.0;0.0
+85;Boom! I Got Your Boyfriend;MC Luscious;['Dance', 'Rap/Hip Hop'];266.0;1.0
+86;All Woman;Lisa Stansfield;['Pop'];315.0;0.0
+87;Hold On (Tighter To Love);Clubland;['Dance'];404.0;0.0
+88;Poor Georgie;MC Lyte;['Rap/Hip Hop'];270.0;1.0
+89;Spending My Time;Roxette;['Pop'];275.0;0.0
+90;I Want You;Jody Watley;['Pop'];262.0;0.0
+91;You Think You Know Her;Cause And Effect;['Rock'];283.0;0.0
+92;In My Dreams;The Party;['R&B'];202.0;0.0
+93;Do You Want It Right Now;Degrees Of Motion;['Dance'];559.0;0.0
+94;Peace Of Mind (Love Goes On);One 2 One;[];;
+95;Juice (Know The Ledge);Eric B. & Rakim;['R&B'];241.0;0.0
+96;Only Love Can Break Your Heart;St. Etienne;['Pop'];269.0;0.0
+97;You're All That Matters To Me;Curtis Stigers;['Pop'];280.0;0.0
+98;Send Me An Angel;Scorpions;['Rock'];273.0;0.0
+99;Cold Shower;Erin Cruise;[];;

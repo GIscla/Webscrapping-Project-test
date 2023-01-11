@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'm A Believer;The Monkees;['Pop'];167.0;0.0
+1;Snoopy Vs. The Red Baron;The Royal Guardsmen;['Rock'];160.0;0.0
+2;Tell It Like It Is;Aaron Neville;['Soul'];165.0;0.0
+3;Winchester Cathedral;The New Vaudeville Band;['Pop'];146.0;0.0
+4;Sugar Town;Nancy Sinatra;['Pop'];143.0;0.0
+5;That's Life;Frank Sinatra;['Jazz'];187.0;0.0
+6;Good Thing;Paul Revere & The Raiders Featuring Mark Lindsay;['Rock'];167.0;0.0
+7;Words Of Love;The Mamas & The Papas;['Pop'];135.0;0.0
+8;Standing In The Shadows Of Love;Four Tops;['R&B'];161.0;0.0
+9;Mellow Yellow;Donovan;['Pop'];227.0;0.0
+10;Coming Home Soldier;Bobby Vinton;[];151.0;0.0
+11;Single Girl;Sandy Posey;['Pop'];152.0;0.0
+12;(I Know) I'm Losing You;The Temptations;['Pop'];142.0;0.0
+13;Devil With A Blue Dress On & Good Golly Miss Molly;Mitch Ryder And The Detroit Wheels;['Rock'];210.0;0.0
+14;Tell It To The Rain;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+15;Talk Talk;The Music Machine;['Rock'];118.0;0.0
+16;Good Vibrations;The Beach Boys;['Rock'];216.0;0.0
+17;Cry;Ronnie Dove;['Pop'];184.0;0.0
+18;A Place In The Sun;Stevie Wonder;['R&B'];170.0;0.0
+19;Georgy Girl;The Seekers;['Rock'];140.0;0.0
+20;You Keep Me Hangin' On;The Supremes;['R&B'];161.0;0.0
+21;Born Free;Roger Williams;['Pop'];143.0;0.0
+22;I've Passed This Way Before;Jimmy Ruffin;['Rap/Hip Hop', 'Soul'];181.0;0.0
+23;Nashville Cats;The Lovin' Spoonful;['Pop'];156.0;0.0
+24;I Need Somebody;? (Question Mark) & The Mysterians;['Alternative', 'Rock indé', 'Pop', 'Rock', 'Rock & Roll/Rockabilly'];162.0;0.0
+25;Mustang Sally;Wilson Pickett;['R&B'];186.0;0.0
+26;East West;Herman's Hermits;['Rock'];120.0;0.0
+27;Color My World;Petula Clark;['Pop'];175.0;0.0
+28;Help Me Girl;Eric Burdon & The Animals;['R&B'];155.0;0.0
+29;Happenings Ten Years Time Ago;The Yardbirds;['Alternative', 'Rock'];177.0;0.0
+30;(We Ain't Got) Nothin' Yet;Blues Magoos;['Rock'];135.0;0.0
+31;(I'm Not Your) Steppin' Stone;The Monkees;['Pop'];144.0;0.0
+32;Gallant Men;Senator Everett McKinley Dirksen;['Rock'];160.0;0.0
+33;Try A Little Tenderness;Otis Redding;['R&B'];201.0;0.0
+34;Lady Godiva;Peter And Gordon;['Pop'];146.0;0.0
+35;There's Got To Be A Word!;The Innocence;['Rock'];144.0;0.0
+36;98.6;Keith;['Pop', 'Rock'];194.0;0.0
+37;Whispers (Gettin' Louder);Jackie Wilson;['R&B', 'Soul'];139.0;0.0
+38;Where Will The Words Come From;Gary Lewis And The Playboys;['Pop'];121.0;0.0
+39;Mame;Herb Alpert & The Tijuana Brass;['Jazz'];127.0;0.0
+40;Knight In Rusty Armour;Peter And Gordon;['Pop'];158.0;0.0
+41;Blue Autumn;Bobby Goldsboro;['Country'];188.0;0.0
+42;Stand By Me;Spyder Turner;['Rock'];182.0;0.0
+43;Pandora's Golden Heebie Jeebies;The Association;['Pop', 'Rock'];171.0;0.0
+44;I Fooled You This Time;Gene Chandler;['R&B', 'Soul'];173.0;0.0
+45;I (Who Have Nothing);Terry Knight and The Pack;['Pop'];204.0;0.0
+46;I Had Too Much To Dream (Last Night);The Electric Prunes;['Pop'];177.0;0.0
+47;Look What You've Done;Pozo Seco Singers;['Country'];166.0;0.0
+48;Papa Was Too;Joe Tex;['R&B'];180.0;0.0
+49;How Do You Catch A Girl;Sam The Sham and the Pharaohs;['Soul & Funk'];139.0;0.0
+50;Green, Green Grass Of Home;Tom Jones;['Pop'];184.0;0.0
+51;Goodnight My Love;The Happenings;['Pop'];150.0;0.0
+52;Wack Wack;The Young Holt Trio;['Soul'];178.0;0.0
+53;The Eggplant That Ate Chicago;Dr. West's Medicine Show and Junk Band;['Rock', 'Rock Indé/Pop Rock'];163.0;0.0
+54;You Can Bring Me All Your Heartaches;Lou Rawls;['R&B'];154.0;0.0
+55;Bad Misunderstanding;The Critters;['Alternative', 'Rock indé', 'Rock'];119.0;0.0
+56;Karate;The Emperor's;[];;
+57;Music To Watch Girls By;Bob Crewe Generation;['Pop'];177.0;0.0
+58;Another Night;Dionne Warwick;['Pop'];148.0;0.0
+59;Communication Breakdown;Roy Orbison;['Rock'];181.0;0.0
+60;Grizzly Bear;The Youngbloods;['Pop'];144.0;0.0
+61;Baby What I Mean;The Drifters;['R&B', 'Soul & Funk', 'Soul'];153.0;0.0
+62;(Open Up The Door) Let The Good Times In;Dean Martin;['Pop'];198.0;0.0
+63;It's Now Winters Day;Tommy Roe;['Rock'];140.0;0.0
+64;Hello Hello;"The Sopwith ""Camel""";['Rock'];154.0;0.0
+65;Kind Of A Drag;The Buckinghams;['Rock'];124.0;0.0
+66;Hey, Leroy, Your Mama's Callin' You;Jimmy Castor;['R&B'];150.0;0.0
+67;The Girl That Stood Beside Me;Bobby Darin;[];;
+68;There's Something On Your Mind;Baby Ray;['Rock', 'Blues'];160.0;0.0
+69;Just One Smile;Gene Pitney;['Pop'];164.0;0.0
+70;I'm Gonna Miss You;The Artistics;['Soul'];159.0;0.0
+71;Wish Me A Rainbow;The Gunter Kallmann Chorus;[];207.0;0.0
+72;If You Go Away;Damita Jo;['Pop'];124.0;0.0
+73;Day Tripper;Ramsey Lewis;['Jazz'];191.0;0.0
+74;Dancing In The Street;The Mamas & The Papas;['Pop'];229.0;0.0
+75;Pushin' Too Hard;The Seeds;['Alternative', 'Rock indé', 'Pop', 'Rock'];158.0;0.0
+76;Wild Thing;Senator Bobby Featuring Bill Minkin;[];;
+77;Bring It Up;James Brown And The Famous Flames;['Dance', 'Pop', 'Rock', 'Soul & Funk', 'Soul'];165.0;0.0
+78;Are You Lonely For Me;Freddy Scott;[];;
+79;Gimme Some Lovin';The Spencer Davis Group;['Pop'];178.0;0.0
+80;Constant Rain (Chove Chuva);Sergio Mendes & Brasil '66;['Latino'];200.0;0.0
+81;Mercy, Mercy, Mercy;Cannonball Adderley;['Jazz'];310.0;0.0
+82;I Dig Girls;J.J. Jackson;['R&B', 'Soul'];141.0;0.0
+83;I've Got To Have A Reason;The Dave Clark Five;['Rock'];111.0;0.0
+84;Oh Yeah!;The Joe Cuba Sextet;[];;
+85;You Got Me Hummin';Sam & Dave;['Rock'];170.0;0.0
+86;Look At Granny Run, Run;Howard Tate;['R&B', 'Soul'];157.0;0.0
+87;It Takes Two;Marvin Gaye & Kim Weston;['R&B'];176.0;0.0
+88;Take Me For A Little While;Patti LaBelle And The Blue Belles;[];;
+89;Let's Fall In Love;Peaches & Herb;['Pop'];158.0;0.0
+90;I Got To Go Back (And Watch That Little Girl Dance);The McCoys;['Rock'];181.0;0.0
+91;Love Me;Bobby Hebb;['Soul'];125.0;0.0
+92;The Shadow Of Your Smile;Boots Randolph;['Jazz'];189.0;0.0
+93;Walk With Faith In Your Heart;The Bachelors;['Pop', 'R&B'];164.0;0.0
+94;Tiny Bubbles;Don Ho and the Aliis;[];163.0;0.0
+95;Pretty Ballerina;The Left Banke;['Rock'];158.0;0.0
+96;Fortune Teller;The Hardtimes;[];140.0;0.0
+97;Deadend Street;The Kinks;['Rock'];202.0;0.0
+98;Full Measure;The Lovin' Spoonful;['Pop'];159.0;0.0
+99;There Goes My Everything;Jack Greene;['Pop'];148.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Ringo;Lorne Greene;['Pop'];215.0;0.0
+1;Mr. Lonely;Bobby Vinton;['Pop'];161.0;0.0
+2;Leader Of The Pack;The Shangri-Las;['Rock'];173.0;0.0
+3;She's Not There;The Zombies;['Rock'];145.0;0.0
+4;Baby Love;The Supremes;['Pop'];154.0;0.0
+5;Time Is On My Side;The Rolling Stones;['Rock'];180.0;0.0
+6;You Really Got Me;The Kinks;['Pop'];134.0;0.0
+7;Come See About Me;The Supremes;['Pop'];160.0;0.0
+8;Mountain Of Love;Johnny Rivers;['Pop'];140.0;0.0
+9;I'm Gonna Be Strong;Gene Pitney;['Pop'];134.0;0.0
+10;Come A Little Bit Closer;Jay & The Americans;['Rock'];166.0;0.0
+11;Ask Me;Elvis Presley With The Jordanaires;[];;
+12;Dance, Dance, Dance;The Beach Boys;['Rock'];140.0;0.0
+13;Right Or Wrong;Ronnie Dove;['Soul'];133.0;0.0
+14;I'm Into Something Good;Herman's Hermits;['Rock'];155.0;0.0
+15;Last Kiss;J. Frank Wilson and The Cavaliers;['Rock'];148.0;0.0
+16;Goin' Out Of My Head;Little Anthony And The Imperials;['R&B'];146.0;0.0
+17;Everything's Alright;The Newbeats;['Pop', 'Rock'];136.0;0.0
+18;Sha La La;Manfred Mann;['Pop'];160.0;0.0
+19;Big Man In Town;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+20;The Jerk;The Larks;['R&B', 'Soul'];153.0;0.0
+21;I Feel Fine;The Beatles;['Rock'];139.0;0.0
+22;Walking In The Rain;The Ronettes;['Pop', 'Pop internationale', 'Rock'];196.0;0.0
+23;Saturday Night At The Movies;The Drifters;['Pop'];147.0;0.0
+24;Sidewalk Surfin';Jan & Dean;['Rock'];156.0;0.0
+25;Reach Out For Me;Dionne Warwick;['Pop'];172.0;0.0
+26;Ain't That Loving You Baby;Elvis Presley;['Rock'];114.0;0.0
+27;Have I The Right?;The Honeycombs;['Rock'];178.0;0.0
+28;Is It True;Brenda Lee;['Country'];145.0;0.0
+29;My Love, Forgive Me (Amore, Scusami);Robert Goulet;['Pop'];165.0;0.0
+30;Any Way You Want It;The Dave Clark Five;['Rock'];150.0;0.0
+31;Gone, Gone, Gone;The Everly Brothers;['Pop', 'Rock'];123.0;0.0
+32;Oh No Not My Baby;Maxine Brown;['R&B', 'Soul & Funk', 'Soul'];156.0;0.0
+33;Oh, Pretty Woman;Roy Orbison And The Candy Men;[];;
+34;The Door Is Still Open To My Heart;Dean Martin;['Pop'];171.0;0.0
+35;She Understands Me;Johnny Tillotson;['Pop'];125.0;0.0
+36;The Wedding;Julie Rogers;['Pop'];151.0;0.0
+37;Too Many Fish In The Sea;The Marvelettes;['R&B'];148.0;0.0
+38;Slaughter On Tenth Avenue;The Ventures;['Pop'];149.0;0.0
+39;Who Can I Turn To (When Nobody Needs Me);Tony Bennett;['Pop'];231.0;0.0
+40;We Could;Al Martino;['Pop'];146.0;0.0
+41;Shaggy Dog;Mickey Lee Lane;['Rock'];169.0;0.0
+42;Amen;The Impressions;['R&B'];207.0;0.0
+43;Willow Weep For Me;Chad & Jeremy;['Rock'];151.0;0.0
+44;Ain't It The Truth;Mary Wells;['Pop', 'R&B', 'Soul'];166.0;0.0
+45;She's A Woman;The Beatles;['Rock'];182.0;0.0
+46;Don't Ever Leave Me;Connie Francis;['Pop'];163.0;0.0
+47;Run, Run, Run;The Gestures;['Rock'];139.0;0.0
+48;How Sweet It Is To Be Loved By You;Marvin Gaye;['R&B'];177.0;0.0
+49;As Tears Go By;Marianne Faithfull;['Rock'];156.0;0.0
+50;Without The One You Love (Life's Not Worth While);Four Tops;[];;
+51;Thou Shalt Not Steal;Dick and DeeDee;['Pop', 'Rock'];113.0;0.0
+52;Dear Heart;Andy Williams;[];168.0;0.0
+53;One More Time;The Ray Charles Singers;[];177.0;0.0
+54;Keep Searchin' (We'll Follow The Sun);Del Shannon;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];138.0;0.0
+55;S-W-I-M;Bobby Freeman;['Electro', 'Dance'];159.0;0.0
+56;Dear Heart;Jack Jones;['Jazz'];156.0;0.0
+57;It Ain't Me, Babe;Johnny Cash;['Country'];183.0;0.0
+58;Since I Don't Have You;Chuck Jackson;['Pop', 'Rock'];177.0;0.0
+59;Needle In A Haystack;The Velvelettes;[];151.0;0.0
+60;Love Potion Number Nine;The Searchers;['Pop', 'Rock'];120.0;0.0
+61;Walk Away;Matt Monro;['Pop'];187.0;0.0
+62;Wild One;Martha & The Vandellas;['Pop'];164.0;0.0
+63;Opportunity;The Jewels;['Rock', 'Rock & Roll/Rockabilly'];144.0;0.0
+64;Listen Lonely Girl;Johnny Mathis;['Pop'];151.0;0.0
+65;Four Strong Winds;Bobby Bare;['Country'];164.0;0.0
+66;Almost There;Andy Williams;['Pop'];178.0;0.0
+67;The Price;Solomon Burke;['R&B'];172.0;0.0
+68;The 81;Candy & The Kisses;['Pop', 'Rock', 'R&B', 'Soul'];151.0;0.0
+69;Roses Are Red My Love;"The ""You Know Who"" Group!";[];;
+70;Do-Wacka-Do;Roger Miller;['Country', 'Rock'];105.0;0.0
+71;If You Want This Love;Sonny Knight;['Pop'];198.0;0.0
+72;(There's) Always Something There To Remind Me;Sandie Shaw;['Rock'];159.0;0.0
+73;I'm Gonna Love You Too;The Hullaballoos;['R&B'];122.0;0.0
+74;California Bound;Ronny And The Daytonas;['Pop'];135.0;0.0
+75;Don't Forget I Still Love You;Bobbi Martin;['Country'];160.0;0.0
+76;It's All Over;Walter Jackson;['R&B'];179.0;0.0
+77;What Now;Gene Chandler;['Electro', 'Dance'];172.0;0.0
+78;Smile;Betty Everett & Jerry Butler;['Rock'];172.0;0.0
+79;Leader Of The Laundromat;The Detergents;['Rock'];191.0;0.0
+80;Hawaii Tattoo;The Waikikis;[];142.0;0.0
+81;Do Anything You Wanna (Part I);Harold Betters;[];;
+82;Getting Mighty Crowded;Betty Everett;['Soul'];138.0;0.0
+83;A Woman's Love;Carla Thomas;['R&B', 'Soul & Funk', 'Soul'];174.0;0.0
+84;Hey Little One;J. Frank Wilson and The Cavaliers;[];;
+85;Scratchy;Travis Wammack;['Classique', 'Rock'];156.0;0.0
+86;Party Girl;Tommy Roe;['Country', 'Folk'];157.0;0.0
+87;Sometimes I Wonder;Major Lance;['Pop'];132.0;0.0
+88;Boom Boom;The Animals;['Rock'];198.0;0.0
+89;Lovin' Place;Gale Garnett;['Rock', 'Rock & Roll/Rockabilly'];171.0;0.0
+90;A Happy Guy;Rick Nelson;['Pop'];135.0;0.0
+91;Here She Comes;The Tymes;['Pop', 'Soul'];143.0;0.0
+92;I Won't Forget You;Jim Reeves;['Country', 'Pop', 'Pop internationale', 'Rock'];120.0;0.0
+93;You're The Only World I Know;Sonny James;['Country'];138.0;0.0
+94;Talk To Me Baby;Barry Mann;['Pop'];138.0;0.0
+95;Endless Sleep;Hank Williams Jr.;['Country'];150.0;0.0
+96;Pretend You Don't See Her;Bobby Vee;['Pop'];141.0;0.0
+97;Fiddler On The Roof;The Village Stompers;['Folk'];154.0;0.0
+98;Rome Will Never Leave You;Richard Chamberlain;['Pop'];147.0;0.0
+99;I Don't Want To Walk Without You;Phyllis McGuire;[];;

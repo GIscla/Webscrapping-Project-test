@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Wake Me Up Before You Go-Go;Wham!;['Pop'];231.0;0.0
+1;Out Of Touch;Daryl Hall John Oates;['Pop', 'Rock'];235.0;0.0
+2;I Feel For You;Chaka Khan;['Dance', 'Rock'];343.0;0.0
+3;Purple Rain;Prince And The Revolution;['Pop', 'R&B', 'Soul'];1134.0;0.0
+4;Better Be Good To Me;Tina Turner;['R&B'];310.0;0.0
+5;All Through The Night;Cyndi Lauper;['Pop'];270.0;0.0
+6;The Wild Boys;Duran Duran;['Rock'];257.0;0.0
+7;Penny Lover;Lionel Richie;['Pop'];225.0;0.0
+8;Strut;Sheena Easton;['Pop'];241.0;0.0
+9;No More Lonely Nights;Paul McCartney;['Rock'];283.0;0.0
+10;Sea Of Love;The Honeydrippers;['Rock'];183.0;0.0
+11;Caribbean Queen (No More Love On The Run);Billy Ocean;['Pop', 'Rock', 'R&B'];244.0;0.0
+12;Cool It Now;New Edition;['R&B'];347.0;0.0
+13;We Belong;Pat Benatar;['Rock'];219.0;0.0
+14;I Can't Hold Back;Survivor;['Pop'];239.0;0.0
+15;I Just Called To Say I Love You;Stevie Wonder;['Pop'];261.0;0.0
+16;It Ain't Enough;Corey Hart;['Rock'];209.0;0.0
+17;Valotte;Julian Lennon;['Pop'];214.0;0.0
+18;Walking On A Thin Line;Huey Lewis & The News;['Pop'];310.0;0.0
+19;Desert Moon;Dennis DeYoung;['Alternative'];369.0;0.0
+20;Like A Virgin;Madonna;['Pop'];218.0;0.0
+21;Blue Jean;David Bowie;['Rock'];192.0;0.0
+22;Hard Habit To Break;Chicago;['Rock'];284.0;0.0
+23;All I Need;Jack Wagner;['Pop'];207.0;0.0
+24;Do What You Do;Jermaine Jackson;['Pop'];248.0;0.0
+25;Hello Again;The Cars;['Pop'];228.0;0.0
+26;Born In The USA;Bruce Springsteen;['Rock'];278.0;0.0
+27;We Are The Young;Dan Hartman;['Dance'];257.0;0.0
+28;Run To You;Bryan Adams;['Pop'];233.0;0.0
+29;The War Song;Culture Club;['Pop'];256.0;0.0
+30;I Do'wanna Know;REO Speedwagon;['Pop'];253.0;0.0
+31;Centipede;Rebbie Jackson;['R&B'];179.0;0.0
+32;What About Me?;Kenny Rogers With Kim Carnes & James Ingram;[];;
+33;Understanding;Bob Seger;['Rock'];271.0;0.0
+34;Stranger In Town;Toto;['Rock'];286.0;0.0
+35;You're The Inspiration;Chicago;['Rock'];227.0;0.0
+36;Tears;John Waite;[];237.0;0.0
+37;I Can't Drive 55;Sammy Hagar;['Rock'];252.0;0.0
+38;(Pride) In The Name Of Love;U2;['Rock'];228.0;0.0
+39;Jamie;Ray Parker Jr.;['Pop', 'R&B'];256.0;0.0
+40;Hands Tied;Scandal Featuring Patty Smyth;[];;
+41;The Boys Of Summer;Don Henley;['Rock'];288.0;0.0
+42;The Belle Of St. Mark;Sheila E.;['Pop'];306.0;0.0
+43;I Need You Tonight;Peter Wolf;[];215.0;0.0
+44;Easy Lover;Philip Bailey With Phil Collins;['Pop', 'Rock', 'R&B', 'R&B contemporain'];304.0;0.0
+45;Tender Years;John Cafferty & The Beaver Brown Band;['Rock'];396.0;0.0
+46;Two Tribes;Frankie Goes To Hollywood;['Dance'];208.0;0.0
+47;Don't Stop;Jeffrey Osborne;['R&B'];248.0;0.0
+48;Teacher Teacher;38 Special;['Rock'];192.0;0.0
+49;Had A Dream (Sleeping With The Enemy);Roger Hodgson;['Rock'];506.0;0.0
+50;Bruce;Rick Springfield;['Pop'];216.0;0.0
+51;Call To The Heart;Giuffria;['Rock'];277.0;0.0
+52;Catch My Fall;Billy Idol;['Rock'];222.0;0.0
+53;I'm So Excited;The Pointer Sisters;['R&B'];230.0;0.0
+54;On The Dark Side;John Cafferty & The Beaver Brown Band;['Rock'];112.0;0.0
+55;Lover Boy;Billy Ocean;['Pop', 'R&B'];249.0;0.0
+56;Ti Amo;Laura Branigan;['Pop'];256.0;0.0
+57;Girls With Guns;Tommy Shaw;['Rock'];190.0;0.0
+58;Foolish Heart;Steve Perry;['Rock'];219.0;0.0
+59;Taxi Dancing;Rick Springfield With Randy Crawford;[];;
+60;Jungle Love;The Time;['R&B'];333.0;0.0
+61;Solid;Ashford & Simpson;['Rap/Hip Hop'];312.0;0.0
+62;Concealed Weapons;The J. Geils Band;[];;
+63;Love Light In Flight;Stevie Wonder;['Pop'];414.0;0.0
+64;Neutron Dance;The Pointer Sisters;['Films/Jeux vidéo', 'Musiques de films'];253.0;0.0
+65;Heaven (Must Be There);Eurogliders;['Pop'];220.0;0.0
+66;Misled;Kool & The Gang;['R&B'];298.0;0.0
+67;Tenderness;General Public;['Pop'];211.0;0.0
+68;The Gap;Thompson Twins;['Pop', 'Rock'];286.0;0.0
+69;Sunshine In The Shade;The Fixx;['Rock', 'Rock & Roll/Rockabilly'];219.0;0.0
+70;In Neon;Elton John;['Pop'];259.0;0.0
+71;The Wild Life;Bananarama;['Pop'];197.0;0.0
+72;Sugar Don't Bite;Sam Harris;['Pop'];245.0;0.0
+73;Tonight;David Bowie;['R&B'];255.0;0.0
+74;Supernatural Love;Donna Summer;['Pop'];373.0;0.0
+75;Some Guys Have All The Luck;Rod Stewart;['Pop', 'Rock'];283.0;0.0
+76;Hot For Teacher;Van Halen;['Rock', 'Hard Rock'];282.0;0.0
+77;Let's Go Crazy;Prince And The Revolution;['Pop', 'R&B', 'Soul'];350.0;0.0
+78;Amnesia;Shalamar;['Rap/Hip Hop', 'Disco', 'Soul'];256.0;0.0
+79;Heaven's On fire;KISS;['Rock'];201.0;0.0
+80;Sex Crime (Nineteen Eighty-Four);Eurythmics;['Films/Jeux vidéo', 'Musiques de films'];239.0;0.0
+81;Missing You;Diana Ross;['Pop'];260.0;0.0
+82;Body;The Jacksons;['Pop', 'Pop internationale', 'Rock'];233.0;0.0
+83;Operator;Midnight Star;['R&B'];465.0;0.0
+84;Big In Japan;Alphaville;['Pop'];286.0;0.0
+85;Lucky Star;Madonna;['Pop'];337.0;0.0
+86;Thief Of Hearts;Melissa Manchester;['Films/Jeux vidéo', 'Musiques de films'];221.0;0.0
+87;Who Wears These Shoes?;Elton John;['Pop'];243.0;0.0
+88;Swept Away;Diana Ross;['Pop'];260.0;0.0
+89;Cover Me;Bruce Springsteen;['Rock'];259.0;0.0
+90;The Glamorous Life;Sheila E.;['Pop'];543.0;0.0
+91;Drive;The Cars;['Pop'];237.0;0.0
+92;I Wanna Rock;Twisted Sister;['Rock', 'Hard Rock'];183.0;0.0
+93;After All;Al Jarreau;['Jazz'];261.0;0.0
+94;Let It All Blow;Dazz Band;['R&B', 'Soul & Funk'];354.0;0.0
+95;Missing You;John Waite;['Pop'];269.0;0.0
+96;Left In The Dark;Barbra Streisand;['Pop'];429.0;0.0
+97;Love Again;John Denver & Sylvie Vartan;['Country'];172.0;0.0
+98;Edge of a Dream;Joe Cocker;['Films/Jeux vidéo', 'Musiques de films'];235.0;0.0
+99;Strung Out;Steve Perry;['Rock'];225.0;0.0

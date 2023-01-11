@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;We Are Never Ever Getting Back Together;Taylor Swift;['Country'];193.0;0.0
+1;Whistle;Flo Rida;['Rap/Hip Hop'];225.0;0.0
+2;Lights;Ellie Goulding;['Pop'];210.0;0.0
+3;Call Me Maybe;Carly Rae Jepsen;['Pop'];193.0;0.0
+4;Wide Awake;Katy Perry;['Pop'];220.0;0.0
+5;Some Nights;fun.;['Alternative'];277.0;1.0
+6;Payphone;Maroon 5 Featuring Wiz Khalifa;['Pop'];231.0;0.0
+7;As Long As You Love Me;Justin Bieber Featuring Big Sean;['Pop'];222.0;0.0
+8;One More Night;Maroon 5;['Pop'];219.0;0.0
+9;Titanium;David Guetta Featuring Sia;['Dance'];245.0;0.0
+10;Somebody That I Used To Know;Gotye Featuring Kimbra;['Alternative', 'Pop Indé', 'Pop'];243.0;0.0
+11;Blow Me (One Last Kiss);P!nk;['Pop', 'Pop internationale', 'Rock'];255.0;1.0
+12;Good Time;Owl City & Carly Rae Jepsen;['Pop'];205.0;0.0
+13;Everybody Talks;Neon Trees;['Alternative'];177.0;1.0
+14;Where Have You Been;Rihanna;['Pop'];242.0;0.0
+15;Want U Back;Cher Lloyd;['Pop'];214.0;0.0
+16;Home;Phillip Phillips;['Pop'];210.0;0.0
+17;Give Your Heart A Break;Demi Lovato;['Pop'];205.0;0.0
+18;Mercy;Kanye West, Big Sean, Pusha T, 2 Chainz;['Rap/Hip Hop'];329.0;1.0
+19;Too Close;Alex Clare;['Pop'];256.0;0.0
+20;Let's Go;Calvin Harris Featuring Ne-Yo;['Dance'];232.0;0.0
+21;Pound The Alarm;Nicki Minaj;['Rap/Hip Hop'];205.0;1.0
+22;Pontoon;Little Big Town;['Country'];193.0;0.0
+23;Scream;Usher;['R&B'];234.0;0.0
+24;I Won't Give Up;Jason Mraz;['Pop'];240.0;0.0
+25;What Makes You Beautiful;One Direction;['Pop'];200.0;0.0
+26;We Are Young;fun. Featuring Janelle Monae;['Alternative'];250.0;0.0
+27;No Lie;2 Chainz Featuring Drake;['Rap/Hip Hop'];239.0;0.0
+28;Wanted;Hunter Hayes;['Pop'];228.0;0.0
+29;Blown Away;Carrie Underwood;['Country'];240.0;0.0
+30;Starships;Nicki Minaj;['Rap/Hip Hop'];210.0;1.0
+31;Work Hard, Play Hard;Wiz Khalifa;['Rap/Hip Hop'];219.0;1.0
+32;Wild Ones;Flo Rida Featuring Sia;['Rap/Hip Hop'];234.0;0.0
+33;Angel Eyes;Love And Theft;['Country'];186.0;0.0
+34;We Run The Night;Havana Brown Featuring Pitbull;['Electro', 'Dance'];228.0;0.0
+35;Come Over;Kenny Chesney;['Country'];248.0;0.0
+36;I Will Wait;Mumford & Sons;['Rock'];276.0;0.0
+37;Take A Little Ride;Jason Aldean;['Country'];187.0;0.0
+38;Drive By;Train;['Pop', 'Pop internationale', 'Rock'];196.0;0.0
+39;Glad You Came;The Wanted;['Pop'];197.0;0.0
+40;Don't Wake Me Up;Chris Brown;['Rap/Hip Hop', 'R&B'];222.0;0.0
+41;Heart Attack;Trey Songz;['R&B'];233.0;0.0
+42;Over;Blake Shelton;['Country'];193.0;0.0
+43;Stronger (What Doesn't Kill You);Kelly Clarkson;['Pop'];221.0;0.0
+44;Dark Side;Kelly Clarkson;['Pop'];224.0;0.0
+45;(Kissed You) Good Night;Gloriana;['Country'];232.0;0.0
+46;Tongue Tied;Grouplove;['Alternative'];218.0;0.0
+47;Ho Hey;The Lumineers;['Alternative'];163.0;0.0
+48;She's So Mean;matchbox twenty;['Pop'];232.0;0.0
+49;Little Talks;Of Monsters And Men;['Alternative'];266.0;0.0
+50;Lemme See;Usher Featuring Rick Ross;['R&B'];252.0;0.0
+51;50 Ways To Say Goodbye;Train;['Pop', 'Pop internationale', 'Rock'];247.0;0.0
+52;Time Is Love;Josh Turner;['Country'];200.0;0.0
+53;2 Reasons;Trey Songz Featuring T.I.;['R&B'];197.0;1.0
+54;Chasing The Sun;The Wanted;['Pop'];194.0;0.0
+55;Cashin' Out;Ca$h Out;['Rap/Hip Hop'];238.0;1.0
+56;Why Ya Wanna;Jana Kramer;['Country'];221.0;0.0
+57;Settle Down;No Doubt;['Pop'];360.0;0.0
+58;Truck Yeah;Tim McGraw;['Country'];208.0;0.0
+59;Amen;Meek Mill Featuring Drake;['Rap/Hip Hop'];289.0;1.0
+60;Pop That;French Montana Featuring Rick Ross, Drake, Lil Wayne;['Rap/Hip Hop'];30.0;0.0
+61;Hard To Love;Lee Brice;['Country'];224.0;0.0
+62;Burn It Down;Linkin Park;['Alternative'];230.0;0.0
+63;Bag Of Money;Wale Featuring Rick Ross, Meek Mill & T-Pain;['Rap/Hip Hop'];246.0;1.0
+64;Cowboys And Angels;Dustin Lynch;['Country'];227.0;0.0
+65;Postcard From Paris;The Band Perry;['Country'];215.0;0.0
+66;For You;Keith Urban;['Films/Jeux vidéo', 'Musiques de films'];288.0;0.0
+67;Adorn;Miguel;['Pop', 'Pop internationale', 'Rock', 'R&B'];194.0;0.0
+68;It's Time;Imagine Dragons;['Alternative'];240.0;0.0
+69;The Wind;Zac Brown Band;[];;
+70;5-1-5-0;Dierks Bentley;[];;
+71;Come Wake Me Up;Rascal Flatts;[];;
+72;Fastest Girl In Town;Miranda Lambert;[];;
+73;Both Of Us;B.o.B Featuring Taylor Swift;[];;
+74;The A Team;Ed Sheeran;[];;
+75;Take It To The Head;DJ Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Lil Wayne;[];;
+76;Thinkin Bout You;Frank Ocean;['Pop'];201.0;0.0
+77;Turn On The Lights;Future;['Electro', 'Dance'];267.0;0.0
+78;Back In Time;Pitbull;['Electro', 'Techno/House', 'Dance', 'Pop'];205.0;0.0
+79;Yuck!;2 Chainz Featuring Lil Wayne;[];;
+80;The Fighter;Gym Class Heroes Featuring Ryan Tedder;['Alternative'];228.0;0.0
+81;Snap Backs & Tattoos;Driicky Graham;['Rap/Hip Hop'];209.0;1.0
+82;Nobody's Perfect;J. Cole Featuring Missy Elliott;['Rap/Hip Hop'];410.0;1.0
+83;Lovin' You Is Fun;Easton Corbin;['Country'];199.0;0.0
+84;Beez In The Trap;Nicki Minaj Featuring 2 Chainz;['Pop'];275.0;0.0
+85;That's Why I Pray;Big & Rich;['Country'];242.0;0.0
+86;My Homies Still;Lil Wayne Featuring Big Sean;['Dance'];246.0;0.0
+87;Let Me Love You (Until You Learn To Love Yourself);Ne-Yo;['R&B'];251.0;0.0
+88;The One That Got Away;Jake Owen;['Country'];194.0;0.0
+89;I Can Only Imagine;David Guetta Featuring Chris Brown & Lil Wayne;['Dance'];209.0;0.0
+90;Enough Of No Love;Keyshia Cole Featuring Lil Wayne;['Pop'];262.0;1.0
+91;Lamborghini Angels;Lupe Fiasco;['Rap/Hip Hop'];196.0;1.0
+92;Neon;Chris Young;['Country', 'Pop'];220.0;0.0
+93;Wanted You More;Lady Antebellum;['Country'];249.0;0.0
+94;Put It Down;Brandy Featuring Chris Brown;['Dance', 'Rap/Hip Hop', 'Pop', 'R&B', 'Soul'];248.0;0.0
+95;Promises;NERO;['Electro'];257.0;0.0
+96;Oh Love;Green Day;['Alternative'];303.0;0.0
+97;Glass;Thompson Square;['Country'];231.0;0.0
+98;Cruise;Florida Georgia Line Featuring Nelly;['Country', 'Singer & Songwriter'];216.0;0.0
+99;Birthday Song;2 Chainz Featuring Kanye West;['Rap/Hip Hop'];298.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;My Heart Will Go On;Celine Dion;['Pop', 'Pop internationale', 'Rock'];281.0;0.0
+1;Gettin' Jiggy Wit It;Will Smith;['Pop'];228.0;0.0
+2;Nice & Slow;Usher;['R&B'];227.0;0.0
+3;Together Again;Janet;['Pop'];301.0;0.0
+4;Truly Madly Deeply;Savage Garden;['Pop'];277.0;0.0
+5;No, No, No;Destiny's Child;['Pop'];247.0;0.0
+6;Swing My Way;K.P. & Envyi;['R&B', 'Soul'];249.0;0.0
+7;I Don't Ever Want To See You Again;Uncle Sam;['R&B'];345.0;0.0
+8;What You Want;Mase Featuring Total;['R&B'];273.0;0.0
+9;How Do I Live;LeAnn Rimes;['Country'];267.0;0.0
+10;Too Much;Spice Girls;['Pop'];271.0;0.0
+11;Gone Till November;Wyclef Jean;['Pop'];196.0;0.0
+12;A Song For Mama;Boyz II Men;['Pop'];303.0;0.0
+13;Been Around The World;Puff Daddy & The Family (Feat. The Notorious B.I.G. & Mase);['Rap/Hip Hop'];325.0;1.0
+14;Deja Vu [Uptown Baby];Lord Tariq & Peter Gunz;['Rap/Hip Hop'];284.0;1.0
+15;How's It Going To Be;Third Eye Blind;['Alternative', 'Pop', 'Rock', 'Rock Indé/Pop Rock'];253.0;0.0
+16;Are You Jimmy Ray?;Jimmy Ray;['Pop'];201.0;0.0
+17;I Don't Want To Wait;Paula Cole;['Pop', 'Rock'];320.0;0.0
+18;The Mummers' Dance;Loreena McKennitt;[];364.0;0.0
+19;You Make Me Wanna...;Usher;['R&B'];219.0;0.0
+20;Kiss The Rain;Billie Myers;['Pop'];270.0;0.0
+21;Too Close;Next;['R&B', 'Soul'];259.0;1.0
+22;Body Bumpin' Yippie-Yi-Yo;Public Announcement;['R&B'];275.0;0.0
+23;Candle In The Wind 1997/Something About The Way You Look Tonight;Elton John;['Pop'];242.0;0.0
+24;I Want You Back;'N Sync;['Pop'];200.0;0.0
+25;You're Still The One;Shania Twain;['Country'];212.0;0.0
+26;Father;LL Cool J;['Rap/Hip Hop'];284.0;1.0
+27;Make Em' Say Uhh!;Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal;[];;
+28;Pink;Aerosmith;['Rock'];235.0;0.0
+29;Love You Down;INOJ/LATHUN;[];;
+30;Show Me Love;Robyn;['Pop'];269.0;0.0
+31;Dangerous;Busta Rhymes;['Rap/Hip Hop'];315.0;1.0
+32;If You Think I'm Jiggy;The Lox;['Rap/Hip Hop'];280.0;1.0
+33;All My Love;Queen Pen Featuring Eric Williams;['Rap/Hip Hop'];212.0;0.0
+34;Tubthumping;Chumbawamba;['Pop'];278.0;0.0
+35;I Know Where It's At;All Saints;['Pop'];293.0;0.0
+36;I Do;Lisa Loeb;['Pop'];220.0;0.0
+37;Semi-Charmed Life;Third Eye Blind;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];268.0;0.0
+38;The Party Continues;JD Featuring Da Brat;['Rap/Hip Hop'];252.0;0.0
+39;We're Not Making Love No More;Dru Hill;['Rap/Hip Hop'];296.0;1.0
+40;Heaven;Nu Flavor;['Pop'];298.0;0.0
+41;Quit Playing Games (With My Heart);Backstreet Boys;['Pop'];232.0;0.0
+42;Feel So Good;Mase;['Rap/Hip Hop'];203.0;1.0
+43;Sweet Surrender;Sarah McLachlan;['Pop'];240.0;0.0
+44;My Body;LSG;['R&B'];252.0;0.0
+45;What Would Happen;Meredith Brooks;['Pop'];317.0;0.0
+46;Am I Dreaming;Ol Skool [Featuring Keith Sweat & Xscape];['Pop'];244.0;0.0
+47;All For You;Sister Hazel;['Pop'];218.0;0.0
+48;They Don't Know;Jon B;['Pop'];274.0;0.0
+49;Romeo And Juliet;Sylk-E. Fyne Featuring Chill;['Pop'];310.0;0.0
+50;I Will Come To You;Hanson;['Pop'];250.0;0.0
+51;Get At Me Dog;DMX Featuring Sheek Of The Lox;[];;
+52;All I Do;Somethin' For The People;['R&B'];304.0;0.0
+53;Light In Your Eyes;Blessid Union Of Souls;['Rock'];256.0;0.0
+54;Given To Fly;Pearl Jam;['Pop'];238.0;0.0
+55;32 Flavors;Alana Davis;['Pop'];227.0;0.0
+56;Spice Up Your Life;Spice Girls;['Pop'];173.0;0.0
+57;Burn;Militia;['Soul & Funk'];296.0;0.0
+58;What If I Said;Anita Cochran (Duet With Steve Wariner);[];;
+59;Strawberries;Smooth;['Jazz'];198.0;0.0
+60;Breaking All The Rules;She Moves;['Jeunesse', 'Pop'];210.0;0.0
+61;Going Back To Cali;The Notorious B.I.G.;['Rap/Hip Hop'];307.0;1.0
+62;At The Beginning;Richard Marx & Donna Lewis;['Pop'];215.0;0.0
+63;Just Clownin';WC From Westside Connection;[];;
+64;Bring It On;Keith Washington;['R&B'];270.0;0.0
+65;Say You'll Stay;KAI;[];;
+66;If I Never Stop Loving You;David Kersh;['Country'];215.0;0.0
+67;Ain't That Just The Way;Lutricia McNeal;['Pop', 'R&B'];215.0;0.0
+68;The Memory Remains;Metallica;['Pop'];279.0;0.0
+69;Life In Mono;Mono;['Pop'];285.0;0.0
+70;Then What?;Clay Walker;['Country'];183.0;0.0
+71;Send My Love/Send One Your Love;Born Jamericans;['Reggae'];259.0;0.0
+72;Off The Hook;Jody Watley;['Electro', 'Techno/House'];512.0;0.0
+73;Brian Wilson;Barenaked Ladies;['Pop'];287.0;0.0
+74;Lollipop (Candyman);Aqua;['Pop'];216.0;0.0
+75;Nothin' Move But The Money;Mic Geronimo Featuring DMX & Black Rob;[];;
+76;I'm Not A Player;Big Punisher;['Rap/Hip Hop'];221.0;1.0
+77;Don't Be Stupid (You Know I Love You);Shania Twain;['Country'];213.0;0.0
+78;What If;Reba McEntire;['Country'];246.0;0.0
+79;In A Dream;Rockell;['Electro', 'Dance'];241.0;0.0
+80;Tic Tic Tac;Fruit De La Passion;['Rock', 'Rock & Roll/Rockabilly'];207.0;0.0
+81;Roxanne `97 - Puff Daddy Remix;Sting & The Police;['Pop'];276.0;0.0
+82;I Can Love You Better;Dixie Chicks;['Pop'];198.0;0.0
+83;Let's Ride;Montell Jordan Feat. Master P & Silkk The Shocker;[];;
+84;You're Not Alone;Olive;['Pop'];250.0;0.0
+85;4, 3, 2, 1;LL Cool J Featuring Method Man, Redman, DMX, Canibus And Master P;[];;
+86;So Long (Well, Well, Well);Phajja;['R&B'];262.0;0.0
+87;Tuck Me In;Kimberly Scott;['R&B'];239.0;0.0
+88;Jealousy;Kim Sanders;[];;
+89;The Note;Daryle Singletary;['Country'];205.0;0.0
+90;Tha Hop;Kinsu;['Rap/Hip Hop'];253.0;1.0
+91;The Day That She Left Tulsa (In A Chevy);Wade Hayes;['Country'];213.0;0.0
+92;Something That We Do;Clint Black;['Country'];278.0;0.0
+93;Saint Of Me;The Rolling Stones;['Rock'];314.0;0.0
+94;Young, Sad And Blue;Lysette;['Rap/Hip Hop', 'Rap français'];137.0;0.0
+95;The City Is Mine;Jay-Z Featuring BLACKstreet;[];;
+96;I'm Afraid Of Americans;David Bowie;['Pop'];300.0;0.0
+97;So Good;Davina;['R&B'];272.0;0.0
+98;Tubthumping;Chucklebutt;[];;
+99;Love Of My Life;Sammy Kershaw;['Country'];261.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Thank U, Next;Ariana Grande;['Pop'];207.0;1.0
+1;Without Me;Halsey;['Alternative'];201.0;1.0
+2;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+3;Sicko Mode;Travis Scott;['Rap/Hip Hop'];312.0;1.0
+4;Sunflower (Spider-Man: Into The Spider-Verse);Post Malone & Swae Lee;['Films/Jeux vidéo', 'Musiques de films'];158.0;0.0
+5;High Hopes;Panic! At The Disco;['Alternative'];190.0;0.0
+6;Happier;Marshmello & Bastille;['Dance'];214.0;0.0
+7;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+8;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+9;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+10;The Christmas Song (Merry Christmas To You);Nat King Cole;[];191.0;0.0
+11;Drip Too Hard;Lil Baby & Gunna;['Rap/Hip Hop'];145.0;1.0
+12;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+13;Girls Like You;Maroon 5 Featuring Cardi B;[];236.0;0.0
+14;ZEZE;Kodak Black Featuring Travis Scott & Offset;['Rap/Hip Hop'];228.0;1.0
+15;Rudolph The Red-Nosed Reindeer;Gene Autry;['Classique'];186.0;0.0
+16;Mo Bamba;Sheck Wes;['Rap/Hip Hop'];183.0;1.0
+17;Wake Up In The Sky;Gucci Mane X Bruno Mars X Kodak Black;[];;
+18;Money;Cardi B;['Rap/Hip Hop'];183.0;1.0
+19;Let It Snow, Let It Snow, Let It Snow;Dean Martin;['Pop'];117.0;0.0
+20;Eastside;benny blanco, Halsey & Khalid;['Dance', 'Pop'];109.0;0.0
+21;Breathin;Ariana Grande;['Pop'];198.0;1.0
+22;Better Now;Post Malone;['Rap/Hip Hop'];231.0;1.0
+23;Youngblood;5 Seconds Of Summer;['Pop'];203.0;0.0
+24;Last Christmas;Wham!;['Pop'];263.0;0.0
+25;Sleigh Ride;The Ronettes;['Classique'];181.0;0.0
+26;Lucid Dreams;Juice WRLD;['Rap/Hip Hop'];239.0;1.0
+27;Here Comes Santa Claus (Right Down Santa Claus Lane);Gene Autry;[];151.0;0.0
+28;Feliz Navidad;Jose Feliciano;['Classique'];182.0;0.0
+29;Taki Taki;DJ Snake Featuring Selena Gomez, Ozuna & Cardi B;['Dance', 'Pop'];217.0;0.0
+30;MIA;Bad Bunny Featuring Drake;['Latino'];210.0;0.0
+31;(There's No Place Like) Home For The Holidays (1959);Perry Como With Mitchell Ayers And His Orchestra;[];;
+32;Leave Me Alone;Flipp Dinero;['Rap/Hip Hop'];195.0;1.0
+33;White Christmas;Bing Crosby;['Pop'];183.0;0.0
+34;It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;[];155.0;0.0
+35;Going Bad;Meek Mill Featuring Drake;['Rap/Hip Hop'];180.0;1.0
+36;A Lot;21 Savage;['Rap/Hip Hop'];288.0;1.0
+37;Trip;Ella Mai;['R&B'];213.0;0.0
+38;I Like It;Cardi B, Bad Bunny & J Balvin;['Rap/Hip Hop'];255.0;0.0
+39;Blue Christmas;Elvis Presley;[];125.0;0.0
+40;Speechless;Dan + Shay;['Country'];212.0;0.0
+41;Happy Xmas (War Is Over);John & Yoko/The Plastic Ono Band With The Harlem Community Choir;[];;
+42;Christmas (Baby Please Come Home);Darlene Love;['Classique'];166.0;0.0
+43;Underneath The Tree;Kelly Clarkson;['Pop'];229.0;0.0
+44;Run Rudolph Run;Chuck Berry;['Rock'];165.0;0.0
+45;Natural;Imagine Dragons;['Alternative'];189.0;0.0
+46;Wow.;Post Malone;['Rap/Hip Hop'];149.0;1.0
+47;Love Lies;Khalid & Normani;['Rap/Hip Hop', 'Pop', 'R&B', 'Films/Jeux vidéo', 'Musiques de films', 'Comédies musicales'];201.0;0.0
+48;Jingle Bells;Frank Sinatra;[];123.0;0.0
+49;Beautiful;Bazzi Featuring Camila Cabello;['Pop'];180.0;0.0
+50;Better;Khalid;['R&B'];229.0;0.0
+51;Shallow;Lady Gaga & Bradley Cooper;['Films/Jeux vidéo', 'Musiques de films'];215.0;0.0
+52;Cozy Little Christmas;Katy Perry;[];182.0;0.0
+53;She Got The Best Of Me;Luke Combs;['Country', 'Pop'];183.0;0.0
+54;The Christmas Song;Lauren Daigle;[];270.0;0.0
+55;Uproar;Lil Wayne;['Rap/Hip Hop'];194.0;1.0
+56;Swervin;A Boogie Wit da Hoodie Featuring 6ix9ine;['Rap/Hip Hop'];189.0;1.0
+57;Can't Leave Without It;21 Savage;['Rap/Hip Hop'];205.0;1.0
+58;You Say;Lauren Daigle;[];274.0;0.0
+59;Close To Me;Ellie Goulding X Diplo Featuring Swae Lee;[];;
+60;Best Shot;Jimmie Allen;['Country'];195.0;0.0
+61;Dangerous;Meek Mill Featuring Jeremih & PnB Rock;['Rap/Hip Hop'];234.0;1.0
+62;Be Alright;Dean Lewis;['Singer & Songwriter'];196.0;1.0
+63;Drunk Me;Mitchell Tenpenny;['Country'];211.0;0.0
+64;Startender;A Boogie Wit da Hoodie Featuring Offset & Tyga;['Rap/Hip Hop'];192.0;1.0
+65;Look Back At It;A Boogie Wit da Hoodie;['Rap/Hip Hop'];179.0;1.0
+66;All My Friends;21 Savage;['Rap/Hip Hop'];211.0;1.0
+67;BAD!;XXXTENTACION;['Pop'];94.0;0.0
+68;Backin' It Up;Pardison Fontaine Featuring Cardi B;['Rap/Hip Hop'];190.0;1.0
+69;Break Da Law;21 Savage;['Rap/Hip Hop'];177.0;1.0
+70;Imagine;Ariana Grande;['Pop'];212.0;1.0
+71;Talk To Me;Tory Lanez & Rich The Kid;['Rap/Hip Hop'];184.0;1.0
+72;Monster;21 Savage;['Rap/Hip Hop'];233.0;1.0
+73;Calling My Spirit;Kodak Black;['Rap/Hip Hop'];152.0;1.0
+74;Consequences;Camila Cabello;['Pop'];178.0;0.0
+75;Armed And Dangerous;Juice WRLD;['Rap/Hip Hop'];169.0;1.0
+76;Arms Around You;XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee;[];;
+77;Nothing Breaks Like A Heart;Mark Ronson Featuring Miley Cyrus;['Pop'];217.0;0.0
+78;Sixteen;Thomas Rhett;['Country'];178.0;0.0
+79;Burning Man;Dierks Bentley Featuring Brothers Osborne;[];238.0;0.0
+80;Beautiful Crazy;Luke Combs;['Country', 'Pop'];193.0;0.0
+81;When The Party's Over;Billie Eilish;['Alternative'];196.0;0.0
+82;Sweet But Psycho;Ava Max;['Pop'];187.0;0.0
+83;This Feeling;The Chainsmokers Featuring Kelsea Ballerini;['Dance'];197.0;0.0
+84;You;Jacquees;['R&B'];217.0;1.0
+85;1.5;21 Savage;['Rap/Hip Hop'];148.0;1.0
+86;Girl Like You;Jason Aldean;['Country'];192.0;0.0
+87;Out For The Night;21 Savage;['Rap/Hip Hop'];235.0;1.0
+88;Good Girl;Dustin Lynch;['Country'];189.0;0.0
+89;No Stylist;French Montana Featuring Drake;['Rap/Hip Hop'];192.0;1.0
+90;Lovely;Billie Eilish & Khalid;['Alternative'];200.0;0.0
+91;Ella Quiere Beber;Anuel AA & Romeo Santos;['Latino'];219.0;0.0
+92;Gun Smoke;21 Savage;['Rap/Hip Hop'];167.0;1.0
+93;Demons And Angels;A Boogie Wit da Hoodie Featuring Juice WRLD;['Rap/Hip Hop'];214.0;1.0
+94;ASMR;21 Savage;['Rap/Hip Hop'];235.0;1.0
+95;Last Shot;Kip Moore;['Country'];228.0;0.0
+96;Fine China;Future & Juice WRLD;['Rap/Hip Hop'];141.0;1.0
+97;Envy Me;Calboy;['Rap/Hip Hop'];120.0;1.0
+98;Lost In Japan;Shawn Mendes X Zedd;[];;
+99;This Is It;Scotty McCreery;['Country'];230.0;0.0

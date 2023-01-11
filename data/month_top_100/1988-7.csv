@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Dirty Diana;Michael Jackson;['Pop', 'Pop internationale', 'Rock'];280.0;0.0
+1;Foolish Beat;Debbie Gibson;['Pop'];263.0;0.0
+2;The Flame;Cheap Trick;['Rock'];338.0;0.0
+3;Make It Real;The Jets;['R&B'];257.0;0.0
+4;The Valley Road;Bruce Hornsby & The Range;['Pop'];282.0;0.0
+5;Mercedes Boy;Pebbles;['R&B'];295.0;0.0
+6;Pour Some Sugar On Me;Def Leppard;['Rock'];267.0;0.0
+7;Nothin' But A Good Time;Poison;['Rock'];223.0;0.0
+8;New Sensation;INXS;['Pop'];220.0;0.0
+9;Together Forever;Rick Astley;['Pop'];207.0;0.0
+10;Nite And Day;Al B. Sure!;['R&B', 'Soul & Funk', 'Soul'];238.0;0.0
+11;Alphabet St.;Prince;['Pop'];338.0;1.0
+12;I Still Believe;Brenda K. Starr;['Electro'];232.0;0.0
+13;Kiss Me Deadly;Lita Ford;['Pop', 'Rock'];241.0;0.0
+14;Hold On To The Nights;Richard Marx;['Pop'];314.0;0.0
+15;One More Try;George Michael;['Pop'];353.0;0.0
+16;Beds Are Burning;Midnight Oil;['Pop'];255.0;0.0
+17;Lost In You;Rod Stewart;['Pop', 'Rock'];302.0;0.0
+18;Rush Hour;Jane Wiedlin;['Pop'];242.0;0.0
+19;Hands To Heaven;Breathe;['Pop'];259.0;0.0
+20;Roll With It;Steve Winwood;['Rock'];320.0;0.0
+21;Make Me Lose Control;Eric Carmen;['Pop'];285.0;0.0
+22;Circle In The Sand;Belinda Carlisle;['Pop'];266.0;0.0
+23;Paradise;Sade;['Pop'];217.0;0.0
+24;Tall Cool One;Robert Plant;['Rock'];278.0;0.0
+25;Parents Just Don't Understand;D.J. Jazzy Jeff & The Fresh Prince;['Pop'];314.0;0.0
+26;Sign Your Name;Terence Trent D'Arby;['Pop'];276.0;0.0
+27;1-2-3;Gloria Estefan & Miami Sound Machine;['Pop'];213.0;0.0
+28;Everything Your Heart Desires;Daryl Hall John Oates;['Pop'];300.0;0.0
+29;The Colour Of Love;Billy Ocean;['Pop', 'R&B'];257.0;0.0
+30;Just Got Paid;Johnny Kemp;['R&B'];331.0;0.0
+31;Supersonic;J.J. Fad;['Rap/Hip Hop'];232.0;0.0
+32;Do You Love Me;The Contours;['R&B', 'Soul'];174.0;0.0
+33;I Don't Wanna Live Without Your Love;Chicago;['Pop', 'Rock'];237.0;0.0
+34;I Should Be So Lucky;Kylie Minogue;['Pop'];204.0;0.0
+35;I Don't Wanna Go On With You Like That;Elton John;['Pop'];274.0;0.0
+36;Naughty Girls (Need Love Too);Samantha Fox;['Pop'];203.0;0.0
+37;Love Changes (Everything);Climie Fisher;['Pop'];268.0;0.0
+38;Trouble;Nia Peeples;['Pop'];440.0;0.0
+39;Heart Of Mine;Boz Scaggs;['Pop'];252.0;0.0
+40;Shattered Dreams;Johnny Hates Jazz;['Rock'];207.0;0.0
+41;Anything For You;Gloria Estefan & Miami Sound Machine;['Pop'];226.0;0.0
+42;Tomorrow People;Ziggy Marley And The Melody Makers;['Reggae'];217.0;0.0
+43;Under The Milky Way;The Church;['Alternative', 'Rock'];297.0;0.0
+44;Rag Doll;Aerosmith;['Rock'];265.0;0.0
+45;Should I Say Yes?;Nu Shooz;['Dance', 'Rock'];291.0;0.0
+46;The Twist;Fat Boys;['Rap/Hip Hop'];248.0;0.0
+47;We All Sleep Alone;Cher;['Pop'];236.0;0.0
+48;Piano In The Dark;Brenda Russell Featuring Joe Esposito;[];;
+49;Black And Blue;Van Halen;['Pop'];326.0;0.0
+50;Forgive Me For Dreaming;Elisa Fiorillo;['Pop'];278.0;0.0
+51;Love Will Save The Day;Whitney Houston;['Pop', 'R&B'];321.0;0.0
+52;Little Walter;Tony Toni Tone;['R&B'];289.0;0.0
+53;I Know You're Out There Somewhere;The Moody Blues;['Rock'];395.0;0.0
+54;Fast Car;Tracy Chapman;['Folk'];296.0;0.0
+55;In Your Soul;Corey Hart;['Rock'];236.0;0.0
+56;I'll Always Love You;Taylor Dayne;['Pop'];270.0;0.0
+57;Wishing I Was Lucky;Wet Wet Wet;['Pop'];236.0;0.0
+58;Simply Irresistible;Robert Palmer;['Pop'];254.0;0.0
+59;Feelings Of Forever;Tiffany;['Pop'];232.0;0.0
+60;Darlin' Danielle Don't;Henry Lee Summer;['Pop'];242.0;0.0
+61;Two Occasions;The Deele;['R&B'];257.0;0.0
+62;Sweet Child O' Mine;Guns N' Roses;['Pop'];354.0;1.0
+63;Here With Me;REO Speedwagon;['Pop'];304.0;0.0
+64;Wait;White Lion;['Rock', 'Hard Rock', 'Metal'];240.0;0.0
+65;Sayin' Sorry (Don't Make It Right);Denise Lopez;['Dance'];281.0;0.0
+66;You Have Placed A Chill In My Heart;Eurythmics;['Pop'];234.0;0.0
+67;Say It's Gonna Rain;Will To Power;['R&B'];232.0;0.0
+68;When It's Love;Van Halen;['Pop'];339.0;0.0
+69;Colors;Ice-T;['Rap/Hip Hop'];267.0;1.0
+70;Promise Me;The Cover Girls;[];421.0;0.0
+71;Angel;Aerosmith;['Pop'];306.0;0.0
+72;Boom! There She Was;Scritti Politti Featuring Roger;[];;
+73;Knocked Out;Paula Abdul;['Pop'];233.0;0.0
+74;All Fired Up;Pat Benatar;['Rock'];251.0;0.0
+75;I Don't Want To Live Without You;Foreigner;['Rock', 'Hard Rock'];237.0;0.0
+76;Joy;Teddy Pendergrass;['Pop'];376.0;0.0
+77;Most Of All;Jody Watley;['R&B'];268.0;0.0
+78;Please Don't Go Girl;New Kids On The Block;['Pop'];247.0;0.0
+79;I Hate Myself For Loving You;Joan Jett & The Blackhearts;['Rock'];246.0;0.0
+80;When We Kiss;Bardeux;['Rock'];292.0;0.0
+81;Forever Yours;Tony Terry;[];;
+82;Wishing Well;Terence Trent D'Arby;['Pop'];210.0;0.0
+83;Route 66/Behind The Wheel;Depeche Mode;[];;
+84;Electric Blue;Icehouse;['Rock'];264.0;0.0
+85;Rhythm Of Love;Scorpions;['Rock'];219.0;0.0
+86;When Will I Be Famous?;Bros;['Dance', 'Pop', 'Rock'];239.0;0.0
+87;Wild, Wild West;Kool Moe Dee;['Pop'];245.0;0.0
+88;Tell Me;White Lion;['Rock', 'Hard Rock', 'Metal'];268.0;0.0
+89;Wait On Love;Michael Bolton;['Pop'];267.0;0.0
+90;Theme From S-Express;S-Express;['Pop'];361.0;0.0
+91;Dreaming;Orchestral Manoeuvres In The Dark;['Rock'];238.0;0.0
+92;If It Isn't Love;New Edition;['R&B'];309.0;0.0
+93;Blue Monday 1988;New Order;[];;
+94;When You Walk In The Room;Paul Carrack;['Pop'];211.0;0.0
+95;"Da'Butt (From The ""School Daze"" Soundtrack)";E.U.;['Films/Jeux vidéo', 'Musiques de films'];314.0;0.0
+96;Take It While It's Hot;Sweet Sensation;['Pop'];310.0;0.0
+97;Strange But True;Times Two;[];;
+98;Rooty Toot Toot;John Mellencamp;['Rock'];209.0;0.0
+99;Always On My Mind;Pet Shop Boys;['Dance'];234.0;0.0

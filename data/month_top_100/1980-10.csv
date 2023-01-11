@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Another One Bites The Dust;Queen;['Rock'];214.0;0.0
+1;All Out Of Love;Air Supply;['Pop'];340.0;0.0
+2;Upside Down;Diana Ross;['R&B'];245.0;0.0
+3;Give Me The Night;George Benson;['Pop'];301.0;0.0
+4;Drivin' My Life Away;Eddie Rabbitt;['Country', 'Pop'];197.0;0.0
+5;Late In The Evening;Paul Simon;['Pop'];242.0;0.0
+6;Woman In Love;Barbra Streisand;['Pop'];231.0;0.0
+7;I'm Alright;Kenny Loggins;['Films/Jeux vidéo', 'Musiques de films'];226.0;0.0
+8;Lookin' For Love;Johnny Lee;['Country'];215.0;0.0
+9;Xanadu;Olivia Newton-John/Electric Light Orchestra;['Pop'];206.0;0.0
+10;Real Love;The Doobie Brothers;['Pop'];262.0;0.0
+11;Fame;Irene Cara;['Films/Jeux vidéo', 'Musiques de films'];316.0;0.0
+12;All Over The World;Electric Light Orchestra;['Pop'];242.0;0.0
+13;You'll Accomp'ny Me;Bob Seger;['Rock'];241.0;0.0
+14;He's So Shy;The Pointer Sisters;['Pop'];213.0;0.0
+15;Hot Rod Hearts;Robbie Dupree;['Rock'];218.0;0.0
+16;Never Knew Love Like This Before;Stephanie Mills;['R&B'];328.0;0.0
+17;Jesse;Carly Simon;['Pop'];261.0;0.0
+18;Don't Ask Me Why;Billy Joel;['Rock'];177.0;0.0
+19;Look What You've Done To Me;Boz Scaggs;['Pop'];317.0;0.0
+20;The Wanderer;Donna Summer;['Pop'];235.0;0.0
+21;One In A Million You;Larry Graham;['Pop'];252.0;0.0
+22;No Night So Long;Dionne Warwick;['R&B'];207.0;0.0
+23;How Do I Survive;Amy Holland;['Rock'];238.0;0.0
+24;You're The Only Woman (You & I);Ambrosia;['Rock'];258.0;0.0
+25;Dreaming;Cliff Richard;['Rock'];219.0;0.0
+26;Midnight Rocks;Al Stewart;['Rock'];236.0;0.0
+27;Someone That I Used To Love;Natalie Cole;['Livres audio'];246.0;0.0
+28;Emotional Rescue;The Rolling Stones;['Rock'];339.0;0.0
+29;On The Road Again;Willie Nelson;['Country'];154.0;0.0
+30;Who'll Be The Fool Tonight;Larsen-Feiten Band;['Pop'];252.0;0.0
+31;Master Blaster (Jammin');Stevie Wonder;['R&B'];290.0;0.0
+32;Dreamer;Supertramp;['Rock'];210.0;0.0
+33;I'm Coming Out;Diana Ross;['R&B'];322.0;0.0
+34;The Legend Of Wooley Swamp;The Charlie Daniels Band;['Country'];254.0;0.0
+35;Out Here On My Own;Irene Cara;['Films/Jeux vidéo', 'Musiques de films'];193.0;0.0
+36;Whip It;Devo;['Films/Jeux vidéo', 'Musiques de films'];158.0;0.0
+37;I'm Almost Ready;Pure Prairie League;['Pop'];222.0;0.0
+38;Lady;Kenny Rogers;['Country'];232.0;0.0
+39;Let Me Be Your Angel;Stacy Lattisaw;['Rock'];320.0;0.0
+40;You've Lost That Lovin' Feeling;Daryl Hall John Oates;['Pop'];276.0;0.0
+41;Walk Away;Donna Summer;['R&B'];269.0;0.0
+42;Touch And Go;The Cars;['Pop'];297.0;0.0
+43;Could I Have This Dance;Anne Murray;['Country'];195.0;0.0
+44;Lovely One;The Jacksons;['Pop', 'R&B'];291.0;0.0
+45;(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?;Elton John;[];;
+46;My Prayer;Ray, Goodman & Brown;['R&B'];185.0;0.0
+47;She's So Cold;The Rolling Stones;['Rock'];253.0;0.0
+48;That Girl Could Sing;Jackson Browne;['Pop'];275.0;0.0
+49;Let Me Talk;Earth, Wind & Fire;['R&B'];248.0;0.0
+50;You Shook Me All Night Long;AC/DC;['Rock', 'Hard Rock', 'Metal'];210.0;0.0
+51;Can't We Try;Teddy Pendergrass;['R&B'];303.0;0.0
+52;I Got You;Split Enz;['Rock'];209.0;0.0
+53;Without Your Love;Roger Daltrey;['Rock'];198.0;0.0
+54;Girl, Don't Let It Get You Down;The O'Jays;['R&B'];251.0;0.0
+55;Switchin' To Glide/This Beat Goes On;The Kings;['Pop'];342.0;0.0
+56;Live Every Minute;Ali Thomson;[];;
+57;Turn It On Again;Genesis;['Rock'];240.0;0.0
+58;Angeline;The Allman Brothers Band;['Rock'];223.0;0.0
+59;More Than I Can Say;Leo Sayer;['Pop'];218.0;0.0
+60;Games Without Frontiers;Peter Gabriel;['Rock'];237.0;0.0
+61;Sailing;Christopher Cross;['Pop'];256.0;0.0
+62;My Guy/My Girl;Amii Stewart & Johnny Bristol;['Pop'];209.0;0.0
+63;Heroes;Commodores;['Pop'];308.0;0.0
+64;Magic;Olivia Newton-John;['Pop'];272.0;0.0
+65;Into The Night;Benny Mardones;['Rock'];271.0;0.0
+66;Theme From The Dukes Of Hazzard (Good Ol' Boys);Waylon;['Country'];129.0;0.0
+67;Hold On;Kansas;['Rock'];231.0;0.0
+68;If You Should Sail;Nielsen/Pearson;[];;
+69;Let My Love Open The Door;Pete Townshend;['Rock'];164.0;0.0
+70;Take Your Time (Do It Right) Part 1;The S.O.S. Band;['R&B'];212.0;0.0
+71;Cry Like A Baby;Kim Carnes;['Pop'];184.0;0.0
+72;Hit Me With Your Best Shot;Pat Benatar;['Rock'];171.0;0.0
+73;This Time;John Cougar;[];;
+74;Boulevard;Jackson Browne;['Pop'];200.0;0.0
+75;Turning Japanese;The Vapors;['Pop'];225.0;0.0
+76;It's Still Rock And Roll To Me;Billy Joel;['Rock'];176.0;0.0
+77;Red Light;Linda Clifford;['Films/Jeux vidéo', 'Musiques de films'];370.0;0.0
+78;I'm Happy That Love Has Found You;Jimmy Hall;['Rock'];237.0;0.0
+79;Case Of You;Frank Stallone;['Alternative', 'Pop Indé', 'Rock', 'Folk'];187.0;0.0
+80;Good Morning Girl/stay Awhile;Journey;[];;
+81;Thunder And Lightning;Chicago;['Pop'];308.0;0.0
+82;You're Supposed To Keep Your Love For Me;Jermaine Jackson;['Pop'];334.0;0.0
+83;How Does It Feel To Be Back;Daryl Hall John Oates;['Pop'];275.0;0.0
+84;More Love;Kim Carnes;['Pop'];218.0;0.0
+85;Old-Fashion Love;Commodores;['R&B'];203.0;0.0
+86;Lola;The Kinks;['Rock'];243.0;0.0
+87;I've Just Begun To Love You;Dynasty;['R&B'];215.0;0.0
+88;I Believe In You;Don Williams;['Country'];245.0;0.0
+89;Running Back;Eddie Money;['Pop'];239.0;0.0
+90;Hey There Lonely Girl;Robert John;['Rock'];180.0;0.0
+91;The Breaks (Part 1);Kurtis Blow;[];;
+92;Rebels Are We;Chic;['Dance', 'Rock'];295.0;0.0
+93;Shining Star;The Manhattans;['R&B'];279.0;0.0
+94;You Better Run;Pat Benatar;['Rock'];184.0;0.0
+95;JoJo;Boz Scaggs;['Rock'];353.0;0.0
+96;More Bounce To The Ounce Part I;Zapp;[];;
+97;The Part Of Me That Needs You Most;Jay Black;['Pop'];229.0;0.0
+98;Take A Little Rhythm;Ali Thomson;['Rock'];216.0;0.0
+99;Make A Little Magic;The Dirt Band;['Country'];215.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'm Your Baby Tonight;Whitney Houston;['R&B'];251.0;0.0
+1;Love Takes Time;Mariah Carey;['Pop'];228.0;0.0
+2;Because I Love You (The Postman Song);Stevie B;['Pop'];303.0;0.0
+3;Groove Is In The Heart;Deee-Lite;['Pop'];234.0;0.0
+4;From A Distance;Bette Midler;['Pop'];274.0;0.0
+5;Something To Believe In;Poison;['Rock'];328.0;0.0
+6;More Than Words Can Say;Alias;['Rock'];234.0;0.0
+7;The Way You Do The Things You Do;UB40;['Reggae'];182.0;0.0
+8;Impulsive;Wilson Phillips;['Pop'];274.0;0.0
+9;Feels Good;Tony Toni Tone;['R&B'];299.0;0.0
+10;So Close;Daryl Hall John Oates;['Pop', 'Rock'];279.0;0.0
+11;Tom's Diner;DNA Featuring Suzanne Vega;['Pop'];229.0;0.0
+12;Stranded;Heart;['Pop'];238.0;0.0
+13;High Enough;Damn Yankees;['Rock', 'Hard Rock', 'Metal'];284.0;0.0
+14;Freedom;George Michael;['Pop'];388.0;0.0
+15;Ice Ice Baby;Vanilla Ice;['Rap/Hip Hop'];254.0;0.0
+16;Hippychick;Soho;['Pop'];193.0;0.0
+17;"Miracle (From ""Young Guns II"")";Jon Bon Jovi;[];;
+18;Wiggle It;2 In A Room;['Electro', 'Dance'];245.0;0.0
+19;Pray;M.C. Hammer;['Rap/Hip Hop'];313.0;0.0
+20;Knockin' Boots;Candyman;['Pop'];233.0;0.0
+21;Sensitivity;Ralph Tresvant;['R&B'];281.0;0.0
+22;Justify My Love;Madonna;['Pop'];302.0;0.0
+23;I Don't Have The Heart;James Ingram;['R&B'];253.0;0.0
+24;My Love Is A Fire;Donny Osmond;['Pop'];334.0;0.0
+25;B.B.D. (I Thought It Was Me)?;Bell Biv DeVoe;['R&B'];275.0;0.0
+26;Miles Away;Winger;['Rock', 'Hard Rock', 'Metal'];252.0;0.0
+27;Think;Information Society;['Dance', 'Pop'];234.0;0.0
+28;One And Only Man;Steve Winwood;['Rock'];302.0;0.0
+29;Unchained Melody;The Righteous Brothers;['Pop'];217.0;0.0
+30;Love Will Never Do (Without You);Janet Jackson;['R&B'];349.0;0.0
+31;Giving You The Benefit;Pebbles;['Soul'];335.0;0.0
+32;The First Time;Surface;['Pop'];237.0;0.0
+33;Fairweather Friend;Johnny Gill;['R&B'];275.0;0.0
+34;After The Rain;Nelson;['Rock'];236.0;0.0
+35;Close To You;Maxi Priest;['Reggae'];325.0;0.0
+36;And So It Goes;Billy Joel;['Rock'];216.0;0.0
+37;Can't Stop;After 7;['Pop'];248.0;0.0
+38;For You;The Outfield;['Pop'];267.0;0.0
+39;Black Cat;Janet Jackson;['R&B'];290.0;0.0
+40;Just Another Dream;Cathy Dennis;['Pop'];236.0;0.0
+41;On The Way Up;Elisa Fiorillo;[];;
+42;Lyin' To Myself;David Cassidy;['Pop'];227.0;0.0
+43;Hang In Long Enough;Phil Collins;['Pop', 'Rock'];284.0;0.0
+44;Cherry Pie;Warrant;['Rock'];201.0;0.0
+45;I'm Not In Love;Will To Power;['Pop'];227.0;0.0
+46;Gonna Make You Sweat (Everybody Dance Now);C+C Music Factory;['Pop'];243.0;0.0
+47;Joey;Concrete Blonde;['Rock'];248.0;0.0
+48;Anything Is Possible;Debbie Gibson;[];;
+49;Wherever Would I Be;Cheap Trick;[];;
+50;Gentle;Dino;['Jazz'];160.0;0.0
+51;I Wanna Get With U;Guy;[];;
+52;Hard To Handle;The Black Crowes;['Rock'];187.0;0.0
+53;I'll Give All My Love To You;Keith Sweat;['R&B'];269.0;0.0
+54;Unchained Melody;The Righteous Brothers;['Pop'];217.0;0.0
+55;(Can't Live Without Your) Love And Affection;Nelson;['Rock'];236.0;0.0
+56;You're Amazing;Robert Palmer;['Pop'];230.0;0.0
+57;New York Minute;Don Henley;['Rock'];395.0;0.0
+58;The Ghetto;Too $hort;['Rap/Hip Hop'];302.0;0.0
+59;Missunderstanding;Al B. Sure!;['R&B', 'Soul & Funk', 'Soul'];267.0;0.0
+60;Fly To the Angels;Slaughter;['Rock'];306.0;0.0
+61;Does She Love That Man?;Breathe Featuring David Glasper;[];;
+62;Disappear;INXS;['Rock'];248.0;0.0
+63;The Shoop Shoop Song (It's In His Kiss);Cher;['Pop'];171.0;0.0
+64;World In My Eyes;Depeche Mode;['Rock'];267.0;0.0
+65;You Gotta Love Someone;Elton John;['Pop'];298.0;0.0
+66;If You Needed Somebody;Bad Company;['Rock', 'Hard Rock'];261.0;0.0
+67;Tic-Tac-Toe;Kyper;['Dance'];383.0;0.0
+68;Tick Tock;Vaughan Brothers;['Rock'];296.0;0.0
+69;Everybody Everybody;Black Box;['Pop'];247.0;0.0
+70;Love Is A Killer;Vixen;['Rock'];283.0;0.0
+71;Candy;Iggy Pop With Kate Pierson;[];;
+72;Heat Of The Moment;After 7;['Pop'];267.0;0.0
+73;Something Happened On The Way To Heaven;Phil Collins;['Pop', 'Rock'];291.0;0.0
+74;"Blaze Of Glory (From ""Young Guns II"")";Jon Bon Jovi;['Rock'];335.0;0.0
+75;So Hard;Pet Shop Boys;['Dance'];240.0;0.0
+76;Heart Like A Wheel;The Human League;['Pop'];267.0;0.0
+77;The Boomin' System;LL Cool J;['Pop'];219.0;0.0
+78;I Found Love;The Party;['Pop'];214.0;0.0
+79;Romeo;Dino;['Rap/Hip Hop'];177.0;1.0
+80;Dream Boy/Dream Girl;Cynthia & Johnny O;['Electro'];258.0;0.0
+81;House Full Of Reasons;Jude Cole;['Pop'];234.0;0.0
+82;Around The Way Girl;LL Cool J;['Pop'];244.0;0.0
+83;Suicide Blonde;INXS;['Pop'];232.0;0.0
+84;I Saw Red;Warrant;['Rock'];226.0;0.0
+85;No Matter What;George LaMond (Duet With Brenda K. Starr);[];;
+86;Oh Girl;Paul Young;['Pop'];214.0;0.0
+87;I'm Free;The Soup Dragons;['Pop'];238.0;0.0
+88;New Power Generation;Prince;['R&B'];656.0;0.0
+89;Praying For Time;George Michael;['Pop'];281.0;0.0
+90;Love Makes Things Happen;Pebbles;['Pop'];331.0;0.0
+91;Crash (Have Some Fun);TKA Featuring Michelle Visage;[];;
+92;Each And Every Time;Sweet Sensation;['Pop', 'Rock'];246.0;0.0
+93;Wicked Game;Chris Isaak;['Pop'];286.0;0.0
+94;Give It To Me Good;Trixter;['Rock'];210.0;0.0
+95;Crazy;The Boys;['Films/Jeux vidéo', 'Musiques de films', 'BO TV'];149.0;0.0
+96;Livin' In The Light;Caron Wheeler;['Pop'];278.0;0.0
+97;Say A Prayer;Breathe;['Pop'];231.0;0.0
+98;Rockin' Over The Beat;Technotronic;['Dance'];346.0;0.0
+99;Me-U=Blue;Glenn Medeiros (Featuring The Stylistics);[];;

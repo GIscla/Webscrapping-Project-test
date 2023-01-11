@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Wannabe;Spice Girls;['Pop'];173.0;0.0
+1;Un-Break My Heart;Toni Braxton;['R&B', 'Soul'];270.0;0.0
+2;Can't Nobody Hold Me Down;Puff Daddy (Featuring Mase);['Rap/Hip Hop'];298.0;0.0
+3;"I Believe I Can Fly (From ""Space Jam"")";R. Kelly;[];;
+4;Foolish Games/You Were Meant For Me;Jewel;[];;
+5;Don't Let Go (Love);En Vogue;['R&B'];291.0;0.0
+6;In My Bed;Dru Hill;['Pop'];242.0;0.0
+7;"Don't Cry For Me Argentina (From ""Evita"")";Madonna;['Films/Jeux vidéo', 'Musiques de films'];335.0;0.0
+8;Nobody;Keith Sweat Featuring Athena Cage;['Dance', 'Rock'];264.0;0.0
+9;Every Time I Close My Eyes;Babyface;['R&B'];296.0;0.0
+10;"I Believe In You And Me (From ""The Preacher's Wife"")";Whitney Houston;[];;
+11;Discotheque;U2;['Rock'];320.0;0.0
+12;Cold Rock A Party;MC Lyte;['Rap/Hip Hop'];247.0;1.0
+13;Ooh Aah... Just A Little Bit;Gina G;['Pop'];182.0;0.0
+14;On & On;Erykah Badu;['Pop'];224.0;1.0
+15;No Diggity;BLACKstreet (Featuring Dr. Dre);['Pop'];305.0;0.0
+16;Get It Together;New Edition;[];;
+17;I'm Still In Love With You;Duncan Sheik;[];;
+18;Barely Breathing;Merril Bainbridge;[];;
+19;Mouth;Az Yet Featuring Peter Cetera;[];;
+20;Hard To Say I'm Sorry;The Cranberries;[];;
+21;When You're Gone/Free To Decide;No Mercy;[];;
+22;Where Do You Go;Freak Nasty;[];;
+23;Da' Dip;The Blackout Allstars;[];;
+24;I Like It;Journey;['Rap/Hip Hop'];192.0;0.0
+25;When You Love A Woman;Sheryl Crow;[];;
+26;If It Makes You Happy;No Mercy;[];;
+27;Please Don't Go;E-40 Featuring Bo-Rock;[];;
+28;Things'll Never Change/Rapper's Ball;Donna Lewis;[];;
+29;I Love You Always Forever;Savage Garden;[];;
+30;I Want You;The Prodigy;[];;
+31;Firestarter;Montell Jordan;[];;
+32;What's On Tonight;The Roots;[];;
+33;What They Do;Celine Dion;[];;
+34;It's All Coming Back To Me Now;Barbra Streisand & Bryan Adams;[];;
+35;"I Finally Found Someone (From ""The Mirror Has Two Faces"")";Toni Braxton;[];;
+36;You're Makin' Me High/Let It Flow;Immature Featuring Smooth And Ed From Good Burger;[];;
+37;"Watch Me Do My Thing (From ""All That"")";Eric Clapton;[];;
+38;Change The World;Amber;[];306.0;0.0
+39;This Is Your Night;Lil' Kim Featuring Puff Daddy;[];;
+40;No Time;Mark Morrison;[];;
+41;Return Of The Mack;Ginuwine;[];;
+42;Pony;Redman;[];;
+43;Whateva Man;Az Yet;[];;
+44;"Last Night (From ""The Nutty Professor"")";Luscious Jackson;[];;
+45;Naked Eye;Keith Sweat;[];;
+46;Twisted;Dishwalla;[];;
+47;Counting Blue Cars;Madonna;[];;
+48;"You Must Love Me (From ""Evita"")";Camp Lo;[];;
+49;Luchini aka (This Is It);DJ Kool;[];;
+50;Let Me Clear My Throat;Johnny Gill Featuring Roger Troutman;[];;
+51;It's Your Body;John Mellencamp;[];;
+52;Just Another Day;Crystal Waters;[];;
+53;Say... If You Feel Alright;The Smashing Pumpkins;[];;
+54;Thirty-Three;Depeche Mode;[];;
+55;Barrel Of A Gun;Mack 10 & Tha Dogg Pound;[];;
+56;"Nothin' But The Cavi Hit (From ""Rhyme & Reason"")";Better Than Ezra;[];;
+57;Desperately Wanting;Seal;[];;
+58;"Fly Like An Eagle (From ""Space Jam"")";Gloria Estefan;[];;
+59;I'm Not Giving You Up;Quad City DJ's;[];;
+60;"Space Jam (From ""Space Jam"")";Aerosmith;[];;
+61;Falling In Love (Is Hard On The Knees);Tracey Lee;[];;
+62;The Theme (It's Party Time);Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels;[];;
+63;This Is For The Lover In You;The Isley Brothers;[];;
+64;Tears;Rod Stewart;['Rock'];238.0;0.0
+65;If We Fall In Love Tonight;Leah Andreone;[];;
+66;It's Alright, It's Ok;The Verve Pipe;[];;
+67;Come See Me;Lost Boyz;[];;
+68;The Freshmen;Tru Featuring Ice Cream Man (Master P);[];;
+69;Get Up;Deana Carter;[];;
+70;I Always Feel Like (Somebody's Watching Me);Nate Dogg Featuring Snoop Doggy Dogg;[];;
+71;We Danced Anyway;SWV;[];;
+72;Never Leave Me Alone;Donna Lewis;[];;
+73;It's All About U;Livin' Joy;[];;
+74;Without Love;Donell Jones;[];;
+75;Cupid;Richie Rich;[];;
+76;Don't Stop Movin';Yvette Michele;[];;
+77;Knocks Me Off My Feet;Wild Orchid;[];;
+78;Do G's Get To Go To Heaven?;Bill Engvall With Special Guest Travis Tritt;[];;
+79;I'm Not Feeling You;Amber;[];;
+80;Talk To Me;dc Talk;[];267.0;0.0
+81;Here's Your Sign (Get The Picture);Phil Collins;[];;
+82;Colour Of Love;OutKast;[];;
+83;Between You And Me;Tre;[];;
+84;It's In Your Eyes;John Michael Montgomery;[];;
+85;ATLiens;LL Cool J;[];;
+86;Take Your Time;Metallica;[];;
+87;Friends;Metallica;['Rock'];135.0;0.0
+88;"Ain't Nobody (From ""Beavis And Butt-Head Do America"")";Rockell;[];;
+89;King Nothing;2Pac, Notorious B.I.G., Radio, Dramacydal & Stretch;[];;
+90;Hero Of The Day;Monifah;[];;
+91;I Fell In Love;Foxy Brown Featuring Jay-Z;[];;
+92;Runnin';Nas;['Rap/Hip Hop'];173.0;1.0
+93;You Don't Have To Love Me;Angelina;[];;
+94;I'll Be;Funky Green Dogs;[];;
+95;Street Dreams;R.E.M.;[];;
+96;Without Your Love;Republica;[];;
+97;Fired Up!;;[];;
+98;Electrolite;;[];;
+99;Drop Dead Gorgeous;;[];;

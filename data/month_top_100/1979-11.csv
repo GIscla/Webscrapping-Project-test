@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Pop Muzik;M;['Pop'];200.0;0.0
+1;Heartache Tonight;Eagles;['Pop'];265.0;0.0
+2;Dim All The Lights;Donna Summer;['R&B'];280.0;0.0
+3;Rise;Herb Alpert;['Jazz'];457.0;0.0
+4;Still;Commodores;['Pop'];225.0;0.0
+5;Don't Stop 'til You Get Enough;Michael Jackson;['Pop', 'Disco', 'Soul & Funk'];365.0;0.0
+6;Babe;Styx;['Rock'];264.0;0.0
+7;Tusk;Fleetwood Mac;['Pop'];210.0;0.0
+8;You Decorated My Life;Kenny Rogers;['Country'];217.0;0.0
+9;No More Tears (Enough Is Enough);Barbra Streisand/Donna Summer;['Pop'];288.0;0.0
+10;Please Don't Go;KC And The Sunshine Band;['Pop'];230.0;0.0
+11;Dirty White Boy;Foreigner;['Rock', 'Hard Rock'];220.0;0.0
+12;I'll Never Love This Way Again;Dionne Warwick;['R&B'];209.0;0.0
+13;Good Girls Don't;The Knack;['Rock'];189.0;0.0
+14;Ships;Barry Manilow;[];240.0;0.0
+15;Lovin', Touchin', Squeezin';Journey;['Pop', 'Rock'];234.0;0.0
+16;Come To Me;France Joli;['Dance', 'Pop'];592.0;0.0
+17;Hold On;Ian Gomm;['Rock'];180.0;0.0
+18;Sail On;Commodores;['Pop'];238.0;0.0
+19;I Know A Heartache When I See One;Jennifer Warnes;['Pop'];208.0;0.0
+20;Broken Hearted Me;Anne Murray;['Pop'];238.0;0.0
+21;This Night Won't Last Forever;Michael Johnson;['Pop'];239.0;0.0
+22;Sad Eyes;Robert John;['Pop'];253.0;0.0
+23;Gotta Serve Somebody;Bob Dylan;['Rock'];324.0;0.0
+24;If You Remember Me;Chris Thompson & Night;[];;
+25;My Sharona;The Knack;['Rock'];295.0;0.0
+26;You're Only Lonely;J.D. Souther;['Pop'];228.0;0.0
+27;Heaven Must Have Sent You;Bonnie Pointer;['R&B'];214.0;0.0
+28;Rainbow Connection;Kermit (Jim Henson);[];;
+29;So Good, So Right;Brenda Russell;['Pop'];203.0;0.0
+30;Take The Long Way Home;Supertramp;['Rock'];306.0;0.0
+31;Please Don't Leave;Lauren Wood;['Rock'];238.0;0.0
+32;Dream Police;Cheap Trick;['Rock'];233.0;0.0
+33;Lonesome Loser;Little River Band;['Rock'];239.0;0.0
+34;Fins;Jimmy Buffett;['Pop'];280.0;0.0
+35;Victim Of Love;Elton John;['Pop'];202.0;0.0
+36;Dreaming;Blondie;['Pop'];186.0;0.0
+37;Street Life;The Crusaders;['Jazz'];330.0;0.0
+38;Half The Way;Crystal Gayle;['Country'];242.0;0.0
+39;Better Love Next Time;Dr. Hook;['Pop'];180.0;0.0
+40;I Want You Tonight;Pablo Cruise;['Pop'];330.0;0.0
+41;Let Me Know (I Have A Right);Gloria Gaynor;['R&B'];501.0;0.0
+42;My Forbidden Lover;Chic;['Dance', 'Disco'];274.0;0.0
+43;I Need A Lover;John Cougar;['Rock'];338.0;0.0
+44;5:15;The Who;['Pop'];299.0;0.0
+45;Who Listens To The Radio;The Sports;['Pop', 'Rock'];195.0;0.0
+46;Confusion;Electric Light Orchestra;['Rock'];221.0;0.0
+47;Cool Change;Little River Band;['Rock'];313.0;0.0
+48;If You Want It;Niteflyte;['Pop'];270.0;0.0
+49;Damned If I Do;The Alan Parsons Project;['Rock'];288.0;0.0
+50;Send One Your Love;Stevie Wonder;['Pop'];242.0;0.0
+51;Cruisin';Smokey Robinson;['R&B'];352.0;0.0
+52;It's All I Can Do;The Cars;['Pop'];225.0;0.0
+53;Where Were You When I Was Falling In Love;Lobo;['Pop'];199.0;0.0
+54;Do That To Me One More Time;Captain & Tennille;['Pop'];256.0;0.0
+55;Ladies Night;Kool & The Gang;['R&B'];385.0;0.0
+56;Pretty Girls;Melissa Manchester;['R&B'];233.0;0.0
+57;Love Pains;Yvonne Elliman;['Pop'];463.0;0.0
+58;We Don't Talk Anymore;Cliff Richard;['Rock'];254.0;0.0
+59;Escape (The Pina Colada Song);Rupert Holmes;['Pop'];232.0;0.0
+60;Slip Away;Ian Lloyd;[];;
+61;In The Stone;Earth, Wind & Fire;['Pop', 'R&B', 'Soul'];286.0;0.0
+62;This Is It;Kenny Loggins;['Pop'];236.0;0.0
+63;Jane;Jefferson Starship;['Rock'];252.0;0.0
+64;Get It Up;Ronnie Milsap;['Dance', 'Pop'];369.0;0.0
+65;Midnight Wind;John Stewart;['Rock'];315.0;0.0
+66;What Can I Do With This Broken Heart;England Dan & John Ford Coley;['Pop'];195.0;0.0
+67;Spooky;Atlanta Rhythm Section;['Rock'];297.0;0.0
+68;Highway To Hell;AC/DC;['Rock', 'Hard Rock', 'Metal'];208.0;0.0
+69;Train, Train;Blackfoot;['Rock'];216.0;0.0
+70;Get It Right Next Time;Gerry Rafferty;['Pop'];282.0;0.0
+71;Don't Let Go;Isaac Hayes;['R&B'];435.0;0.0
+72;Don't Bring Me Down;Electric Light Orchestra;['Rock'];243.0;0.0
+73;Peter Piper;Frank Mills;['Pop'];204.0;0.0
+74;Found A Cure;Ashford & Simpson;['Rock'];423.0;0.0
+75;Rock With You;Michael Jackson;['Pop'];220.0;0.0
+76;Wait For Me;Daryl Hall John Oates;['Pop'];242.0;0.0
+77;(Not Just) Knee Deep - Part 1;Funkadelic;[];;
+78;Hey Hey, My My (Into The Black);Neil Young & Crazy Horse;['Rock'];312.0;0.0
+79;Pow Wow;Cory Daye;[];;
+80;I Still Have Dreams;Richie Furay;['Rock'];207.0;0.0
+81;No Chance;Moon Martin;['Rock'];161.0;0.0
+82;Sure Know Something;KISS;['Rock'];241.0;0.0
+83;Cruel To Be Kind;Nick Lowe;['Rock', 'Blues', 'Chicago blues'];209.0;0.0
+84;When I Think Of You;Leif Garrett;['Pop'];183.0;0.0
+85;Too Late;Shoes;['Rock'];178.0;0.0
+86;She's Got A Whole Number;Keith Herman;[];;
+87;Starry Eyes;The Records;['Rock'];263.0;0.0
+88;(Bringing Out) The Girl In Me;Maxine Nightingale;['R&B'];210.0;0.0
+89;Ready For The 80's;Village People;['Dance', 'Pop'];400.0;0.0
+90;Life During Wartime (This Ain't No Party...This Ain't No Disco...This Ain't;Talking Heads;[];;
+91;Lay It On The Line;Triumph;['Rock', 'Hard Rock'];246.0;0.0
+92;I Just Can't Control Myself;Nature's Divine;[];;
+93;Don't Drop My Love;Anita Ward;['R&B'];241.0;0.0
+94;Since You've Been Gone;Cherie & Marie Currie;['Rock'];220.0;0.0
+95;I Do The Rock;Tim Curry;['Rock'];281.0;0.0
+96;I Call Your Name;Switch;[];455.0;0.0
+97;Touch Me When We're Dancing;Bama;[];;
+98;You Stepped Into My Life;Wayne Newton;[];;
+99;Fooled By A Feeling;Barbara Mandrell;['Country'];177.0;0.0

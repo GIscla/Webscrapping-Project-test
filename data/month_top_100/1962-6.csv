@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Can't Stop Loving You;Ray Charles;['Jazz'];251.0;0.0
+1;Stranger On The Shore;Mr. Acker Bilk;['Jazz'];169.0;0.0
+2;Soldier Boy;The Shirelles;['Pop', 'Rock', 'Soul'];162.0;0.0
+3;Lovers Who Wander;Dion;['Rock'];141.0;0.0
+4;Mashed Potato Time;Dee Dee Sharp;['Pop'];151.0;0.0
+5;Everybody Loves Me But You;Brenda Lee;['Country', 'Pop'];151.0;0.0
+6;Shout! Shout! (Knock Yourself Out);Ernie Maresca;['Pop'];135.0;0.0
+7;Old Rivers;Walter Brennan;['Pop'];168.0;0.0
+8;The One Who Really Loves You;Mary Wells;['R&B'];152.0;0.0
+9;(The Man Who Shot) Liberty Valance;Gene Pitney;['Pop'];180.0;0.0
+10;Conscience;James Darren;[];144.0;0.0
+11;It Keeps Right On A-Hurtin';Johnny Tillotson;['Pop'];168.0;0.0
+12;Uptown;The Crystals;['Pop', 'Pop internationale', 'Rock'];141.0;0.0
+13;She Cried;Jay & The Americans;['Rock'];157.0;0.0
+14;I Sold My Heart To The Junkman;The Blue-Belles;['Electro', 'Dance'];148.0;0.0
+15;Second Hand Love;Connie Francis;['Pop'];151.0;0.0
+16;Palisades Park;Freddy Cannon;['Pop'];113.0;0.0
+17;Don't Play That Song (You Lied);Ben E. King;['R&B', 'Soul'];170.0;0.0
+18;Playboy;The Marvelettes;['R&B'];165.0;0.0
+19;P.T. 109;Jimmy Dean;['Country'];199.0;0.0
+20;Johnny Angel;Shelley Fabares;['Pop'];129.0;0.0
+21;Twistin' Matilda (and the channel);Jimmy Soul;['Pop'];177.0;0.0
+22;I Wish That We Were Married;Ronnie and The Hi-Lites;['Pop', 'R&B'];172.0;0.0
+23;Follow That Dream;Elvis Presley;['Pop'];96.0;0.0
+24;Funny Way Of Laughin';Burl Ives;['Pop'];157.0;0.0
+25;Good Luck Charm;Elvis Presley With The Jordanaires;[];;
+26;Tell Me;Dick and DeeDee;[];;
+27;The Stripper;David Rose and His Orchestra;['Jazz'];118.0;0.0
+28;So This Is Love;The Castells;['Pop'];162.0;0.0
+29;Caterina;Perry Como;['Pop'];132.0;0.0
+30;Teach Me Tonight;George Maharis;['Pop'];171.0;0.0
+31;Village Of Love;Nathaniel Mayer And The Fabulous Twilights;['Pop'];123.0;0.0
+32;That's Old Fashioned (That's The Way Love Should Be);The Everly Brothers;['Pop'];144.0;0.0
+33;Twist, Twist Senora;Gary U.S. Bonds;['Pop'];157.0;0.0
+34;Most People Get Married;Patti Page;['Pop'];126.0;0.0
+35;Night Train;James Brown And The Famous Flames;['Pop', 'R&B'];212.0;0.0
+36;Cindy's Birthday;Johnny Crawford;['Pop'];114.0;0.0
+37;Snap Your Fingers;Joe Henderson;['Rock', 'Blues'];178.0;0.0
+38;I Love You;The Volume's;['R&B'];282.0;0.0
+39;Any Day Now (My Wild Beautiful Bird);Chuck Jackson;['Jazz'];202.0;0.0
+40;Shout - Part I;Joey Dee & the Starliters;[];;
+41;Walk On The Wild Side (Part 1);Jimmy Smith And The Big Band;['Rock', 'Rock & Roll/Rockabilly'];158.0;0.0
+42;You Are Mine;Frankie Avalon;['Dance', 'Pop'];183.0;0.0
+43;Moon River;Henry Mancini And His Orchestra;['Jazz', 'Pop'];161.0;0.0
+44;Hit Record;Brook Benton;['Dance', 'Pop'];154.0;0.0
+45;Sharing You;Bobby Vee;['Pop'];123.0;0.0
+46;Lover Please;Clyde McPhatter;['Pop'];147.0;0.0
+47;Count Every Star;Linda Scott;['Pop'];150.0;0.0
+48;Slow Twistin';Chubby Checker (with Dee Dee Sharp);['Rap/Hip Hop'];292.0;0.0
+49;Born To Lose;Ray Charles;['Jazz'];192.0;0.0
+50;(I was) Born To Cry;Dion;['Rock'];147.0;0.0
+51;Number One Man;Bruce Channel;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+52;Theme From Ben Casey;Valjean on Piano;[];;
+53;How Is Julie?;The Lettermen;['Pop'];116.0;0.0
+54;Soul Twist;King Curtis And The Noble Knights;['Soul'];170.0;0.0
+55;Lemon Tree;Peter, Paul & Mary;['Pop'];177.0;0.0
+56;Itty Bitty Pieces;James Ray;[];156.0;0.0
+57;Balboa Blue;The Marketts;['Pop', 'Rock'];156.0;0.0
+58;My Real Name;Fats Domino;['Jazz', 'Rock', 'Blues'];141.0;0.0
+59;When I Get Thru With You (You'll Love Me Too);Patsy Cline;['Country'];156.0;0.0
+60;If I Cried Every Time You Hurt Me;Wanda Jackson;['Country'];154.0;0.0
+61;Al Di La';Emilio Pericoli;['Jazz'];199.0;0.0
+62;Where Are You;Dinah Washington;['Classique', 'Jazz'];137.0;0.0
+63;Hearts;Jackie Wilson;['R&B', 'Soul'];203.0;0.0
+64;Fortuneteller;Bobby Curtola;['Pop'];171.0;0.0
+65;Doctor Feel-Good;Dr. Feelgood And The Interns;['R&B', 'Soul'];137.0;0.0
+66;Meet Me At The Twistin' Place;Johnnie Morisette;['Rock'];176.0;0.0
+67;A Steel Guitar And A Glass Of Wine;Paul Anka;['Pop'];156.0;0.0
+68;That's My Desire;Yvonne Baker and the Sensations;['R&B'];142.0;0.0
+69;Oh My Angel;Bertha Tillman;['Rock'];142.0;0.0
+70;Bristol Twistin' Annie;The Dovells;['Pop'];134.0;0.0
+71;Theme From Dr. Kildare (Three Stars Will Shine Tonight);Richard Chamberlain;['Pop'];156.0;0.0
+72;Drummin' Up A Storm;Sandy Nelson;['Pop'];142.0;0.0
+73;Swingin' Gently;Earl Grant;['Jazz'];162.0;0.0
+74;Having A Party;Sam Cooke;['Pop'];157.0;0.0
+75;Why'd You Wanna Make Me Cry;Connie Stevens;['Pop'];129.0;0.0
+76;Wolverton Mountain;Claude King;['Country'];179.0;0.0
+77;I'll Try Something New;The Miracles;['R&B'];161.0;0.0
+78;I'll Take You Home;"The Corsairs Featuring Jay ""Bird"" Uzzell";[];;
+79;Lipstick Traces (On A Cigarette);Benny Spellman;['Soul'];141.0;0.0
+80;Woman Is A Man's Best Friend;Teddy & The Twilights;['Pop'];138.0;0.0
+81;I Found A Love;The Falcons & Band (Ohio Untouchables);[];;
+82;Love Can't Wait;Marty Robbins;['Country'];166.0;0.0
+83;Twist And Shout;The Isley Brothers;['R&B', 'Soul'];148.0;0.0
+84;The Crowd;Roy Orbison;['Pop'];144.0;0.0
+85;I'll Never Dance Again;Bobby Rydell;['Dance', 'Pop'];146.0;0.0
+86;West Of The Wall;Toni Fisher;['R&B', 'Soul'];158.0;0.0
+87;Johnny Get Angry;Joanie Sommers;['Pop'];152.0;0.0
+88;Limbo Rock;The Champs;['Rock'];138.0;0.0
+89;Adios Amigo;Jim Reeves;['Country', 'Pop', 'Pop internationale', 'Rock'];150.0;0.0
+90;Down In The Valley;Solomon Burke;['Rock'];146.0;0.0
+91;Where Have You Been (All My Life);Arthur Alexander;['R&B'];165.0;0.0
+92;Route 66 Theme;Nelson Riddle;[];130.0;0.0
+93;Let Me Be The One;The Paris Sisters;[];153.0;0.0
+94;The Green Leaves Of Summer;Kenny Ball and his Jazzmen;['Jazz', 'Jazz instrumental'];161.0;0.0
+95;Tennessee;Jan & Dean;['Rock'];126.0;0.0
+96;That Happy Feeling;Bert Kaempfert And His Orchestra;['Pop'];172.0;0.0
+97;Scotch And Soda;The Kingston Trio;[];151.0;0.0
+98;Boom Boom;John Lee Hooker;['Rock', 'Blues'];159.0;0.0
+99;I Need Your Loving;Don Gardner And Dee Dee Ford;['Pop'];288.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Run It!;Chris Brown;['R&B'];250.0;0.0
+1;Gold Digger;Kanye West Featuring Jamie Foxx;[];208.0;0.0
+2;My Humps;The Black Eyed Peas;['Rap/Hip Hop'];327.0;0.0
+3;Soul Survivor;Young Jeezy Featuring Akon;['Pop'];284.0;0.0
+4;Photograph;Nickelback;['Rock'];259.0;0.0
+5;Laffy Taffy;D4L;['Rap/Hip Hop'];224.0;1.0
+6;Hung Up;Madonna;['Pop'];337.0;0.0
+7;We Be Burnin';Sean Paul;['R&B'];213.0;0.0
+8;Because Of You;Kelly Clarkson;['Pop'];219.0;0.0
+9;Stickwitu;The Pussycat Dolls;['Pop'];208.0;0.0
+10;Don't Forget About Us;Mariah Carey;['Pop'];233.0;0.0
+11;I'm Sprung;T-Pain;['Pop'];231.0;0.0
+12;Stay Fly;Three 6 Mafia Featuring Young Buck & Eightball & MJG;['Rap/Hip Hop'];238.0;1.0
+13;Sugar, We're Goin' Down;Fall Out Boy;['Rock'];229.0;0.0
+14;I Think They Like Me;Dem Franchize Boyz Featuring Jermaine Dupri, Da Brat & Bow Wow;[];;
+15;One Wish;Ray J;['R&B', 'Soul'];337.0;0.0
+16;Here We Go;Trina Featuring Kelly Rowland;['Rap/Hip Hop'];230.0;1.0
+17;Shake It Off;Mariah Carey;['Pop'];232.0;0.0
+18;There It Go! (The Whistle Song);Juelz Santana;['Rap/Hip Hop'];180.0;1.0
+19;Window Shopper;50 Cent;['Rap/Hip Hop'];190.0;1.0
+20;Wake Me Up When September Ends;Green Day;['Alternative'];285.0;0.0
+21;Girl Tonite;Twista Featuring Trey Songz;['Rap/Hip Hop'];221.0;1.0
+22;Like You;Bow Wow Featuring Ciara;['Pop'];205.0;0.0
+23;Luxurious;Gwen Stefani;['Pop'];265.0;0.0
+24;You And Me;Lifehouse;['Electro'];306.0;0.0
+25;Your Body;Pretty Ricky;['Rap/Hip Hop'];240.0;1.0
+26;Feel Good Inc;Gorillaz;['Rap/Hip Hop'];222.0;0.0
+27;Beverly Hills;Weezer;['Rock'];196.0;0.0
+28;Dance, Dance;Fall Out Boy;['Rock'];180.0;0.0
+29;Don't Cha;The Pussycat Dolls Featuring Busta Rhymes;['Pop'];217.0;0.0
+30;Come A Little Closer;Dierks Bentley;['Country'];282.0;0.0
+31;Tequila Makes Her Clothes Fall Off;Joe Nichols;['Country'];187.0;0.0
+32;We Belong Together;Mariah Carey;['Pop'];201.0;0.0
+33;Check On It;Beyonce Featuring Slim Thug;['Pop'];210.0;0.0
+34;I Should Have Cheated;Keyshia Cole;['R&B'];328.0;0.0
+35;Unbreakable;Alicia Keys;['R&B'];274.0;0.0
+36;Who You'd Be Today;Kenny Chesney;['Country', 'Pop', 'Pop internationale', 'Rock'];254.0;0.0
+37;Heard 'Em Say;Kanye West Featuring Adam Levine;['Rap/Hip Hop'];203.0;0.0
+38;Dirty Little Secret;The All-American Rejects;['Pop'];193.0;0.0
+39;Behind These Hazel Eyes;Kelly Clarkson;['Pop'];199.0;0.0
+40;Pon de Replay;Rihanna;['Pop'];246.0;0.0
+41;Jesus, Take The Wheel;Carrie Underwood;['Country'];226.0;0.0
+42;Play;David Banner;['Rap/Hip Hop'];230.0;1.0
+43;La Tortura;Shakira Feat. Alejandro Sanz;['Pop'];212.0;0.0
+44;Like We Never Loved At All;Faith Hill;[];253.0;0.0
+45;Better Life;Keith Urban;['Country'];283.0;0.0
+46;Boyfriend;Ashlee Simpson;['Pop'];179.0;0.0
+47;Shake;Ying Yang Twins Featuring Pitbull;['Rap/Hip Hop', 'Dirty South'];241.0;1.0
+48;Listen To Your Heart;D.H.T.;['Dance'];272.0;0.0
+49;Honky Tonk Badonkadonk;Trace Adkins;['Country'];241.0;0.0
+50;If It's Lovin' That You Want;Rihanna;['Pop'];208.0;0.0
+51;Grillz;Nelly Featuring Paul Wall, Ali & Gipp;['Pop'];295.0;0.0
+52;Skin (Sarabeth);Rascal Flatts;['Country', 'Pop'];261.0;0.0
+53;Must Be Doin' Somethin' Right;Billy Currington;['Country'];269.0;0.0
+54;Best I Ever Had;Gary Allan;['Country'];251.0;0.0
+55;More Than Words;Frankie J;['Pop'];241.0;0.0
+56;Belly Dancer (Bananza);Akon;['R&B'];240.0;0.0
+57;Confessions Of A Broken Heart (Daughter To Father);Lindsay Lohan;['Pop'];220.0;0.0
+58;Lighters Up;Lil' Kim;['Rap/Hip Hop'];262.0;1.0
+59;Be Without You;Mary J. Blige;['R&B'];248.0;1.0
+60;Don't Lie;The Black Eyed Peas;['Rap/Hip Hop'];219.0;0.0
+61;Seasons Of Love;Cast Of Rent;['Pop'];182.0;0.0
+62;You're Beautiful;James Blunt;['Pop'];209.0;1.0
+63;Boondocks;Little Big Town;['Country'];272.0;0.0
+64;Big Blue Note;Toby Keith;['Country'];177.0;0.0
+65;Good Ride Cowboy;Garth Brooks;['Country', 'Rock'];209.0;0.0
+66;Can I Have It Like That;Pharrell Featuring Gwen Stefani;['Jeunesse', 'Soul'];256.0;0.0
+67;Better Days;Goo Goo Dolls;['Pop'];213.0;0.0
+68;When I'm Gone;Eminem;['Rap/Hip Hop'];281.0;1.0
+69;Turn It Up;Chamillionaire Featuring Lil' Flip;[];;
+70;She Let Herself Go;George Strait;['Country'];196.0;0.0
+71;Comin' To Your City;Big & Rich;['Country'];207.0;0.0
+72;I'm Feeling You;Santana Featuring Michelle Branch & The Wreckers;['Pop'];271.0;0.0
+73;Something To Be Proud Of;Montgomery Gentry;['Country'];255.0;0.0
+74;Kryptonite (I'm On It);Purple Ribbon All-Stars;[];;
+75;DOA;Foo Fighters;['Pop', 'Rock'];252.0;0.0
+76;Soul Meets Body;Death Cab For Cutie;['Alternative'];230.0;0.0
+77;You're Like Comin' Home;Lonestar;['Country', 'Pop'];240.0;0.0
+78;Don't Bother;Shakira;['Pop'];257.0;0.0
+79;Miss Me Baby;Chris Cagle;['Country'];234.0;0.0
+80;When I Get Where I'm Going;Brad Paisley Featuring Dolly Parton;['Country'];246.0;0.0
+81;Bat Country;Avenged Sevenfold;['Rock'];374.0;1.0
+82;Just The Girl;The Click Five;['Pop'];234.0;0.0
+83;Home;Michael Buble;['Pop'];226.0;0.0
+84;Fireman;Lil Wayne;['Rap/Hip Hop'];263.0;1.0
+85;Redneck Yacht Club;Craig Morgan;['Country'];230.0;0.0
+86;Save Me;Shinedown;['Rock'];213.0;0.0
+87;Presidential;YoungBloodZ;['Rap/Hip Hop'];241.0;0.0
+88;Hypnotize;System Of A Down;['Rock'];167.0;0.0
+89;Rompe;Daddy Yankee;['Latino'];188.0;0.0
+90;Just Might (Make Me Believe);Sugarland;['Country'];247.0;0.0
+91;Probably Wouldn't Be This Way;LeAnn Rimes;['Country', 'Pop'];217.0;0.0
+92;Hustler's Ambition;50 Cent;['Rap/Hip Hop'];237.0;1.0
+93;Only;Nine Inch Nails;['Rock'];263.0;1.0
+94;Twisted Transistor;Korn;['Rock'];188.0;1.0
+95;Gotta Go;Trey Songz;['R&B'];247.0;0.0
+96;My Old Friend;Tim McGraw;['Country'];217.0;0.0
+97;(I Never Promised You A) Rose Garden;Martina McBride;['Country', 'Pop', 'Pop internationale', 'Rock'];195.0;0.0
+98;Billy's Got His Beer Goggles On;Neal McCoy;['Country'];219.0;0.0
+99;Unpredictable;Jamie Foxx Featuring Ludacris;['R&B', 'Soul'];219.0;0.0

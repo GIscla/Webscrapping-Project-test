@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Money For Nothing;Dire Straits;['Rock'];504.0;0.0
+1;Cherish;Kool & The Gang;['R&B'];290.0;0.0
+2;Oh Sheila;Ready For The World;['Pop'];241.0;0.0
+3;Take On Me;a-ha;['Pop'];227.0;0.0
+4;Dress You Up;Madonna;['Pop'];241.0;0.0
+5;Saving All My Love For You;Whitney Houston;['Pop', 'R&B', 'Soul'];238.0;0.0
+6;Freedom;Wham!;['Pop'];319.0;0.0
+7;Lonely Ol' Night;John Mellencamp;['Rock'];225.0;0.0
+8;Dancing In The Street;David Bowie & Mick Jagger;['Rock'];204.0;0.0
+9;Part-Time Lover;Stevie Wonder;['R&B'];252.0;0.0
+10;Don't Lose My Number;Phil Collins;['Pop', 'Rock'];288.0;0.0
+11;Fortress Around Your Heart;Sting;['Pop'];279.0;0.0
+12;Miami Vice Theme;Jan Hammer;['Rock'];216.0;0.0
+13;I'm Goin' Down;Bruce Springsteen;['Rock'];209.0;0.0
+14;St. Elmo's Fire (Man In Motion);John Parr;['Films/Jeux vidéo', 'Musiques de films', 'Bandes originales'];251.0;0.0
+15;Cry;Godley & Creme;['Pop'];236.0;0.0
+16;Dare Me;The Pointer Sisters;['Pop'];257.0;0.0
+17;C-I-T-Y;John Cafferty & The Beaver Brown Band;['Rock'];215.0;0.0
+18;Lovin' Every Minute Of It;Loverboy;['Pop'];213.0;0.0
+19;Head Over Heels;Tears For Fears;['Pop'];256.0;0.0
+20;Pop Life;Prince And The Revolution;[];;
+21;We Don't Need Another Hero (Thunderdome);Tina Turner;['Pop'];255.0;0.0
+22;Four In The Morning (I Can't Take Anymore);Night Ranger;[];;
+23;The Way You Do The Things You Do/My Girl;Daryl Hall John Oates;['Pop'];276.0;0.0
+24;Every Step Of The Way;John Waite;['Pop'];252.0;0.0
+25;The Power Of Love;Huey Lewis & The News;['Rock'];234.0;0.0
+26;I'm Gonna Tear Your Playhouse Down;Paul Young;['Pop'];286.0;0.0
+27;Be Near Me;ABC;['Pop'];217.0;0.0
+28;Sunset Grill;Don Henley;['Rock'];389.0;0.0
+29;One Night Love Affair;Bryan Adams;['Pop'];273.0;0.0
+30;We Built This City;Starship;['Rock'];296.0;0.0
+31;You Belong To The City;Glenn Frey;['Pop'];352.0;0.0
+32;And We Danced;Hooters;['Pop'];228.0;0.0
+33;Lay Your Hands On Me;Thompson Twins;['Pop'];365.0;0.0
+34;Invincible (Theme From The Legend Of Billie Jean);Pat Benatar;[];;
+35;You Are My Lady;Freddie Jackson;['R&B'];284.0;0.0
+36;Communication;The Power Station;['Pop', 'Rock'];217.0;0.0
+37;Never;Heart;['Pop'];286.0;0.0
+38;Love Theme From St. Elmo's Fire (Instrumental);David Foster;['Pop'];209.0;0.0
+39;Boy In The Box;Corey Hart;['Pop'];295.0;0.0
+40;Who's Zoomin' Who;Aretha Franklin;['Rap/Hip Hop', 'Pop', 'Soul'];282.0;0.0
+41;I Got You Babe;UB40;['Reggae'];189.0;0.0
+42;Freeway Of Love;Aretha Franklin;['R&B'];352.0;0.0
+43;So In Love;Orchestral Manoeuvres In The Dark;['Rock'];210.0;0.0
+44;Separate Lives;Phil Collins and Marilyn Martin;['Pop', 'Rock'];248.0;0.0
+45;You're Only Human (Second Wind);Billy Joel;['Pop'];288.0;0.0
+46;You Wear It Well;El DeBarge With DeBarge;[];;
+47;Smokin' In The Boys Room;Motley Crue;['Rock'];208.0;0.0
+48;Tonight It's You;Cheap Trick;['Rock'];285.0;0.0
+49;Broken Wings;Mr. Mister;['Pop'];343.0;0.0
+50;Weird Science;Oingo Boingo;['Pop'];365.0;0.0
+51;One Of The Living;Tina Turner;['Pop'];251.0;0.0
+52;Summer Of '69;Bryan Adams;['Pop'];216.0;0.0
+53;Born In East L.A.;Cheech & Chong;['Films/Jeux vidéo', 'Comédie'];170.0;0.0
+54;All Of Me For All Of You;9.9;['Rap/Hip Hop', 'R&B', 'Disco'];422.0;0.0
+55;I Miss You;Klymaxx;['Rock', 'Rock & Roll/Rockabilly'];337.0;0.0
+56;There Must Be An Angel;Eurythmics;['Pop'];280.0;0.0
+57;Stand By Me;Maurice White;['R&B'];250.0;0.0
+58;Perfect Way;Scritti Politti;['Alternative'];284.0;0.0
+59;Shout;Tears For Fears;['Rock'];392.0;0.0
+60;Never Surrender;Corey Hart;['Films/Jeux vidéo', 'Musiques de films'];293.0;0.0
+61;After The Fire;Roger Daltrey;['Rock'];277.0;0.0
+62;Soul Kiss;Olivia Newton-John;['Pop'];272.0;0.0
+63;Like To Get To Know You Well;Howard Jones;['Pop'];240.0;0.0
+64;The Night Is Still Young;Billy Joel;['Pop'];326.0;0.0
+65;All Fall Down;Five Star;['Pop'];212.0;0.0
+66;I Wonder If I Take You Home;Lisa Lisa And Cult Jam With Full Force;['R&B'];237.0;0.0
+67;Screams Of Passion;The Family;[];;
+68;Object Of My Desire;Starpoint;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];234.0;0.0
+69;Running Up That Hill (A Deal With God);Kate Bush;['Pop'];298.0;0.0
+70;Shame;The Motels;['Pop'];251.0;0.0
+71;Girls Are More Fun;Ray Parker Jr.;['R&B'];264.0;0.0
+72;Hard Times For Lovers;Jennifer Holliday;['Pop'];308.0;0.0
+73;Life In One Day;Howard Jones;['Pop'];221.0;0.0
+74;Lover Come Back To Me;Dead Or Alive;['Pop'];192.0;0.0
+75;I'll Be Good;Rene & Angela;['R&B'];321.0;0.0
+76;No Lookin' Back;Michael McDonald;['Pop'];235.0;0.0
+77;What About Love?;Heart;['Pop'];222.0;0.0
+78;And She Was;Talking Heads;['Pop', 'Rock'];219.0;0.0
+79;Eaten Alive;Diana Ross;['Rap/Hip Hop'];230.0;0.0
+80;Hurts To Be In Love;Gino Vannelli;['Pop', 'Rock'];290.0;0.0
+81;Party All The Time;Eddie Murphy;['Pop'];237.0;0.0
+82;The Oak Tree;Morris Day;['Pop'];442.0;0.0
+83;Everytime You Go Away;Paul Young;['Pop'];324.0;0.0
+84;Blue Kiss;Jane Wiedlin;['Rock'];208.0;0.0
+85;Eye To Eye;Go West;['Pop'];312.0;0.0
+86;Mystery Lady;Billy Ocean;['Pop', 'R&B'];234.0;0.0
+87;First Night;Survivor;['Rock'];256.0;0.0
+88;Kayleigh;Marillion;['Rock'];213.0;0.0
+89;Remo's Theme (What If);Tommy Shaw;[];;
+90;You Look Marvelous;Billy Crystal;[];;
+91;Janet;Commodores;['R&B'];221.0;0.0
+92;Test Of Time;The Romantics;['Alternative', 'Pop Indé', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];203.0;0.0
+93;Wise Up;Amy Grant;['Pop'];232.0;0.0
+94;Down On Love;Foreigner;['Rock', 'Hard Rock'];248.0;0.0
+95;If You Love Somebody Set Them Free;Sting;['Pop'];254.0;0.0
+96;A Little Bit of Heaven;Natalie Cole;[];;
+97;Forever;Kenny Loggins;['Pop'];264.0;0.0
+98;Who's Holding Donna Now;Debarge;['R&B'];268.0;0.0
+99;Spanish Eddie;Laura Branigan;['Pop'];247.0;0.0

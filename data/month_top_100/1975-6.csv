@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Thank God I'm A Country Boy;John Denver;['Pop'];193.0;0.0
+1;Sister Golden Hair;America;['Rock'];197.0;0.0
+2;How Long;Ace;['Pop'];204.0;0.0
+3;Bad Time;Grand Funk;['Rock'];176.0;0.0
+4;Old Days;Chicago;['Pop', 'Rock'];209.0;0.0
+5;When Will I Be Loved;Linda Ronstadt;['Rock'];124.0;0.0
+6;Before The Next Teardrop Falls;Freddy Fender;['Country'];160.0;0.0
+7;I'm Not Lisa;Jessi Colter;['Pop'];201.0;0.0
+8;Love Won't Let Me Wait;Major Harris;['R&B'];227.0;0.0
+9;Philadelphia Freedom;The Elton John Band;[];;
+10;Cut The Cake;AWB;['Jazz', 'R&B'];261.0;0.0
+11;Love Will Keep Us Together;The Captain & Tennille;['Pop'];205.0;0.0
+12;Shining Star;Earth, Wind & Fire;['R&B'];170.0;0.0
+13;Get Down, Get Down (Get On The Floor);Joe Simon;['R&B', 'Soul'];176.0;0.0
+14;Only Women;Alice Cooper;['Rock'];210.0;0.0
+15;Only Yesterday;Carpenters;['Pop'];226.0;0.0
+16;Wildfire;Michael Murphey;['Rock'];286.0;0.0
+17;Bad Luck (Part 1);Harold Melvin And The Blue Notes;['R&B'];195.0;0.0
+18;Take Me In Your Arms (Rock Me);The Doobie Brothers;['Rock'];219.0;0.0
+19;Magic;Pilot;['Pop'];186.0;0.0
+20;The Last Farewell;Roger Whittaker;[];238.0;0.0
+21;I Don't Like To Sleep Alone;Paul Anka with Odia Coates;[];;
+22;I'll Play For You;Seals & Crofts;['Pop'];245.0;0.0
+23;I Wanna Dance Wit' Choo (Doo Dat Dance), Part I;Disco Tex & The Sex-O-Lettes;[];;
+24;Remember What I Told You To Forget/My Ship;Tavares;[];;
+25;Shakey Ground;The Temptations;['Pop'];241.0;0.0
+26;Attitude Dancing;Carly Simon;['Pop'];233.0;0.0
+27;Jackie Blue;Ozark Mountain Daredevils;['Rock'];250.0;0.0
+28;The Way We Were/try To Remember;Gladys Knight And The Pips;['Pop'];281.0;0.0
+29;Shoeshine Boy;Eddie Kendricks;['R&B'];195.0;0.0
+30;Misty;Ray Stevens;['Dance', 'Pop'];178.0;0.0
+31;The Hustle;Van McCoy & The Soul City Symphony;['Pop'];242.0;0.0
+32;Baby That's Backatcha;Smokey Robinson;['R&B'];228.0;0.0
+33;Judy Mae;Boomer Castleman;[];;
+34;Listen To What The Man Said;Wings;['Pop'];234.0;0.0
+35;Good Lovin' Gone Bad;Bad Company;['Rock', 'Hard Rock'];216.0;0.0
+36;Dynomite-Part I;Tony Camillo's Bazuka;[];;
+37;Hey You;Bachman-Turner Overdrive;['Pop'];214.0;0.0
+38;Lizzie And The Rainman;Tanya Tucker;['Country'];184.0;0.0
+39;T-R-O-U-B-L-E;Elvis Presley;['Pop'];182.0;0.0
+40;Why Can't We Be Friends?;War;['R&B'];230.0;0.0
+41;Hijack;Herbie Mann;[];;
+42;He Don't Love You (Like I Love You);Tony Orlando & Dawn;['Pop', 'Rock'];219.0;0.0
+43;Swearin' To God;Frankie Valli;['Pop'];245.0;0.0
+44;Give The People What They Want;The O'Jays;['R&B'];250.0;0.0
+45;I'm On Fire;Dwight Twilley Band;['Rock'];199.0;0.0
+46;Me And Mrs. Jones;Ron Banks And The Dramatics;[];;
+47;What Can I Do For You?;Labelle;['R&B'];188.0;0.0
+48;I'm Not In Love;10cc;['Pop'];366.0;0.0
+49;Midnight Blue;Melissa Manchester;['Pop'];238.0;0.0
+50;Rockin' Chair;Gwen McCrae;['Rap/Hip Hop'];202.0;0.0
+51;Black Friday;Steely Dan;['Pop'];221.0;0.0
+52;One Of These Nights;Eagles;['Pop'];291.0;0.0
+53;Sadie;The Spinners;['R&B'];252.0;0.0
+54;(Just Like) Romeo And Juliet;Sha Na Na;[];136.0;0.0
+55;Killer Queen;Queen;['Films/Jeux vidéo', 'Musiques de films'];179.0;0.0
+56;I Dreamed Last Night;Justin Hayward & John Lodge;['Rock'];279.0;0.0
+57;Ease On Down The Road;Consumer Rapport;[];;
+58;I'll Do For You Anything You Want Me To;Barry White;['R&B'];251.0;0.0
+59;The Rockford Files;Mike Post;['Pop'];186.0;0.0
+60;Bloody Well Right;Supertramp;['Rock'];271.0;0.0
+61;Slippery When Wet;Commodores;['R&B'];200.0;0.0
+62;Sex Machine (Part I);James Brown;['R&B'];348.0;0.0
+63;Long Haired Country Boy;The Charlie Daniels Band;['Country'];240.0;0.0
+64;Please Mr. Please;Olivia Newton-John;['Pop'];202.0;0.0
+65;Rhinestone Cowboy;Glen Campbell;['Country', 'Pop', 'Rock'];195.0;0.0
+66;Spirit Of The Boogie/Summer Madness;Kool & The Gang;[];;
+67;Every Time You Touch Me (I Get High);Charlie Rich;['Country'];179.0;0.0
+68;Please Pardon Me (You Remind Me Of A Friend);Rufus Featuring Chaka Khan;[];;
+69;Mister Magic;Grover Washington, Jr.;['Jazz'];541.0;0.0
+70;Seven Lonely Nights;Four Tops;['R&B'];179.0;0.0
+71;Rock And Roll All Nite;KISS;['Rock'];168.0;0.0
+72;Damn It All;Gene Cotton;[];;
+73;How Glad I Am;Kiki Dee;['Pop'];240.0;0.0
+74;El Bimbo;Bimbo Jet;['Pop'];142.0;0.0
+75;Disco Queen;Hot Chocolate;['Rock'];215.0;0.0
+76;Jive Talkin';Bee Gees;['Pop'];224.0;0.0
+77;Burnin' Thing;Mac Davis;['Country'];179.0;0.0
+78;Sail On Sailor;The Beach Boys;['Pop'];202.0;0.0
+79;Blanket On The Ground;Billie Jo Spears;['Country'];215.0;0.0
+80;Funny How Love Can Be;First Class;['Pop'];180.0;0.0
+81;Reconsider Me;Narvel Felts;['Country', 'Pop', 'Rock', 'Rock & Roll/Rockabilly', 'Soul vieille école', 'Soul'];212.0;0.0
+82;Rainy Day People;Gordon Lightfoot;['Pop', 'Folk'];168.0;0.0
+83;Let There Be Music;Orleans;['Rock'];200.0;0.0
+84;Touch Me Baby (reaching Out For Your Love);Tamiko Jones;['R&B'];185.0;0.0
+85;Make The World Go Away;Donny & Marie Osmond;['Pop'];165.0;0.0
+86;Do It In The Name Of Love;Ben E. King;[];213.0;0.0
+87;Minnesota;Northern Light;[];;
+88;Rag Doll;Sammy Johns;['Country', 'Rock', 'Singer & Songwriter'];202.0;0.0
+89;Just A Little Bit Of You;Michael Jackson;['R&B'];192.0;0.0
+90;Astral Man;Nektar;['Rock'];195.0;0.0
+91;Rolling Down A Mountainside;The Main Ingredient;['R&B'];215.0;0.0
+92;Run Tell The People;Daniel Boone;[];;
+93;No Charge;Shirley Caesar;[];206.0;0.0
+94;Granddaddy (Part 1);New Birth;[];;
+95;Dixie Rock;Wet Willie;['Rock'];242.0;0.0
+96;Hurt;The Manhattans;['Pop'];181.0;0.0
+97;Baby-Get It On;Ike & Tina Turner;['Rock'];191.0;0.0
+98;Sneakin' Up Behind You;The Brecker Brothers;['Jazz'];293.0;0.0
+99;Stars In My Eyes;Sugarloaf/Jerry Corbetta;[];;

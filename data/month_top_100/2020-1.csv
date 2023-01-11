@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+1;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+2;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+3;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+4;Circles;Post Malone;['Rap/Hip Hop'];214.0;0.0
+5;Roxanne;Arizona Zervas;['Rap/Hip Hop'];163.0;1.0
+6;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+7;Someone You Loved;Lewis Capaldi;['Alternative'];182.0;0.0
+8;Memories;Maroon 5;['Pop'];189.0;0.0
+9;Good As Hell;Lizzo;['Pop'];159.0;0.0
+10;Last Christmas;Wham!;['Pop'];263.0;0.0
+11;Feliz Navidad;Jose Feliciano;['Classique'];182.0;0.0
+12;The Box;Roddy Ricch;['Rap/Hip Hop'];196.0;1.0
+13;Dance Monkey;Tones And I;['Alternative'];209.0;0.0
+14;Let It Snow, Let It Snow, Let It Snow;Dean Martin;['Pop'];117.0;0.0
+15;The Christmas Song (Merry Christmas To You);Nat King Cole;[];191.0;0.0
+16;10,000 Hours;Dan + Shay & Justin Bieber;['Country', 'Pop'];167.0;0.0
+17;Lose You To Love Me;Selena Gomez;['Pop'];206.0;0.0
+18;Ballin';Mustard & Roddy Ricch;['Rap/Hip Hop'];180.0;1.0
+19;BOP;DaBaby;['Rap/Hip Hop'];159.0;1.0
+20;Sleigh Ride;The Ronettes;['Classique'];181.0;0.0
+21;Rudolph The Red-Nosed Reindeer;Gene Autry;['Classique'];186.0;0.0
+22;Bad Guy;Billie Eilish;['Alternative'];194.0;0.0
+23;Happy Holiday / The Holiday Season;Andy Williams;['Classique'];156.0;0.0
+24;No Guidance;Chris Brown Featuring Drake;['R&B'];260.0;1.0
+25;Senorita;Shawn Mendes & Camila Cabello;['Pop'];190.0;0.0
+26;Bandit;Juice WRLD & YoungBoy Never Broke Again;['Rap/Hip Hop'];189.0;0.0
+27;It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;[];155.0;0.0
+28;Christmas (Baby Please Come Home);Darlene Love;['Classique'];166.0;0.0
+29;Panini;Lil Nas X;['Alternative'];114.0;0.0
+30;Underneath The Tree;Kelly Clarkson;['Pop'];229.0;0.0
+31;Here Comes Santa Claus (Right Down Santa Claus Lane);Gene Autry;[];151.0;0.0
+32;Hot;Young Thug Featuring Gunna;['Rap/Hip Hop'];193.0;1.0
+33;Old Town Road;Lil Nas X Featuring Billy Ray Cyrus;['Alternative'];157.0;0.0
+34;Truth Hurts;Lizzo;['Pop', 'R&B'];173.0;1.0
+35;Run Rudolph Run;Chuck Berry;['Rock'];165.0;0.0
+36;(There's No Place Like) Home For The Holidays (1959);Perry Como With Mitchell Ayers And His Orchestra;[];;
+37;HIGHEST IN THE ROOM;Travis Scott;['Rap/Hip Hop', 'Pop'];175.0;1.0
+38;Heartless;The Weeknd;['R&B'];200.0;1.0
+39;Blue Christmas;Elvis Presley;[];125.0;0.0
+40;Everything I Wanted;Billie Eilish;['Alternative'];245.0;0.0
+41;White Christmas;Bing Crosby;['Pop'];183.0;0.0
+42;Jingle Bells;Frank Sinatra;[];123.0;0.0
+43;Like It's Christmas;Jonas Brothers;[];200.0;0.0
+44;Baby It's Cold Outside;Dean Martin;['Pop'];143.0;0.0
+45;Trampoline;SHAED;['Pop'];184.0;0.0
+46;Woah;Lil Baby;['Rap/Hip Hop'];183.0;1.0
+47;Futsal Shuffle 2020;Lil Uzi Vert;['Rap/Hip Hop'];198.0;1.0
+48;You're A Mean One, Mr. Grinch;Thurl Ravenscroft;[];180.0;0.0
+49;Ran$om;Lil Tecca;['Rap/Hip Hop'];131.0;1.0
+50;Falling;Trevor Daniel;['Pop'];159.0;0.0
+51;Don't Start Now;Dua Lipa;['Pop'];183.0;0.0
+52;Adore You;Harry Styles;['Pop'];207.0;0.0
+53;One Man Band;Old Dominion;['Country'];186.0;0.0
+54;Hot Girl Bummer;blackbear;['Pop'];188.0;0.0
+55;Suicidal;YNW Melly & Juice WRLD;['Rap/Hip Hop'];225.0;1.0
+56;Lover;Taylor Swift;['Pop'];221.0;0.0
+57;On Chill;Wale Featuring Jeremih;['Rap/Hip Hop'];214.0;1.0
+58;Even Though I'm Leaving;Luke Combs;['Country'];225.0;0.0
+59;No Idea;Don Toliver;['Rap/Hip Hop'];154.0;0.0
+60;Graveyard;Halsey;['Alternative'];181.0;0.0
+61;My Oh My;Camila Cabello Featuring DaBaby;['Pop'];170.0;0.0
+62;Juicy;Doja Cat & Tyga;['R&B'];202.0;1.0
+63;The Bones;Maren Morris;['Country'];197.0;0.0
+64;Playing Games;Summer Walker;['R&B'];143.0;1.0
+65;Heat;Chris Brown Featuring Gunna;['R&B'];232.0;1.0
+66;Into The Unknown;Idina Menzel & AURORA;['Films/Jeux vidéo', 'Musiques de films'];194.0;0.0
+67;VIBEZ;DaBaby;['Rap/Hip Hop'];144.0;1.0
+68;Happy Xmas (War Is Over);John Legend;[];210.0;0.0
+69;Heart On Ice;Rod Wave;['Rap/Hip Hop'];158.0;1.0
+70;What If I Never Get Over You;Lady Antebellum;['Pop'];199.0;0.0
+71;Blinding Lights;The Weeknd;['R&B'];200.0;0.0
+72;Ridin' Roads;Dustin Lynch;['Country'];205.0;0.0
+73;Camelot;NLE Choppa;['Rap/Hip Hop'];148.0;1.0
+74;Heartache Medication;Jon Pardi;['Country'];209.0;0.0
+75;Start Wit Me;Roddy Ricch & Gunna;['Rap/Hip Hop'];158.0;1.0
+76;Take What You Want;Post Malone Featuring Ozzy Osbourne & Travis Scott;['Rock', 'Hard Rock', 'Metal'];229.0;0.0
+77;Leave Em Alone;Layton Greene, Lil Baby, City Girls & PnB Rock;['Pop'];171.0;1.0
+78;Hate Me;Ellie Goulding & Juice WRLD;['Pop'];186.0;0.0
+79;Kinfolks;Sam Hunt;['Country'];181.0;0.0
+80;Let Me Know (I Wonder Why Freestyle);Juice WRLD;['Rap/Hip Hop'];215.0;1.0
+81;Remember You Young;Thomas Rhett;['Country'];180.0;0.0
+82;Death;Trippie Redd Featuring DaBaby;[];;
+83;223's;YNW Melly & 9lokknine;['Rap/Hip Hop'];176.0;1.0
+84;Slide;H.E.R. Featuring YG;[];;
+85;RITMO (Bad Boys For Life);Black Eyed Peas X J Balvin;[];218.0;0.0
+86;Watermelon Sugar;Harry Styles;['Pop'];174.0;0.0
+87;Homesick;Kane Brown;['Country'];205.0;0.0
+88;Slow Dancing In The Dark;Joji;['R&B'];209.0;0.0
+89;Easy;DaniLeigh Featuring Chris Brown;[];;
+90;Vete;Bad Bunny;['Latino'];192.0;1.0
+91;Baby Sitter;DaBaby Featuring Offset;[];;
+92;Nice To Meet Ya;Niall Horan;['Pop'];158.0;0.0
+93;Yellow Hearts;Ant Saunders;['Pop'];223.0;0.0
+94;Tip Toe;Roddy Ricch Featuring A Boogie Wit da Hoodie;['Rap/Hip Hop'];185.0;1.0
+95;Candy;Doja Cat;['R&B'];190.0;1.0
+96;BEST ON EARTH;Russ & BIA;['Rap/Hip Hop'];160.0;1.0
+97;Tusa;Karol G & Nicki Minaj;['Rap/Hip Hop', 'Latino'];200.0;0.0
+98;Enemies;Post Malone Featuring DaBaby;[];;
+99;South Of The Border;Ed Sheeran Featuring Camila Cabello & Cardi B;['Pop'];204.0;0.0

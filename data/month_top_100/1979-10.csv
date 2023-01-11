@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Sad Eyes;Robert John;['Pop'];253.0;0.0
+1;Don't Stop 'til You Get Enough;Michael Jackson;['Pop', 'Disco', 'Soul & Funk'];365.0;0.0
+2;Rise;Herb Alpert;['Jazz'];457.0;0.0
+3;My Sharona;The Knack;['Rock'];295.0;0.0
+4;Sail On;Commodores;['Pop'];238.0;0.0
+5;Lonesome Loser;Little River Band;['Rock'];239.0;0.0
+6;I'll Never Love This Way Again;Dionne Warwick;['R&B'];209.0;0.0
+7;Pop Muzik;M;['Pop'];200.0;0.0
+8;After The Love Has Gone;Earth, Wind & Fire;['R&B'];279.0;0.0
+9;Dim All The Lights;Donna Summer;['R&B'];280.0;0.0
+10;Don't Bring Me Down;Electric Light Orchestra;['Rock'];243.0;0.0
+11;Cruel To Be Kind;Nick Lowe;['Rock', 'Blues', 'Chicago blues'];209.0;0.0
+12;Heaven Must Have Sent You;Bonnie Pointer;['R&B'];214.0;0.0
+13;Bad Case Of Loving You (Doctor, Doctor);Robert Palmer;['Rock'];190.0;0.0
+14;Driver's Seat;Sniff 'n' the Tears;['Pop'];239.0;0.0
+15;Born To Be Alive;Patrick Hernandez;['Dance', 'Pop'];188.0;0.0
+16;The Devil Went Down To Georgia;The Charlie Daniels Band;['Country'];214.0;0.0
+17;Different Worlds;Maureen McGovern;[];;
+18;The Boss;Diana Ross;['R&B'];245.0;0.0
+19;Spooky;Atlanta Rhythm Section;['Rock'];297.0;0.0
+20;Lovin', Touchin', Squeezin';Journey;['Pop', 'Rock'];234.0;0.0
+21;What Cha Gonna Do With My Lovin';Stephanie Mills;['R&B'];245.0;0.0
+22;Get It Right Next Time;Gerry Rafferty;['Pop'];282.0;0.0
+23;Dirty White Boy;Foreigner;['Rock', 'Hard Rock'];220.0;0.0
+24;You Decorated My Life;Kenny Rogers;['Country'];217.0;0.0
+25;Dependin' On You;The Doobie Brothers;['Pop', 'Rock'];225.0;0.0
+26;Good Girls Don't;The Knack;['Rock'];189.0;0.0
+27;Where Were You When I Was Falling In Love;Lobo;['Pop'];199.0;0.0
+28;Lead Me On;Maxine Nightingale;['Pop'];175.0;0.0
+29;Arrow Through Me;Wings;['Pop'];216.0;0.0
+30;Rolene;Moon Martin;['Rock'];216.0;0.0
+31;Come To Me;France Joli;['Dance', 'Pop'];592.0;0.0
+32;I Know A Heartache When I See One;Jennifer Warnes;['Pop'];208.0;0.0
+33;Hold On;Ian Gomm;['Rock'];180.0;0.0
+34;This Night Won't Last Forever;Michael Johnson;['Pop'];239.0;0.0
+35;Midnight Wind;John Stewart;['Rock'];315.0;0.0
+36;Please Don't Go;KC And The Sunshine Band;['Pop'];230.0;0.0
+37;Good Times;Chic;['Pop'];495.0;0.0
+38;Gotta Serve Somebody;Bob Dylan;['Rock'];324.0;0.0
+39;Good Friend;Mary Macgregor;['Pop'];162.0;0.0
+40;Found A Cure;Ashford & Simpson;['Rock'];423.0;0.0
+41;So Good, So Right;Brenda Russell;['Pop'];203.0;0.0
+42;Remember (Walking In The Sand);Louise Goffin;[];;
+43;I've Never Been In Love;Suzi Quatro;['Rock'];181.0;0.0
+44;I Do Love You;GQ;['Pop'];288.0;0.0
+45;Get A Move On;Eddie Money;['Rock'];220.0;0.0
+46;Still;Commodores;['Pop'];225.0;0.0
+47;If You Remember Me;Chris Thompson & Night;[];;
+48;Street Life;The Crusaders;['Jazz'];330.0;0.0
+49;Sure Know Something;KISS;['Rock'];241.0;0.0
+50;Broken Hearted Me;Anne Murray;['Pop'];238.0;0.0
+51;Heartache Tonight;Eagles;['Pop'];265.0;0.0
+52;You're Only Lonely;J.D. Souther;['Pop'];228.0;0.0
+53;Fins;Jimmy Buffett;['Pop'];280.0;0.0
+54;Rainbow Connection;Kermit (Jim Henson);[];;
+55;Boom Boom (Out Go The Lights);Pat Travers;['Rock'];192.0;0.0
+56;Reason To Be;Kansas;['Rock'];231.0;0.0
+57;Please Don't Leave;Lauren Wood;['Rock'];238.0;0.0
+58;The Main Event/Fight;Barbra Streisand;['Pop'];293.0;0.0
+59;Killer Cut;Charlie;['Classique', 'Rock'];369.0;0.0
+60;Hell On Wheels;Cher;['Pop'];336.0;0.0
+61;Let Me Know (I Have A Right);Gloria Gaynor;['R&B'];501.0;0.0
+62;Victim Of Love;Elton John;['Pop'];202.0;0.0
+63;Tusk;Fleetwood Mac;['Pop'];210.0;0.0
+64;Angeleyes;ABBA;['Pop'];260.0;0.0
+65;One Fine Day;Rita Coolidge;['Rock'];243.0;0.0
+66;Ain't That A Shame;Cheap Trick;['Rock'];309.0;0.0
+67;Do You Think I'm Disco?;Steve Dahl And Teenage Radiation;[];;
+68;Dreaming;Blondie;['Pop'];186.0;0.0
+69;Half The Way;Crystal Gayle;['Country'];242.0;0.0
+70;5:15;The Who;['Pop'];299.0;0.0
+71;Babe;Styx;['Rock'];264.0;0.0
+72;I'm So Anxious;Southside Johnny & The Asbury Jukes;['Rock'];185.0;0.0
+73;Firecracker;Mass Production;['Dance', 'Disco'];378.0;0.0
+74;Damned If I Do;The Alan Parsons Project;['Rock'];288.0;0.0
+75;Goodbye Stranger;Supertramp;['Rock'];348.0;0.0
+76;Starry Eyes;The Records;['Rock'];263.0;0.0
+77;Sweet Summer Lovin';Dolly Parton;['Country'];197.0;0.0
+78;Dream Police;Cheap Trick;['Rock'];233.0;0.0
+79;Hold On To The Night;Hotel;['Pop'];267.0;0.0
+80;Plain Jane;Sammy Hagar;['Rock'];153.0;0.0
+81;My Forbidden Lover;Chic;['Dance', 'Disco'];274.0;0.0
+82;All Things Are Possible;Dan Peek;['Spiritualité & religion'];178.0;0.0
+83;Beautiful Girls;Van Halen;['Rock', 'Hard Rock'];236.0;0.0
+84;Mama Can't Buy You Love;Elton John;['Pop'];244.0;0.0
+85;If You Want It;Niteflyte;['Pop'];270.0;0.0
+86;Groove Me;Fern Kinney;['Dance'];498.0;0.0
+87;Then You Can Tell Me Goodbye;Toby Beau;[];;
+88;Cruisin';Smokey Robinson;['R&B'];352.0;0.0
+89;Fooled By A Feeling;Barbara Mandrell;['Country'];177.0;0.0
+90;You Stepped Into My Life;Wayne Newton;[];;
+91;Touch Me When We're Dancing;Bama;[];;
+92;Ladies Night;Kool & The Gang;['R&B'];385.0;0.0
+93;Get It Up;Ronnie Milsap;['Dance', 'Pop'];369.0;0.0
+94;Another Night;Wilson Bros.;[];;
+95;Let's Go;The Cars;['Pop'];215.0;0.0
+96;Girls Talk;Dave Edmunds;['Rock', 'Rock & Roll/Rockabilly'];209.0;0.0
+97;Bad Girls;Donna Summer;['Films/Jeux vidéo', 'Musiques de films'];295.0;0.0
+98;When You're #1;Gene Chandler;['Disco'];327.0;0.0
+99;Stillsane;Carolyne Mas;['Rock'];260.0;0.0

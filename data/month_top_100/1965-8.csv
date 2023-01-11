@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'm Henry VIII, I Am;Herman's Hermits;['Pop'];103.0;0.0
+1;(I Can't Get No) Satisfaction;The Rolling Stones;['Rock'];223.0;0.0
+2;What's New Pussycat?;Tom Jones;['Pop'];128.0;0.0
+3;Save Your Heart For Me;Gary Lewis And The Playboys;['Pop'];119.0;0.0
+4;I Got You Babe;Sonny & Cher;['Pop'];195.0;0.0
+5;Yes, I'm Ready;Barbara Mason;['Soul'];184.0;0.0
+6;I Like It Like That;The Dave Clark Five;['Pop'];97.0;0.0
+7;Cara, Mia;Jay & The Americans;['Rock'];153.0;0.0
+8;I Can't Help Myself (Sugar Pie Honey Bunch);Four Tops;[];164.0;0.0
+9;Don't Just Stand There;Patty Duke;['Rock'];163.0;0.0
+10;What The World Needs Now Is Love;Jackie DeShannon;['Pop'];193.0;0.0
+11;I Want Candy;The Strangeloves;['Pop'];177.0;0.0
+12;Sunshine, Lollipops And Rainbows;Lesley Gore;['Pop'];96.0;0.0
+13;Down In The Boondocks;Billy Joe Royal;['Rock'];153.0;0.0
+14;Unchained Melody;The Righteous Brothers;['Pop'];217.0;0.0
+15;"Theme From ""A Summer Place""";The Lettermen;['Pop'];127.0;0.0
+16;It's The Same Old Song;Four Tops;['Pop'];166.0;0.0
+17;Baby, I'm Yours;Barbara Lewis;['Pop'];152.0;0.0
+18;Take Me Back;Little Anthony And The Imperials;['R&B'];158.0;0.0
+19;Hold Me, Thrill Me, Kiss Me;Mel Carter;['Pop', 'Soul'];145.0;0.0
+20;Seventh Son;Johnny Rivers;['Pop', 'Rock'];169.0;0.0
+21;I'm A Fool;Dino, Desi & Billy;['R&B'];128.0;0.0
+22;All I Really Want To Do;Cher;['Rock'];179.0;0.0
+23;To Know You Is To Love You;Peter And Gordon;['Pop'];157.0;0.0
+24;Too Many Rivers;Brenda Lee;['Country'];168.0;0.0
+25;You'd Better Come Home;Petula Clark;['Pop'];171.0;0.0
+26;Pretty Little Baby;Marvin Gaye;[];;
+27;California Girls;The Beach Boys;['Rock'];166.0;0.0
+28;Ride Your Pony;Lee Dorsey;['Pop'];146.0;0.0
+29;Papa's Got A Brand New Bag (Part I);James Brown And The Famous Flames;[];;
+30;Marie;The Bachelors;['Pop'];137.0;0.0
+31;Sitting In The Park;Billy Stewart;['Pop'];195.0;0.0
+32;You Were On My Mind;We Five;['Pop'];155.0;0.0
+33;You Turn Me On (Turn On Song);Ian Whitcomb And Bluesville;[];;
+34;(Such An) Easy Question;Elvis Presley With The Jordanaires;[];;
+35;One Dyin' And A Buryin';Roger Miller;['Country'];122.0;0.0
+36;The Tracks Of My Tears;The Miracles;[];175.0;0.0
+37;Mr. Tambourine Man;The Byrds;['Rock'];149.0;0.0
+38;Since I Lost My Baby;The Temptations;['R&B'];171.0;0.0
+39;(Say) You're My Girl;Roy Orbison;['Pop'];165.0;0.0
+40;Help!;The Beatles;['Rock'];162.0;0.0
+41;A Little Bit Of Heaven;Ronnie Dove;['Pop'];170.0;0.0
+42;All I Really Want To Do;The Byrds;['Rock'];123.0;0.0
+43;Like A Rolling Stone;Bob Dylan;['Rock'];369.0;0.0
+44;I'll Always Love You;The Spinners;[];164.0;0.0
+45;Laurie (Strange Things Happen);Dickey Lee;['Pop'];186.0;0.0
+46;Nothing But Heartaches;The Supremes;['Pop'];175.0;0.0
+47;New Orleans;Eddie Hodges;['Rock'];168.0;0.0
+48;Nobody Knows What's Goin' On (In My Mind But Me);The Chiffons;['Rock'];143.0;0.0
+49;Trains And Boats And Planes;Billy J. Kramer With The Dakotas;[];;
+50;Looking Through The Eyes Of Love;Gene Pitney;['Pop'];191.0;0.0
+51;In The Midnight Hour;Wilson Pickett;['R&B', 'Soul'];157.0;0.0
+52;Hung On You;The Righteous Brothers;['Pop'];203.0;0.0
+53;Seein' The Right Love Go Wrong;Jack Jones;[];;
+54;It's Gonna Be Fine;Glenn Yarbrough;['Folk'];132.0;0.0
+55;One Step At A Time;Maxine Brown;['R&B', 'Soul'];123.0;0.0
+56;Ju Ju Hand;Sam The Sham and the Pharaohs;['Pop', 'Rock'];129.0;0.0
+57;Shake And Fingerpop;Jr. Walker & The All Stars;['R&B'];164.0;0.0
+58;You Tell Me Why;The Beau Brummels;['Pop', 'Pop indé/Folk', 'Folk'];187.0;0.0
+59;I Can't Work No Longer;Billy Butler & The Chanters;[];;
+60;"Theme From ""Harlow"" (Lonely Girl)";Bobby Vinton;['Pop'];139.0;0.0
+61;It's Gonna Take A Miracle;The Royalettes;['Jazz'];198.0;0.0
+62;No Pity (In The Naked City);Jackie Wilson;['Soul'];213.0;0.0
+63;Sugar Dumpling;Sam Cooke;['Classique', 'Jazz'];134.0;0.0
+64;Candy;The Astors;['R&B', 'Soul & Funk', 'Soul'];179.0;0.0
+65;It's Too Late, Baby Too Late;Arthur Prysock;['R&B'];193.0;0.0
+66;Here I Am;Dionne Warwick;['Pop'];142.0;0.0
+67;I Don't Wanna Lose You Baby;Chad & Jeremy;['Pop'];187.0;0.0
+68;Heart Full Of Soul;The Yardbirds;['Pop'];149.0;0.0
+69;Moon Over Naples;Bert Kaempfert And His Orchestra;['Pop'];156.0;0.0
+70;A Little You;Freddie And The Dreamers;['Rock'];131.0;0.0
+71;You're My Baby (And Don't You Forget It);The Vacels;[];;
+72;Tickle Me;Elvis Presley With The Jordanaires;[];;
+73;Boot-Leg;Booker T. & The MG's;['Pop'];125.0;0.0
+74;The Loser;The Skyliners;['Rock'];163.0;0.0
+75;It Ain't Me Babe;The Turtles;['Rock'];131.0;0.0
+76;"The ""In"" Crowd";Ramsey Lewis Trio;[];218.0;0.0
+77;Forget Domani;Frank Sinatra;['Pop'];142.0;0.0
+78;Houston;Dean Martin;['Pop'];161.0;0.0
+79;If I Didn't Love You;Chuck Jackson;['R&B', 'Soul'];136.0;0.0
+80;He's Got No Love;The Searchers;['Pop', 'Rock'];154.0;0.0
+81;Forget Domani;Connie Francis;[];160.0;0.0
+82;Canadian Sunset;Sounds Orchestral;[];163.0;0.0
+83;I'm A Fool To Care;Ray Charles;['R&B', 'Soul & Funk', 'Soul'];198.0;0.0
+84;Agent Double-O-Soul;Edwin Starr;['R&B'];162.0;0.0
+85;My Man;Barbra Streisand;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];131.0;0.0
+86;You Better Go;Derek Martin;['Jazz'];179.0;0.0
+87;It's A Man Down There;G.L. Crockett;['Rock', 'Blues'];155.0;0.0
+88;Fly Me To The Moon (In Other Words);Tony Bennett;['Pop'];176.0;0.0
+89;Sad, Sad Girl;Barbara Mason;['Soul'];193.0;0.0
+90;You're Gonna Make Me Cry;O.V. Wright;['Rock', 'Blues'];204.0;0.0
+91;Oowee, Oowee;Perry Como;[];;
+92;Only Those In Love;Baby Washington;['R&B'];154.0;0.0
+93;Moonlight And Roses (Bring Mem'ries Of You);Vic Dana;[];;
+94;After Loving You;Della Reese;['Pop'];162.0;0.0
+95;We're Doing Fine;Dee Dee Warwick;[];;
+96;Annie Fanny;The Kingsmen;['Rock'];123.0;0.0
+97;I've Cried My Last Tear;The O'Jays;[];;
+98;Where Were You When I Needed You;Jerry Vale;['Pop'];153.0;0.0
+99;Summer Wind;Wayne Newton;['Pop'];157.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;It's Gonna Be Me;'N Sync;['Pop'];191.0;0.0
+1;Incomplete;Sisqo;['R&B'];274.0;1.0
+2;Bent;matchbox twenty;['Pop'];256.0;0.0
+3;Everything You Want;Vertical Horizon;['Pop'];257.0;0.0
+4;Try Again;Aaliyah;['R&B', 'Soul'];284.0;0.0
+5;Jumpin', Jumpin';Destiny's Child;['Pop'];230.0;0.0
+6;I Wanna Know;Joe;['R&B'];296.0;0.0
+7;Absolutely (Story Of A Girl);Nine Days;['Rock'];189.0;0.0
+8;Higher;Creed;['Rock'];316.0;0.0
+9;Doesn't Really Matter;Janet;['Pop'];264.0;0.0
+10;He Wasn't Man Enough;Toni Braxton;['R&B', 'Soul'];261.0;0.0
+11;There You Go;P!nk;['Pop'];209.0;0.0
+12;I Need You;LeAnn Rimes;['Country'];215.0;0.0
+13;Let's Get Married;Jagged Edge;['R&B'];263.0;0.0
+14;No More;Ruff Endz;['R&B'];242.0;0.0
+15;Back Here;BBMak;['Pop', 'Rock'];221.0;0.0
+16;(Hot S**t) Country Grammar;Nelly;['Rap/Hip Hop'];259.0;1.0
+17;Kryptonite;3 Doors Down;['Pop'];233.0;0.0
+18;Desert Rose;Sting Featuring Cheb Mami;[];233.0;0.0
+19;You Sang To Me;Marc Anthony;['Latino'];347.0;0.0
+20;Wifey;Next;['R&B', 'Soul'];243.0;0.0
+21;Breathe;Faith Hill;['Country', 'Pop'];250.0;0.0
+22;I Think I'm In Love With You;Jessica Simpson;['Pop'];197.0;0.0
+23;Be With You;Enrique Iglesias;['Pop', 'Latino'];219.0;0.0
+24;I Turn To You;Christina Aguilera;['Pop'];273.0;0.0
+25;The Next Episode;Dr. Dre Featuring Snoop Dogg;['Rap/Hip Hop'];163.0;1.0
+26;Separated;Avant;['R&B'];255.0;0.0
+27;I Wanna Be With You;Mandy Moore;['Pop'];252.0;0.0
+28;Big Pimpin';Jay-Z Featuring UGK;['R&B'];239.0;1.0
+29;The Real Slim Shady;Eminem;['Rap/Hip Hop'];284.0;1.0
+30;What'Chu Like;Da Brat Featuring Tyrese;['Rap/Hip Hop'];221.0;1.0
+31;Purest Of Pain (A Puro Dolor);Son By Four;['Latino'];247.0;0.0
+32;Wonderful;Everclear;['Rock'];280.0;0.0
+33;I Try;Macy Gray;['R&B'];239.0;0.0
+34;I Hope You Dance;Lee Ann Womack;['Country'];295.0;0.0
+35;I Will Love Again;Lara Fabian;[];223.0;0.0
+36;What About Now;Lonestar;['Country'];210.0;0.0
+37;That's The Way;Jo Dee Messina;['Country'];202.0;0.0
+38;Smooth;Santana Featuring Rob Thomas;['Pop'];295.0;0.0
+39;Where I Wanna Be;Donell Jones;['R&B', 'Soul'];243.0;1.0
+40;Prayin' For Daylight;Rascal Flatts;['Country'];215.0;0.0
+41;Amazed;Lonestar;['Country', 'Pop'];240.0;0.0
+42;Dance Tonight;Lucy Pearl;[];221.0;0.0
+43;It Must Be Love;Alan Jackson;['Country'];172.0;0.0
+44;Swear It Again;Westlife;['Pop'];248.0;0.0
+45;Thong Song;Sisqo;['R&B'];253.0;1.0
+46;Maria Maria;Santana Featuring The Product G&B;['Pop'];262.0;0.0
+47;Simple Kind Of Life;No Doubt;['Pop'];255.0;0.0
+48;Oops!...I Did It Again;Britney Spears;['Pop'];211.0;0.0
+49;Yes!;Chad Brock;[];203.0;0.0
+50;Flowers On The Wall;Eric Heatherly;['Country'];209.0;0.0
+51;Could I Have This Kiss Forever;Whitney Houston & Enrique Iglesias;['Pop', 'Latino'];235.0;0.0
+52;I'll Be;Reba McEntire;['Country'];267.0;0.0
+53;Whatever;Ideal Featuring Lil' Mo;[];;
+54;One Voice;Billy Gilman;['Country'];246.0;0.0
+55;Faded;SoulDecision Featuring Thrust;['Pop'];164.0;0.0
+56;Come On Over Baby (All I Want Is You);Christina Aguilera;['Pop'];203.0;0.0
+57;Taking You Home;Don Henley;['Jeunesse'];331.0;0.0
+58;Change Your Mind;Sister Hazel;['Rock'];259.0;0.0
+59;No Matter What They Say;Lil' Kim;['Rap/Hip Hop'];283.0;0.0
+60;I Will...But;SHeDAISY;[];216.0;0.0
+61;Broadway;Goo Goo Dolls;['Pop'];238.0;0.0
+62;Crash And Burn;Savage Garden;['Pop'];283.0;0.0
+63;As We Lay;Kelly Price;['R&B'];380.0;0.0
+64;Cold Day In July;Dixie Chicks;[];297.0;0.0
+65;Don't Think I'm Not;Kandi;['R&B'];243.0;0.0
+66;I Wish;Carl Thomas;['Rap/Hip Hop'];228.0;0.0
+67;Better Off Alone;Alice Deejay;['Dance'];214.0;0.0
+68;Just Be A Man About It;Toni Braxton;['R&B', 'Soul'];288.0;0.0
+69;Some Things Never Change;Tim McGraw;['Country'];236.0;0.0
+70;Last Resort;Papa Roach;['Rock'];199.0;1.0
+71;Californication;Red Hot Chili Peppers;['Alternative'];329.0;0.0
+72;Your Everything;Keith Urban;['Country'];239.0;0.0
+73;You'll Always Be Loved By Me;Brooks & Dunn;['Country'];181.0;0.0
+74;The Light;Common;['Rap/Hip Hop'];261.0;1.0
+75;The One;Backstreet Boys;['Pop'];226.0;0.0
+76;Treat Her Like A Lady;Joe;['R&B', 'Soul'];257.0;0.0
+77;Sour Girl;Stone Temple Pilots;['Pop'];256.0;0.0
+78;What You Want;DMX Featuring Sisqo;[];;
+79;When You Need My Love;Darryl Worley;['Country'];219.0;0.0
+80;I Think God Can Explain;Splender;['Rock'];234.0;0.0
+81;Country Comes To Town;Toby Keith;['Country'];218.0;0.0
+82;Unconditional;Clay Davidson;['Country'];201.0;0.0
+83;With Arms Wide Open;Creed;['Rock'];235.0;0.0
+84;Who Let The Dogs Out;Baha Men;['Pop'];198.0;0.0
+85;Dance With Me;Debelah Morgan;['R&B'];290.0;0.0
+86;I Disappear;Metallica;['Metal'];266.0;0.0
+87;Same Script, Different Cast;Whitney Houston & Deborah Cox;['Pop'];298.0;0.0
+88;Callin' Me;Lil' Zane Featuring 112;[];;
+89;The Chain Of Love;Clay Walker;['Country'];305.0;0.0
+90;Got It All;Eve & Jadakiss;[];;
+91;Wobble Wobble;504 Boyz;['Rap/Hip Hop'];214.0;1.0
+92;Don't Call Me Baby;Madison Avenue;['Electro', 'Techno/House', 'Dance'];228.0;0.0
+93;Shackles (Praise You);Mary Mary;[];196.0;0.0
+94;Crybaby;Mariah Carey Featuring Snoop Dogg;[];319.0;0.0
+95;West Side Story;LFO;['Pop'];208.0;0.0
+96;Best Of Me;Mya Featuring Jadakiss;[];;
+97;Cherchez LaGhost;Ghostface Killah;['R&B'];191.0;1.0
+98;Take That;"Torrey Carter Featuring Missy ""Misdemeanor"" Elliott";[];;
+99;Dancing Queen;A*Teens;['Pop'];228.0;0.0

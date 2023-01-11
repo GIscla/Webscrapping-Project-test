@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Hello, I Love You;The Doors;['Rock'];133.0;0.0
+1;Classical Gas;Mason Williams;['Films/Jeux vidéo', 'Musiques de films'];184.0;0.0
+2;Stoned Soul Picnic;The 5th Dimension;['Pop'];207.0;0.0
+3;Grazing In The Grass;Hugh Masekela;['Jazz'];157.0;0.0
+4;Hurdy Gurdy Man;Donovan;['Pop'];193.0;0.0
+5;Jumpin' Jack Flash;The Rolling Stones;['Rock'];222.0;0.0
+6;Lady Willpower;Gary Puckett And The Union Gap;['Pop'];159.0;0.0
+7;The Horse;Cliff Nobles & Co.;['Latino'];159.0;0.0
+8;Turn Around, Look At Me;The Vogues;['Pop'];180.0;0.0
+9;Sunshine Of Your Love;Cream;['Pop'];251.0;0.0
+10;Born To Be Wild;Steppenwolf;['Pop'];210.0;0.0
+11;Pictures Of Matchstick Men;The Status Quo;['Rock'];194.0;0.0
+12;People Got To Be Free;The Rascals;['Pop'];181.0;0.0
+13;Sky Pilot (Part One);Eric Burdon & The Animals;[];;
+14;This Guy's In Love With You;Herb Alpert;['Pop'];237.0;0.0
+15;You Keep Me Hangin' On;The Vanilla Fudge;['Rock'];226.0;0.0
+16;Journey To The Center Of The Mind;The Amboy Dukes;['Rock'];215.0;0.0
+17;Stay In My Corner;The Dells;['Rock', 'Blues'];370.0;0.0
+18;Autumn Of My Life;Bobby Goldsboro;['Country'];207.0;0.0
+19;Dream A Little Dream Of Me;Mama Cass With The Mamas & The Papas;[];;
+20;Indian Lake;The Cowsills;['Pop'];163.0;0.0
+21;Soul-Limbo;Booker T. & The MG's;['R&B'];144.0;0.0
+22;The Look Of Love;Sergio Mendes & Brasil '66;['Jazz'];164.0;0.0
+23;Angel Of The Morning;Merrilee Rush & The Turnabouts;['Pop'];192.0;0.0
+24;Here Comes The Judge;Shorty Long;['R&B'];154.0;0.0
+25;Reach Out Of The Darkness;Friend And Lover;['Folk'];190.0;0.0
+26;Don't Take It So Hard;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];151.0;0.0
+27;Halfway To Paradise;Bobby Vinton;['Pop'];160.0;0.0
+28;Face It Girl, It's Over;Nancy Wilson;['Rock'];158.0;0.0
+29;Sealed With A Kiss;Gary Lewis And The Playboys;['Pop'];150.0;0.0
+30;Lover's Holiday;Peggy Scott & Jo Jo Benson;['Rock', 'Blues'];171.0;0.0
+31;Light My Fire;Jose Feliciano;['Pop'];251.0;0.0
+32;Dreams Of The Everyday Housewife;Glen Campbell;['Country'];155.0;0.0
+33;Alice Long (You're Still My Favorite Girlfriend);Tommy Boyce & Bobby Hart;['Rock'];167.0;0.0
+34;Eleanor Rigby;Ray Charles;['Soul'];177.0;0.0
+35;Never Give You Up;Jerry Butler;['R&B'];176.0;0.0
+36;Folsom Prison Blues;Johnny Cash;[];167.0;0.0
+37;She's A Heartbreaker;Gene Pitney;['Pop'];170.0;0.0
+38;I Can't Stop Dancing;Archie Bell & The Drells;['Pop', 'Rock'];139.0;0.0
+39;The Eyes Of A New York Woman;B.J. Thomas;['Country'];181.0;0.0
+40;Hitch It To The Horse;The Fantastic Johnny C;['R&B', 'Soul & Funk', 'Soul'];165.0;0.0
+41;I Love You;People;['Alternative'];214.0;0.0
+42;I'm A Midnight Mover;Wilson Pickett;['R&B'];145.0;0.0
+43;You Met Your Match;Stevie Wonder;['R&B'];158.0;0.0
+44;Here Comes The Judge;Pigmeat Markham;['Pop'];160.0;0.0
+45;MacArthur Park;Richard Harris;['Pop'];450.0;0.0
+46;Yummy Yummy Yummy;Ohio Express;['Pop'];140.0;0.0
+47;Tuesday Afternoon (Forever Afternoon);The Moody Blues;['Rock'];250.0;0.0
+48;(Love Is Like A) Baseball Game;The Intruders;['R&B', 'Soul'];164.0;0.0
+49;Don't Give Up;Petula Clark;['Pop'];184.0;0.0
+50;Yesterday's Dreams;Four Tops;['Jeunesse'];176.0;0.0
+51;Amen;Otis Redding;['R&B', 'Soul'];186.0;0.0
+52;1, 2, 3, Red Light;1910 Fruitgum Co.;['Pop'];128.0;0.0
+53;You're All I Need To Get By;Marvin Gaye & Tammi Terrell;['R&B'];170.0;0.0
+54;With Pen In Hand;Billy Vera;[];;
+55;Love Makes A Woman;Barbara Acklin;['Soul'];176.0;0.0
+56;Prayer Meetin';Willie Mitchell;['R&B'];134.0;0.0
+57;The Impossible Dream;Roger Williams;[];182.0;0.0
+58;Baby You Come Rollin' Across My Mind;The Peppermint Trolley Company;[];;
+59;Here I Am Baby;The Marvelettes;['R&B'];162.0;0.0
+60;Do It Again;The Beach Boys;['Rock'];141.0;0.0
+61;Dreams Of The Everyday Housewife;Wayne Newton;[];;
+62;Hard To Handle;Otis Redding;['R&B', 'Soul'];139.0;0.0
+63;I Get The Sweetest Feeling;Jackie Wilson;['Soul'];177.0;0.0
+64;Understanding;Ray Charles;['Jazz', 'Rock', 'Blues'];188.0;0.0
+65;Two-Bit Manchild;Neil Diamond;['Pop'];187.0;0.0
+66;Slip Away;Clarence Carter;['R&B'];151.0;0.0
+67;And Suddenly;The Cherry People;[];;
+68;Mrs. Bluebird;Eternity's Children;[];;
+69;Can't You See Me Cry;The New Colony Six;['Alternative', 'Rock indé', 'Rock'];154.0;0.0
+70;I've Never Found A Girl (To Love Me Like You Do);Eddie Floyd;['R&B'];165.0;0.0
+71;Your Time Hasn't Come Yet, Baby;Elvis Presley With The Jordanaires;[];;
+72;Never Going Back;The Lovin' Spoonful;['Pop'];172.0;0.0
+73;I Guess I'll Have To Cry, Cry, Cry;James Brown And The Famous Flames;[];;
+74;Happy;Nancy Sinatra;['Pop'];221.0;0.0
+75;Competition Ain't Nothin';Little Carl Carlton;['Pop', 'Rock'];146.0;0.0
+76;I Loved And I Lost;The Impressions;['Soul'];197.0;0.0
+77;(The Puppet Song) Whiskey On A Sunday;The Irish Rovers;['Pop'];160.0;0.0
+78;Somebody Cares;Tommy James And The Shondells;['Pop'];162.0;0.0
+79;Brown Eyed Woman;Bill Medley;['Pop'];197.0;0.0
+80;Breaking Up Is Hard To Do;The Happenings;['Pop'];142.0;0.0
+81;God Bless Our Love;The Ballads;['R&B'];310.0;0.0
+82;Please Return Your Love To Me;The Temptations;['R&B'];141.0;0.0
+83;Give Me One More Chance;Wilmer And The Dukes;['R&B', 'Soul'];139.0;0.0
+84;I'm Gonna Do What They Do To Me;B.B. King;['Rock', 'Blues'];169.0;0.0
+85;Can't You Find Another Way (Of Doing It);Sam & Dave;['Rock'];146.0;0.0
+86;Mr. Bojangles;Jerry Jeff Walker;['Rock', 'Folk'];328.0;0.0
+87;Mister Bo Jangles;Bobby Cole;[];;
+88;Down At Lulu's;Ohio Express;['Pop'];113.0;0.0
+89;Mr. Businessman;Ray Stevens;['Pop'];208.0;0.0
+90;Girls Can't Do What The Guys Do;Betty Wright;['Rock'];127.0;0.0
+91;Anyway That You Want Me;The American Breed;['Rock'];147.0;0.0
+92;Life;Sly & The Family Stone;['Soul & Funk'];179.0;0.0
+93;Send My Baby Back;Freddie Hughes;['R&B', 'Soul & Funk', 'Soul'];190.0;0.0
+94;Give A Damn;Spanky And Our Gang;['Pop'];217.0;0.0
+95;Workin' On A Groovy Thing;Patti Drew;['Jazz'];191.0;0.0
+96;Sudden Stop;Percy Sledge;['Rock'];168.0;0.0
+97;Soul Meeting;The Soul Clan;[];;
+98;Montage From How Sweet It Is (I Know That You Know);The Love Generation;[];;
+99;Sally Had A Party;Flavor;[];;

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Heard It Through The Grapevine;Marvin Gaye;['Pop', 'Soul contemporaine', 'Soul & Funk', 'Films/Jeux vidéo', 'Musiques de films', 'Soul'];195.0;0.0
+1;For Once In My Life;Stevie Wonder;['R&B'];170.0;0.0
+2;I'm Gonna Make You Love Me;Diana Ross And The Supremes & The Temptations;['Pop'];186.0;0.0
+3;Soulful Strut;Young-Holt Unlimited;['Soul'];181.0;0.0
+4;Wichita Lineman;Glen Campbell;['Country'];186.0;0.0
+5;Cloud Nine;The Temptations;['Pop'];208.0;0.0
+6;Love Child;Diana Ross & The Supremes;[];175.0;0.0
+7;Stormy;Classics IV Featuring Dennis Yost;['Pop', 'Rock'];178.0;0.0
+8;Who's Making Love;Johnnie Taylor;['R&B'];166.0;0.0
+9;Hooked On A Feeling;B.J. Thomas;['Pop', 'Rock'];164.0;0.0
+10;I Love How You Love Me;Bobby Vinton;['Pop'];215.0;0.0
+11;Cinnamon;Derek;['Pop'];163.0;0.0
+12;Too Weak To Fight;Clarence Carter;['Soul'];138.0;0.0
+13;Lo Mucho Que Te Quiero (The More I Love You);Rene & Rene;[];;
+14;Going Up The Country;Canned Heat;['Rock', 'Blues'];171.0;0.0
+15;Abraham, Martin And John;Dion;['Rock'];200.0;0.0
+16;Crimson And Clover;Tommy James And The Shondells;['Pop'];209.0;0.0
+17;Son-Of-A Preacher Man;Dusty Springfield;['Pop'];145.0;0.0
+18;Bring It On Home To Me;Eddie Floyd;['R&B'];151.0;0.0
+19;See Saw;Aretha Franklin;['Pop', 'Rock'];163.0;0.0
+20;Papa's Got A Brand New Bag;Otis Redding;['R&B'];151.0;0.0
+21;Both Sides Now;Judy Collins;['Pop', 'Folk'];194.0;0.0
+22;Hey Jude;The Beatles;['Rock'];425.0;0.0
+23;Magic Carpet Ride;Steppenwolf;['Rock'];267.0;0.0
+24;This Is My Country;The Impressions;['Rock'];168.0;0.0
+25;If I Can Dream;Elvis Presley;['Rock'];189.0;0.0
+26;Everyday People;Sly & The Family Stone;['Soul & Funk'];141.0;0.0
+27;Hey Jude;Wilson Pickett;['R&B'];247.0;0.0
+28;Can I Change My Mind;Tyrone Davis;['R&B', 'Soul'];176.0;0.0
+29;Scarborough Fair;Sergio Mendes & Brasil '66;['Jazz'];198.0;0.0
+30;My Song;Aretha Franklin;['Pop', 'Rock'];209.0;0.0
+31;A Ray Of Hope;The Rascals;['Pop'];226.0;0.0
+32;Stand By Your Man;Tammy Wynette;['Country', 'Pop', 'Pop internationale', 'Rock'];160.0;0.0
+33;Hang 'Em High;Booker T. & The MG's;['Soul'];328.0;0.0
+34;There's Gonna Be A Showdown;Archie Bell & The Drells;['Pop'];164.0;0.0
+35;Chewy Chewy;Ohio Express;['Pop'];164.0;0.0
+36;Touch Me;The Doors;['Rock'];190.0;0.0
+37;Worst That Could Happen;Brooklyn Bridge;['Pop'];237.0;0.0
+38;Baby Let's Wait;The Royal Guardsmen;['Rock'];159.0;0.0
+39;I Started A Joke;Bee Gees;['Pop'];188.0;0.0
+40;Battle Hymn Of The Republic;Andy Williams with the St. Charles Borromeo Choir;['Pop'];211.0;0.0
+41;Bella Linda;The Grass Roots;['Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock'];173.0;0.0
+42;Are You Happy;Jerry Butler;['R&B'];157.0;0.0
+43;Ready Or Not Here I Come (Can't Hide From Love);The Delfonics;['Pop'];119.0;0.0
+44;Little Arrows;Leapy Lee;['Folk'];163.0;0.0
+45;My Favorite Things;Herb Alpert & The Tijuana Brass;[];183.0;0.0
+46;I've Gotta Be Me;Sammy Davis Jr.;[];180.0;0.0
+47;Malinda;Bobby Taylor & The Vancouvers;['Soul & Funk'];167.0;0.0
+48;People;The Tymes;['R&B', 'Soul & Funk', 'Soul'];188.0;0.0
+49;I Can't Turn You Loose;The Chambers Brothers;['Rock'];294.0;0.0
+50;The Beginning Of My End;The Unifics;[];;
+51;Put Your Head On My Shoulder;The Lettermen;['Pop'];159.0;0.0
+52;Baby, Baby Don't Cry;Smokey Robinson & The Miracles;['R&B'];242.0;0.0
+53;California Dreamin';Bobby Womack;['R&B'];200.0;0.0
+54;The Girl Most Likely;Jeannie C. Riley;['Country'];124.0;0.0
+55;Crosstown Traffic;The Jimi Hendrix Experience;['Pop'];139.0;0.0
+56;California Soul;The 5th Dimension;[];192.0;0.0
+57;Rockin' In The Same Old Boat;Bobby Bland;[];214.0;0.0
+58;Soul Sister, Brown Sugar;Sam & Dave;['Rock'];149.0;0.0
+59;Daddy Sang Bass;Johnny Cash;['Country'];140.0;0.0
+60;Bluebirds Over The Mountain;The Beach Boys;['Pop'];173.0;0.0
+61;Shame, Shame;Magic Lanterns;['R&B', 'Soul & Funk', 'Soul'];155.0;0.0
+62;Isn't It Lonely Together;O.C. Smith;['Pop'];202.0;0.0
+63;I Put A Spell On You;Creedence Clearwater Revival;['Rock'];270.0;0.0
+64;Ramblin' Gamblin' Man;Bob Seger System;['Rock'];145.0;0.0
+65;Does Anybody Know I'm Here;The Dells;['Rock', 'Blues'];196.0;0.0
+66;Just Ain't No Love;Barbara Acklin;['Soul'];167.0;0.0
+67;A Minute Of Your Time;Tom Jones;['Pop'];176.0;0.0
+68;American Boys;Petula Clark;[];;
+69;Season Of The Witch, Pt. 1;Vanilla Fudge;['Pop', 'Rock'];212.0;0.0
+70;White Houses;Eric Burdon & The Animals;['Rock'];244.0;0.0
+71;You Got Soul;Johnny Nash;['Pop', 'Reggae'];158.0;0.0
+72;Rainbow Ride;Andy Kim;['Pop'];167.0;0.0
+73;Condition Red;The Goodees;['R&B'];173.0;0.0
+74;Not On The Outside;The Moments;['R&B', 'Soul'];243.0;0.0
+75;Chitty Chitty Bang Bang;Paul Mauriat;['Chanson française'];119.0;0.0
+76;Electric Stories;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+77;Feelin' So Good (S.k.o.o.b.y-D.o.o);The Archies;['Pop', 'Rock'];188.0;0.0
+78;This Magic Moment;Jay & The Americans;['Rock'];182.0;0.0
+79;Vance;Roger Miller;['Country'];276.0;0.0
+80;I Forgot To Be Your Lover;William Bell;['Rap/Hip Hop', 'R&B'];139.0;0.0
+81;Rain In My Heart;Frank Sinatra;['Jazz'];201.0;0.0
+82;Shout! - Part 1;Chambers Brothers;[];;
+83;Build Me Up Buttercup;The Foundations;['Pop'];177.0;0.0
+84;Sweet Cream Ladies, Forward March;The Box Tops;['Pop'];133.0;0.0
+85;Tit For Tat (Ain't No Taking Back);James Brown;[];187.0;0.0
+86;Kay;John Wesley Ryles, I;['Rock'];221.0;0.0
+87;Ob-La-Di, Ob-La-Da;Arthur Conley;['Pop'];181.0;0.0
+88;She's A Lady;John Sebastian;['Pop'];106.0;0.0
+89;You Showed Me;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];196.0;0.0
+90;Eloise;Barry Ryan;['Pop'];347.0;0.0
+91;If It Wasn't For Bad Luck;Ray Charles & Jimmy Lewis;[];;
+92;You've Got The Power;The Esquires;['Pop'];163.0;0.0
+93;Looking Back;Joe Simon;['R&B', 'Soul'];147.0;0.0
+94;The Thought Of Loving You;The Crystal Mansion;[];;
+95;Things I'd Like To Say;New Colony Six;[];145.0;0.0
+96;I Can't Help It (If I'm Still In Love With You);Al Martino;[];;
+97;I'm Into Lookin' For Someone To Love Me;Bobby Vee;['Pop'];161.0;0.0
+98;"Ain't Got No; I Got Life";Nina Simone;['Pop'];128.0;0.0
+99;Goodnight My Love;Paul Anka;['Pop'];193.0;0.0

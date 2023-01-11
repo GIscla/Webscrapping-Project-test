@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Bad Blood;Taylor Swift Featuring Kendrick Lamar;[];208.0;0.0
+1;See You Again;Wiz Khalifa Featuring Charlie Puth;['Rap/Hip Hop'];229.0;0.0
+2;Trap Queen;Fetty Wap;['Rap/Hip Hop'];222.0;1.0
+3;Shut Up And Dance;WALK THE MOON;['Alternative'];199.0;0.0
+4;Earned It (Fifty Shades Of Grey);The Weeknd;['Films/Jeux vidéo', 'Musiques de films'];252.0;0.0
+5;Uptown Funk!;Mark Ronson Featuring Bruno Mars;['Pop'];269.0;1.0
+6;Want To Want Me;Jason Derulo;['Pop'];207.0;0.0
+7;Hey Mama;David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack;['Dance'];192.0;0.0
+8;Sugar;Maroon 5;['Pop'];235.0;1.0
+9;Nasty Freestyle;T-Wayne;['Rap/Hip Hop'];142.0;1.0
+10;Love Me Like You Do;Ellie Goulding;['Films/Jeux vidéo', 'Musiques de films'];250.0;0.0
+11;Honey, I'm Good.;Andy Grammer;['Pop'];199.0;0.0
+12;Talking Body;Tove Lo;['Alternative'];238.0;1.0
+13;Dear Future Husband;Meghan Trainor;['Pop'];184.0;0.0
+14;Post To Be;Omarion Featuring Chris Brown & Jhene Aiko;['Rap/Hip Hop', 'R&B'];226.0;1.0
+15;Thinking Out Loud;Ed Sheeran;['Pop'];281.0;0.0
+16;Worth It;Fifth Harmony Featuring Kid Ink;['Pop', 'Pop internationale', 'Rock'];224.0;0.0
+17;You Know You Like It;DJ Snake & AlunaGeorge;['Dance'];247.0;0.0
+18;Somebody;Natalie La Rose Featuring Jeremih;['Pop', 'R&B'];187.0;0.0
+19;Where Are U Now;Skrillex & Diplo With Justin Bieber;['Electro', 'Dance'];250.0;0.0
+20;G.D.F.R.;Flo Rida Featuring Sage The Gemini & Lookas;['Rap/Hip Hop'];190.0;0.0
+21;Girl Crush;Little Big Town;['Country'];193.0;0.0
+22;Style;Taylor Swift;['Pop'];231.0;0.0
+23;B**** Better Have My Money;Rihanna;[];;
+24;Watch Me;Silento;['Rap/Hip Hop'];185.0;0.0
+25;Kick The Dust Up;Luke Bryan;['Country'];190.0;0.0
+26;Cheerleader;OMI;['Electro', 'Techno/House', 'Dance', 'Reggae'];174.0;0.0
+27;Chains;Nick Jonas;['Pop'];203.0;0.0
+28;Slow Motion;Trey Songz;['R&B'];197.0;0.0
+29;Fight Song;Rachel Platten;['Pop', 'Pop internationale', 'Rock'];202.0;0.0
+30;This Summer's Gonna Hurt...;Maroon 5;[];227.0;0.0
+31;Blank Space;Taylor Swift;['Pop'];231.0;0.0
+32;Lean On;Major Lazer & DJ Snake Featuring MO;['Electro'];176.0;0.0
+33;Shake It Off;Taylor Swift;['Pop'];219.0;0.0
+34;Budapest;George Ezra;['Pop', 'Singer & Songwriter'];202.0;0.0
+35;Elastic Heart;Sia;['Pop'];257.0;0.0
+36;Please;Sawyer Fredericks;[];169.0;0.0
+37;Pretty Girls;Britney Spears & Iggy Azalea;['Pop', 'Pop internationale', 'Rock'];163.0;0.0
+38;Feeling Myself;Nicki Minaj Featuring Beyonce;['Rap/Hip Hop'];208.0;0.0
+39;One Last Time;Ariana Grande;['Pop'];197.0;0.0
+40;Take Your Time;Sam Hunt;['Country'];243.0;0.0
+41;Nasty;Bandit Gang Marco Featuring Dro;['Rap/Hip Hop', 'Dirty South'];189.0;1.0
+42;Sangria;Blake Shelton;['Country'];233.0;0.0
+43;Flex (Ooh Ooh Ooh);Rich Homie Quan;['Rap/Hip Hop'];177.0;1.0
+44;Blessings;Big Sean Featuring Drake;['Rap/Hip Hop'];258.0;1.0
+45;Time Of Our Lives;Pitbull & Ne-Yo;['Pop'];229.0;1.0
+46;All About That Bass;Meghan Trainor;['Pop'];187.0;1.0
+47;Take Me To Church;Hozier;['Alternative'];241.0;0.0
+48;Sippin' On Fire;Florida Georgia Line;['Country'];193.0;0.0
+49;Bright;Echosmith;['Alternative'];220.0;0.0
+50;The Night Is Still Young;Nicki Minaj;['Rap/Hip Hop'];227.0;1.0
+51;Don't It;Billy Currington;['Country'];184.0;0.0
+52;Smoke;A Thousand Horses;['Country'];219.0;0.0
+53;Fun;Pitbull Featuring Chris Brown;['Pop'];202.0;0.0
+54;Truffle Butter;Nicki Minaj Featuring Drake & Lil Wayne;['Alternative', 'Pop'];224.0;0.0
+55;Lay Me Down;Sam Smith;['Pop'];253.0;0.0
+56;Be Real;Kid Ink Featuring DeJ Loaf;['Rap/Hip Hop'];206.0;1.0
+57;Photograph;Ed Sheeran;['Pop'];258.0;0.0
+58;Ayo;Chris Brown & Tyga;['Rap/Hip Hop'];225.0;1.0
+59;All Day;Kanye West Featuring Theophilus London, Allan Kingdom & Paul McCartney;['Pop'];275.0;0.0
+60;Commas;Future;['Rap/Hip Hop'];237.0;1.0
+61;Love Me Like You Mean It;Kelsea Ballerini;['Country'];200.0;0.0
+62;Old Man;Sawyer Fredericks;[];188.0;0.0
+63;Wild Child;Kenny Chesney With Grace Potter;['Country'];189.0;0.0
+64;Little Toy Guns;Carrie Underwood;['Country'];210.0;0.0
+65;FourFiveSeconds;Rihanna & Kanye West & Paul McCartney;['Pop'];191.0;0.0
+66;Homegrown;Zac Brown Band;['Country'];205.0;0.0
+67;Flashlight;Jessie J;['Films/Jeux vidéo', 'Musiques de films'];208.0;0.0
+68;I Want You To Know;Zedd Featuring Selena Gomez;['Pop', 'Singer & Songwriter'];189.0;0.0
+69;Uma Thurman;Fall Out Boy;['Alternative'];211.0;0.0
+70;Heartbeat Song;Kelly Clarkson;['Alternative', 'Pop'];198.0;0.0
+71;Love You Like That;Canaan Smith;['Country'];203.0;0.0
+72;I Need Your Love;Shaggy Featuring Mohombi, Faydee, Costi;['Pop'];217.0;0.0
+73;Classic Man;Jidenna Featuring Roman GianArthur;['Rap/Hip Hop', 'R&B'];226.0;1.0
+74;Like A Wrecking Ball;Eric Church;['Country'];198.0;0.0
+75;Wet Dreamz;J. Cole;['Rap/Hip Hop'];239.0;1.0
+76;One Hell Of An Amen;Brantley Gilbert;['Country'];221.0;0.0
+77;The Matrimony;Wale Featuring Usher;['Rap/Hip Hop'];395.0;1.0
+78;Know Yourself;Drake;['Rap/Hip Hop'];275.0;1.0
+79;I Really Like You;Carly Rae Jepsen;['Pop'];204.0;0.0
+80;Baby Be My Love Song;Easton Corbin;['Country'];199.0;0.0
+81;Energy;Drake;['Rap/Hip Hop'];181.0;1.0
+82;Believe;Mumford & Sons;['Alternative'];220.0;0.0
+83;Raise 'Em Up;Keith Urban Featuring Eric Church;['Country'];184.0;0.0
+84;Diamond Rings And Old Barstools;Tim McGraw With Catherine Dunn;[];;
+85;I Bet;Ciara;['R&B'];287.0;1.0
+86;El Perdon (Forgiveness);Nicky Jam & Enrique Iglesias;['Rap/Hip Hop'];206.0;0.0
+87;Beautiful Now;Zedd Featuring Jon Bellion;['Dance', 'Pop'];219.0;0.0
+88;How Many Times;DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean;['Rap/Hip Hop'];263.0;1.0
+89;King Kunta;Kendrick Lamar;['Rap/Hip Hop'];234.0;1.0
+90;Crash And Burn;Thomas Rhett;['Country'];190.0;0.0
+91;Change My Mind;Meghan Linsey;[];203.0;0.0
+92;She Don't Love You;Eric Paslay;['Country'];262.0;0.0
+93;Tonight Looks Good On You;Jason Aldean;['Country'];231.0;0.0
+94;Get Low;Dillon Francis & DJ Snake;['Dance'];213.0;0.0
+95;Crushin' It;Brad Paisley;['Country'];220.0;0.0
+96;Stressed Out;twenty one pilots;['Alternative'];202.0;0.0
+97;Renegades;X Ambassadors;['Alternative'];195.0;0.0
+98;Games;Luke Bryan;['Country'];176.0;0.0
+99;I Don't Get Tired (#IDGT);Kevin Gates Featuring August Alsina;['Rap/Hip Hop'];209.0;1.0

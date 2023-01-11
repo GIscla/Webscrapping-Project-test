@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Love A Rainy Night;Eddie Rabbitt;['Country', 'Pop'];189.0;0.0
+1;9 To 5;Dolly Parton;['Country'];162.0;0.0
+2;Woman;John Lennon;['Rock'];212.0;0.0
+3;Keep On Loving You;REO Speedwagon;['Pop'];201.0;0.0
+4;The Best Of Times;Styx;['Rock'];258.0;0.0
+5;Celebration;Kool & The Gang;['Pop'];190.0;0.0
+6;Crying;Don McLean;['Pop'];222.0;0.0
+7;Giving It Up For Your Love;Delbert McClinton;['Country'];226.0;0.0
+8;The Winner Takes It All;ABBA;['Pop'];295.0;0.0
+9;Hello Again;Neil Diamond;['Pop'];243.0;0.0
+10;I Ain't Gonna Stand For It;Stevie Wonder;['R&B'];279.0;0.0
+11;Rapture;Blondie;['Pop'];299.0;0.0
+12;The Tide Is High;Blondie;['Rock'];280.0;0.0
+13;Same Old Lang Syne;Dan Fogelberg;['Rock'];320.0;0.0
+14;What Kind Of Fool;Barbra Streisand & Barry Gibb;['Pop'];245.0;0.0
+15;Passion;Rod Stewart;['Pop', 'Rock'];332.0;0.0
+16;Kiss On My List;Daryl Hall John Oates;['Pop', 'Rock'];235.0;0.0
+17;Games People Play;The Alan Parsons Project;['Rock'];264.0;0.0
+18;A Little In Love;Cliff Richard;['Rock'];225.0;0.0
+19;Treat Me Right;Pat Benatar;['Rock'];194.0;0.0
+20;Hearts On Fire;Randy Meisner;['Classique', 'Rock'];174.0;0.0
+21;Fade Away;Bruce Springsteen;['Rock'];281.0;0.0
+22;Living In A Fantasy;Leo Sayer;['Pop'];221.0;0.0
+23;Smoky Mountain Rain;Ronnie Milsap;['Country'];237.0;0.0
+24;While You See A Chance;Steve Winwood;['Alternative', 'Rock'];315.0;0.0
+25;Don't Stand So Close To Me;The Police;['Rock'];242.0;0.0
+26;Morning Train (Nine To Five);Sheena Easton;['Pop'];197.0;0.0
+27;Together;Tierra;['Latino'];264.0;0.0
+28;Ah! Leah!;Donnie Iris;['Rock'];222.0;0.0
+29;Precious To Me;Phil Seymour;['Pop'];171.0;0.0
+30;(Ghost) Riders In The Sky;Outlaws;['Country'];198.0;0.0
+31;Guitar Man;Elvis Presley;['Rock'];139.0;0.0
+32;Somebody's Knockin';Terri Gibbs;['Pop'];182.0;0.0
+33;Just The Two Of Us;Grover Washington, Jr. With Bill Withers;[];;
+34;Hey Nineteen;Steely Dan;['Pop'];307.0;0.0
+35;Angel Of The Morning;Juice Newton;['Country'];254.0;0.0
+36;Staying With It;Firefall;['Rock'];181.0;0.0
+37;(Just Like) Starting Over;John Lennon;['Rock'];236.0;0.0
+38;Every Woman In The World;Air Supply;['Pop'];209.0;0.0
+39;Back In Black;AC/DC;['Rock', 'Hard Rock', 'Metal'];255.0;0.0
+40;Too Tight;ConFunkShun;['Soul'];260.0;0.0
+41;Just Between You And Me;April Wine;['Rock'];235.0;0.0
+42;Don't Stop The Music;Yarbrough & Peoples;['Dance'];250.0;0.0
+43;Ain't Even Done With The Night;John Cougar;['Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock'];232.0;0.0
+44;Heartbreak Hotel;The Jacksons;['Pop'];343.0;0.0
+45;Miss Sun;Boz Scaggs;['Pop'];331.0;0.0
+46;I Can't Stand It;Eric Clapton And His Band;[];;
+47;Turn Me Loose;Loverboy;['Pop'];337.0;0.0
+48;Love On The Rocks;Neil Diamond;['Pop'];216.0;0.0
+49;Guilty;Barbra Streisand & Barry Gibb;['Pop'];264.0;0.0
+50;Lipstick;Suzi Quatro;['Rock'];250.0;0.0
+51;It's My Turn;Diana Ross;['R&B'];238.0;0.0
+52;Seven Bridges Road;Eagles;['Pop'];184.0;0.0
+53;Flash's Theme Aka Flash;Queen;[];;
+54;Being With You;Smokey Robinson;['R&B'];246.0;0.0
+55;How 'bout Us;Champaign;['Pop'];273.0;0.0
+56;It's A Love Thing;The Whispers;['R&B', 'Soul'];228.0;0.0
+57;Yesterday Once More/Nothing Remains The Same;The Spinners;['Rock'];452.0;0.0
+58;And Love Goes On;Earth, Wind & Fire;['R&B'];245.0;0.0
+59;Fantastic Voyage;Lakeside;['R&B', 'Soul'];369.0;0.0
+60;I Love You;Climax Blues Band;['Pop', 'Rock'];246.0;0.0
+61;Keep This Train A-Rollin';The Doobie Brothers;['Rock'];208.0;0.0
+62;The Party's Over (Hopelessly In Love);Journey;['Rock'];220.0;0.0
+63;Who Do You Think You're Foolin';Donna Summer;['Pop'];241.0;0.0
+64;Wasn't That A Party;The Rovers;['Pop', 'Pop internationale', 'Variété Internationale'];218.0;0.0
+65;Ch Ch Cherie;The Johnny Average Band Featuring Nikki Wills;[];;
+66;It's My Job;Jimmy Buffett;['Pop'];192.0;0.0
+67;Killin' Time;Fred Knoblock & Susan Anton;[];;
+68;Proud;The Joe Chemay Band;[];;
+69;Don't You Know What Love Is;Touch;['Rock'];238.0;0.0
+70;Games;Phoebe Snow;['Jazz'];277.0;0.0
+71;Bon Bon Vie (Gimme The Good Life);T.S. Monk;['Pop', 'R&B', 'Soul & Funk'];381.0;0.0
+72;Mister Sandman;Emmylou Harris;['Pop'];140.0;0.0
+73;De Do Do Do, De Da Da Da;The Police;['Pop'];246.0;0.0
+74;Hold On Loosely;38 Special;['Rock'];279.0;0.0
+75;Hold On;Badfinger;['Rock', 'Rock & Roll/Rockabilly'];204.0;0.0
+76;Sweetheart;Franke & The Knockouts;['Pop', 'Rock'];251.0;0.0
+77;Lovers After All;Melissa Manchester & Peabo Bryson;['Pop'];239.0;0.0
+78;Hit Me With Your Best Shot;Pat Benatar;['Rock'];171.0;0.0
+79;Lady;Kenny Rogers;['Country'];232.0;0.0
+80;Running Scared;The Fools;['Rock'];146.0;0.0
+81;Fireflies;Fleetwood Mac;['Rock'];276.0;0.0
+82;Sukiyaki;A Taste Of Honey;['R&B'];223.0;0.0
+83;I Made It Through The Rain;Barry Manilow;['Pop'];264.0;0.0
+84;Hungry Heart;Bruce Springsteen;['Rock'];199.0;0.0
+85;A Woman Needs Love (Just Like You Do);Ray Parker Jr. & Raydio;['Pop', 'R&B'];246.0;0.0
+86;Walking On Thin Ice;Yoko Ono;['Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock'];169.0;0.0
+87;I Have The Skill;Sherbs;['Rock'];228.0;0.0
+88;Let Me Go;The Rings;['Classique', 'Rock'];208.0;0.0
+89;8th Wonder;Sugarhill Gang;['Rap/Hip Hop'];446.0;0.0
+90;Burn Rubber (Why You Wanna Hurt Me);The Gap Band;['R&B'];336.0;0.0
+91;The Rambler;Molly Hatchet;['Rock'];289.0;0.0
+92;Time Is Time;Andy Gibb;['Pop'];220.0;0.0
+93;Theme From Raging Bull (Cavalleria Rusticana);Joel Diamond;['Pop'];227.0;0.0
+94;Full Of Fire;Shalamar;['R&B', 'Soul'];377.0;0.0
+95;Tell It Like It Is;Heart;['Rock'];269.0;0.0
+96;He Can't Love You;Michael Stanley Band;['Rock'];214.0;0.0
+97;Another One Bites The Dust;Queen;['Rock'];214.0;0.0
+98;Cafe Amore;Spyro Gyra;[];;
+99;Love On The Airwaves;Night;['Rock'];239.0;0.0

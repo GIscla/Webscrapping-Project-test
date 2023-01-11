@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Swear;All-4-One;['Pop'];259.0;0.0
+1;"I'll Remember (From ""With Honors"")";Madonna;['Pop'];263.0;0.0
+2;The Sign;Ace Of Base;['Pop'];191.0;0.0
+3;Return To Innocence;Enigma;['Pop'];255.0;0.0
+4;The Most Beautiful Girl In The World;Prince;['R&B'];265.0;0.0
+5;"Baby I Love Your Way (From ""Reality Bites"")";Big Mountain;[];;
+6;Don't Turn Around;Ace Of Base;['Pop'];230.0;0.0
+7;"Regulate (From ""Above The Rim"")";Warren G & Nate Dogg;[];;
+8;You Mean The World To Me;Toni Braxton;['R&B', 'Soul'];296.0;0.0
+9;Back & Forth;Aaliyah;['Pop'];229.0;0.0
+10;Any Time, Any Place/And On And On;Janet Jackson;[];;
+11;Bump N' Grind;R. Kelly;['R&B'];254.0;0.0
+12;I'm Ready;Tevin Campbell;['R&B'];286.0;0.0
+13;If You Go;Jon Secada;['Rock'];273.0;0.0
+14;Your Body's Callin';R. Kelly;['R&B'];275.0;0.0
+15;Now And Forever;Richard Marx;['Pop'];213.0;0.0
+16;The Power Of Love;Celine Dion;['Pop'];342.0;0.0
+17;Mmm Mmm Mmm Mmm;Crash Test Dummies;['Pop'];233.0;0.0
+18;"Anything (From ""Above The Rim"")";SWV;[];;
+19;Without You/Never Forget You;Mariah Carey;[];;
+20;Loser;Beck;['Rock'];236.0;0.0
+21;"I'll Take You There (From ""Threesome"")";General Public;[];;
+22;Beautiful In My Eyes;Joshua Kadison;['Pop'];249.0;0.0
+23;Got Me Waiting;Heavy D & The Boyz;['Rap/Hip Hop'];271.0;0.0
+24;Don't Take The Girl;Tim McGraw;['Country'];249.0;0.0
+25;"Stay (I Missed You) (From ""Reality Bites"")";Lisa Loeb & Nine Stories;[];;
+26;Whatta Man;Salt-N-Pepa Featuring En Vogue;['R&B'];296.0;0.0
+27;"Can You Feel The Love Tonight (From ""The Lion King"")";Elton John;['Films/Jeux vidéo', 'Musiques de films'];241.0;0.0
+28;"Streets Of Philadelphia (From ""Philadelphia"")";Bruce Springsteen;['Pop'];252.0;0.0
+29;Misled;Celine Dion;['Pop'];210.0;0.0
+30;Love Sneakin' Up On You;Bonnie Raitt;['Country'];220.0;0.0
+31;Anytime You Need A Friend;Mariah Carey;['Pop'];265.0;0.0
+32;Shine;Collective Soul;['Rock'];306.0;0.0
+33;Sweet Potatoe Pie;Domino;[];;
+34;Pumps And A Bump;M.C. Hammer;['Rock'];278.0;0.0
+35;Come To My Window;Melissa Etheridge;['Pop'];236.0;0.0
+36;Breathe Again;Toni Braxton;['R&B', 'Soul'];269.0;0.0
+37;Objects In The Rear View Mirror May Appear Closer Than...;Meat Loaf;['Rock'];615.0;0.0
+38;Always;Erasure;['Electro', 'Pop'];211.0;0.0
+39;And Our Feelings;Babyface;['Pop'];342.0;0.0
+40;Found Out About You;Gin Blossoms;['Rock'];232.0;0.0
+41;Moving On Up;M People;['Pop'];216.0;0.0
+42;"(Meet) The Flintstones (From ""The Flintstones"")";The B.C. 52's;['Films/Jeux vidéo', 'Musiques de films'];145.0;0.0
+43;You Know How We Do It;Ice Cube;['Rap/Hip Hop'];232.0;1.0
+44;Gin And Juice;Snoop Doggy Dogg;['Rap/Hip Hop'];211.0;1.0
+45;Love On My Mind;Xscape;['R&B'];229.0;0.0
+46;Born To Roll;Masta Ace Incorporated;['Electro'];253.0;1.0
+47;Dreams;The Cranberries;['Rock'];255.0;0.0
+48;Bizarre Love Triangle;FRENTE!;['Pop'];119.0;0.0
+49;Ease My Mind;Arrested Development;['Rap/Hip Hop'];251.0;0.0
+50;I Miss You;Aaron Hall;['R&B'];381.0;0.0
+51;Everyday;Phil Collins;['Pop', 'Rock'];209.0;0.0
+52;(She's) Some Kind Of Wonderful;Huey Lewis & The News;['Pop', 'Rock'];174.0;0.0
+53;Because Of Love;Janet Jackson;['R&B'];261.0;0.0
+54;The More You Ignore Me, The Closer I Get;Morrissey;['Pop'];222.0;0.0
+55;I Wish;Gabrielle;['Pop'];220.0;0.0
+56;Feenin';Jodeci;['R&B'];311.0;0.0
+57;How Do You Like It?;Keith Sweat;['Dance', 'Rock'];273.0;0.0
+58;Worker Man;Patra;['R&B'];296.0;0.0
+59;Leaving Las Vegas;Sheryl Crow;['Pop'];309.0;0.0
+60;Part Time Lover/I'm Still In Love With You;H-Town/Al B. Sure!;[];;
+61;Crazy;Aerosmith;['Rock'];316.0;0.0
+62;Sending My Love;Zhane;['R&B'];221.0;0.0
+63;Player's Ball;OutKast;['Rap/Hip Hop'];261.0;1.0
+64;Funkdafied;Da Brat;['Rap/Hip Hop'];185.0;1.0
+65;Indian Outlaw;Tim McGraw;['Country'];182.0;0.0
+66;Willing To Forgive;Aretha Franklin;['R&B', 'Soul'];252.0;0.0
+67;Comin' On Strong;Sudden Change;[];;
+68;Back In The Day;Ahmad;['Pop'];318.0;0.0
+69;Wild Night;John Mellencamp With Me'Shell Ndegeocello;[];;
+70;Completely;Michael Bolton;['Pop'];264.0;0.0
+71;Regular Thang;Ovis;[];;
+72;"Crooklyn (From ""Crooklyn"")";The Crooklyn Dodgers;['Films/Jeux vidéo', 'Musiques de films'];273.0;1.0
+73;Night In My Veins;Pretenders;['Pop', 'Rock'];196.0;0.0
+74;Fantastic Voyage;Coolio;['Rap/Hip Hop', 'R&B', 'Soul'];334.0;1.0
+75;Somethin' To Ride To (Fonky Expedition);The Conscious Daughters;['Rap/Hip Hop'];300.0;1.0
+76;Whenever You Come Around;Vince Gill;['Country'];257.0;0.0
+77;I Swear;John Michael Montgomery;['Country'];262.0;0.0
+78;100% Pure Love;Crystal Waters;['Pop'];278.0;0.0
+79;Possession;Sarah McLachlan;['Pop'];279.0;0.0
+80;I Want You;Juliet Roberts;['Jazz'];300.0;0.0
+81;Rock And Roll Dreams Come Through;Meat Loaf;['Rock'];350.0;0.0
+82;Low;Cracker;['Alternative'];274.0;0.0
+83;"Hey D.J. (From ""Mi Vida Loca"")";Lighter Shade Of Brown;[];;
+84;Leavin';Tony Toni Tone;['R&B'];315.0;0.0
+85;C.R.E.A.M. (Cash Rules Everything Around Me);Wu-Tang Clan;['Rap/Hip Hop'];252.0;1.0
+86;Fall Down;Toad The Wet Sprocket;['Alternative'];202.0;0.0
+87;You;Candlebox;['Rock'];297.0;1.0
+88;I've Been Thinking About You;Jocelyn Enriquez;['Dance', 'Pop'];435.0;0.0
+89;Selling The Drama;Live;['Rock'];205.0;0.0
+90;It's All Good;M.C. Hammer;[];;
+91;"The Place Where You Belong (From ""Beverly Hills Cop III"")";Shai;[];;
+92;Bucktown;Smif-N-Wessun;['Rap/Hip Hop'];247.0;1.0
+93;I'll Remember You;Atlantic Starr;['R&B'];261.0;0.0
+94;I Got Cha Opin;Black Moon;['Rap/Hip Hop'];255.0;1.0
+95;Neon Moonlight;Rosco Martinez;[];;
+96;El Trago (The Drink);2 In A Room;['Dance'];334.0;0.0
+97;It Ain't Hard To Tell;Nas;['Rap/Hip Hop'];202.0;1.0
+98;I Believe;The Sounds Of Blackness;[];278.0;0.0
+99;"The Right Time (From ""Four Weddings And A Funeral"")";I To I;[];;

@@ -1,0 +1,36 @@
+
+{% extends 'base.html'%}
+{%block title %}
+    Hot100
+{% endblock %}
+{%block home_current%}
+    <span class="sr-only">(current)</span>
+{%endblock%}
+{%block content%}
+<style>
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<div style="margin-top:30px;">
+    <h1>Date: {{date}}</h1>
+    <div id="table-container">
+        <table class="table">
+            <thead>
+                <tr>
+                    {% for column in csv[0] %}
+                        <th>{{ column }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in csv[1:] %}
+                    <tr>
+                        {% for cell in row %}
+                            <td>{{ cell }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{%endblock%}

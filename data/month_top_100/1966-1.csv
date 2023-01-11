@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Sound Of Silence;Simon & Garfunkel;['Pop'];183.0;0.0
+1;We Can Work It Out;The Beatles;['Rock'];135.0;0.0
+2;I Got You (I Feel Good);James Brown And The Famous Flames;[];;
+3;Turn! Turn! Turn! (To Everything There Is A Season);The Byrds;['Rock'];229.0;0.0
+4;Over And Over;The Dave Clark Five;['Pop'];119.0;0.0
+5;Let's Hang On!;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+6;Fever;The McCoys;['Rock'];170.0;0.0
+7;Ebb Tide;The Righteous Brothers;['Pop'];168.0;0.0
+8;England Swings;Roger Miller;['Country'];112.0;0.0
+9;Make The World Go Away;Eddy Arnold;['Country'];159.0;0.0
+10;Five O'Clock World;The Vogues;['Pop', 'Rock'];138.0;0.0
+11;Flowers On The Wall;The Statler Brothers;['Pop'];143.0;0.0
+12;One Has My Name (The Other Has My Heart);Barry Young;['Rock'];156.0;0.0
+13;Puppet On A String;Elvis Presley With The Jordanaires;[];;
+14;I Can Never Go Home Anymore;The Shangri-Las;['Pop'];192.0;0.0
+15;She's Just My Style;Gary Lewis And The Playboys;['Pop'];159.0;0.0
+16;Don't Think Twice;The Wonder Who?;['Pop'];179.0;0.0
+17;Day Tripper;The Beatles;['Rock'];169.0;0.0
+18;Hang On Sloopy;Ramsey Lewis Trio;[];;
+19;The Little Girl I Once Knew;The Beach Boys;['Pop'];156.0;0.0
+20;You Didn't Have To Be So Nice;The Lovin' Spoonful;['Pop'];147.0;0.0
+21;No Matter What Shape (Your Stomach's In);The T-Bones;['Rock'];136.0;0.0
+22;It's My Life;The Animals;['Rock'];189.0;0.0
+23;The Duck;Jackie Lee;['R&B', 'Soul'];142.0;0.0
+24;Spanish Eyes;Al Martino;['Pop'];185.0;0.0
+25;Sunday And Me;Jay & The Americans;['Pop'];138.0;0.0
+26;A Must To Avoid;Herman's Hermits;['Pop', 'R&B'];135.0;0.0
+27;Just Like Me;Paul Revere & The Raiders Featuring Mark Lindsay;[];;
+28;Satin Pillows;Bobby Vinton;[];146.0;0.0
+29;I Hear A Symphony;The Supremes;['Pop'];162.0;0.0
+30;Taste Of Honey;Herb Alpert & The Tijuana Brass;[];166.0;0.0
+31;I Will;Dean Martin;['Pop'];141.0;0.0
+32;Attack;The Toys;[];157.0;0.0
+33;A Sweet Woman Like You;Joe Tex;['R&B', 'Soul vieille école', 'Soul'];159.0;0.0
+34;I'm A Man;The Yardbirds;['R&B'];159.0;0.0
+35;Thunderball;Tom Jones;['Films/Jeux vidéo', 'Musiques de films'];183.0;0.0
+36;You've Been Cheatin';The Impressions;['Soul & Funk'];153.0;0.0
+37;Let's Get Together;We Five;['Folk'];180.0;0.0
+38;Harlem Nocturne;The Viscounts;['Jazz'];168.0;0.0
+39;Lies;The Knickerbockers;['Rock'];168.0;0.0
+40;1-2-3;Len Barry;['Pop'];142.0;0.0
+41;Apple Of My Eye;Roy Head And The Traits;['Rock'];139.0;0.0
+42;Jenny Take A Ride!;Mitch Ryder And The Detroit Wheels;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+43;I've Got To Be Somebody;Billy Joe Royal;['Country'];181.0;0.0
+44;Sandy;Ronny And The Daytonas;['Rock'];166.0;0.0
+45;Princess In Rags;Gene Pitney;['Pop', 'Rock'];155.0;0.0
+46;Jealous Heart;Connie Francis;['Pop'];154.0;0.0
+47;As Tears Go By;The Rolling Stones;['Rock'];165.0;0.0
+48;Look Through Any Window;The Hollies;['Rock'];137.0;0.0
+49;A Well Respected Man;The Kinks;['Pop'];161.0;0.0
+50;Crystal Chandelier;Vic Dana;['Pop'];163.0;0.0
+51;Are You There (With Another Girl);Dionne Warwick;['Soul & Funk'];171.0;0.0
+52;Seesaw;Don Covay & The Goodtimers;[];;
+53;It's Good News Week;Hedgehoppers Anonymous;['Pop'];125.0;0.0
+54;A Young Girl;Noel Harrison;['Alternative', 'Rock indé', 'Rock'];192.0;0.0
+55;Crying Time;Ray Charles;['R&B'];234.0;0.0
+56;The Men In My Little Girl's Life;Mike Douglas;['Pop'];181.0;0.0
+57;It Was A Very Good Year;Frank Sinatra;['Jazz'];266.0;0.0
+58;Second Hand Rose;Barbra Streisand;['Pop'];129.0;0.0
+59;Under Your Spell Again;Johnny Rivers;['Rock'];193.0;0.0
+60;Hole In The Wall;The Packers;[];;
+61;Buckaroo;Buck Owens and The Buckaroos;['Country'];122.0;0.0
+62;Broomstick Cowboy;Bobby Goldsboro;['Country'];157.0;0.0
+63;Please Don't Fight It;Dino, Desi & Billy;['Pop'];154.0;0.0
+64;Michael;The C.O.D.'s;['Pop'];160.0;0.0
+65;Try Me;James Brown At The Organ;[];;
+66;Zorba The Greek;Herb Alpert & The Tijuana Brass;['Jazz'];264.0;0.0
+67;All Or Nothing;Patti LaBelle And The Blue Belles;[];;
+68;Going To A Go-Go;The Miracles;['Pop'];165.0;0.0
+69;Don't Fight It;Wilson Pickett;['R&B'];188.0;0.0
+70;Tijuana Taxi;Herb Alpert & The Tijuana Brass;['Jazz'];125.0;0.0
+71;Love Bug;Jack Jones;['Pop'];114.0;0.0
+72;A Time To Love-A Time To Cry (Petite Fleur);Lou Johnson;['Soul'];177.0;0.0
+73;My Love;Petula Clark;['Pop'];164.0;0.0
+74;Tell Me Why;Elvis Presley With The Jordanaires;[];;
+75;C.C. Rider;Bobby Powell;['R&B', 'Soul'];166.0;0.0
+76;Little Boy (In Grown Up Clothes);The 4 Seasons;[];;
+77;Uptight (Everything's Alright);Stevie Wonder;['Pop'];173.0;0.0
+78;Recovery;Fontella Bass;['Rock', 'Blues'];150.0;0.0
+79;Don't Mess With Bill;The Marvelettes;['Pop'];168.0;0.0
+80;Barbara Ann;The Beach Boys;['Rock'];128.0;0.0
+81;Lightnin' Strikes;Lou Christie;['Pop'];183.0;0.0
+82;Like A Baby;Len Barry;['Pop'];168.0;0.0
+83;If You Gotta Make A Fool Of Somebody;Maxine Brown;['Rock', 'Blues'];132.0;0.0
+84;Spread It On Thick;The Gentrys;[];;
+85;I Ain't Gonna Eat Out My Heart Anymore;The Young Rascals;['Pop', 'Rock'];163.0;0.0
+86;Love (Makes Me Do Foolish Things);Martha & The Vandellas;['Pop'];176.0;0.0
+87;Don't Look Back;The Temptations;['R&B'];170.0;0.0
+88;Hurt;Little Anthony And The Imperials;['Pop', 'Rock', 'Blues', 'Soul'];151.0;0.0
+89;Just One More Day;Otis Redding;['R&B', 'Soul'];209.0;0.0
+90;Black Nights;Lowell Fulsom;[];;
+91;I See The Light;The Five Americans;['Alternative', 'Rock indé', 'Pop', 'Rock'];137.0;0.0
+92;Get Out Of My Life, Woman;Lee Dorsey;['Pop'];146.0;0.0
+93;Yesterday Man;Chris Andrews;['Pop'];174.0;0.0
+94;Blue River;Elvis Presley;['Pop'];119.0;0.0
+95;Follow Your Heart;The Manhattans;['Pop', 'Singer & Songwriter'];175.0;0.0
+96;Look In My Eyes;The Three Degrees;[];;
+97;Spanish Harlem;King Curtis;['R&B'];166.0;0.0
+98;Can You Please Crawl Out Your Window?;Bob Dylan;['Pop', 'Pop internationale', 'Rock', 'Folk'];276.0;0.0
+99;Mountain Of Love;Billy Stewart;['R&B'];168.0;0.0

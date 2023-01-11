@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;It's Now Or Never;Elvis Presley With The Jordanaires;[];;
+1;The Twist;Chubby Checker;['Electro'];158.0;0.0
+2;Walk -- Don't Run;The Ventures;['Pop'];126.0;0.0
+3;Volare;Bobby Rydell;['Pop'];148.0;0.0
+4;I'm Sorry;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];163.0;1.0
+5;Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini;Brian Hyland;['Rock', 'Rock & Roll/Rockabilly'];141.0;0.0
+6;Mission Bell;Donnie Brooks;['Pop'];148.0;0.0
+7;Finger Poppin' Time;Hank Ballard And The Midnighters;['Pop'];133.0;0.0
+8;My Heart Has A Mind Of Its Own;Connie Francis;['Pop'];150.0;0.0
+9;Theme From The Apartment;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+10;In My Little Corner Of The World;Anita Bryant;['Pop'];135.0;0.0
+11;Only The Lonely (Know How I Feel);Roy Orbison;['Pop'];146.0;0.0
+12;Mr. Custer;Larry Verne;['Rock'];185.0;0.0
+13;Yogi;The Ivy Three;['Pop'];134.0;0.0
+14;Please Help Me, I'm Falling;Hank Locklin;['Pop'];133.0;0.0
+15;Over The Rainbow;The Demensions;['Pop'];179.0;0.0
+16;Kiddio;Brook Benton;['R&B', 'Soul'];152.0;0.0
+17;Dreamin';Johnny Burnette;['Pop'];141.0;0.0
+18;(You Were Made For) All My Love;Jackie Wilson;['Pop'];127.0;0.0
+19;A Million To One;Jimmy Charles and The Revelletts;['Pop'];150.0;0.0
+20;The Same One;Brook Benton;['R&B', 'Soul'];148.0;0.0
+21;Chain Gang;Sam Cooke;['R&B', 'Soul & Funk'];151.0;0.0
+22;Hello Young Lovers;Paul Anka;['Dance', 'Pop'];151.0;0.0
+23;Ta Ta;Clyde McPhatter;['R&B'];136.0;0.0
+24;Walking To New Orleans;Fats Domino;['Jazz'];118.0;0.0
+25;Never On Sunday;Don Costa And His Orchestra And Chorus;['Pop'];175.0;0.0
+26;Image Of A Girl;Safaris with The Phantom's Band;[];;
+27;You Mean Everything To Me;Neil Sedaka;['Pop'];158.0;0.0
+28;Feel So Fine;Johnny Preston;['Rock', 'Rock & Roll/Rockabilly', 'R&B', 'Soul & Funk'];125.0;0.0
+29;A Woman, A Lover, A Friend;Jackie Wilson;['Soul'];150.0;0.0
+30;The Twist;Hank Ballard And The Midnighters;['Pop'];154.0;0.0
+31;Devil Or Angel;Bobby Vee;['Rock'];141.0;0.0
+32;Hot Rod Lincoln;Charlie Ryan and the Timberline Riders;['Rock', 'Rock & Roll/Rockabilly'];148.0;0.0
+33;Mule Skinner Blues;The Fendermen;['Pop'];144.0;0.0
+34;Tell Laura I Love Her;Ray Peterson;['Pop'];157.0;0.0
+35;Hot Rod Lincoln;Johnny Bond;['Pop'];166.0;0.0
+36;Pineapple Princess;Annette With The Afterbeats;[];;
+37;It Only Happened Yesterday;Jack Scott;['Jazz'];164.0;0.0
+38;(I Can't Help You) I'm Falling Too;Skeeter Davis;['Country'];167.0;0.0
+39;Trouble In Paradise;The Crests;['R&B'];144.0;0.0
+40;Alley-Oop;Hollywood Argyles;['Pop', 'Rock'];162.0;0.0
+41;Everybody's Somebody's Fool;Connie Francis;[];157.0;0.0
+42;Lisa;Jeanne Black;['Rock'];190.0;0.0
+43;I Love You In The Same Old Way;Paul Anka;['Dance', 'Pop'];146.0;0.0
+44;Look For A Star;Garry Miles;['Pop'];144.0;0.0
+45;Anymore;Teresa Brewer;['Jazz'];142.0;0.0
+46;So Sad (To Watch Good Love Go Bad);The Everly Brothers;['Pop', 'Rock'];151.0;0.0
+47;Question;Lloyd Price and His Orchestra;['Rock', 'Rock & Roll/Rockabilly'];147.0;0.0
+48;Don't Come Knockin';Fats Domino;['Rock', 'Rock & Roll/Rockabilly'];117.0;0.0
+49;Look For A Star;Billy Vaughn And His Orchestra;['Classique'];132.0;0.0
+50;My Love;Nat King Cole-Stan Kenton;['Classique'];161.0;0.0
+51;Let's Have A Party;Wanda Jackson;['Pop'];131.0;0.0
+52;My Shoes Keep Walking Back To You;Guy Mitchell;['Pop', 'R&B'];170.0;0.0
+53;Big Boy Pete;The Olympics;['Pop'];148.0;0.0
+54;A Mess Of Blues;Elvis Presley With The Jordanaires;[];;
+55;Red Sails In The Sunset;The Platters Featuring Tony Williams;[];;
+56;We Go Together;Jan & Dean;['Rock'];129.0;0.0
+57;(I Do The) Shimmy Shimmy;Bobby Freeman;['Pop'];157.0;0.0
+58;Malagueña;Connie Francis;['Pop'];185.0;0.0
+59;Let The Good Times Roll;Shirley & Lee;[];145.0;0.0
+60;You're Looking Good;Dee Clark;['Electro', 'Dance'];124.0;0.0
+61;If I Can't Have You;Etta & Harvey;['Rock', 'Blues'];170.0;0.0
+62;That's All You Gotta Do;Brenda Lee;['Pop'];148.0;0.0
+63;This Bitter Earth;Dinah Washington;['R&B'];147.0;0.0
+64;One Of Us (Will Weep Tonight);Patti Page;[];149.0;0.0
+65;Lucille;The Everly Brothers;['Rock', 'Rock & Roll/Rockabilly'];545.0;0.0
+66;A Fool In Love;Ike & Tina Turner;['Pop'];191.0;0.0
+67;Nice 'N' Easy;Frank Sinatra;['Jazz'];165.0;0.0
+68;Honest I Do;The Innocents;['R&B'];117.0;0.0
+69;A Kookie Little Paradise;Jo Ann Campbell;['Rock'];154.0;0.0
+70;I Walk The Line;Jaye P. Morgan;['Country'];166.0;0.0
+71;My Love For You;Johnny Mathis;['Pop'];187.0;0.0
+72;"The Wreck Of The ""John B""";Jimmie Rodgers;['Pop'];159.0;0.0
+73;Delia Gone;Pat Boone;['Classique', 'Rock'];199.0;0.0
+74;I'm Not Afraid;Ricky Nelson;['Rock'];158.0;0.0
+75;Three Nights A Week;Fats Domino;[];106.0;0.0
+76;No;Dodie Stevens;['Jazz'];118.0;0.0
+77;Save The Last Dance For Me;The Drifters;['Pop'];144.0;0.0
+78;Is There Any Chance;Marty Robbins;['Country'];128.0;0.0
+79;Diamonds And Pearls;The Paradons;['R&B'];138.0;0.0
+80;Kookie Little Paradise;The Tree Swingers;[];;
+81;This Old Heart;James Brown And The Famous Flames;['Pop'];130.0;0.0
+82;Shortnin' Bread;Paul Chaplain and his Emeralds;['Rock', 'Rock & Roll/Rockabilly'];116.0;0.0
+83;Sleep;Little Willie John;['R&B', 'Soul'];158.0;0.0
+84;And Now;Della Reese;['Pop'];159.0;0.0
+85;How High The Moon (Part 1);Ella Fitzgerald;['Pop', 'Pop internationale'];211.0;0.0
+86;Let's Think About Living;Bob Luman;['Pop'];117.0;0.0
+87;Put Your Arms Around Me Honey;Fats Domino;['Rock', 'R&B', 'Soul'];119.0;0.0
+88;Kommotion;Duane Eddy;['Classique', 'Rock'];185.0;0.0
+89;(You've Got To) Move Two Mountains;Marv Johnson;['R&B'];166.0;0.0
+90;Candy Sweet;Pat Boone;['Pop'];128.0;0.0
+91;Come Back;Jimmy Clanton;['Rock', 'Rock & Roll/Rockabilly'];126.0;0.0
+92;Many A Wonderful Moment;Rosemary Clooney;[];150.0;0.0
+93;The Old Oaken Bucket;Tommy Sands;['Rock'];165.0;0.0
+94;Rocking Goose;Johnny And The Hurricanes;['Rock', 'Rock & Roll/Rockabilly'];109.0;0.0
+95;Shortnin' Bread;The Bell Notes;['Pop'];119.0;0.0
+96;A Teenager Feels It Too;Denny Reed;['Pop'];127.0;0.0
+97;Alvin For President;David Seville And The Chipmunks;['Pop'];179.0;0.0
+98;Nobody Knows You When You're Down And Out;Nina Simone;['Jazz', 'Pop'];160.0;0.0
+99;Beachcomber;Bobby Darin;['Pop'];136.0;0.0

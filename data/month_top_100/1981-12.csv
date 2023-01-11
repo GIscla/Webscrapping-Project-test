@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Physical;Olivia Newton-John;['Films/Jeux vidéo', 'Musiques de films'];223.0;0.0
+1;Waiting For A Girl Like You;Foreigner;['Rock', 'Hard Rock'];292.0;0.0
+2;Every Little Thing She Does Is Magic;The Police;['Pop'];260.0;0.0
+3;Oh No;Commodores;['Pop'];179.0;0.0
+4;Here I Am (Just When I Thought I Was Over You);Air Supply;['Pop'];225.0;0.0
+5;Private Eyes;Daryl Hall John Oates;['Pop'];217.0;0.0
+6;Let's Groove;Earth, Wind & Fire;['Pop'];334.0;0.0
+7;Young Turks;Rod Stewart;['Pop', 'Rock'];302.0;0.0
+8;Why Do Fools Fall In Love;Diana Ross;['Pop'];299.0;0.0
+9;Start Me Up;The Rolling Stones;['Rock'];213.0;0.0
+10;Don't Stop Believin';Journey;['Rock'];248.0;0.0
+11;Leather And Lace;Stevie Nicks With Don Henley;['Rock'];229.0;0.0
+12;Trouble;Lindsey Buckingham;['Rock'];236.0;0.0
+13;Harden My Heart;Quarterflash;['Rock'];232.0;0.0
+14;The Old Songs;Barry Manilow;['Pop'];282.0;0.0
+15;Yesterday's Songs;Neil Diamond;['Pop'];172.0;0.0
+16;Arthur's Theme (Best That You Can Do);Christopher Cross;['Pop'];234.0;0.0
+17;I Can't Go For That (No Can Do);Daryl Hall John Oates;['Pop'];307.0;0.0
+18;Comin' In And Out Of Your Life;Barbra Streisand;['Pop'];249.0;0.0
+19;The Sweetest Thing (I've Ever Known);Juice Newton;['Country'];248.0;0.0
+20;Our Lips Are Sealed;Go-Go's;['Pop'];165.0;0.0
+21;Take My Heart (You Can Have It If You Want It);Kool & The Gang;['Pop'];224.0;0.0
+22;Turn Your Love Around;George Benson;['Pop'];229.0;0.0
+23;My Girl (Gone, Gone, Gone);Chilliwack;['Pop', 'Pop internationale', 'Variété Internationale', 'Rock'];255.0;0.0
+24;Cool Night;Paul Davis;['Rock'];218.0;0.0
+25;Heart Like A Wheel;The Steve Miller Band;[];;
+26;Hooked On Classics;Royal Philharmonic Orchestra;[];306.0;0.0
+27;Steal The Night;Stevie Woods;[];;
+28;No Reply At All;Genesis;['Rock'];273.0;0.0
+29;Centerfold;The J. Geils Band;['Rock'];216.0;0.0
+30;Tryin' To Live My Life Without You;Bob Seger;['Rock'];247.0;0.0
+31;Someone Could Lose A Heart Tonight;Eddie Rabbitt;['Country'];206.0;0.0
+32;Never Too Much;Luther Vandross;['R&B'];230.0;0.0
+33;Poor Man's Son;Survivor;['Pop'];216.0;0.0
+34;The Night Owls;Little River Band;['Rock'];322.0;0.0
+35;I Wouldn't Have Missed It For The World;Ronnie Milsap;['Country'];217.0;0.0
+36;The Theme From Hill Street Blues;Mike Post featuring Larry Carlton;[];;
+37;Twilight;Electric Light Orchestra;['Rock'];221.0;0.0
+38;Wrack My Brain;Ringo Starr;['Pop'];141.0;0.0
+39;Under Pressure;Queen & David Bowie;['Rock'];237.0;0.0
+40;I've Done Everything For You;Rick Springfield;['Pop'];196.0;0.0
+41;Just Once;Quincy Jones Featuring James Ingram;[];;
+42;Shake It Up;The Cars;['Pop'];211.0;0.0
+43;Castles In The Air;Don McLean;['Pop'];222.0;0.0
+44;Living Eyes;Bee Gees;['Pop'];260.0;0.0
+45;More Than Just The Two Of Us;Sneaker;[];;
+46;I Want You, I Need You;Chris Christian;['Spiritualité & religion'];260.0;0.0
+47;When She Was My Girl;Four Tops;['R&B'];202.0;0.0
+48;We're In This Love Together;Al Jarreau;['Jazz'];226.0;0.0
+49;Sausalito Summernight;Diesel;[];;
+50;For Your Eyes Only;Sheena Easton;[];;
+51;She's Got A Way;Billy Joel;['Pop'];169.0;0.0
+52;Hard To Say;Dan Fogelberg;['Pop'];239.0;0.0
+53;Endless Love;Diana Ross & Lionel Richie;['Pop'];267.0;0.0
+54;Working For The Weekend;Loverboy;['Pop'];220.0;0.0
+55;Super Freak (Part I);Rick James;[];;
+56;Say Goodbye To Hollywood;Billy Joel;['Rock'];276.0;0.0
+57;She's A Bad Mama Jama (She's Built, She's Stacked);Carl Carlton;['R&B'];234.0;0.0
+58;Step By Step;Eddie Rabbitt;['Country'];220.0;0.0
+59;Atlanta Lady (Something About Your Love);Marty Balin;['Rock'];228.0;0.0
+60;I'm Just Too Shy;Jermaine Jackson;['Pop'];225.0;0.0
+61;Come Go With Me;The Beach Boys;['Rock'];127.0;0.0
+62;Love In The First Degree;Alabama;['Country'];198.0;0.0
+63;Key Largo;Bertie Higgins;['Pop'];198.0;0.0
+64;Talking Out Of Turn;The Moody Blues;['Pop'];439.0;0.0
+65;Let Me Love You Once;Greg Lake;['Rock'];258.0;0.0
+66;If I Were You;Lulu;['Pop', 'R&B', 'Soul'];193.0;0.0
+67;Blaze Of Glory;Kenny Rogers;['Country'];159.0;0.0
+68;You Could Have Been With Me;Sheena Easton;['Pop'];228.0;0.0
+69;Waiting On A Friend;The Rolling Stones;['Rock'];274.0;0.0
+70;Leader Of The Band;Dan Fogelberg;['Pop', 'Rock', 'Singer & Songwriter'];259.0;0.0
+71;Falling In Love;Balance;['Pop'];197.0;0.0
+72;My Kinda Lover;Billy Squier;['Rock'];213.0;0.0
+73;Promises In The Dark;Pat Benatar;['Rock'];289.0;0.0
+74;Share Your Love With Me;Kenny Rogers;['Country'];199.0;0.0
+75;Controversy;Prince;['Pop'];435.0;0.0
+76;Stop Draggin' My Heart Around;Stevie Nicks With Tom Petty And The Heartbreakers;['Rock'];244.0;0.0
+77;The Cowboy And The Lady;John Denver;['Country'];277.0;0.0
+78;I Heard It Through The Grapevine (Part 1);Roger;[];;
+79;Anyone Can See;Irene Cara;['Dance'];269.0;0.0
+80;Breakin' Away;Al Jarreau;['R&B'];253.0;0.0
+81;Take It Easy On Me;Little River Band;['Rock'];228.0;0.0
+82;Magic Power;Triumph;['Rock', 'Hard Rock'];292.0;0.0
+83;Love Is Alright Tonite;Rick Springfield;['Pop'];199.0;0.0
+84;Wkrp In Cincinnati;Steve Carlisle;[];;
+85;Walking Into Sunshine;Central Line;['Dance'];473.0;0.0
+86;The Woman In Me;Crystal Gayle;['Country', 'Pop'];152.0;0.0
+87;Could It Be Love;Jennifer Warnes;['Pop'];212.0;0.0
+88;Little Darlin';Sheila;['Pop'];236.0;0.0
+89;Runaway Rita;Leif Garrett;['Pop'];169.0;0.0
+90;Who's Crying Now;Journey;['Pop', 'Rock'];301.0;0.0
+91;Sharing The Love;Rufus With Chaka Khan;[];;
+92;I'm Your Superman;All Sports Band;[];;
+93;Bet Your Heart On Me;Johnny Lee;['Country'];166.0;0.0
+94;Alien;Atlanta Rhythm Section;['Pop', 'Rock'];316.0;0.0
+95;Urgent;Foreigner;['Rock', 'Hard Rock'];271.0;0.0
+96;Better Things;The Kinks;['Rock'];165.0;0.0
+97;Snap Shot;Slave;['Rock'];282.0;0.0
+98;When She Dances;Joey Scarbury;['Pop'];204.0;0.0
+99;Sweet Merilee;Donnie Iris;['Rock'];212.0;0.0

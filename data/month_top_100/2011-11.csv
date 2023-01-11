@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Someone Like You;Adele;['Pop'];285.0;0.0
+1;We Found Love;Rihanna Featuring Calvin Harris;['Pop'];214.0;0.0
+2;Moves Like Jagger;Maroon 5 Featuring Christina Aguilera;['Electro', 'Dance'];203.0;0.0
+3;Sexy And I Know It;LMFAO;['Dance', 'Pop'];199.0;0.0
+4;Pumped Up Kicks;Foster The People;['Alternative'];239.0;0.0
+5;Stereo Hearts;Gym Class Heroes Featuring Adam Levine;['Pop'];210.0;0.0
+6;Without You;David Guetta Featuring Usher;['Dance'];208.0;0.0
+7;You Make Me Feel...;Cobra Starship Featuring Sabi;['Pop'];215.0;0.0
+8;Make Me Proud;Drake Featuring Nicki Minaj;['Rap/Hip Hop'];219.0;1.0
+9;Party Rock Anthem;LMFAO Featuring Lauren Bennett & GoonRock;['Pop'];265.0;0.0
+10;Mistletoe;Justin Bieber;[];182.0;0.0
+11;In The Dark;Dev;['Pop'];226.0;0.0
+12;You And I;Lady Gaga;['Pop'];307.0;0.0
+13;Super Bass;Nicki Minaj;['Rap/Hip Hop'];201.0;0.0
+14;Paradise;Coldplay;['Rock'];278.0;0.0
+15;Headlines;Drake;['Rap/Hip Hop'];235.0;1.0
+16;Give Me Everything;Pitbull Featuring Ne-Yo, Afrojack & Nayer;['Dance', 'Rap/Hip Hop', 'Pop'];256.0;0.0
+17;It Girl;Jason Derulo;['Pop'];192.0;0.0
+18;Mr. Know It All;Kelly Clarkson;['Pop'];232.0;0.0
+19;5 O'Clock;T-Pain Featuring Wiz Khalifa & Lily Allen;['Rap/Hip Hop'];280.0;1.0
+20;Ni**as in Paris;Jay Z Kanye West;['Rap/Hip Hop'];219.0;1.0
+21;Lighters;Bad Meets Evil Featuring Bruno Mars;['Rap/Hip Hop'];305.0;0.0
+22;She Will;Lil Wayne Featuring Drake;['Rap/Hip Hop'];305.0;1.0
+23;Mr. Saxobeat;Alexandra Stan;['Dance'];195.0;0.0
+24;God Gave Me You;Blake Shelton;['Country'];229.0;0.0
+25;Good Life;OneRepublic;['Pop'];252.0;1.0
+26;Rolling In The Deep;Adele;['Pop'];228.0;1.0
+27;Fly;Nicki Minaj Featuring Rihanna;['Rap/Hip Hop', 'R&B'];220.0;0.0
+28;How To Love;Lil Wayne;['Rap/Hip Hop'];240.0;0.0
+29;Young, Wild & Free;Snoop Dogg & Wiz Khalifa Featuring Bruno Mars;['Films/Jeux vidéo', 'Musiques de films'];207.0;1.0
+30;Good Feeling;Flo Rida;['Rap/Hip Hop'];248.0;0.0
+31;Just A Kiss;Lady Antebellum;['Pop'];219.0;0.0
+32;It Will Rain;Bruno Mars;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];257.0;0.0
+33;Crazy Girl;Eli Young Band;['Country'];201.0;0.0
+34;If I Die Young;The Band Perry;['Country'];222.0;0.0
+35;Nothing;The Script;['Pop'];271.0;0.0
+36;Last Friday Night (T.G.I.F.);Katy Perry;['Pop'];230.0;0.0
+37;Cheers (Drink To That);Rihanna;['Pop'];261.0;0.0
+38;Tonight Tonight;Hot Chelle Rae;['Alternative', 'Pop'];200.0;0.0
+39;Take A Back Road;Rodney Atkins;['Country'];209.0;0.0
+40;Marvin & Chardonnay;Big Sean Featuring Kanye West & Roscoe Dash;[];222.0;0.0
+41;Work Out;J. Cole;['Rap/Hip Hop'];235.0;1.0
+42;I Wanna Go;Britney Spears;['Pop'];210.0;0.0
+43;I Don't Want This Night To End;Luke Bryan;['Country'];219.0;0.0
+44;I'm On One;DJ Khaled Featuring Drake, Rick Ross & Lil Wayne;['Rap/Hip Hop'];296.0;0.0
+45;Love You Like A Love Song;Selena Gomez & The Scene;[];;
+46;Not Over You;Gavin DeGraw;['Pop', 'Singer & Songwriter'];218.0;0.0
+47;Easy;Rascal Flatts Featuring Natasha Bedingfield;['Country'];218.0;0.0
+48;Sparks Fly;Taylor Swift;['Pop'];260.0;0.0
+49;The Edge Of Glory;Lady Gaga;['Pop'];320.0;0.0
+50;Tattoos On This Town;Jason Aldean;['Country'];202.0;0.0
+51;Baggage Claim;Miranda Lambert;['Country'];197.0;0.0
+52;We Owned The Night;Lady Antebellum;['Country'];195.0;0.0
+53;Better With The Lights Off;New Boyz Feat. Chris Brown;['Rap/Hip Hop'];219.0;1.0
+54;The One That Got Away;Katy Perry;['Pop'];227.0;0.0
+55;Country Must Be Country Wide;Brantley Gilbert;['Country'];215.0;0.0
+56;Keep Me In Mind;Zac Brown Band;['Country'];214.0;0.0
+57;Here For A Good Time;George Strait;['Country'];180.0;0.0
+58;Strange Clouds;B.o.B Featuring Lil Wayne;['Rap/Hip Hop'];226.0;1.0
+59;Marvins Room;Drake;['Rap/Hip Hop'];347.0;1.0
+60;That Way;Wale Featuring Jeremih & Rick Ross;['Rap/Hip Hop'];269.0;1.0
+61;When We Stand Together;Nickelback;['Rock'];190.0;0.0
+62;Dance (A$$);Big Sean Featuring Nicki Minaj;['Rap/Hip Hop'];216.0;0.0
+63;Long Hot Summer;Keith Urban;['Country'];273.0;0.0
+64;Otis;Jay Z Kanye West Featuring Otis Redding;['Rap/Hip Hop'];179.0;0.0
+65;Criminal;Britney Spears;['Pop'];225.0;0.0
+66;Made In America;Toby Keith;['Country'];193.0;0.0
+67;Brighter Than The Sun;Colbie Caillat;['Pop'];231.0;0.0
+68;Remind Me;Brad Paisley Duet With Carrie Underwood;['Country'];253.0;0.0
+69;Drink In My Hand;Eric Church;['Country'];191.0;0.0
+70;Take Over Control;Afrojack Featuring Eva Simons;['Dance'];208.0;0.0
+71;Mrs. Right;Mindless Behavior Featuring Diggy;['Pop'];246.0;0.0
+72;All Your Life;The Band Perry;['Country'];231.0;0.0
+73;A Thousand Years;Christina Perri;['Films/Jeux vidéo', 'Musiques de films'];285.0;0.0
+74;Party;Beyonce Featuring Andre 3000;['Pop', 'Pop internationale', 'Rock'];245.0;0.0
+75;Body 2 Body;Ace Hood Featuring Chris Brown;['Rap/Hip Hop'];227.0;0.0
+76;Countdown;Beyonce;['Pop', 'Pop internationale', 'Rock'];212.0;0.0
+77;Let It Rain;David Nail Featuring Sarah Buxton;[];;
+78;I Got You;Thompson Square;['Country'];186.0;0.0
+79;One More Drinkin' Song;Jerrod Niemann;['Country'];167.0;0.0
+80;The Adventures Of Rain Dance Maggie;Red Hot Chili Peppers;['Alternative'];282.0;0.0
+81;Wet The Bed;Chris Brown Feat. Ludacris;['R&B'];266.0;0.0
+82;I'm Gonna Love You Through It;Martina McBride;['Country'];227.0;0.0
+83;You The Boss;Rick Ross Featuring Nicki Minaj;['Rap/Hip Hop'];281.0;0.0
+84;You;Chris Young;['Rap/Hip Hop', 'R&B'];172.0;1.0
+85;Dedication To My Ex (Miss That);Lloyd Featuring Andre 3000 & Lil Wayne;[];235.0;0.0
+86;Domino;Jessie J;['Pop'];231.0;0.0
+87;Got 2 Luv U;Sean Paul Featuring Alexis Jordan;['Pop'];196.0;0.0
+88;Heartbeat;The Fray;['Pop'];221.0;0.0
+89;Skyscraper;Demi Lovato;['Pop'];221.0;0.0
+90;Sail;AWOLNATION;['Alternative', 'Rock'];259.0;0.0
+91;I Like It Like That;Hot Chelle Rae Featuring New Boyz;['Pop'];188.0;0.0
+92;Cost Of Livin';Ronnie Dunn;['Country'];250.0;0.0
+93;Promise;Romeo Santos Featuring Usher;['Latino'];252.0;0.0
+94;Rain Over Me;Pitbull Featuring Marc Anthony;['Pop'];231.0;0.0
+95;Set Fire To The Rain;Adele;['Pop'];242.0;0.0
+96;Focused;Wale Featuring Kid Cudi;['Rap/Hip Hop'];212.0;1.0
+97;Quickie;Miguel;['R&B'];226.0;0.0
+98;Crawling Back To You;Daughtry;['Pop'];225.0;0.0
+99;I Got Nothin';Darius Rucker;['Country'];204.0;0.0

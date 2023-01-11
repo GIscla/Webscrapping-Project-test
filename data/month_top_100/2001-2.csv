@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;It Wasn't Me;"Shaggy Feat. Ricardo ""RikRok"" Ducent";['Pop'];228.0;0.0
+1;Independent Women Part I;Destiny's Child;['Pop'];221.0;0.0
+2;Ms. Jackson;OutKast;['Rap/Hip Hop'];270.0;1.0
+3;Don't Tell Me;Madonna;['Pop'];280.0;0.0
+4;Love Don't Cost A Thing;Jennifer Lopez;['Pop'];221.0;0.0
+5;Again;Lenny Kravitz;['Rock'];228.0;0.0
+6;He Loves U Not;Dream;[];223.0;0.0
+7;If You're Gone;matchbox twenty;['Pop'];274.0;0.0
+8;Stutter;Joe Featuring Mystikal;['R&B'];213.0;0.0
+9;The Way You Love Me;Faith Hill;['Country', 'Pop'];186.0;0.0
+10;Case Of The Ex (Whatcha Gonna Do);Mya;['Pop'];236.0;0.0
+11;With Arms Wide Open;Creed;['Rock'];235.0;0.0
+12;Put It On Me;Ja Rule Featuring Lil' Mo & Vita;['Pop'];283.0;1.0
+13;Stronger;Britney Spears;['Pop'];203.0;0.0
+14;I Just Wanna Love U (Give It 2 Me);JAY-Z;['Rap/Hip Hop'];229.0;1.0
+15;Kryptonite;3 Doors Down;['Pop'];233.0;0.0
+16;Danger (Been So Long);Mystikal Featuring Nivea;['Rap/Hip Hop'];211.0;1.0
+17;Crazy For This Girl;Evan And Jaron;['Pop'];202.0;0.0
+18;Angel;Shaggy Featuring Rayvon;['Pop'];245.0;0.0
+19;This I Promise You;'N Sync;['Pop'];283.0;0.0
+20;Beautiful Day;U2;['Pop'];248.0;0.0
+21;I Hope You Dance;Lee Ann Womack;['Country'];295.0;0.0
+22;Crazy;K-Ci & JoJo;['R&B'];263.0;0.0
+23;Liquid Dreams;O-Town;['Pop'];210.0;0.0
+24;I Wish;R. Kelly;['R&B'];332.0;0.0
+25;Promise;Jagged Edge;['R&B'];246.0;0.0
+26;Butterfly;Crazy Town;['Rock'];216.0;0.0
+27;E.I.;Nelly;['Pop'];285.0;1.0
+28;No More (Baby I'ma Do Right);3LW;['R&B'];263.0;0.0
+29;Hemorrhage (In My Hands);Fuel;['Rock'];237.0;0.0
+30;South Side;Moby Featuring Gwen Stefani;['Pop'];227.0;1.0
+31;What's Your Fantasy;Ludacris Featuring Shawnna;['R&B'];275.0;1.0
+32;Dance With Me;Debelah Morgan;['R&B'];290.0;0.0
+33;Nobody Wants To Be Lonely;Ricky Martin Duet With Christina Aguilera;[];;
+34;My Everything;98 Degrees;['Pop'];233.0;0.0
+35;Gotta Tell You;Samantha Mumba;['Pop'];202.0;0.0
+36;Jaded;Aerosmith;['Rock'];214.0;0.0
+37;My First Love;Avant Featuring KeKe Wyatt;[];;
+38;Most Girls;P!nk;['Pop'];298.0;0.0
+39;My Next Thirty Years;Tim McGraw;['Country'];217.0;0.0
+40;You Make Me Sick;P!nk;['Pop'];245.0;0.0
+41;Tell Her;Lonestar;['Country'];250.0;0.0
+42;Without You;Dixie Chicks;['Pop'];209.0;0.0
+43;Thank You;Dido;['Pop'];217.0;0.0
+44;One Woman Man;Dave Hollister;['R&B'];272.0;1.0
+45;There Is No Arizona;Jamie O'Neal;[];235.0;0.0
+46;Ashes By Now;Lee Ann Womack;['Country'];251.0;0.0
+47;Just Friends (Sunny);Musiq;['Pop'];251.0;0.0
+48;It's Over Now;Toby Keith;[];;
+49;You Shouldn't Kiss Me Like This;Jo Dee Messina;[];;
+50;Burn;Backstreet Boys;[];;
+51;Shape Of My Heart;Sara Evans;[];;
+52;Born To Fly;Keith Urban;[];;
+53;But For The Grace Of God;Lil Bow Wow;[];;
+54;Bow Wow (That's My Name);Ludacris;[];;
+55;Southern Hospitality;Jaheim;[];;
+56;Could It Be;BBMak;[];;
+57;Still On Your Side;David Gray;[];;
+58;Babylon;Carl Thomas;[];;
+59;Emotional;Tamia;[];;
+60;Stranger In My House;Mikaila;[];;
+61;So In Love With Two;Garth Brooks;[];;
+62;Wild Horses;Cash Money Millionaires;[];;
+63;Project Chick;Rascal Flatts;[];;
+64;This Everyday Love;Diamond Rio;[];;
+65;One More Day;Jessica Andrews;[];;
+66;Who I Am;Memphis Bleek Featuring Jay-Z & Missy Elliott;[];;
+67;Is That Your Chick;Aaron Lewis Of Staind With Fred Durst;[];;
+68;Outside;Kenny Chesney;[];;
+69;I Lost It;Dave Matthews Band;[];;
+70;I Did It;Brad Paisley;[];;
+71;We Danced;Koffee Brown;[];;
+72;After Party;Phil Vassar;[];;
+73;Just Another Day In Paradise;Mya;[];;
+74;Free;3 Doors Down;['Rock'];238.0;0.0
+75;Loser;Snoop Dogg;[];;
+76;Snoop Dogg;The Corrs;[];;
+77;Breathless;Darryl Worley;[];;
+78;A Good Day To Run;Faith Hill;[];;
+79;If My Heart Had Wings;Xzibit;[];;
+80;X;Public Announcement;['Rap/Hip Hop'];62.0;1.0
+81;Mamacita;Mr. C The Slide Man;[];;
+82;Cha-Cha Slide;Sade;[];;
+83;By Your Side;Wyclef Jean Featuring Mary J. Blige;[];;
+84;911;Limp Bizkit;[];;
+85;Rollin';Modjo;[];;
+86;Lady (Hear Me Tonight);Mos Def & Pharoahe Monch Featuring Nate Dogg;[];;
+87;Oh No;Alan Jackson;[];;
+88;www.memory;Bilal;[];;
+89;Soul Sista;The Clark Family Experience;[];;
+90;Meanwhile Back At The Ranch;Kelly Price;[];;
+91;You Should've Told Me;Eminem Featuring Dido;[];;
+92;Stan;Billy Gilman;[];;
+93;Oklahoma;Trick Pony;[];;
+94;Pour Me;Lil' Kim Featuring Sisqo;[];;
+95;How Many Licks?;Baha Men With Imani Coppola;[];;
+96;You All Dat;Carolyn Dawn Johnson;[];;
+97;Georgia;Jay-Z, Beanie Sigel And Memphis Bleek;[];;
+98;Change The Game;Ricky Martin;[];;
+99;She Bangs;;[];;

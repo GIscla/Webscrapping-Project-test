@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Sheila;Tommy Roe;['Rock', 'Rock & Roll/Rockabilly'];721.0;0.0
+1;The Loco-Motion;Little Eva;['R&B'];149.0;0.0
+2;Breaking Up Is Hard To Do;Neil Sedaka;['Pop'];136.0;0.0
+3;You Don't Know Me;Ray Charles;['Jazz', 'R&B'];235.0;0.0
+4;Party Lights;Claudine Clark;['Rock'];144.0;0.0
+5;She's Not You;Elvis Presley With The Jordanaires;[];;
+6;Things;Bobby Darin;['Pop'];154.0;0.0
+7;Roses Are Red (My Love);Bobby Vinton;['Pop'];158.0;0.0
+8;Vacation;Connie Francis;['Pop'];145.0;0.0
+9;Little Diane;Dion;['Rock', 'Rock & Roll/Rockabilly'];721.0;0.0
+10;Ramblin' Rose;Nat King Cole;['Pop'];167.0;0.0
+11;What's A Matter Baby (Is It Hurting You);Timi Yuro;['Pop'];160.0;0.0
+12;Ahab, The Arab;Ray Stevens;['Country'];261.0;0.0
+13;Your Nose Is Gonna Grow;Johnny Crawford;['Pop'];125.0;0.0
+14;A Swingin' Safari;Billy Vaughn And His Orchestra;['Classique', 'Pop'];134.0;0.0
+15;Rinky Dink;Baby Cortez;['Pop'];173.0;0.0
+16;Teen Age Idol;Rick Nelson;['Pop'];148.0;0.0
+17;Devil Woman;Marty Robbins;['Country', 'Pop', 'Rock', 'Rock & Roll/Rockabilly'];172.0;0.0
+18;You Belong To Me;The Duprees;['Rock'];170.0;0.0
+19;Make It Easy On Yourself;Jerry Butler;['Jazz'];159.0;0.0
+20;Sealed With A Kiss;Brian Hyland;['Pop'];162.0;0.0
+21;Sherry;The 4 Seasons;['Pop'];152.0;0.0
+22;Call Me Mr. In-Between;Burl Ives;['Country'];164.0;0.0
+23;The Wah Watusi;The Orlons;['Pop'];152.0;0.0
+24;Send Me The Pillow You Dream On;Johnny Tillotson;['Country', 'Singer & Songwriter'];173.0;0.0
+25;Till Death Do Us Part;Bob Braun;['Pop'];146.0;0.0
+26;Twist And Shout;The Isley Brothers;['R&B', 'Soul'];148.0;0.0
+27;You'll Lose A Good Thing;Barbara Lynn;['Rock', 'Blues', 'R&B'];159.0;0.0
+28;Bring It On Home To Me;Sam Cooke;['R&B', 'Soul'];162.0;0.0
+29;Alley Cat;Bent Fabric and His Piano;['Jazz'];150.0;0.0
+30;Come On Little Angel;The Belmonts;['Rock'];188.0;0.0
+31;You Beat Me To The Punch;Mary Wells;['R&B'];163.0;0.0
+32;Shame On Me;Bobby Bare;['Country', 'Pop'];167.0;0.0
+33;Heart In Hand;Brenda Lee;[];157.0;0.0
+34;Speedy Gonzales;Pat Boone;[];153.0;0.0
+35;Point Of No Return;Gene McDaniels;[];136.0;0.0
+36;Silver Threads And Golden Needles;The Springfields;['Folk'];134.0;0.0
+37;Venus In Blue Jeans;Jimmy Clanton;['Pop'];134.0;0.0
+38;Beechwood 4-5789;The Marvelettes;['R&B'];129.0;0.0
+39;Green Onions;Booker T. & The MG's;['Pop'];174.0;0.0
+40;Stop The Wedding;Etta James;['Rock', 'Blues'];170.0;0.0
+41;A Wonderful Dream;The Majors;['Pop'];123.0;0.0
+42;Let's Dance;Chris Montez;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];150.0;0.0
+43;Wolverton Mountain;Claude King;['Country'];179.0;0.0
+44;Patches;Dickey Lee;['Pop'];180.0;0.0
+45;If I Had A Hammer (The Hammer Song);Peter, Paul & Mary;['Pop'];142.0;0.0
+46;The Stripper;David Rose and His Orchestra;['Jazz'];118.0;0.0
+47;I'm The Girl From Wolverton Mountain;Jo Ann Campbell;['Pop'];165.0;0.0
+48;Baby Elephant Walk;Lawrence Welk And His Orchestra;['Pop'];135.0;0.0
+49;A Taste Of Honey;Martin Denny and His Orchestra;[];;
+50;Surfin' Safari;The Beach Boys;['Classique', 'Rock'];121.0;0.0
+51;I Love You The Way You Are;Bobby Vinton;['Pop'];174.0;0.0
+52;Mr. Songwriter;Connie Stevens;['Pop'];141.0;0.0
+53;(Girls, Girls, Girls) Made To Love;Eddie Hodges;['Rock'];144.0;0.0
+54;Just Tell Her Jim Said Hello;Elvis Presley With The Jordanaires;[];;
+55;Lie To Me;Brook Benton;['Dance', 'Pop'];136.0;0.0
+56;What Kind Of Love Is This;Joey Dee & the Starliters;['Pop', 'Rock'];127.0;0.0
+57;The Boys' Night Out;Patti Page;['Pop'];114.0;0.0
+58;Papa-Oom-Mow-Mow;The Rivingtons;['Rock'];143.0;0.0
+59;Hully Gully Baby;The Dovells;['Pop'];153.0;0.0
+60;Theme From Dr. Kildare (Three Stars Will Shine Tonight);Richard Chamberlain;['Pop'];156.0;0.0
+61;I Left My Heart In San Francisco;Tony Bennett;['Jazz'];171.0;0.0
+62;Love Me As I Love You;George Maharis;['Jazz'];232.0;0.0
+63;I Can't Stop Loving You;Ray Charles;['Jazz'];251.0;0.0
+64;(Theme from) A Summer Place;Dick Roman;['Pop'];156.0;0.0
+65;You Can't Judge A Book By The Cover;Bo Diddley;['Pop'];191.0;0.0
+66;The Ballad Of Paladin;Duane Eddy;['Pop'];114.0;0.0
+67;Rain Rain Go Away;Bobby Vinton;['Pop'];176.0;0.0
+68;Do You Love Me;The Contours;['R&B', 'Soul'];174.0;0.0
+69;Having A Party;Sam Cooke;['Pop'];157.0;0.0
+70;Jivin' Around;Al Casey Combo;['R&B', 'Soul'];146.0;0.0
+71;Yield Not To Temptation;Bobby Bland;['Rock', 'Blues'];154.0;0.0
+72;It Might As Well Rain Until September;Carole King;['Pop'];147.0;0.0
+73;Lolita Ya-Ya;The Ventures;['Pop'];133.0;0.0
+74;Every Night (Without You);Paul Anka;['Pop'];144.0;0.0
+75;Too Late To Worry - Too Blue To Cry;Glen Campbell;['Country'];156.0;0.0
+76;Long As The Rose Is Red;Florraine Darlin;[];;
+77;Punish Her;Bobby Vee;['Rock'];111.0;0.0
+78;Lollipops And Roses;Paul Petersen;[];153.0;0.0
+79;Glory Of Love;Don Gardner And Dee Dee Ford;['Pop', 'Rock'];151.0;0.0
+80;Silly Boy (She Doesn't Love You);The Lettermen;['Pop'];163.0;0.0
+81;Lookin' For A Love;The Valentinos;['R&B'];152.0;0.0
+82;Don't You Worry;Don Gardner And Dee Dee Ford;['Rock'];179.0;0.0
+83;Beach Party;King Curtis And The Noble Knights;[];;
+84;Reap What You Sow;Billy Stewart;['Pop'];148.0;0.0
+85;Torture;Kris Jensen;['Pop', 'Rock'];131.0;0.0
+86;So What;Bill Black's Combo;['Rock', 'Rock & Roll/Rockabilly'];144.0;0.0
+87;A Taste Of Honey;The Victor Feldman Quartet;['Films/Jeux vidéo', 'Musiques de films'];186.0;0.0
+88;I Want To Be Loved;Dinah Washington;['Jazz', 'Rock', 'Blues'];173.0;0.0
+89;What Kind Of Fool Am I;Sammy Davis Jr.;['Classique', 'Jazz'];191.0;0.0
+90;Oh! What It Seemed To Be;The Castells;['Pop'];144.0;0.0
+91;Broken Heart;The Fiestas;['R&B', 'Soul'];144.0;0.0
+92;I Wouldn't Know (What To Do);Dinah Washington;['Rock', 'Blues'];144.0;0.0
+93;No One Will Ever Know;Jimmie Rodgers;['Country'];165.0;0.0
+94;I Keep Forgettin';Chuck Jackson;[];165.0;0.0
+95;Hide & Go Seek, Part I;Bunker Hill;[];;
+96;For All We Know;Dinah Washington;['Pop'];194.0;0.0
+97;There Is No Greater Love;The Wanderers;[];;
+98;If I Didn't Have A Dime (To Play The Jukebox);Gene Pitney;['Pop'];145.0;0.0
+99;Ol' Man River;Jimmy Smith;['Jazz'];170.0;0.0

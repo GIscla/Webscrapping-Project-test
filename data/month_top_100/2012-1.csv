@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Sexy And I Know It;LMFAO;['Dance', 'Pop'];199.0;0.0
+1;We Found Love;Rihanna Featuring Calvin Harris;['Pop'];214.0;0.0
+2;The One That Got Away;Katy Perry;['Pop'];227.0;0.0
+3;It Will Rain;Bruno Mars;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];257.0;0.0
+4;Ni**as in Paris;Jay Z Kanye West;['Rap/Hip Hop'];219.0;1.0
+5;Good Feeling;Flo Rida;['Rap/Hip Hop'];248.0;0.0
+6;Set Fire To The Rain;Adele;['Pop'];242.0;0.0
+7;Someone Like You;Adele;['Pop'];285.0;0.0
+8;Party Rock Anthem;LMFAO Featuring Lauren Bennett & GoonRock;['Pop'];265.0;0.0
+9;Dance (A$$);Big Sean Featuring Nicki Minaj;['Rap/Hip Hop'];216.0;0.0
+10;Stereo Hearts;Gym Class Heroes Featuring Adam Levine;['Pop'];210.0;0.0
+11;Moves Like Jagger;Maroon 5 Featuring Christina Aguilera;['Electro', 'Dance'];203.0;0.0
+12;5 O'Clock;T-Pain Featuring Wiz Khalifa & Lily Allen;['Rap/Hip Hop'];280.0;1.0
+13;Without You;David Guetta Featuring Usher;['Dance'];208.0;0.0
+14;Headlines;Drake;['Rap/Hip Hop'];235.0;1.0
+15;Young, Wild & Free;Snoop Dogg & Wiz Khalifa Featuring Bruno Mars;['Films/Jeux vidéo', 'Musiques de films'];207.0;1.0
+16;Work Out;J. Cole;['Rap/Hip Hop'];235.0;1.0
+17;Red Solo Cup;Toby Keith;['Country'];223.0;0.0
+18;Mistletoe;Justin Bieber;[];182.0;0.0
+19;Pumped Up Kicks;Foster The People;['Alternative'];239.0;0.0
+20;The Motto;Drake Featuring Lil Wayne;['Rap/Hip Hop'];181.0;1.0
+21;You Da One;Rihanna;['Pop'];200.0;1.0
+22;Not Over You;Gavin DeGraw;['Pop', 'Singer & Songwriter'];218.0;0.0
+23;Make Me Proud;Drake Featuring Nicki Minaj;['Rap/Hip Hop'];219.0;1.0
+24;Domino;Jessie J;['Pop'];231.0;0.0
+25;I Don't Want This Night To End;Luke Bryan;['Country'];219.0;0.0
+26;Love You Like A Love Song;Selena Gomez & The Scene;['Pop'];188.0;0.0
+27;Super Bass;Nicki Minaj;['Rap/Hip Hop'];201.0;0.0
+28;I Like It Like That;Hot Chelle Rae Featuring New Boyz;['Pop'];188.0;0.0
+29;Safe & Sound;Taylor Swift Featuring The Civil Wars;['Pop', 'Singer & Songwriter'];249.0;0.0
+30;You Make Me Feel...;Cobra Starship Featuring Sabi;['Pop'];215.0;0.0
+31;Mr. Know It All;Kelly Clarkson;['Pop'];232.0;0.0
+32;International Love;Pitbull Featuring Chris Brown;['Pop'];227.0;0.0
+33;It Girl;Jason Derulo;['Pop'];192.0;0.0
+34;Rolling In The Deep;Adele;['Pop'];228.0;1.0
+35;She Will;Lil Wayne Featuring Drake;['Rap/Hip Hop'];305.0;1.0
+36;Just A Kiss;Lady Antebellum;['Pop'];219.0;0.0
+37;Give Me Everything;Pitbull Featuring Ne-Yo, Afrojack & Nayer;['Dance', 'Rap/Hip Hop', 'Pop'];256.0;0.0
+38;Marry The Night;Lady Gaga;['Pop'];264.0;0.0
+39;Tattoos On This Town;Jason Aldean;['Country'];202.0;0.0
+40;Strange Clouds;B.o.B Featuring Lil Wayne;['Rap/Hip Hop'];226.0;1.0
+41;Fly;Nicki Minaj Featuring Rihanna;['Rap/Hip Hop', 'R&B'];220.0;0.0
+42;Paradise;Coldplay;['Rock'];278.0;0.0
+43;Rack City;Tyga;['Rap/Hip Hop'];203.0;1.0
+44;Ours;Taylor Swift;['Pop'];238.0;0.0
+45;God Gave Me You;Blake Shelton;['Country'];229.0;0.0
+46;Blackout;Breathe Carolina;['Alternative'];210.0;0.0
+47;Lotus Flower Bomb;Wale Featuring Miguel;['Rap/Hip Hop'];213.0;1.0
+48;Take Care;Drake Featuring Rihanna;['Rap/Hip Hop'];277.0;1.0
+49;Easy;Rascal Flatts Featuring Natasha Bedingfield;['Country'];218.0;0.0
+50;Drink In My Hand;Eric Church;['Country'];191.0;0.0
+51;A Thousand Years;Christina Perri;['Films/Jeux vidéo', 'Musiques de films'];285.0;0.0
+52;Keep Me In Mind;Zac Brown Band;['Country'];214.0;0.0
+53;Tonight Is The Night;Outasight;['Pop'];190.0;0.0
+54;The Trouble With Girls;Scotty McCreery;['Country'];229.0;0.0
+55;Let It Rain;David Nail Featuring Sarah Buxton;[];;
+56;Wild Ones;Flo Rida Featuring Sia;['Rap/Hip Hop'];234.0;0.0
+57;All Your Life;The Band Perry;['Country'];231.0;0.0
+58;We Owned The Night;Lady Antebellum;['Country'];195.0;0.0
+59;You;Chris Young;['Rap/Hip Hop', 'R&B'];172.0;1.0
+60;I Do;Young Jeezy Featuring Jay-Z & Andre 3000;['Rap/Hip Hop'];269.0;0.0
+61;Turn Me On;David Guetta Featuring Nicki Minaj;['Dance'];199.0;0.0
+62;Brighter Than The Sun;Colbie Caillat;['Pop'];231.0;0.0
+63;Heartbeat;The Fray;['Pop'];221.0;0.0
+64;Party;Beyonce Featuring Andre 3000;['Pop', 'Pop internationale', 'Rock'];245.0;0.0
+65;When We Stand Together;Nickelback;['Rock'];190.0;0.0
+66;Can't Get Enough;J. Cole Featuring Trey Songz;['Rap/Hip Hop', 'R&B'];225.0;0.0
+67;Wish You Were Here;Avril Lavigne;['Pop'];225.0;0.0
+68;Scary Monsters And Nice Sprites;Skrillex;['Electro'];243.0;0.0
+69;You The Boss;Rick Ross Featuring Nicki Minaj;['Rap/Hip Hop'];281.0;0.0
+70;Levels;Avicii;['Dance'];199.0;0.0
+71;Blunt Blowin;Lil Wayne;['Rap/Hip Hop'];312.0;1.0
+72;Bait A Hook;Justin Moore;['Country'];211.0;0.0
+73;Mirror;Lil Wayne Featuring Bruno Mars;['Rap/Hip Hop'];229.0;0.0
+74;Donald Trump;Mac Miller;['Rap/Hip Hop'];165.0;1.0
+75;Better Than I Know Myself;Adam Lambert;['Pop'];216.0;0.0
+76;Alone With You;Jake Owen;['Country'];211.0;0.0
+77;Rumour Has It;Adele;['Pop'];223.0;0.0
+78;I'm Gonna Love You Through It;Martina McBride;['Country'];227.0;0.0
+79;Countdown;Beyonce;['Pop', 'Pop internationale', 'Rock'];212.0;0.0
+80;Stupid Hoe;Nicki Minaj;['Rap/Hip Hop'];196.0;1.0
+81;Lonely Boy;The Black Keys;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];193.0;0.0
+82;Ass Back Home;Gym Class Heroes Featuring Neon Hitch;['Alternative'];222.0;1.0
+83;Storm Warning;Hunter Hayes;['Pop'];239.0;0.0
+84;First Of The Year (Equinox);Skrillex;['Dance'];261.0;0.0
+85;Drummer Boy;Justin Bieber Featuring Busta Rhymes;['Pop'];224.0;0.0
+86;Nothing;The Script;['Pop'];271.0;0.0
+87;Knock Knock;Mac Miller;['Rap/Hip Hop'];202.0;0.0
+88;Love On Top;Beyonce;['Pop', 'Pop internationale', 'Rock'];267.0;0.0
+89;Party On Fifth Ave.;Mac Miller;['Rap/Hip Hop'];173.0;1.0
+90;Baggage Claim;Miranda Lambert;['Country'];197.0;0.0
+91;Strip;Chris Brown Featuring Kevin K-MAC McCall;['Soul'];165.0;0.0
+92;Good Good Night;Roscoe Dash;['Rap/Hip Hop'];205.0;1.0
+93;Wobble;V.I.C.;['Rap/Hip Hop'];323.0;0.0
+94;Home;Dierks Bentley;['Country'];182.0;0.0
+95;Shake It Out;Florence + The Machine;['Alternative'];277.0;0.0
+96;Sail;AWOLNATION;['Alternative', 'Rock'];259.0;0.0
+97;Camouflage;Brad Paisley;['Country'];266.0;0.0
+98;That Way;Wale Featuring Jeremih & Rick Ross;['Rap/Hip Hop'];269.0;1.0
+99;We Are Young;Glee Cast;['Pop'];249.0;0.0

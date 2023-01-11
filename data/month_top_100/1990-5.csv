@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Nothing Compares 2 U;Sinead O'Connor;['Pop'];299.0;0.0
+1;I Wanna Be Rich;Calloway;['Pop', 'Disco'];309.0;0.0
+2;How Can We Be Lovers;Michael Bolton;['Pop'];234.0;0.0
+3;Vogue;Madonna;['Pop'];316.0;0.0
+4;All I Wanna Do Is Make Love To You;Heart;['Rock'];310.0;0.0
+5;Don't Wanna Fall In Love;Jane Child;['Pop'];247.0;0.0
+6;Whip Appeal;Babyface;['R&B'];347.0;0.0
+7;All Around The World;Lisa Stansfield;['Pop'];267.0;0.0
+8;What It Takes;Aerosmith;['Pop'];310.0;0.0
+9;Alright;Janet Jackson;['R&B'];386.0;0.0
+10;Without You;Motley Crue;['Rock'];268.0;0.0
+11;Hold On;Wilson Phillips;['Pop'];266.0;0.0
+12;Heartbeat;Seduction;['Electro'];422.0;0.0
+13;Sending All My Love;Linear;['Rock'];234.0;0.0
+14;Love Child;Sweet Sensation;['Pop', 'Rock'];315.0;0.0
+15;This Old Heart Of Mine;Rod Stewart With Ronald Isley;[];;
+16;Room At The Top;Adam Ant;['Pop'];282.0;0.0
+17;Poison;Bell Biv DeVoe;['R&B'];261.0;0.0
+18;"Whole Wide World (From ""True Love"")";A'me Lorain;[];;
+19;Here And Now;Luther Vandross;['R&B'];323.0;0.0
+20;The Heart Of The Matter;Don Henley;['Rock'];322.0;0.0
+21;"It Must Have Been Love (From ""Pretty Woman"")";Roxette;['Pop'];258.0;0.0
+22;U Can't Touch This;M.C. Hammer;['Rap/Hip Hop'];257.0;0.0
+23;I'll Be Your Everything;Tommy Page;['Pop'];248.0;0.0
+24;Your Baby Never Looked Good In Blue;Expose;['Pop'];241.0;0.0
+25;The Humpty Dance;Digital Underground;['Rap/Hip Hop'];391.0;0.0
+26;Love Will Lead You Back;Taylor Dayne;['Pop'];264.0;0.0
+27;Black Velvet;Alannah Myles;['Rock'];287.0;0.0
+28;Forever;KISS;['Electro'];187.0;0.0
+29;Ooh La La (I Can't Get Over You);Perfect Gentlemen;['R&B'];286.0;0.0
+30;Expression;Salt-N-Pepa;['R&B'];236.0;0.0
+31;Ready Or Not;After 7;['Pop'];272.0;0.0
+32;House Of Pain;Faster Pussycat;['Rock', 'Hard Rock'];344.0;0.0
+33;If U Were Mine;The U-Krew;[];;
+34;Save Me;Fleetwood Mac;['Pop'];255.0;0.0
+35;Baby, It's Tonight;Jude Cole;['Pop'];216.0;0.0
+36;I'll See You In My Dreams;Giant;['Rock'];286.0;0.0
+37;Get Up! (Before The Night Is Over);Technotronic;['Dance'];337.0;0.0
+38;Do You Remember?;Phil Collins;['Pop'];277.0;0.0
+39;Time After Time;Timmy T.;['Electro'];209.0;0.0
+40;Cruising For Bruising;Basia;['Pop'];249.0;0.0
+41;I Wish It Would Rain Down;Phil Collins;['Pop', 'Rock'];328.0;0.0
+42;Children Of The Night;Richard Marx;['Pop'];284.0;0.0
+43;Turtle Power;Partners In Kryme;['Rock'];260.0;0.0
+44;Getting Away With It;Electronic;['Rock'];316.0;0.0
+45;A Little Love;Corey Hart;['Rock'];252.0;0.0
+46;Always And Forever;Whistle;['Rap/Hip Hop'];281.0;0.0
+47;Oye Mi Canto (Hear My Voice);Gloria Estefan;['Pop'];292.0;0.0
+48;All That Glitters Isn't Gold;The Cover Girls;['Pop'];350.0;0.0
+49;Enjoy The Silence;Depeche Mode;['Pop'];255.0;0.0
+50;Deadbeat Club;The B-52s;['Pop'];296.0;0.0
+51;Just A Friend;Biz Markie;['Rap/Hip Hop'];238.0;0.0
+52;Nicety;Michel'le;['R&B'];211.0;0.0
+53;Get A Life;Soul II Soul;['Pop'];222.0;0.0
+54;Cuts You Up;Peter Murphy;['Alternative'];327.0;0.0
+55;I'll Be Your Shelter;Taylor Dayne;['Pop'];283.0;0.0
+56;The Secret Garden;Quincy Jones;['R&B'];401.0;0.0
+57;No More Lies;Michel'le;['R&B'];225.0;0.0
+58;Moonlight On Water;Laura Branigan;['Pop'];279.0;0.0
+59;Notice Me;Nikki;['Pop'];288.0;0.0
+60;Hold On;En Vogue;['R&B'];304.0;0.0
+61;Dare To Fall In Love;Brent Bourgeois;['Alternative', 'Rock'];246.0;0.0
+62;All My Life;Linda Ronstadt (Featuring Aaron Neville);['Pop'];210.0;0.0
+63;Coming Of Age;Damn Yankees;['Rock', 'Hard Rock', 'Metal'];259.0;0.0
+64;Sittin' In The Lap Of Luxury;Louie Louie;[];;
+65;Heart Of Stone;Cher;['Pop'];239.0;0.0
+66;Hurting Kind (I've Got My Eyes On You);Robert Plant;['Rock'];251.0;0.0
+67;Heaven Is A 4 Letter Word;Bad English;['Pop'];285.0;0.0
+68;That's The Way Of The World;D-Mob With Cathy Dennis;['Pop'];235.0;0.0
+69;The Ballad Of Jayne;L.A. Guns;['Rock'];273.0;0.0
+70;Escapade;Janet Jackson;['R&B'];283.0;0.0
+71;Spin That Wheel;Hi Tek 3 Featuring Ya Kid K;[];;
+72;Opposites Attract;Paula Abdul (Duet With The Wild Pair);[];;
+73;"How 'Bout Us (From ""True Love"")";Grayson Hugh & Betty Wright;[];;
+74;Pictures Of You;The Cure;['Alternative'];448.0;0.0
+75;Club At The End Of The Street;Elton John;['Pop'];292.0;0.0
+76;Drag My Bad Name Down;The 4 Of Us;['Pop'];170.0;0.0
+77;The Way It Is;Tesla;['Rock'];308.0;0.0
+78;Dub Be Good To Me;Beats International;['Pop'];238.0;0.0
+79;Up All Night;Slaughter;['Rock'];257.0;0.0
+80;Girls Nite Out;Tyler Collins;[];;
+81;"The Downeaster ""Alexa""";Billy Joel;['Pop'];223.0;0.0
+82;"Cradle Of Love (From ""Ford Fairlane"")";Billy Idol;[];;
+83;"""B"" Girls";Young And Restless;['Rap/Hip Hop'];242.0;0.0
+84;This & That;Michael Penn;['Rock'];211.0;0.0
+85;Sacrifice;Elton John;['Pop'];309.0;0.0
+86;Try To Find Me;Gorky Park;['Pop'];312.0;0.0
+87;Love Is;Alannah Myles;['Rock'];216.0;0.0
+88;Only My Heart Talkin';Alice Cooper;['Pop'];286.0;0.0
+89;Dangerous;Roxette;['Pop'];229.0;0.0
+90;Lambada;Kaoma;['Pop', 'Latino'];207.0;0.0
+91;Hide And Seek;Pajama Party;['Rock'];253.0;0.0
+92;Make It Like It Was;Regina Belle;['R&B'];307.0;0.0
+93;Blues Before And After;The Smithereens;['Rock'];195.0;0.0
+94;Counting The Days;Joey Kid;[];;
+95;Here We Are;Gloria Estefan;['Pop'];290.0;0.0
+96;Roam;The B-52s;['Pop'];295.0;0.0
+97;C'mon And Get My Love;D-Mob Introducing Cathy Dennis;[];;
+98;Love Me For Life;Stevie B;['Pop'];318.0;0.0
+99;Have A Heart;Bonnie Raitt;[];255.0;0.0

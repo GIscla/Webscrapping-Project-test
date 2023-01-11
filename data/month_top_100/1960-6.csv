@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Cathy's Clown;The Everly Brothers;['Pop'];144.0;0.0
+1;Stuck On You;Elvis Presley With The Jordanaires;[];;
+2;Good Timin';Jimmy Jones;['R&B'];130.0;0.0
+3;He'll Have To Stay;Jeanne Black;['Pop'];165.0;0.0
+4;Burning Bridges;Jack Scott;['Country', 'Rock', 'Rock & Roll/Rockabilly'];165.0;0.0
+5;Paper Roses;Anita Bryant;['Rock'];175.0;0.0
+6;Night;Jackie Wilson;['Rock'];164.0;0.0
+7;Everybody's Somebody's Fool;Connie Francis;[];157.0;0.0
+8;Love You So;Ron Holden with The Thunderbirds;[];;
+9;Greenfields;The Brothers Four;['Pop'];183.0;0.0
+10;Sixteen Reasons;Connie Stevens;['Pop'];118.0;0.0
+11;Cradle Of Love;Johnny Preston;['Rock', 'Blues'];141.0;0.0
+12;Swingin' School;Bobby Rydell;['Pop'];134.0;0.0
+13;Young Emotions;Ricky Nelson;['Classique', 'Rock'];154.0;0.0
+14;Let The Little Girl Dance;Billy Bland;['Rock', 'Rock & Roll/Rockabilly'];139.0;0.0
+15;Cherry Pie;Skip And Flip;['Pop'];135.0;0.0
+16;Happy-Go-Lucky-Me;Paul Evans;['Pop'];116.0;0.0
+17;Ding-A-Ling;Bobby Rydell;['Pop'];149.0;0.0
+18;Wonderful World;Sam Cooke;['R&B'];125.0;0.0
+19;Stairway To Heaven;Neil Sedaka;['Pop'];159.0;0.0
+20;Doggin' Around;Jackie Wilson;['Soul'];174.0;0.0
+21;Jealous Of You (Tango Della Gelosia);Connie Francis;['Pop'];147.0;0.0
+22;Because They're Young;Duane Eddy And The Rebels;['Rock'];123.0;0.0
+23;Mountain Of Love;Harold Dorman;['Pop'];142.0;0.0
+24;Fame And Fortune;Elvis Presley With The Jordanaires;[];;
+25;The Old Lamplighter;The Browns Featuring Jim Edward Brown;[];;
+26;A Rockin' Good Way (To Mess Around And Fall In Love);Dinah Washington & Brook Benton;['R&B'];148.0;0.0
+27;Sink The Bismark;Johnny Horton;['Country'];191.0;0.0
+28;Jump Over;Freddy Cannon;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];166.0;0.0
+29;Dutchman's Gold;Walter Brennan With Billy Vaughn and his Orchestra;[];;
+30;Mack The Knife;Ella Fitzgerald;['Jazz'];297.0;0.0
+31;Another Sleepless Night;Jimmy Clanton;['Rock', 'Rock & Roll/Rockabilly'];130.0;0.0
+32;Think;James Brown And The Famous Flames;['R&B'];163.0;0.0
+33;Oh, Little One;Jack Scott;[];126.0;0.0
+34;Lonely Weekends;Charlie Rich;['Rock', 'Rock & Roll/Rockabilly'];127.0;0.0
+35;Nobody Loves Me Like You;The Flamingos;['Electro', 'Dance'];134.0;0.0
+36;My Home Town;Paul Anka;['Pop'];30.0;0.0
+37;I'm Sorry;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];163.0;1.0
+38;All I Could Do Was Cry;Etta James;['R&B', 'Soul & Funk'];173.0;0.0
+39;I Really Don't Want To Know;Tommy Edwards;['R&B'];139.0;0.0
+40;Mr. Lucky;Henry Mancini;['Jazz'];158.0;0.0
+41;Please Help Me, I'm Falling;Hank Locklin;['Pop'];133.0;0.0
+42;Won't You Come Home Bill Bailey;Bobby Darin;[];123.0;0.0
+43;The Way Of A Clown;Teddy Randazzo;['Pop'];156.0;0.0
+44;Theme For Young Lovers;Percy Faith And His Orchestra;['Pop'];157.0;0.0
+45;Barbara;The Temptations;['R&B', 'Soul'];166.0;0.0
+46;When You Wish Upon A Star;Dion & The Belmonts;['Rock'];146.0;0.0
+47;Ooh Poo Pah Doo - Part II;Jessie Hill;['R&B', 'Soul'];138.0;0.0
+48;Step By Step;The Crests;['Pop'];149.0;0.0
+49;"Theme From ""The Unforgiven"" (The Need For Love)";Don Costa And His Orchestra And Chorus;['Films/Jeux vidéo', 'Musiques de films'];176.0;0.0
+50;White Silver Sands;Bill Black's Combo;['Pop'];155.0;0.0
+51;The Madison;Al Brown's Tunetoppers Featuring Cookie Brown;[];;
+52;National City;Joiner, Arkansas Junior High School Band;[];;
+53;Spring Rain;Pat Boone;['Pop'];175.0;0.0
+54;Alley-Oop;Hollywood Argyles;['Pop', 'Rock'];162.0;0.0
+55;Walking The Floor Over You;Pat Boone;['Pop'];144.0;0.0
+56;Mule Skinner Blues;The Fendermen;['Pop'];144.0;0.0
+57;The Madison Time - Part I;Ray Bryant Combo;['R&B', 'Soul'];187.0;0.0
+58;Ebb Tide;The Platters Featuring Tony Williams;[];;
+59;The Ties That Bind;Brook Benton;['R&B'];171.0;0.0
+60;Got A Girl;The Four Preps;['Pop'];249.0;0.0
+61;Something Happened;Paul Anka;['Pop', 'Rock'];155.0;0.0
+62;A Cottage For Sale;Little Willie John;['Soul'];209.0;0.0
+63;Finger Poppin' Time;Hank Ballard And The Midnighters;['Pop'];133.0;0.0
+64;Just A Closer Walk With Thee;Jimmie Rodgers;['Country'];161.0;0.0
+65;Right By My Side;Ricky Nelson;['Pop'];162.0;0.0
+66;Pennies From Heaven;The Skyliners;['Pop'];129.0;0.0
+67;Pink Chiffon;Mitchell Torok;['Rock', 'Rock & Roll/Rockabilly'];150.0;0.0
+68;For Love;Lloyd Price and His Orchestra;[];;
+69;Tell Me That You Love Me;Fats Domino;['Rock', 'Blues'];123.0;0.0
+70;Runaround;The Fleetwoods;['Rock'];154.0;0.0
+71;Exclusively Yours;Carl Dobkins, Jr.;['Rock'];139.0;0.0
+72;No If's - No And's;Lloyd Price and His Orchestra;[];;
+73;Always It's You;The Everly Brothers;['Pop', 'Rock'];149.0;0.0
+74;Alley-Oop;Dante and the Evergreens;['Rock', 'Rock & Roll/Rockabilly'];174.0;0.0
+75;Down Yonder;Johnny And The Hurricanes;['Pop'];126.0;0.0
+76;What Am I Living For;Conway Twitty;['Country', 'Pop'];154.0;0.0
+77;That's All You Gotta Do;Brenda Lee;['Pop'];148.0;0.0
+78;Heartbreak (It's Hurtin' Me);Little Willie John;['R&B', 'Soul & Funk'];169.0;0.0
+79;Lonely Winds;The Drifters;[];167.0;0.0
+80;Hot Rod Lincoln;Charlie Ryan and the Timberline Riders;['Rock', 'Rock & Roll/Rockabilly'];148.0;0.0
+81;When Will I Be Loved;The Everly Brothers;['Pop', 'Rock'];114.0;0.0
+82;Clap Your Hands;The Beau-Marks;['Rock'];121.0;0.0
+83;Shadows Of Love;LaVern Baker;['R&B'];148.0;0.0
+84;River, Stay 'Way From My Door;Frank Sinatra;['Pop'];229.0;0.0
+85;La Montana (If She Should Come To You);Frank DeVol And His Rainbow Strings;[];;
+86;I'll Be Seeing You;The Five Satins;['R&B', 'Soul'];166.0;0.0
+87;Only The Lonely (Know How I Feel);Roy Orbison;['Pop'];146.0;0.0
+88;Hey Little One;Dorsey Burnette;['Country'];151.0;0.0
+89;Train Of Love;Annette With The Afterbeats;[];;
+90;Ain't Gonna Be That Way;Marv Johnson;['R&B'];150.0;0.0
+91;Alley-Oop;The Dyna-Sores;['Blues', 'R&B', 'Soul'];150.0;0.0
+92;Heartbreak (It's Hurtin' Me);Jon Thomas and Orchestra;[];;
+93;Comin' Down With Love;Mel Gadson;['Rock'];127.0;0.0
+94;Image Of A Girl;Safaris with The Phantom's Band;[];;
+95;Banjo Boy;Jan And Kjeld;[];148.0;0.0
+96;Biology;Danny Valentino;['Rock'];153.0;0.0
+97;La Montana (If She Should Come To You);Roger Williams;['Pop'];164.0;0.0
+98;The Yen Yet Song;Gary Cane And His Friends;[];;
+99;One Of Us (Will Weep Tonight);Patti Page;[];149.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Battle Of New Orleans;Johnny Horton;['Country'];151.0;0.0
+1;Lonely Boy;Paul Anka;['Pop'];151.0;0.0
+2;Personality;Lloyd Price and His Orchestra;[];;
+3;Dream Lover;Bobby Darin;['Pop'];150.0;0.0
+4;Lipstick On Your Collar;Connie Francis;['Pop'];141.0;0.0
+5;Waterloo;Stonewall Jackson;['Pop'];148.0;0.0
+6;Tallahassee Lassie;Freddy Cannon;['Rock'];132.0;0.0
+7;Bobby Sox To Stockings;Frankie Avalon;['Pop'];161.0;0.0
+8;Frankie;Connie Francis;['Pop'];152.0;0.0
+9;Tiger;Fabian;['Rock', 'Rock & Roll/Rockabilly'];148.0;0.0
+10;Along Came Jones;The Coasters;['Soul'];172.0;0.0
+11;A Boy Without A Girl;Frankie Avalon;['Pop'];116.0;0.0
+12;My Heart Is An Open Book;Carl Dobkins, Jr.;['Rock'];130.0;0.0
+13;Quiet Village;The Exotic Sounds of Martin Denny;['Jazz'];168.0;0.0
+14;Bongo Rock;Preston Epps;['Rock'];128.0;0.0
+15;I Only Have Eyes For You;The Flamingos;['R&B'];202.0;0.0
+16;Kansas City;Wilbert Harrison;['Rock', 'Rock & Roll/Rockabilly'];143.0;0.0
+17;M.T.A.;The Kingston Trio;['Folk'];193.0;0.0
+18;A Teenager In Love;Dion & The Belmonts;['Rock'];153.0;0.0
+19;You're So Fine;The Falcons;[];151.0;0.0
+20;Just Keep It Up;Dee Clark;['R&B', 'Soul'];154.0;0.0
+21;Hushabye;The Mystics;['Pop'];157.0;0.0
+22;Forty Miles Of Bad Road;Duane Eddy And The Rebels;['Electro', 'Dance'];122.0;0.0
+23;Twixt Twelve And Twenty;Pat Boone;[];134.0;0.0
+24;What A Diff'rence A Day Makes;Dinah Washington;['Jazz'];151.0;0.0
+25;This I Swear;The Skyliners;['Pop'];159.0;0.0
+26;The Wonder Of You;Ray Peterson;['Pop'];157.0;0.0
+27;There Goes My Baby;The Drifters;['Pop'];132.0;0.0
+28;So Fine;The Fiestas;['R&B', 'Soul'];140.0;0.0
+29;Little Dipper;The Mickey Mozart Quintet;['Jazz'];118.0;0.0
+30;Lavender-Blue;Sammy Turner;['Soul'];130.0;0.0
+31;Only Sixteen;Sam Cooke;['Rock', 'Blues'];124.0;0.0
+32;I'll Be Satisfied;Jackie Wilson;['Soul'];124.0;0.0
+33;Robbin' The Cradle;Tony Bellus;['Pop'];157.0;0.0
+34;Only You;Franck Pourcel's French Fiddles;[];;
+35;Crossfire;Johnny And The Hurricanes;['Pop', 'Rock'];142.0;0.0
+36;Ring-A-Ling-A-Lario;Jimmie Rodgers;['Pop'];128.0;0.0
+37;Kookie, Kookie (Lend Me Your Comb);Edward Byrnes & Connie Stevens;['Pop', 'R&B', 'Soul'];125.0;0.0
+38;I'm Ready;Fats Domino;['Jazz'];126.0;0.0
+39;Wonderful You;Jimmie Rodgers;['Country'];151.0;0.0
+40;Back In The U.S.A.;Chuck Berry;['Pop', 'Rock'];151.0;0.0
+41;Just A Little Too Much;Ricky Nelson;['Pop'];131.0;0.0
+42;A Big Hunk O' Love;Elvis Presley With The Jordanaires;[];;
+43;I've Come Of Age;Billy Storm;['Jazz'];173.0;0.0
+44;Cap And Gown;Marty Robbins;[];128.0;0.0
+45;I Can't Get You Out Of My Heart;Al Martino;['Electro', 'Dance'];148.0;0.0
+46;The Quiet Three;Duane Eddy His Twangy Guitar And The Rebels;[];;
+47;Tall Cool One;The Wailers;['Classique', 'Rock'];155.0;0.0
+48;Remember When;The Platters;['R&B', 'Soul & Funk'];166.0;0.0
+49;Mona Lisa;Carl Mann;['Rock', 'Rock & Roll/Rockabilly'];150.0;0.0
+50;Like Young;Andre Previn With David Rose;[];169.0;0.0
+51;Endlessly;Brook Benton;['Jeunesse', 'Musiques de films', 'BO TV'];159.0;0.0
+52;Sweeter Than You;Ricky Nelson;['Pop'];138.0;0.0
+53;Lonely For You;Gary Stites;['Pop'];160.0;0.0
+54;Taboo;Arthur Lyman;['Electro', 'Chill Out/Trip-Hop/Lounge'];151.0;0.0
+55;Forty Days;Ronnie Hawkins;['Rock', 'Rock & Roll/Rockabilly'];135.0;0.0
+56;I Know;Perry Como;[];184.0;0.0
+57;Small World;Johnny Mathis;['Pop'];190.0;0.0
+58;Since You've Been Gone;Clyde McPhatter;['Rock', 'Rock & Roll/Rockabilly'];152.0;0.0
+59;With My Eyes Wide Open I'm Dreaming;Patti Page;['Electro', 'Dance'];191.0;0.0
+60;The Whistling Organ;"Dave ""Baby"" Cortez";['Pop', 'R&B'];130.0;0.0
+61;Cherrystone;Addrisi Brothers;['Rock'];145.0;0.0
+62;Velvet Waters;The Megatrons;['Pop'];136.0;0.0
+63;There Is Something On Your Mind;Big Jay McNeely And Band;[];281.0;0.0
+64;Ragtime Cowboy Joe;David Seville And The Chipmunks;['Jeunesse'];126.0;0.0
+65;I Love An Angel;Little Bill and The Bluenotes;['Folk'];171.0;0.0
+66;My Melancholy Baby;Tommy Edwards;['R&B'];162.0;0.0
+67;High Hopes;"Frank Sinatra ""and a bunch of kids""";['Films/Jeux vidéo', 'Musiques de films'];161.0;0.0
+68;Here Comes Summer;Jerry Keller;['Pop'];130.0;0.0
+69;The Happy Organ;"Dave ""Baby"" Cortez";['Pop'];120.0;0.0
+70;Sorry (I Ran All The Way Home);The Impalas;['Pop'];155.0;0.0
+71;Ciao, Ciao Bambina;Jacky Noguez And His Musette Orchestra;[];;
+72;Goodbye Jimmy, Goodbye;Kathy Linden;['Pop'];166.0;0.0
+73;It Was I;Skip And Flip;['Rock'];138.0;0.0
+74;Till There Was You;Anita Bryant;['Country'];130.0;0.0
+75;Sweet Chile;Sheb Wooley;['Country'];162.0;0.0
+76;The Way I Walk;Jack Scott;['Rock', 'Rock & Roll/Rockabilly'];161.0;0.0
+77;Bei Mir Bist Du Schön;Louis Prima And Keely Smith;['Jazz'];170.0;0.0
+78;Flower Of Love;The Crests featuring Johnny Mastro;[];;
+79;Danny Boy;Sil Austin;['Rock'];171.0;0.0
+80;Gidget;Jimmy Darren;['Pop'];150.0;0.0
+81;What'd I Say (Part I & II);Ray Charles and his Orchestra;[];;
+82;One Love, One Heart;The Four Coins;['Pop'];161.0;0.0
+83;Ten Thousand Drums;Carl Smith;['Country'];151.0;0.0
+84;Sea Of Love;Phil Phillips With The Twilights;['Rock'];142.0;0.0
+85;La Plume De Ma Tante;Hugo & Luigi;['Pop'];133.0;0.0
+86;Sweet Someone;Eddie and Betty;[];;
+87;Yes - Sir - ee;Dodie Stevens;['Pop'];139.0;0.0
+88;What Is Love?;The Playmates;['Pop'];136.0;0.0
+89;See You In September;The Tempos;['Rock', 'Rock & Roll/Rockabilly'];121.0;0.0
+90;Kissin' Time;Bobby Rydell;['Pop'];133.0;0.0
+91;Oh, What A Fool;The Impalas;[];141.0;0.0
+92;Beach Time;Roger Smith;['Pop'];119.0;0.0
+93;Graduation's Here;The Fleetwoods;['Pop'];118.0;0.0
+94;Happy Vacation;Jackie Lee;['Pop'];150.0;0.0
+95;Lonely Guitar;Annette;['R&B'];145.0;0.0
+96;Sweet Sugar Lips;The Kalin Twins;['Rock'];103.0;0.0
+97;Crackin Up;Bo Diddley;['Rock'];149.0;0.0
+98;A Prayer And A Juke Box;Little Anthony And The Imperials;['Rock', 'Blues', 'R&B'];181.0;0.0
+99;Rockin' Crickets;Hot-Toddys featuring Bill Pennell;[];;

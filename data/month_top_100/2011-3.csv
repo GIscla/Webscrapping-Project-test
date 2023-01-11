@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Born This Way;Lady Gaga;['Pop'];244.0;0.0
+1;F**k You! (Forget You);CeeLo Green;[];;
+2;Grenade;Bruno Mars;['Pop'];222.0;0.0
+3;I Need A Doctor;Dr. Dre Featuring Eminem & Skylar Grey;['Pop'];284.0;0.0
+4;Firework;Katy Perry;['Rock'];227.0;0.0
+5;F**kin' Perfect;P!nk;['Pop'];213.0;1.0
+6;S&M;Rihanna Featuring Britney Spears;['Pop'];247.0;0.0
+7;Never Say Never;Justin Bieber Featuring Jaden Smith;['Pop'];227.0;0.0
+8;Tonight (I'm Lovin' You);Enrique Iglesias Featuring Ludacris & DJ Frank E;['Jeunesse', 'Pop'];230.0;0.0
+9;Black And Yellow;Wiz Khalifa;['Rap/Hip Hop'];217.0;1.0
+10;Hold It Against Me;Britney Spears;['Pop'];228.0;0.0
+11;What's My Name?;Rihanna Featuring Drake;['Pop'];257.0;0.0
+12;What The Hell;Avril Lavigne;['Pop'];220.0;0.0
+13;Just The Way You Are;Bruno Mars;['Pop'];220.0;0.0
+14;More;Usher;[];228.0;0.0
+15;Rocketeer;Far*East Movement Featuring Ryan Tedder;['Pop'];211.0;0.0
+16;Hey Baby (Drop It To The Floor);Pitbull Featuring T-Pain;['Dance', 'Rap/Hip Hop', 'Pop'];236.0;0.0
+17;Moment 4 Life;Nicki Minaj Featuring Drake;['Jeunesse', 'Pop'];280.0;0.0
+18;Yeah 3X;Chris Brown;['R&B'];241.0;0.0
+19;6 Foot 7 Foot;Lil Wayne Featuring Cory Gunz;['Rap/Hip Hop'];248.0;1.0
+20;Jar Of Hearts;Christina Perri;['Pop'];246.0;0.0
+21;Coming Home;Diddy - Dirty Money Featuring Skylar Grey;['Rap/Hip Hop'];240.0;0.0
+22;Raise Your Glass;P!nk;['Pop'];203.0;1.0
+23;Back To December;Taylor Swift;['Pop'];293.0;0.0
+24;Down On Me;Jeremih Featuring 50 Cent;['Rap/Hip Hop'];228.0;0.0
+25;Rolling In The Deep;Adele;['Pop'];228.0;1.0
+26;The Cave;Mumford & Sons;['Alternative'];215.0;0.0
+27;E.T.;Katy Perry Featuring Kanye West;['Pop'];243.0;0.0
+28;No Hands;Waka Flocka Flame Featuring Roscoe Dash & Wale;['Rap/Hip Hop'];263.0;1.0
+29;We R Who We R;Ke$ha;['Pop'];204.0;0.0
+30;Look At Me Now;Chris Brown Featuring Lil Wayne & Busta Rhymes;['R&B'];222.0;1.0
+31;Blow;Ke$ha;['Pop'];219.0;0.0
+32;Higher;Taio Cruz Featuring Travie McCoy;['Pop'];224.0;0.0
+33;Pretty Girl Rock;Keri Hilson;['R&B'];243.0;0.0
+34;Only Girl (In The World);Rihanna;['Pop'];235.0;0.0
+35;The Time (Dirty Bit);The Black Eyed Peas;['Pop'];307.0;0.0
+36;Backseat;New Boyz Featuring The Cataracs & Dev;['Rap/Hip Hop'];224.0;1.0
+37;Don't You Wanna Stay;Jason Aldean With Kelly Clarkson;['Pop'];260.0;0.0
+38;Teenage Dream;Katy Perry;['Pop'];227.0;0.0
+39;Dynamite;Taio Cruz;['Pop'];202.0;0.0
+40;DJ Got Us Fallin' In Love;Usher Featuring Pitbull;['R&B'];220.0;0.0
+41;Stereo Love;Edward Maya & Vika Jigulina;['Electro', 'Dance'];184.0;0.0
+42;Marry Me;Train;['Pop'];205.0;0.0
+43;The Show Goes On;Lupe Fiasco;['Rap/Hip Hop'];239.0;1.0
+44;Little Lion Man;Mumford & Sons;['Alternative'];245.0;1.0
+45;Just A Dream;Nelly;['Rap/Hip Hop'];237.0;0.0
+46;Baby;Glee Cast;['Pop'];210.0;0.0
+47;Are You Gonna Kiss Me Or Not;Thompson Square;['Country'];184.0;0.0
+48;Sing;Glee Cast;['Pop'];243.0;0.0
+49;Waiting For The End;Linkin Park;['Alternative'];231.0;0.0
+50;Take Me Or Leave Me;Glee Cast;['Pop'];191.0;0.0
+51;Colder Weather;Zac Brown Band;['Country'];273.0;0.0
+52;Who Dat Girl;Flo Rida Featuring Akon;['Rap/Hip Hop'];200.0;0.0
+53;All Of The Lights;Kanye West;['Rap/Hip Hop'];299.0;1.0
+54;Somewhere With You;Kenny Chesney;['Country'];243.0;0.0
+55;Who Are You When I'm Not Looking;Blake Shelton;['Country'];187.0;0.0
+56;Let Me Down Easy;Billy Currington;['Country'];228.0;0.0
+57;Sing;My Chemical Romance;['Alternative'];270.0;0.0
+58;Voices;Chris Young;['Country'];186.0;0.0
+59;For The First Time;The Script;['Pop'];252.0;1.0
+60;Pray;Justin Bieber;[];212.0;0.0
+61;Somebody To Love;Glee Cast;['Pop'];254.0;0.0
+62;Fall For Your Type;Jamie Foxx Featuring Drake;['R&B'];271.0;0.0
+63;Buzzin';Mann;['Rap/Hip Hop'];153.0;1.0
+64;This Is Country Music;Brad Paisley;['Country'];311.0;0.0
+65;You Be Killin Em;Fabolous;['Rap/Hip Hop'];209.0;1.0
+66;What Do You Want;Jerrod Niemann;['Country'];214.0;0.0
+67;Someone Else Calling You Baby;Luke Bryan;['Country'];229.0;0.0
+68;Hello World;Lady Antebellum;['Country'];315.0;0.0
+69;This;Darius Rucker;[];211.0;0.0
+70;Felt Good On My Lips;Tim McGraw;['Country'];277.0;0.0
+71;Love Faces;Trey Songz;['R&B'];243.0;0.0
+72;A Little Bit Stronger;Sara Evans;['Country'];303.0;0.0
+73;Born To Be Somebody;Justin Bieber;['Pop'];181.0;0.0
+74;Lay It Down;Lloyd;['R&B'];241.0;1.0
+75;Roll Up;Wiz Khalifa;['Rap/Hip Hop'];227.0;1.0
+76;Bass Down Low;Dev Featuring The Cataracs;['Electro', 'Dance'];212.0;0.0
+77;Hit The Lights;Jay Sean Featuring Lil Wayne;['Dance', 'Pop'];185.0;0.0
+78;From A Table Away;Sunny Sweeney;['Country'];215.0;0.0
+79;I Won't Let Go;Rascal Flatts;['Pop'];229.0;0.0
+80;Wildflower;The JaneDear Girls;['Country'];163.0;0.0
+81;Maybe;Sick Puppies;['Rock'];205.0;0.0
+82;No BS;Chris Brown;['R&B'];247.0;1.0
+83;I Just Had Sex;The Lonely Island Featuring Akon;[];167.0;0.0
+84;Heart Like Mine;Miranda Lambert;['Country'];177.0;0.0
+85;Tomorrow;Chris Young;['Country', 'Pop'];220.0;0.0
+86;Who's That Chick?;David Guetta Featuring Rihanna;['Dance'];201.0;0.0
+87;Little Miss;Sugarland;['Country'];271.0;0.0
+88;Kush;Dr. Dre Featuring Snoop Dogg & Akon;['Rap/Hip Hop'];247.0;0.0
+89;Forget You;Glee Cast Featuring Gwyneth Paltrow;['Pop'];221.0;0.0
+90;Written In The Stars;Tinie Tempah Featuring Eric Turner;['Pop'];207.0;0.0
+91;Just Can't Get Enough;The Black Eyed Peas;['Pop'];219.0;0.0
+92;H*A*M;Kanye West Jay Z;['Rap/Hip Hop'];201.0;0.0
+93;U Smile;Justin Bieber;['Pop'];196.0;0.0
+94;Firework;Glee Cast;['Pop'];227.0;0.0
+95;I Do;Colbie Caillat;['Pop'];173.0;0.0
+96;Bleed Red;Ronnie Dunn;['Country'];229.0;0.0
+97;Do The John Wall;Troop 41;[];;
+98;Price Tag;Jessie J Featuring B.o.B;['Pop'];223.0;0.0
+99;Whip My Hair;WILLOW;['Pop'];195.0;0.0

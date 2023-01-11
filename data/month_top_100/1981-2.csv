@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Celebration;Kool & The Gang;['Pop'];190.0;0.0
+1;The Tide Is High;Blondie;['Rock'];280.0;0.0
+2;I Love A Rainy Night;Eddie Rabbitt;['Country', 'Pop'];189.0;0.0
+3;9 To 5;Dolly Parton;['Country'];162.0;0.0
+4;Passion;Rod Stewart;['Pop', 'Rock'];332.0;0.0
+5;(Just Like) Starting Over;John Lennon;['Rock'];236.0;0.0
+6;Every Woman In The World;Air Supply;['Pop'];209.0;0.0
+7;Woman;John Lennon;['Rock'];212.0;0.0
+8;It's My Turn;Diana Ross;['R&B'];238.0;0.0
+9;Giving It Up For Your Love;Delbert McClinton;['Country'];226.0;0.0
+10;Hey Nineteen;Steely Dan;['Pop'];307.0;0.0
+11;Same Old Lang Syne;Dan Fogelberg;['Rock'];320.0;0.0
+12;Keep On Loving You;REO Speedwagon;['Pop'];201.0;0.0
+13;Miss Sun;Boz Scaggs;['Pop'];331.0;0.0
+14;Love On The Rocks;Neil Diamond;['Pop'];216.0;0.0
+15;The Winner Takes It All;ABBA;['Pop'];295.0;0.0
+16;The Best Of Times;Styx;['Rock'];258.0;0.0
+17;I Ain't Gonna Stand For It;Stevie Wonder;['R&B'];279.0;0.0
+18;Together;Tierra;['Latino'];264.0;0.0
+19;Crying;Don McLean;['Pop'];222.0;0.0
+20;Seven Bridges Road;Eagles;['Pop'];184.0;0.0
+21;Guilty;Barbra Streisand & Barry Gibb;['Pop'];264.0;0.0
+22;Heartbreak Hotel;The Jacksons;['Pop'];343.0;0.0
+23;A Little In Love;Cliff Richard;['Rock'];225.0;0.0
+24;Hello Again;Neil Diamond;['Pop'];243.0;0.0
+25;I Made It Through The Rain;Barry Manilow;['Pop'];264.0;0.0
+26;Smoky Mountain Rain;Ronnie Milsap;['Country'];237.0;0.0
+27;Killin' Time;Fred Knoblock & Susan Anton;[];;
+28;Games People Play;The Alan Parsons Project;['Rock'];264.0;0.0
+29;Treat Me Right;Pat Benatar;['Rock'];194.0;0.0
+30;Time Is Time;Andy Gibb;['Pop'];220.0;0.0
+31;Hungry Heart;Bruce Springsteen;['Rock'];199.0;0.0
+32;He Can't Love You;Michael Stanley Band;['Rock'];214.0;0.0
+33;De Do Do Do, De Da Da Da;The Police;['Pop'];246.0;0.0
+34;Tell It Like It Is;Heart;['Rock'];269.0;0.0
+35;Lady;Kenny Rogers;['Country'];232.0;0.0
+36;Hearts On Fire;Randy Meisner;['Classique', 'Rock'];174.0;0.0
+37;Ah! Leah!;Donnie Iris;['Rock'];222.0;0.0
+38;Who's Making Love;Blues Brothers;['Pop', 'Rock'];212.0;0.0
+39;Back In Black;AC/DC;['Rock', 'Hard Rock', 'Metal'];255.0;0.0
+40;Hit Me With Your Best Shot;Pat Benatar;['Rock'];171.0;0.0
+41;Rapture;Blondie;['Pop'];299.0;0.0
+42;Kiss On My List;Daryl Hall John Oates;['Pop', 'Rock'];235.0;0.0
+43;(Ghost) Riders In The Sky;Outlaws;['Country'];198.0;0.0
+44;Shine On;L.T.D.;['R&B'];238.0;0.0
+45;Flash's Theme Aka Flash;Queen;[];;
+46;Suddenly;Olivia Newton-John And Cliff Richard;['Rock'];241.0;0.0
+47;I Need Your Lovin';Teena Marie;['Rap/Hip Hop'];173.0;0.0
+48;More Than I Can Say;Leo Sayer;['Pop'];218.0;0.0
+49;Too Tight;ConFunkShun;['Soul'];260.0;0.0
+50;Cold Love;Donna Summer;['Electro'];220.0;0.0
+51;What Kind Of Fool;Barbra Streisand & Barry Gibb;['Pop'];245.0;0.0
+52;Fool That I Am;Rita Coolidge;['Rock'];188.0;0.0
+53;Guitar Man;Elvis Presley;['Rock'];139.0;0.0
+54;Full Of Fire;Shalamar;['R&B', 'Soul'];377.0;0.0
+55;Fly Away;Peter Allen;['Pop'];241.0;0.0
+56;Precious To Me;Phil Seymour;['Pop'];171.0;0.0
+57;Living In A Fantasy;Leo Sayer;['Pop'];221.0;0.0
+58;Love T.K.O.;Teddy Pendergrass;['R&B'];221.0;0.0
+59;Staying With It;Firefall;['Rock'];181.0;0.0
+60;Master Blaster (Jammin');Stevie Wonder;['R&B'];290.0;0.0
+61;One Step Closer;The Doobie Brothers;['Pop'];383.0;0.0
+62;Somebody's Knockin';Terri Gibbs;['Pop'];182.0;0.0
+63;My Mother's Eyes;Bette Midler;[];;
+64;Fade Away;Bruce Springsteen;['Rock'];281.0;0.0
+65;I Don't Want To Know Your Name;Glen Campbell;['Country'];242.0;0.0
+66;Another One Bites The Dust;Queen;['Rock'];214.0;0.0
+67;United Together;Aretha Franklin;['R&B', 'Soul'];249.0;0.0
+68;Lipstick;Suzi Quatro;['Rock'];250.0;0.0
+69;Skateaway;Dire Straits;['Rock'];398.0;0.0
+70;Ain't Even Done With The Night;John Cougar;['Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock'];232.0;0.0
+71;Woman In Love;Barbra Streisand;['Pop'];231.0;0.0
+72;Dreamer;The Association;['Pop', 'Rock'];213.0;0.0
+73;Fantastic Voyage;Lakeside;['R&B', 'Soul'];369.0;0.0
+74;Seasons;Charles Fox;['Films/Jeux vidéo', 'Musiques de films'];196.0;0.0
+75;Wynken, Blynken And Nod;The Doobie Brothers;['Rock'];200.0;0.0
+76;Turn Me Loose;Loverboy;['Pop'];337.0;0.0
+77;Don't Stand So Close To Me;The Police;['Rock'];242.0;0.0
+78;Watching You;Slave;['R&B'];282.0;0.0
+79;While You See A Chance;Steve Winwood;['Alternative', 'Rock'];315.0;0.0
+80;Everybody's Got To Learn Sometime;The Korgis;['Pop'];258.0;0.0
+81;Fireflies;Fleetwood Mac;['Rock'];276.0;0.0
+82;You've Lost That Lovin' Feeling;Daryl Hall John Oates;['Pop'];276.0;0.0
+83;Whip It;Devo;['Films/Jeux vidéo', 'Musiques de films'];158.0;0.0
+84;Just Between You And Me;April Wine;['Rock'];235.0;0.0
+85;Don't Stop The Music;Yarbrough & Peoples;['Dance'];250.0;0.0
+86;And Love Goes On;Earth, Wind & Fire;['R&B'];245.0;0.0
+87;Long Time Lovin' You;McGuffey Lane;['Country', 'Pop', 'Rock'];257.0;0.0
+88;Cafe Amore;Spyro Gyra;[];;
+89;Don't You Know What Love Is;Touch;['Rock'];238.0;0.0
+90;I Believe In You;Don Williams;['Country'];245.0;0.0
+91;Never Be The Same;Christopher Cross;['Pop'];249.0;0.0
+92;Theme From The Dukes Of Hazzard (Good Ol' Boys);Waylon;['Country'];129.0;0.0
+93;Need Your Loving Tonight;Queen;['Rock'];169.0;0.0
+94;I'm Coming Out;Diana Ross;['R&B'];322.0;0.0
+95;Teacher Teacher;Rockpile;['Pop', 'Rock'];162.0;0.0
+96;You;Earth, Wind & Fire;['R&B'];243.0;0.0
+97;8th Wonder;Sugarhill Gang;['Rap/Hip Hop'];446.0;0.0
+98;Dreaming;Cliff Richard;['Rock'];219.0;0.0
+99;Remote Control;The Reddings;['R&B'];307.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Hills;The Weeknd;['R&B'];242;1
+1;Hotline Bling;Drake;['Rap/Hip Hop'];267;0
+2;What Do You Mean?;Justin Bieber;['Pop'];205;0
+3;Stitches;Shawn Mendes;['Pop'];206;0
+4;Wildest Dreams;Taylor Swift;['Pop'];220;0
+5;679;Fetty Wap Featuring Remy Boyz;[];319;1
+6;Can't Feel My Face;The Weeknd;['R&B'];213;0
+7;Locked Away;R. City Featuring Adam Levine;['Pop', 'Pop internationale', 'Rock', 'R&B'];227;0
+8;Watch Me;Silento;['Rap/Hip Hop'];185;0
+9;Perfect;One Direction;['Pop'];230;0
+10;Lean On;Major Lazer & DJ Snake Featuring MO;['Electro'];176;0
+11;Jumpman;Drake & Future;['Rap/Hip Hop'];205;1
+12;Downtown;Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz;['Rap/Hip Hop'];292;1
+13;Good For You;Selena Gomez Featuring A$AP Rocky;['Pop'];199;0
+14;Ex's & Oh's;Elle King;['Alternative'];202;0
+15;Same Old Love;Selena Gomez;['Pop'];229;0
+16;Renegades;X Ambassadors;['Alternative'];195;0
+17;Like I'm Gonna Lose You;Meghan Trainor Featuring John Legend;['Pop'];225;0
+18;On My Mind;Ellie Goulding;['Pop'];213;0
+19;Here;Alessia Cara;['Pop'];199;0
+20;Hit The Quan;iLoveMemphis;['Rap/Hip Hop'];181;0
+21;Cheerleader;OMI;['Electro', 'Techno/House', 'Dance', 'Reggae'];174;0
+22;Trap Queen;Fetty Wap;['Rap/Hip Hop'];222;1
+23;Drag Me Down;One Direction;['Pop'];192;0
+24;Photograph;Ed Sheeran;['Pop'];258;0
+25;My Way;Fetty Wap Featuring Monty;['Rap/Hip Hop'];213;1
+26;See You Again;Wiz Khalifa Featuring Charlie Puth;['Rap/Hip Hop'];229;0
+27;Where Ya At;Future Featuring Drake;['Rap/Hip Hop'];208;1
+28;How Deep Is Your Love;Calvin Harris & Disciples;['Electro', 'Techno/House', 'Dance', 'Pop', 'Pop internationale', 'Rock', 'Films/Jeux vidéo', 'Musiques de films'];212;0
+29;Uptown Funk!;Mark Ronson Featuring Bruno Mars;['Pop'];269;1
+30;Confident;Demi Lovato;['Pop'];205;1
+31;Strip It Down;Luke Bryan;['Country'];241;0
+32;Shut Up And Dance;WALK THE MOON;['Alternative'];199;0
+33;Fight Song;Rachel Platten;['Pop', 'Pop internationale', 'Rock'];202;0
+34;Antidote;Travis Scott;['Rap/Hip Hop'];262;1
+35;Die A Happy Man;Thomas Rhett;['Country'];227;0
+36;Where Are U Now;Skrillex & Diplo With Justin Bieber;['Electro', 'Dance'];250;0
+37;Love Myself;Hailee Steinfeld;['Pop'];218;0
+38;Thinking Out Loud;Ed Sheeran;['Pop'];281;0
+39;Back To Back;Drake;['Rap/Hip Hop'];170;1
+40;Again;Fetty Wap;['Rap/Hip Hop'];312;1
+41;Cool For The Summer;Demi Lovato;['Pop'];214;1
+42;All Eyes On You;Meek Mill Featuring Chris Brown & Nicki Minaj;['Rap/Hip Hop'];223;1
+43;White Iverson;Post Malone;['Rap/Hip Hop'];256;1
+44;Want To Want Me;Jason Derulo;['Pop'];207;0
+45;Sugar;Maroon 5;['Pop'];235;1
+46;Break Up With Him;Old Dominion;['Country', 'Folk'];207;0
+47;Levels;Nick Jonas;['Pop'];167;0
+48;Flex (Ooh Ooh Ooh);Rich Homie Quan;['Rap/Hip Hop'];177;1
+49;Worth It;Fifth Harmony Featuring Kid Ink;['Pop', 'Pop internationale', 'Rock'];224;0
+50;Burning House;Cam;['Country'];231;0
+51;I'm Comin' Over;Chris Young;['Country'];197;0
+52;No Role Modelz;J. Cole;['Rap/Hip Hop'];292;1
+53;Marvin Gaye;Charlie Puth Featuring Meghan Trainor;['Pop'];187;0
+54;Anything Goes;Florida Georgia Line;['Country'];230;0
+55;Smoke Break;Carrie Underwood;['Country'];198;0
+56;Big Rings;Drake & Future;['Rap/Hip Hop'];217;1
+57;Come Get Her;Rae Sremmurd;['Rap/Hip Hop'];212;1
+58;Break Up In A Small Town;Sam Hunt;['Country'];229;0
+59;Liquor;Chris Brown;['R&B'];224;1
+60;Let Me See Ya Girl;Cole Swindell;['Country'];187;0
+61;Back Up;DeJ Loaf Featuring Big Sean;['Rap/Hip Hop'];241;1
+62;Comfortable;K Camp;['Rap/Hip Hop'];213;1
+63;Nothin' Like You;Dan + Shay;['Country'];186;0
+64;Don't;Bryson Tiller;['R&B'];198;1
+65;Diamonds Dancing;Drake & Future;['Rap/Hip Hop'];314;1
+66;Lose My Mind;Brett Eldredge;['Country'];155;0
+67;Right Hand;Drake;['Rap/Hip Hop'];190;1
+68;RGF Island;Fetty Wap;['Rap/Hip Hop'];173;1
+69;Blase;Ty Dolla $ign Featuring Future & Rae Sremmurd;['Rap/Hip Hop'];286;1
+70;Save It For A Rainy Day;Kenny Chesney;['Country'];182;0
+71;This Could Be Us;Rae Sremmurd;['Rap/Hip Hop'];206;1
+72;Gonna Wanna Tonight;Chase Rice;['Country'];214;0
+73;Lay It All On Me;Rudimental Featuring Ed Sheeran;['Dance', 'Pop'];242;0
+74;Gonna;Blake Shelton;['Country'];182;0
+75;The Fix;Nelly Featuring Jeremih;['Rap/Hip Hop', 'Pop'];173;1
+76;Digital Dash;Drake & Future;['Rap/Hip Hop'];231;1
+77;John Cougar, John Deere, John 3:16;Keith Urban;['Country'];221;0
+78;Cake By The Ocean;DNCE;['Pop'];219;1
+79;Stay A Little Longer;Brothers Osborne;['Country'];335;0
+80;Stressed Out;twenty one pilots;['Alternative'];202;0
+81;Scholarships;Drake & Future;['Rap/Hip Hop'];209;1
+82;Powerful;Major Lazer Featuring Ellie Goulding & Tarrus Riley;['Electro'];206;0
+83;Ginza;J Balvin;['Rap/Hip Hop', 'Latino'];171;0
+84;Hide Away;Daya;['Pop'];191;0
+85;Nothing But Trouble (Instagram Models);Lil Wayne & Charlie Puth;['Rap/Hip Hop'];217;1
+86;New Americana;Halsey;['Alternative'];183;0
+87;100;The Game Featuring Drake;[];543;0
+88;Hold My Hand;Jess Glynne;['Pop'];227;0
+89;Say It;Tory Lanez;['Rap/Hip Hop'];237;1
+90;I Got The Boy;Jana Kramer;['Country'];201;0
+91;Gonna Know We Were Here;Jason Aldean;['Country'];223;0
+92;Live From The Gutter;Drake & Future;['Rap/Hip Hop'];211;1
+93;Top Of The World;Tim McGraw;['Country'];233;0
+94;Roses;The Chainsmokers Featuring Rozes;['Electro', 'Electro Pop/Electro Rock', 'Dance', 'Pop', 'Pop internationale', 'Rock'];226;0
+95;I'm The Plug;Drake & Future;['Rap/Hip Hop'];180;1
+96;Home;One Direction;['Pop', 'Pop internationale', 'Rock'];182;0
+97;Irresistible;Fall Out Boy;['Alternative'];206;0
+98;Can't Sleep Love;Pentatonix;['Pop'];173;0
+99;$ave Dat Money;Lil Dicky Featuring Fetty Wap & Rich Homie Quan;['Rap/Hip Hop'];290;1

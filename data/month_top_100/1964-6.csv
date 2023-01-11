@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Chapel Of Love;The Dixie Cups;['Rock'];170.0;0.0
+1;Love Me Do;The Beatles;['Rock'];140.0;0.0
+2;My Guy;Mary Wells;['R&B'];174.0;0.0
+3;Love Me With All Your Heart (Cuando Calienta El Sol);The Ray Charles Singers;[];;
+4;Hello, Dolly!;Louis Armstrong And The All Stars;[];;
+5;A World Without Love;Peter And Gordon;['Pop'];160.0;0.0
+6;Walk On By;Dionne Warwick;['Pop'];178.0;0.0
+7;Little Children;Billy J. Kramer With The Dakotas;['Rock'];167.0;0.0
+8;(Just Like) Romeo & Juliet;The Reflections;['Pop'];133.0;0.0
+9;P.S. I Love You;The Beatles;['Rock'];124.0;0.0
+10;Do You Love Me;The Dave Clark Five;['Pop'];163.0;0.0
+11;People;Barbra Streisand;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];300.0;0.0
+12;Every Little Bit Hurts;Brenda Holloway;['R&B'];176.0;0.0
+13;Diane;The Bachelors;['Pop'];152.0;0.0
+14;Cotton Candy;Al Hirt;['Pop'];138.0;0.0
+15;It's Over;Roy Orbison;['Rock'];167.0;0.0
+16;I Get Around;The Beach Boys;['Rock'];134.0;0.0
+17;Today;The New Christy Minstrels;['Pop'];164.0;0.0
+18;Once Upon A Time;Marvin Gaye & Mary Wells;['R&B'];166.0;0.0
+19;Tell Me Why;Bobby Vinton;['Pop'];156.0;0.0
+20;I'm So Proud;The Impressions;['Soul'];171.0;0.0
+21;I Don't Want To Be Hurt Anymore;Nat King Cole;[];117.0;0.0
+22;Ronnie;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+23;What'd I Say;Elvis Presley With The Jubilee Four And Carole Lombard Quartet;[];;
+24;Bits And Pieces;The Dave Clark Five;['Pop'];118.0;0.0
+25;Don't Let The Sun Catch You Crying;Gerry And The Pacemakers;['Rock'];152.0;0.0
+26;My Boy Lollipop;Millie Small;['Reggae'];120.0;0.0
+27;Three Window Coupe;The Rip Chords;[];119.0;0.0
+28;Be Anything (But Be Mine);Connie Francis;[];129.0;0.0
+29;Tears And Roses;Al Martino;['Livres audio'];139.0;0.0
+30;Dead Man's Curve;Jan & Dean;['Pop'];150.0;0.0
+31;Wish Someone Would Care;Irma Thomas;['R&B'];148.0;0.0
+32;Viva Las Vegas;Elvis Presley With The Jordanaires;[];;
+33;Wrong For Each Other;Andy Williams;[];;
+34;Goodbye Baby (Baby Goodbye);Solomon Burke;['Rock'];202.0;0.0
+35;Do You Want To Know A Secret;The Beatles;['Rock'];117.0;0.0
+36;White On White;Danny Williams;['Rock', 'Rock & Roll/Rockabilly'];140.0;0.0
+37;I'll Touch A Star;Terry Stafford;['Pop'];145.0;0.0
+38;The Very Thought Of You;Rick Nelson;['Dance', 'Pop'];114.0;0.0
+39;I Rise, I Fall;Johnny Tillotson;['Country', 'Singer & Songwriter'];138.0;0.0
+40;Tall Cool One;The Wailers;['Classique', 'Rock'];155.0;0.0
+41;What's The Matter With You Baby;Marvin Gaye & Mary Wells;['R&B'];147.0;0.0
+42;No Particular Place To Go;Chuck Berry;['Pop', 'Rock'];165.0;0.0
+43;Good Golly Miss Molly;The Swinging Blue Jeans;['Rock'];140.0;0.0
+44;Rock Me Baby;B.B. King;['Rock', 'Blues'];397.0;0.0
+45;I Don't Wanna Be A Loser;Lesley Gore;['Pop'];163.0;0.0
+46;Sugar And Spice;The Searchers;['Pop'];136.0;0.0
+47;Gonna Get Along Without You Now;Skeeter Davis;['Country'];141.0;0.0
+48;Shangri-La;Robert Maxwell His Harp And Orchestra;['Pop'];160.0;0.0
+49;Kiss Me Quick;Elvis Presley With The Jordanaires;[];;
+50;Gonna' Get Along Without You Now;Tracey Dey;[];;
+51;Too Late To Turn Back Now;Brook Benton;['R&B'];210.0;0.0
+52;I Knew It All The Time;The Dave Clark Five;['Pop'];142.0;0.0
+53;Don't Throw Your Love Away;The Searchers;['Pop'];136.0;0.0
+54;Hurt By Love;Inez Foxx;['Soul'];189.0;0.0
+55;One Way Love;The Drifters;['R&B', 'Soul & Funk', 'Soul'];152.0;0.0
+56;Another Cup Of Coffee;Brook Benton;['R&B'];173.0;0.0
+57;Giving Up;Gladys Knight And The Pips;['R&B'];215.0;0.0
+58;Whenever He Holds You;Bobby Goldsboro;['Country'];136.0;0.0
+59;Beans In My Ears;The Serendipity Singers;['Pop', 'Rock'];125.0;0.0
+60;Bad To Me;Billy J. Kramer With The Dakotas;['Pop'];140.0;0.0
+61;Party Girl;Bernadette Carroll;['Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+62;Memphis;Johnny Rivers;['Pop', 'Singer & Songwriter'];149.0;0.0
+63;Yesterday's Gone;Chad & Jeremy;['Rock'];149.0;0.0
+64;I'll Be In Trouble;The Temptations;['R&B'];166.0;0.0
+65;Donnie;The Bermudas;['Pop'];131.0;0.0
+66;One Girl;Garnet Mimms;['R&B'];183.0;0.0
+67;Milord;Bobby Darin;['Pop'];121.0;0.0
+68;The World Of Lonely People;Anita Bryant;['Pop'];135.0;0.0
+69;The French Song;Lucille Starr;['Pop'];171.0;0.0
+70;What Have I Got Of My Own;Trini Lopez;['Rock'];156.0;0.0
+71;Yesterday's Hero;Gene Pitney;['Pop'];151.0;0.0
+72;Rules Of Love;The Orlons;['Country'];155.0;0.0
+73;Don't Worry Baby;The Beach Boys;['Rock'];169.0;0.0
+74;My Baby Don't Dig Me;Ray Charles and his Orchestra;[];;
+75;Beg Me;Chuck Jackson;['Pop'];164.0;0.0
+76;Good Times;Sam Cooke;['R&B'];146.0;0.0
+77;Everybody Knows;Steve Lawrence;['Pop'];153.0;0.0
+78;Kiko;Jimmy McGriff;['Jazz'];207.0;0.0
+79;A World Without Love;Bobby Rydell;['Pop'];168.0;0.0
+80;Hickory, Dick And Doc;Bobby Vee;['Pop'];150.0;0.0
+81;Not Fade Away;The Rolling Stones;['Rock'];107.0;0.0
+82;Just Ain't Enough Love;Eddie Holland;['Soul & Funk'];148.0;0.0
+83;Yesterday's Gone;The Overlanders;['Rock'];131.0;0.0
+84;Keep On Pushing;The Impressions;['Soul'];155.0;0.0
+85;The World I Used To Know;Jimmie Rodgers;['Country'];156.0;0.0
+86;The Girl From Ipanema;Stan Getz/Astrud Gilberto;['Jazz'];317.0;0.0
+87;Be My Girl;The Four-Evers;[];;
+88;It Ain't No Use;Major Lance;['Pop'];167.0;0.0
+89;Something You Got;Alvin Robinson;['R&B', 'Soul & Funk'];148.0;0.0
+90;The First Night Of The Full Moon;Jack Jones;[];;
+91;That's Really Some Good;Rufus & Carla;['R&B'];114.0;0.0
+92;I Wanna Be Loved;Dean And Jean;[];;
+93;Remember Me;Rita Pavone;['Pop'];271.0;0.0
+94;Kick That Little Foot Sally Ann;Round Robin;['Pop'];147.0;0.0
+95;My Dreams;Brenda Lee;['Pop'];141.0;0.0
+96;Lazy Elsie Molly;Chubby Checker;['R&B'];139.0;0.0
+97;Alone;The 4 Seasons;['Rock', 'Rock & Roll/Rockabilly'];130.0;0.0
+98;Trouble I've Had;Clarence Ashe;[];;
+99;Try It Baby;Marvin Gaye;['R&B'];178.0;0.0

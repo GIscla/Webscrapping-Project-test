@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Family Affair;Mary J. Blige;['R&B'];266.0;0.0
+1;U Got It Bad;Usher;['Rap/Hip Hop', 'R&B'];247.0;0.0
+2;Hero;Enrique Iglesias;['Pop'];264.0;0.0
+3;How You Remind Me;Nickelback;['Rock'];224.0;0.0
+4;Turn Off The Light;Nelly Furtado;['Pop'];275.0;0.0
+5;I'm Real;Jennifer Lopez Featuring Ja Rule;['Pop', 'R&B', 'Soul'];258.0;0.0
+6;Differences;Ginuwine;['Pop'];265.0;0.0
+7;Livin' It Up;Ja Rule Featuring Case;[];;
+8;Fallin';Alicia Keys;['R&B'];210.0;0.0
+9;Emotion;Destiny's Child;['Pop'];236.0;0.0
+10;Gone;'N Sync;['Pop'];292.0;0.0
+11;Only Time;Enya;['Pop'];218.0;0.0
+12;Get The Party Started;P!nk;['Pop'];192.0;0.0
+13;Rock The Boat;Aaliyah;['R&B', 'Soul'];274.0;0.0
+14;It's Been Awhile;Staind;['Pop'];264.0;1.0
+15;Superman (It's Not Easy);Five For Fighting;['Alternative'];221.0;0.0
+16;Girls, Girls, Girls;JAY-Z;['Rap/Hip Hop'];275.0;1.0
+17;I Do!!;Toya;['R&B', 'Soul'];213.0;0.0
+18;Caramel;City High Featuring Eve;[];;
+19;Everywhere;Michelle Branch;['Pop'];214.0;0.0
+20;Whenever, Wherever;Shakira;['Latino'];196.0;0.0
+21;My Sacrifice;Creed;['Rock'];294.0;0.0
+22;#1;Nelly;['Rap/Hip Hop'];228.0;0.0
+23;Where The Stars And Stripes And The Eagle Fly;Aaron Tippin;['Country'];228.0;0.0
+24;Drops Of Jupiter (Tell Me);Train;['Rock'];259.0;0.0
+25;Hanging By A Moment;Lifehouse;['Pop'];218.0;0.0
+26;I'm A Slave 4 U;Britney Spears;['Pop', 'Pop internationale', 'Rock'];203.0;0.0
+27;Raise Up;Petey Pablo;['Rap/Hip Hop'];286.0;1.0
+28;I Wanna Talk About Me;Toby Keith;['Country'];183.0;0.0
+29;Where The Party At;Jagged Edge With Nelly;[];254.0;0.0
+30;Always On Time;Ja Rule Featuring Ashanti;['Pop'];256.0;0.0
+31;Fill Me In;Craig David;['Pop'];257.0;0.0
+32;Butterflies;Michael Jackson;['Pop'];279.0;0.0
+33;We Thuggin';Fat Joe Featuring R. Kelly;['Rap/Hip Hop'];207.0;0.0
+34;Wherever You Will Go;The Calling;['Pop'];208.0;0.0
+35;Lifetime;Maxwell;['R&B'];329.0;0.0
+36;Dig In;Lenny Kravitz;['Rock'];217.0;0.0
+37;Be Like That;3 Doors Down;['Rock'];266.0;0.0
+38;Drowning;Backstreet Boys;['Pop'];267.0;0.0
+39;Hit 'Em Up Style (Oops!);Blu Cantrell;['Pop'];250.0;0.0
+40;Smooth Criminal;Alien Ant Farm;['Rock'];207.0;0.0
+41;A Woman's Worth;Alicia Keys;['R&B'];303.0;0.0
+42;Love Of A Woman;Travis Tritt;['Country'];217.0;0.0
+43;Let Me Blow Ya Mind;Eve Featuring Gwen Stefani;['Pop'];251.0;0.0
+44;You Gets No Love;Faith Evans;['R&B'];241.0;0.0
+45;One Minute Man;"Missy ""Misdemeanor"" Elliott";['Rap/Hip Hop'];241.0;1.0
+46;Riding With Private Malone;David Ball;['Country'];275.0;0.0
+47;Run;George Strait;['Country'];245.0;0.0
+48;I'm A Survivor;Reba;['Country'];187.0;0.0
+49;Dance With Me;JAY-Z;[];;
+50;Izzo (H.O.V.A.);Bubba Sparxxx;[];;
+51;Ugly;Brooks & Dunn;[];;
+52;Only In America;U2;[];;
+53;Stuck In A Moment You Can't Get Out Of;Janet Featuring Missy Elliott, P. Diddy & Carly Simon;[];;
+54;Son Of A Gun;Alan Jackson;[];;
+55;Where Were You (When The World Stopped Turning);Garth Brooks;[];;
+56;Wrapped Up In You;Mr. Cheeks;[];;
+57;Lights, Camera, Action!;Fabolous Featuring Nate Dogg;[];;
+58;Can't Deny It;Tim McGraw;[];;
+59;Angry All The Time;Jewel;[];;
+60;Standing Still;Linkin Park;[];;
+61;In The End;Trace Adkins;[];;
+62;I'm Tryin';P.O.D.;[];;
+63;Alive;DMX;['Rap/Hip Hop'];164.0;1.0
+64;Who We Be;Incubus;[];;
+65;Wish You Were Here;Brian McKnight;[];;
+66;Love Of My Life;Trick Pony;[];;
+67;On A Night Like This;Alan Jackson;[];;
+68;Where I Come From;Steve Holy;[];;
+69;Good Morning Beautiful;Ludacris;[];;
+70;Roll Out (My Business);Staind;[];;
+71;Fade;Lonestar;[];;
+72;With Me;Jagged Edge;['R&B', 'Soul'];253.0;1.0
+73;Goodbye;Lee Greenwood;[];;
+74;God Bless The USA;Christina Milian;[];;
+75;AM To PM;Brad Paisley;[];;
+76;Wrapped Around;P. Diddy Featuring The Neptunes;[];;
+77;Diddy;Busta Rhymes;['Rap/Hip Hop'];296.0;1.0
+78;Break Ya Neck;Michael Jackson;[];;
+79;You Rock My World;Puddle Of Mudd;['Rock'];303.0;0.0
+80;Control;Angie Stone;[];;
+81;Brotha;R. Kelly;[];;
+82;Feelin' On Yo Booty;Juvenile;[];;
+83;From Her Mama (Mama Got A**);Whitney Houston;[];;
+84;The Star Spangled Banner;Tyrese;[];;
+85;What Am I Gonna Do;R.L., Snoop Dogg & Lil' Kim;[];;
+86;Do U Wanna Roll (Dolittle Theme);Trick Daddy;[];;
+87;I'm A Thug;Babyface;[];;
+88;What If;Ludacris, LL Cool J & Keith Murray;[];;
+89;Fatty Girl;Carolyn Dawn Johnson;[];;
+90;So Complicated;Smash Mouth;[];;
+91;I'm A Believer;LFO;[];;
+92;Every Other Time;Trisha Yearwood;[];;
+93;I Would've Loved You Anyway;All Star Tribute;[];;
+94;What's Going On;Linkin Park;[];;
+95;Crawling;Fuel;[];;
+96;Bad Day;Glenn Lewis;[];;
+97;Don't You Forget It;Fabolous;[];;
+98;Young'n (Holla Back);Tammy Cochran;[];;
+99;Angels In Waiting;;[];;

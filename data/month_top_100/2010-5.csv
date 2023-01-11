@@ -1,0 +1,102 @@
+;title;artist;genres;duration;explicit_content
+0;Nothin' On You;B.o.B Featuring Bruno Mars;['Rap/Hip Hop'];268.0;0.0
+1;Rude Boy;Rihanna;['Pop'];222.0;0.0
+2;Hey, Soul Sister;Train;['Pop'];216.0;0.0
+3;Break Your Heart;Taio Cruz Featuring Ludacris;['Pop'];187.0;0.0
+4;Need You Now;Lady Antebellum;['Country'];236.0;0.0
+5;In My Head;Jason Derulo;['Pop'];199.0;0.0
+6;Telephone;Lady Gaga Featuring Beyonce;['Pop'];222.0;0.0
+7;OMG;Usher Featuring will.i.am;['R&B'];269.0;0.0
+8;Your Love Is My Drug;Ke$ha;['Pop'];187.0;0.0
+9;Whataya Want From Me;Adam Lambert;['Pop'];227.0;0.0
+10;Imma Be;The Black Eyed Peas;['Pop'];257.0;1.0
+11;Airplanes;B.o.B Featuring Hayley Williams;['Rap/Hip Hop'];180.0;1.0
+12;My Chick Bad;Ludacris Featuring Nicki Minaj;['Rap/Hip Hop'];217.0;0.0
+13;Breakeven;The Script;['Pop', 'Rock'];261.0;0.0
+14;Say Aah;Trey Songz Featuring Fabolous;['R&B'];207.0;0.0
+15;Baby;Justin Bieber Featuring Ludacris;['Jeunesse'];196.0;0.0
+16;Young Forever;Jay-Z + Mr. Hudson;['Rap/Hip Hop'];253.0;1.0
+17;TiK ToK;Ke$ha;['Pop'];200.0;0.0
+18;Carry Out;Timbaland Featuring Justin Timberlake;['Pop'];232.0;0.0
+19;Over;Drake;['Rap/Hip Hop'];153.0;1.0
+20;BedRock;Young Money Featuring Lloyd;['Musique brésilienne', 'Jeunesse'];291.0;0.0
+21;All The Right Moves;OneRepublic;['Rock'];238.0;0.0
+22;Not Myself Tonight;Christina Aguilera;['Pop', 'Pop internationale', 'Rock'];186.0;1.0
+23;Bad Romance;Lady Gaga;['Pop'];294.0;0.0
+24;Hey Daddy (Daddy's Home);Usher Featuring Plies;['R&B'];256.0;0.0
+25;I Made It (Cash Money Heroes);Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne;['Rap/Hip Hop'];257.0;0.0
+26;American Honey;Lady Antebellum;['Country'];221.0;0.0
+27;Alejandro;Lady Gaga;['Pop'];274.0;0.0
+28;How Low;Ludacris;['Rap/Hip Hop'];201.0;1.0
+29;Live Like We're Dying;Kris Allen;['Pop'];212.0;0.0
+30;Eenie Meenie;Sean Kingston & Justin Bieber;['Pop'];201.0;0.0
+31;Gives You Hell;Glee Cast;['Pop'];206.0;0.0
+32;Haven't Met You Yet;Michael Buble;['Pop'];244.0;0.0
+33;Say Something;Timbaland Featuring Drake;['Pop'];240.0;1.0
+34;Hello;Glee Cast Featuring Jonathan Groff;['Pop'];206.0;0.0
+35;Bulletproof;La Roux;['Pop'];162.0;0.0
+36;Naturally;Selena Gomez & The Scene;['Pop'];202.0;0.0
+37;Sexy Chick;David Guetta Featuring Akon;['Pop'];205.0;0.0
+38;Solo;Iyaz;['Pop'];194.0;0.0
+39;I Gotta Feeling;The Black Eyed Peas;['Pop'];289.0;0.0
+40;According To You;Orianthi;['Pop'];200.0;0.0
+41;Gimmie That Girl;Joe Nichols;['Country'];185.0;0.0
+42;I'm Awesome;Spose;['Rap/Hip Hop'];219.0;1.0
+43;Highway 20 Ride;Zac Brown Band;['Country'];229.0;0.0
+44;Lil Freak;Usher Featuring Nicki Minaj;['R&B'];234.0;0.0
+45;Heartbreak Warfare;John Mayer;['Rock'];269.0;0.0
+46;Everything To Me;Monica;['R&B'];196.0;0.0
+47;All I Do Is Win;DJ Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross;['Rap/Hip Hop'];232.0;1.0
+48;Hello Goodbye;Glee Cast;['Pop'];209.0;0.0
+49;Neighbors Know My Name;Trey Songz;['R&B'];186.0;0.0
+50;Winner;Jamie Foxx Featuring Justin Timberlake & T .I.;[];;
+51;When I Look At You;Miley Cyrus;['Pop'];248.0;0.0
+52;If We Ever Meet Again;Timbaland Featuring Katy Perry;['Pop'];292.0;0.0
+53;Blah Blah Blah;Ke$ha Featuring 3OH!3;['Pop'];172.0;1.0
+54;The House That Built Me;Miranda Lambert;['Country'];236.0;0.0
+55;Today Was A Fairytale;Taylor Swift;['Country'];242.0;0.0
+56;Hello Good Morning;Diddy - Dirty Money Featuring T.I.;['Rap/Hip Hop'];267.0;0.0
+57;The Man I Want To Be;Chris Young;['Country'];207.0;0.0
+58;Ain't Back Yet;Kenny Chesney;['Country'];239.0;0.0
+59;Billionaire;Travie McCoy Featuring Bruno Mars;['Pop'];211.0;1.0
+60;Life After You;Gold x4;[];;
+61;Halfway Gone;Daughtry;[];;
+62;Beamer, Benz, Or Bentley;Lifehouse;[];;
+63;Pray For You;Lloyd Banks Featuring Juelz Santana;[];;
+64;A Little More Country Than That;Jaron And The Long Road To Love;[];;
+65;Hello, I Love You;Easton Corbin;[];;
+66;Steady Mobbin';Glee Cast;[];;
+67;I'm Back;Young Money Featuring Gucci Mane;[];;
+68;Lemonade;T.I.;[];;
+69;Drop The World;Gucci Mane;[];;
+70;Rain Is A Good Thing;Lil Wayne Featuring Eminem;[];;
+71;'Til Summer Comes Around;Luke Bryan;[];;
+72;Temporary Home;Keith Urban;[];;
+73;Hell On The Heart;Carrie Underwood;[];;
+74;Roger That;Eric Church;[];;
+75;This Afternoon;Young Money;[];;
+76;Hillbilly Bone;Nickelback;[];;
+77;Unstoppable;Blake Shelton Featuring Trace Adkins;[];;
+78;Keep On Lovin' You;Rascal Flatts;[];;
+79;You And Your Heart;Steel Magnolia;[];;
+80;I Never Told You;Jack Johnson;[];;
+81;Backwoods;Colbie Caillat;[];;
+82;Un-Thinkable (I'm Ready);Justin Moore;[];;
+83;Fearless;Alicia Keys;['Rap/Hip Hop'];158.0;1.0
+84;I Gotta Get To You;Taylor Swift;[];;
+85;There Goes My Baby;George Strait;[];;
+86;Wrong Baby Wrong;Usher;[];;
+87;Sex Therapy;Martina McBride;[];;
+88;She Won't Be Lonely Long;Robin Thicke;[];;
+89;I Am;Clay Walker;[];;
+90;All The Way Turnt Up;Mary J. Blige;[];;
+91;Crazy Town;Roscoe Dash Featuring Soulja Boy Tell'em;[];;
+92;O Let's Do It;Jason Aldean;[];;
+93;Ridin' Solo;Waka Flocka Flame;[];;
+94;Just Breathe;Jason Derulo;[];;
+95;All I Ever Wanted;Pearl Jam;[];;
+96;Give Me A Sign (Forever And Ever);Kelly Clarkson;[];;
+97;On To The Next One;Breaking Benjamin;[];;
+98;That's How Country Boys Roll;Jay-Z + Swizz Beatz;[];;
+99;Water;Billy Currington;[];;
+100;;Brad Paisley;[];;

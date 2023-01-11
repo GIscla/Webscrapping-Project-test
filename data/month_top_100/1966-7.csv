@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Strangers In The Night;Frank Sinatra;['Jazz'];164.0;0.0
+1;Paperback Writer;The Beatles;['Rock'];138.0;0.0
+2;Red Rubber Ball;The Cyrkle;['Pop'];137.0;0.0
+3;Paint It, Black;The Rolling Stones;['Rock'];202.0;0.0
+4;You Don't Have To Say You Love Me;Dusty Springfield;['Pop'];168.0;0.0
+5;Hanky Panky;Tommy James And The Shondells;['Pop'];173.0;0.0
+6;Cool Jerk;The Capitols;['Pop'];166.0;0.0
+7;I Am A Rock;Simon & Garfunkel;['Rock'];170.0;0.0
+8;Did You Ever Have To Make Up Your Mind?;The Lovin' Spoonful;['Pop'];120.0;0.0
+9;Barefootin';Robert Parker;['Soul'];164.0;0.0
+10;Little Girl;Syndicate Of Sound;['Rock'];147.0;0.0
+11;Don't Bring Me Down;The Animals;['Rock'];196.0;0.0
+12;Sweet Talkin' Guy;The Chiffons;['Pop', 'Rock'];135.0;0.0
+13;Oh How Happy;Shades Of Blue;['Rock'];132.0;0.0
+14;Ain't Too Proud To Beg;The Temptations;['R&B'];153.0;0.0
+15;Dirty Water;The Standells;['Rock'];167.0;0.0
+16;Double Shot (Of My Baby's Love);Swingin' Medallions;['Classique', 'Rock'];132.0;0.0
+17;Opus 17 (Don't You Worry 'Bout Me);"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+18;Along Comes Mary;The Association;['Pop', 'Rock'];171.0;0.0
+19;He;The Righteous Brothers;['Pop'];181.0;0.0
+20;Girl In Love;The Outsiders;['Pop'];200.0;0.0
+21;Hold On! I'm A Comin';Sam & Dave;['Soul'];176.0;0.0
+22;A Groovy Kind Of Love;The Mindbenders;['Pop'];116.0;0.0
+23;Rain;The Beatles;['Rock'];181.0;0.0
+24;The More I See You;Chris Montez;['Pop'];159.0;0.0
+25;Popsicle;Jan & Dean;['Pop'];159.0;0.0
+26;Crying;Jay & The Americans;[];156.0;0.0
+27;Green Grass;Gary Lewis And The Playboys;['Pop'];134.0;0.0
+28;When A Man Loves A Woman;Percy Sledge;['Pop', 'R&B'];175.0;0.0
+29;(I Washed My Hands In) Muddy Water;Johnny Rivers;[];;
+30;Lil' Red Riding Hood;Sam The Sham and the Pharaohs;['Pop', 'Rock'];163.0;0.0
+31;Hey Joe;The Leaves;[];;
+32;Please Tell Me Why;The Dave Clark Five;['Rock'];91.0;0.0
+33;The Land Of Milk And Honey;The Vogues;['Pop', 'Rock'];162.0;0.0
+34;Day For Decision;Johnny Sea;['Country'];146.0;0.0
+35;Let's Go Get Stoned;Ray Charles;['Soul & Funk'];186.0;0.0
+36;Sweet Pea;Tommy Roe;['Pop'];138.0;0.0
+37;Mama;B.J. Thomas;['Pop'];182.0;0.0
+38;Oh Yeah;The Shadows Of Knight;['Pop'];168.0;0.0
+39;I Love You 1000 Times;The Platters;[];165.0;0.0
+40;You Better Run;The Young Rascals;['Pop', 'Rock'];147.0;0.0
+41;The Pied Piper;Crispian St. Peters;['Pop'];151.0;0.0
+42;Younger Girl;The Critters;['Rock'];151.0;0.0
+43;Take This Heart Of Mine;Marvin Gaye;['R&B'];166.0;0.0
+44;Loving You Is Sweeter Than Ever;Four Tops;['R&B'];165.0;0.0
+45;Peter Rabbit;Dee Jay And The Runaways;['Rock'];131.0;0.0
+46;Wild Thing;The Troggs;['Pop'];154.0;0.0
+47;Somewhere, My Love;Ray Conniff And The Singers;['Pop'];147.0;0.0
+48;Have I Stayed Too Long;Sonny & Cher;['Pop'];225.0;0.0
+49;Hungry;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];180.0;0.0
+50;Happy Summer Days;Ronnie Dove;['Pop'];143.0;0.0
+51;Younger Girl;The Hondells;['Pop'];196.0;0.0
+52;I Saw Her Again;The Mamas & The Papas;['Pop'];195.0;0.0
+53;Ninety-Nine And A Half (Won't Do);Wilson Pickett;['R&B'];157.0;0.0
+54;Solitary Man;Neil Diamond;['Pop'];153.0;0.0
+55;My Little Red Book;Love;['Rock'];150.0;0.0
+56;Love Letters;Elvis Presley;['Pop'];174.0;0.0
+57;The Impossible Dream (The Quest);Jack Jones;[];;
+58;The Work Song;Herb Alpert & The Tijuana Brass;['Jazz'];130.0;0.0
+59;Where Were You When I Needed You;The Grass Roots;['Pop'];180.0;0.0
+60;My Lover's Prayer;Otis Redding;['R&B'];191.0;0.0
+61;Billy And Sue;B.J. Thomas And The Triumphs;[];;
+62;I'll Love You Forever;The Holidays;['R&B'];139.0;0.0
+63;Whole Lot Of Shakin' In My Heart (Since I Met You);The Miracles;['R&B'];163.0;0.0
+64;Neighbor, Neighbor;Jimmy Hughes;['R&B', 'Soul & Funk'];175.0;0.0
+65;Over Under Sideways Down;The Yardbirds;['Alternative', 'Rock'];144.0;0.0
+66;Cloudy Summer Afternoon (Raindrops);Barry McGuire;[];;
+67;Searching For My Love;Bobby Moore & The Rhythm Aces;['Pop'];149.0;0.0
+68;You Can't Roller Skate In A Buffalo Herd;Roger Miller;['Country'];114.0;0.0
+69;Not Responsible;Tom Jones;['Pop'];127.0;0.0
+70;What Am I Going To Do Without Your Love;Martha & The Vandellas;['Pop'];181.0;0.0
+71;Pretty Flamingo;Manfred Mann;['Pop'];150.0;0.0
+72;I Love Onions;Susan Christie;['Folk'];153.0;0.0
+73;When A Woman Loves A Man;Esther Phillips;['R&B', 'Soul & Funk', 'Soul'];172.0;0.0
+74;I'm A Nut;Leroy Pullins;['Alternative', 'Rock indé', 'Rock'];146.0;0.0
+75;Sweet Dreams;Tommy McLain;['Rock', 'Blues'];203.0;0.0
+76;You Wouldn't Listen;The Ides Of March;['Rock'];156.0;0.0
+77;Trains And Boats And Planes;Dionne Warwick;['Pop'];168.0;0.0
+78;Sunny;Bobby Hebb;['R&B'];165.0;0.0
+79;Teenager's Prayer;Joe Simon;['R&B'];148.0;0.0
+80;Grim Reaper Of Love;The Turtles;['Rock'];144.0;0.0
+81;"Lara's Theme from ""Dr. Zhivago""";Roger Williams;['Pop'];160.0;0.0
+82;I Only Have Eyes For You;The Lettermen;['Pop'];153.0;0.0
+83;Past, Present And Future;The Shangri-Las;['Rock'];163.0;0.0
+84;Misty;"""Groove"" Holmes";['Jazz'];360.0;0.0
+85;Stop! - Get A Ticket;Clefs Of Lavender Hill;['Pop'];142.0;0.0
+86;Ain't Gonna Cry No More;Brenda Lee;[];;
+87;It's An Uphill Climb To The Bottom;Walter Jackson;['R&B'];168.0;0.0
+88;Can I Trust You?;The Bachelors;['Classique', 'Rock'];219.0;0.0
+89;I Want You;Bob Dylan;['Rock'];185.0;0.0
+90;It's That Time Of The Year;Len Barry;['Pop'];157.0;0.0
+91;On The Good Ship Lollipop;The Wonder Who?;[];;
+92;Painter;Lou Christie;['Pop'];183.0;0.0
+93;La Bamba - Part I;Trini Lopez;[];;
+94;High On Love;The Knickerbockers;['Rock'];187.0;0.0
+95;Hot Shot;The Buena Vistas;['Rock', 'Blues', 'Soul'];157.0;0.0
+96;Everybody Loves A Nut;Johnny Cash;['Country'];165.0;0.0
+97;Hey You! Little Boo-Ga-Loo;Chubby Checker;['R&B'];136.0;0.0
+98;All These Things;The Uniques;['Pop', 'Rock'];238.0;0.0
+99;Such A Sweet Thing;Mary Wells;['R&B', 'Soul & Funk', 'Soul'];162.0;0.0

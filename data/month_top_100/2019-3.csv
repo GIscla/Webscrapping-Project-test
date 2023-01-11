@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;7 Rings;Ariana Grande;['Pop'];178.0;1.0
+1;Without Me;Halsey;['Alternative'];201.0;1.0
+2;Sunflower (Spider-Man: Into The Spider-Verse);Post Malone & Swae Lee;['Films/Jeux vidéo', 'Musiques de films'];158.0;0.0
+3;Thank U, Next;Ariana Grande;['Pop'];207.0;1.0
+4;Please Me;Cardi B & Bruno Mars;['Rap/Hip Hop'];200.0;1.0
+5;Happier;Marshmello & Bastille;['Dance'];214.0;0.0
+6;Sicko Mode;Travis Scott;['Rap/Hip Hop'];312.0;1.0
+7;Break Up With Your Girlfriend, I'm Bored;Ariana Grande;['Pop'];190.0;1.0
+8;High Hopes;Panic! At The Disco;['Alternative'];190.0;0.0
+9;Wow.;Post Malone;['Rap/Hip Hop'];149.0;1.0
+10;Middle Child;J. Cole;['Rap/Hip Hop'];213.0;1.0
+11;Eastside;benny blanco, Halsey & Khalid;['Dance', 'Pop'];109.0;0.0
+12;Thotiana;Blueface;['Rap/Hip Hop'];129.0;1.0
+13;Murder On My Mind;YNW Melly;['Rap/Hip Hop'];269.0;1.0
+14;Going Bad;Meek Mill Featuring Drake;['Rap/Hip Hop'];180.0;1.0
+15;Money;Cardi B;['Rap/Hip Hop'];183.0;1.0
+16;A Lot;21 Savage;['Rap/Hip Hop'];288.0;1.0
+17;Drip Too Hard;Lil Baby & Gunna;['Rap/Hip Hop'];145.0;1.0
+18;Girls Like You;Maroon 5 Featuring Cardi B;[];236.0;0.0
+19;Better;Khalid;['R&B'];229.0;0.0
+20;Shallow;Lady Gaga & Bradley Cooper;['Films/Jeux vidéo', 'Musiques de films'];215.0;0.0
+21;ZEZE;Kodak Black Featuring Travis Scott & Offset;['Rap/Hip Hop'];228.0;1.0
+22;Beautiful Crazy;Luke Combs;['Country', 'Pop'];193.0;0.0
+23;MIA;Bad Bunny Featuring Drake;['Latino'];210.0;0.0
+24;Dancing With A Stranger;Sam Smith & Normani;['Pop'];171.0;0.0
+25;Youngblood;5 Seconds Of Summer;['Pop'];203.0;0.0
+26;Robbery;Juice WRLD;['Rap/Hip Hop'];240.0;1.0
+27;Better Now;Post Malone;['Rap/Hip Hop'];231.0;1.0
+28;Sweet But Psycho;Ava Max;['Pop'];187.0;0.0
+29;Be Alright;Dean Lewis;['Singer & Songwriter'];196.0;1.0
+30;Tequila;Dan + Shay;['Country'];195.0;0.0
+31;Bury A Friend;Billie Eilish;['Alternative'];193.0;0.0
+32;I Like It;Cardi B, Bad Bunny & J Balvin;['Rap/Hip Hop'];255.0;0.0
+33;You Say;Lauren Daigle;[];274.0;0.0
+34;Leave Me Alone;Flipp Dinero;['Rap/Hip Hop'];195.0;1.0
+35;Wake Up In The Sky;Gucci Mane X Bruno Mars X Kodak Black;[];;
+36;Close To Me;Ellie Goulding X Diplo Featuring Swae Lee;[];;
+37;Baby Shark;Pinkfong;['Jeunesse'];96.0;0.0
+38;Look Back At It;A Boogie Wit da Hoodie;['Rap/Hip Hop'];179.0;1.0
+39;Mo Bamba;Sheck Wes;['Rap/Hip Hop'];183.0;1.0
+40;Lucid Dreams;Juice WRLD;['Rap/Hip Hop'];239.0;1.0
+41;Envy Me;Calboy;['Rap/Hip Hop'];120.0;1.0
+42;Swervin;A Boogie Wit da Hoodie Featuring 6ix9ine;['Rap/Hip Hop'];189.0;1.0
+43;Taki Taki;DJ Snake Featuring Selena Gomez, Ozuna & Cardi B;['Dance', 'Pop'];217.0;0.0
+44;This Is It;Scotty McCreery;['Country'];230.0;0.0
+45;NASA;Ariana Grande;['Pop'];182.0;0.0
+46;Backin' It Up;Pardison Fontaine Featuring Cardi B;['Rap/Hip Hop'];190.0;1.0
+47;Needy;Ariana Grande;['Pop'];171.0;1.0
+48;Red Room;Offset;['Rap/Hip Hop'];241.0;1.0
+49;Talk;Khalid;['Rap/Hip Hop', 'Pop', 'Pop internationale', 'Rock', 'R&B'];197.0;0.0
+50;Girl Like You;Jason Aldean;['Country'];192.0;0.0
+51;Twerk;City Girls Featuring Cardi B;[];;
+52;Bloodline;Ariana Grande;['Pop'];216.0;1.0
+53;What Makes You Country;Luke Bryan;['Country'];235.0;0.0
+54;Bad Idea;Ariana Grande;['Pop'];267.0;0.0
+55;Pure Water;Mustard & Migos;['Rap/Hip Hop'];192.0;1.0
+56;Fake Smile;Ariana Grande;['Pop'];208.0;1.0
+57;Imagine;Ariana Grande;['Pop'];212.0;1.0
+58;Take It From Me;Jordan Davis;['Country'];174.0;0.0
+59;Mixed Personalities;YNW Melly Featuring Kanye West;['Rap/Hip Hop'];230.0;1.0
+60;Lost In The Fire;Gesaffelstein & The Weeknd;['Electro'];202.0;1.0
+61;Ghostin;Ariana Grande;['Pop'];271.0;0.0
+62;Nothing Breaks Like A Heart;Mark Ronson Featuring Miley Cyrus;['Pop'];217.0;0.0
+63;This Feeling;The Chainsmokers Featuring Kelsea Ballerini;['Dance'];197.0;0.0
+64;Undecided;Chris Brown;['R&B'];185.0;1.0
+65;Millionaire;Chris Stapleton;['Country'];210.0;0.0
+66;Here Tonight;Brett Young;['Country'];216.0;0.0
+67;Calling My Spirit;Kodak Black;['Rap/Hip Hop'];152.0;1.0
+68;Sixteen;Thomas Rhett;['Country'];178.0;0.0
+69;Love Someone;Lukas Graham;['Pop'];205.0;0.0
+70;Armed And Dangerous;Juice WRLD;['Rap/Hip Hop'];169.0;1.0
+71;Nights Like This;Kehlani Featuring Ty Dolla $ign;['R&B'];201.0;1.0
+72;Close Friends;Lil Baby;['Rap/Hip Hop'];203.0;1.0
+73;In My Head;Ariana Grande;['Pop'];222.0;1.0
+74;Put A Date On It;Yo Gotti Featuring Lil Baby;['Rap/Hip Hop'];195.0;1.0
+75;Pure Cocaine;Lil Baby;['Rap/Hip Hop'];154.0;1.0
+76;Down To The Honkytonk;Jake Owen;['Country'];186.0;1.0
+77;Ella Quiere Beber;Anuel AA & Romeo Santos;['Latino'];219.0;0.0
+78;Lovely;Billie Eilish & Khalid;['Alternative'];200.0;0.0
+79;Talk You Out Of It;Florida Georgia Line;['Country'];202.0;0.0
+80;Miss Me More;Kelsea Ballerini;['Country'];192.0;0.0
+81;Body;Loud Luxury Featuring Brando;[];164.0;0.0
+82;Burn Out;Midland;['Country'];188.0;0.0
+83;Eyes On You;Chase Rice;['Country'];182.0;0.0
+84;Who Do You Love;The Chainsmokers Featuring 5 Seconds Of Summer;[];227.0;0.0
+85;365;Zedd & Katy Perry;['Dance'];181.0;0.0
+86;Worth It;YK Osiris;['R&B'];189.0;0.0
+87;When The Party's Over;Billie Eilish;['Alternative'];196.0;0.0
+88;Yosemite;Travis Scott;['Rap/Hip Hop'];150.0;1.0
+89;Shot Clock;Ella Mai;['R&B'];201.0;1.0
+90;There Was This Girl;Riley Green;['Country'];194.0;0.0
+91;Con Calma;Daddy Yankee & Katy Perry Featuring Snow;[];;
+92;On My Way To You;Cody Johnson;['Country'];213.0;0.0
+93;Let Me Down Slowly;Alec Benjamin + Alessia Cara;['Pop'];169.0;0.0
+94;Make Up;Ariana Grande;['Pop'];140.0;1.0
+95;Make It Sweet;Old Dominion;['Country'];187.0;0.0
+96;Good Girl;Dustin Lynch;['Country'];189.0;0.0
+97;Arms Around You;XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee;[];;
+98;Startender;A Boogie Wit da Hoodie Featuring Offset & Tyga;['Rap/Hip Hop'];192.0;1.0
+99;One That Got Away;Michael Ray;['Country'];218.0;0.0

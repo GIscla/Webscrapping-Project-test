@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Come Softly To Me;The Fleetwoods;['Pop'];144.0;0.0
+1;The Happy Organ;"Dave ""Baby"" Cortez";['Pop'];120.0;0.0
+2;Sorry (I Ran All The Way Home);The Impalas;['Pop'];155.0;0.0
+3;Pink Shoe Laces;Dodie Stevens;['Jazz'];145.0;0.0
+4;Guitar Boogie Shuffle;The Virtues;['Pop'];158.0;0.0
+5;(Now and Then There's) A Fool Such As I;Elvis Presley With The Jordanaires;[];;
+6;I Need Your Love Tonight;Elvis Presley With The Jordanaires;[];;
+7;Tell Him No;Travis & Bob;['R&B'];131.0;0.0
+8;Venus;Frankie Avalon;['Pop'];141.0;0.0
+9;Turn Me Loose;Fabian;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];139.0;0.0
+10;Three Stars;Tommy Dee with Carol Kay and the Teen-Aires;[];;
+11;Enchanted;The Platters;['Pop'];172.0;0.0
+12;That's Why (I Love You So);Jackie Wilson;['Soul'];126.0;0.0
+13;Since I Don't Have You;The Skyliners;['Pop'];159.0;0.0
+14;The Tijuana Jail;The Kingston Trio;['Pop', 'Pop indé/Folk', 'Folk'];144.0;0.0
+15;Kansas City;Wilbert Harrison;['Rock', 'Rock & Roll/Rockabilly'];143.0;0.0
+16;Take A Message To Mary;The Everly Brothers;['Pop', 'Rock'];143.0;0.0
+17;Never Be Anyone Else But You;Ricky Nelson;['Pop'];135.0;0.0
+18;Kookie, Kookie (Lend Me Your Comb);Edward Byrnes & Connie Stevens;['Pop', 'R&B', 'Soul'];125.0;0.0
+19;A Teenager In Love;Dion & The Belmonts;['Rock'];153.0;0.0
+20;Tragedy;Thomas Wayne With the Delons;[];;
+21;Poor Jenny;The Everly Brothers;['Pop', 'Rock'];124.0;0.0
+22;Sea Cruise;Frankie Ford;['Soul'];167.0;0.0
+23;Only You;Franck Pourcel's French Fiddles;[];;
+24;This Should Go On Forever;Rod Bernard;['Pop'];166.0;0.0
+25;For A Penny;Pat Boone;['Pop'];138.0;0.0
+26;Quiet Village;The Exotic Sounds of Martin Denny;['Jazz'];168.0;0.0
+27;Six Nights A Week;The Crests;['R&B'];175.0;0.0
+28;Dream Lover;Bobby Darin;['Pop'];150.0;0.0
+29;It's Just A Matter Of Time;Brook Benton;['Electro', 'Dance'];149.0;0.0
+30;Come To Me;Marv Johnson;['Jazz'];140.0;0.0
+31;Almost Grown;Chuck Berry;['Classique', 'Rock'];142.0;0.0
+32;So Fine;The Fiestas;['R&B', 'Soul'];140.0;0.0
+33;Goodbye Jimmy, Goodbye;Kathy Linden;['Pop'];166.0;0.0
+34;It's Late;Ricky Nelson;['Pop'];118.0;0.0
+35;The Battle Of New Orleans;Johnny Horton;['Country'];151.0;0.0
+36;Guess Who;Jesse Belvin;['Rock'];173.0;0.0
+37;Endlessly;Brook Benton;['Jeunesse', 'Musiques de films', 'BO TV'];159.0;0.0
+38;It Doesn't Matter Anymore;Buddy Holly;['Rock'];133.0;0.0
+39;Someone;Johnny Mathis;['Dance', 'Pop'];156.0;0.0
+40;I Miss You So;Paul Anka;['Classique', 'Jazz'];140.0;0.0
+41;Everybody Likes To Cha Cha Cha;Sam Cooke;['Rap/Hip Hop', 'Pop', 'Rock'];159.0;0.0
+42;Charlie Brown;The Coasters;['Soul'];141.0;0.0
+43;Please Mr. Sun;Tommy Edwards;['Rock', 'Rock & Roll/Rockabilly'];143.0;0.0
+44;Tell Him No;Dean & Marc;['Rock'];128.0;0.0
+45;"""Yep!""";Duane Eddy His Twangy Guitar And The Rebels;[];;
+46;The Morning Side Of The Mountain;Tommy Edwards;['Rock', 'Rock & Roll/Rockabilly'];161.0;0.0
+47;Personality;Lloyd Price and His Orchestra;[];;
+48;Lovey Dovey;Clyde McPhatter;['Rock', 'Rock & Roll/Rockabilly'];159.0;0.0
+49;I've Had It;The Bell Notes;['Pop'];159.0;0.0
+50;I Still Get A Thrill (Thinking Of You);Joni James;['Pop'];150.0;0.0
+51;As Time Goes By;Johnny Nash;['Films/Jeux vidéo', 'Musiques de films'];170.0;0.0
+52;The Hawaiian Wedding Song (Ke Kali Nei Au);Andy Williams;['Pop'];149.0;0.0
+53;No Other Arms, No Other Lips;The Chordettes;['Pop', 'Rock', 'R&B'];153.0;0.0
+54;I Think I'm Gonna Kill Myself;Buddy Knox;['Rock'];122.0;0.0
+55;I've Come Of Age;Billy Storm;['Jazz'];173.0;0.0
+56;If I Didn't Care;Connie Francis;['Pop'];167.0;0.0
+57;Where Were You (On Our Wedding Day)?;Lloyd Price;['R&B'];157.0;0.0
+58;You're So Fine;The Falcons;[];151.0;0.0
+59;Bonaparte's Retreat;Billy Grammer;['Country'];127.0;0.0
+60;Lonely For You;Gary Stites;['Pop'];160.0;0.0
+61;I Need Your Lovin';Roy Hamilton;['Pop'];143.0;0.0
+62;Castin' My Spell;The Johnny Otis Show;['Classique', 'Pop', 'R&B'];129.0;0.0
+63;That's My Little Suzie;Ritchie Valens;['Pop', 'Rock'];107.0;0.0
+64;The Wang Dang Taffy-Apple Tango (Mambo Cha Cha Cha);Pat Boone;[];;
+65;Crossfire;Johnny And The Hurricanes;['Pop', 'Rock'];142.0;0.0
+66;I'm Never Gonna Tell;Jimmie Rodgers;['Rock', 'Rock & Roll/Rockabilly'];111.0;0.0
+67;There's No Fool Like A Young Fool;Tab Hunter;['Jazz'];151.0;0.0
+68;I Waited Too Long;LaVern Baker;['Pop'];152.0;0.0
+69;Gidget;Jimmy Darren;['Pop'];150.0;0.0
+70;Frankie's Man, Johnny;Johnny Cash;['Country', 'Pop'];133.0;0.0
+71;The Beat;The Rockin R's;['Pop', 'Rock'];171.0;0.0
+72;Kansas City;Hank Ballard And The Midnighters;['Pop', 'Rock', 'Rock & Roll/Rockabilly', 'R&B'];151.0;0.0
+73;Heavenly Lover;Teresa Brewer;['Classique'];134.0;0.0
+74;Jo-Jo The Dog-Faced Boy;Annette;['Pop'];125.0;0.0
+75;I Told Myself A Lie;Clyde McPhatter;['Electro', 'Dance'];128.0;0.0
+76;Lonesome Old House;Don Gibson;['Country'];126.0;0.0
+77;The Kissing Tree;Billy Grammer;['Country'];127.0;0.0
+78;Who's That Knocking;The Genies;[];140.0;0.0
+79;A String Of Trumpets;The Trumpeteers;['Pop', 'R&B', 'Soul'];109.0;0.0
+80;Just Keep It Up;Dee Clark;['R&B', 'Soul'];154.0;0.0
+81;Your Cheatin' Heart;Billy Vaughn And His Orchestra;['Classique', 'Pop'];138.0;0.0
+82;Robbin' The Cradle;Tony Bellus;['Pop'];157.0;0.0
+83;The Walls Have Ears;Patti Page;['Pop'];135.0;0.0
+84;Peace;The McGuire Sisters;['Pop'];147.0;0.0
+85;77 Sunset Strip;The Big Sound Of Don Ralke;['R&B', 'Soul'];117.0;0.0
+86;You Made Me Love You;Nat King Cole;['Pop'];175.0;0.0
+87;Summer Dreams;The McGuire Sisters;['Classique'];171.0;0.0
+88;Young Ideas;Chico Holiday;['Rock'];133.0;0.0
+89;White Lightning;George Jones;['Country'];165.0;0.0
+90;My Heart Is An Open Book;Carl Dobkins, Jr.;['Rock'];130.0;0.0
+91;The Fountain Of Youth;The Four Lads;['Pop'];118.0;0.0
+92;Little Queenie;Chuck Berry;['Classique', 'Rock'];163.0;0.0
+93;Alvin's Harmonica;David Seville And The Chipmunks;['Pop'];163.0;0.0
+94;Old Spanish Town;The Bell Notes;['Rock', 'Rock & Roll/Rockabilly'];139.0;0.0
+95;Separate Ways;Sarah Vaughan;['Jazz'];144.0;0.0
+96;French Foreign Legion;Frank Sinatra;['Pop'];161.0;0.0
+97;Kansas City;Rocky Olson;['Rock'];158.0;0.0
+98;Three Stars;Ruby Wright;['Pop'];180.0;0.0
+99;Talk Of The School;Sonny James;['Rock'];127.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Boy Is Mine;Brandy & Monica;['Pop'];294.0;0.0
+1;You're Still The One;Shania Twain;['Country'];212.0;0.0
+2;Too Close;Next;['R&B', 'Soul'];259.0;1.0
+3;My All;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];231.0;0.0
+4;My Way;Usher;['R&B'];219.0;0.0
+5;Come With Me;Puff Daddy Featuring Jimmy Page;['Pop'];364.0;0.0
+6;Adia;Sarah McLachlan;['Pop'];244.0;0.0
+7;Everybody [Backstreet's Back];Backstreet Boys;['Pop'];225.0;0.0
+8;They Don't Know;Jon B;['Pop'];274.0;0.0
+9;I Get Lonely;Janet Featuring BLACKstreet;['R&B'];296.0;0.0
+10;All My Life;K-Ci & JoJo;['Pop'];331.0;0.0
+11;Say It;Voices Of Theory;['Rap/Hip Hop', 'R&B'];269.0;0.0
+12;Make It Hot;"Nicole Featuring Missy ""Misdemeanor"" Elliott & Mocha";['R&B'];241.0;1.0
+13;Truly Madly Deeply;Savage Garden;['Pop'];277.0;0.0
+14;Sex And Candy;Marcy Playground;['Alternative'];172.0;0.0
+15;Stop;Spice Girls;['Pop'];204.0;0.0
+16;The Arms Of The One Who Loves You;Xscape;['R&B'];260.0;0.0
+17;I Got The Hook Up!;Master P Featuring Sons Of Funk;[];;
+18;Ghetto Supastar (That Is What You Are);Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya;[];;
+19;Looking Through Your Eyes;LeAnn Rimes;['Country', 'Pop'];245.0;0.0
+20;Let's Ride;Montell Jordan Feat. Master P & Silkk The Shocker;[];;
+21;Body Bumpin' Yippie-Yi-Yo;Public Announcement;['R&B'];275.0;0.0
+22;Whatcha Gone Do?;Link;['Rap/Hip Hop', 'R&B', 'R&B vieille école'];259.0;0.0
+23;Turn It Up [Remix]/Fire It Up;Busta Rhymes;['Rap/Hip Hop'];237.0;0.0
+24;I Want You Back;'N Sync;['Pop'];200.0;0.0
+25;This Kiss;Faith Hill;['Country'];194.0;0.0
+26;How's It Going To Be;Third Eye Blind;['Alternative', 'Pop', 'Rock', 'Rock Indé/Pop Rock'];253.0;0.0
+27;Shorty (You Keep Playin' With My Mind);Imajin Featuring Keith Murray;['R&B'];295.0;0.0
+28;When The Lights Go Out;Five;['Pop'];249.0;0.0
+29;Gettin' Jiggy Wit It;Will Smith;['Pop'];228.0;0.0
+30;No, No, No;Destiny's Child;['Pop'];247.0;0.0
+31;How Do I Live;LeAnn Rimes;['Country'];267.0;0.0
+32;It's All About Me;Mya & Sisqo;['R&B', 'Soul'];156.0;0.0
+33;Still Not A Player;Big Punisher Featuring Joe;[];;
+34;Make Em' Say Uhh!;Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal;[];;
+35;Together Again;Janet;['Pop'];301.0;0.0
+36;Heaven's What I Feel;Gloria Estefan;['Pop'];301.0;0.0
+37;I Don't Want To Wait;Paula Cole;['Pop', 'Rock'];320.0;0.0
+38;Raise The Roof;Luke Featuring No Good But So Good;[];;
+39;Frozen;Madonna;['Pop'];120.0;0.0
+40;Cheers 2 U;Playa;['Rap/Hip Hop'];311.0;1.0
+41;Ava Adore;The Smashing Pumpkins;['Rock'];270.0;0.0
+42;Who Am I;Beenie Man;['Reggae'];196.0;0.0
+43;Candle In The Wind 1997/Something About The Way You Look Tonight;Elton John;['Pop'];242.0;0.0
+44;Victory;Puff Daddy & The Family Featuring The Notorious B.I.G. & Busta Rh;[];;
+45;Money, Power & Respect;The Lox [Featuring DMX & Lil' Kim];['Rap/Hip Hop'];270.0;1.0
+46;What You Want;Mase Featuring Total;['R&B'];273.0;0.0
+47;Ooh La La;Rod Stewart;['Pop', 'Rock'];256.0;0.0
+48;Spark;Tori Amos;['Pop'];253.0;0.0
+49;You Make Me Wanna...;Usher;['R&B'];219.0;0.0
+50;My Heart Will Go On;Celine Dion;['Pop', 'Pop internationale', 'Rock'];281.0;0.0
+51;You Won't Forget Me;La Bouche;['Pop'];196.0;0.0
+52;Get At Me Dog;DMX Featuring Sheek Of The Lox;[];;
+53;Push It;Garbage;[];;
+54;There's Your Trouble;Dixie Chicks;['Country', 'Rock'];170.0;0.0
+55;Do Your Thing;7 Mile;['R&B'];291.0;0.0
+56;Wishlist;Pearl Jam;['Pop'];206.0;0.0
+57;Imagination;Tamia;['Rock'];213.0;0.0
+58;Bitter Sweet Symphony;The Verve;['Rock'];357.0;0.0
+59;Cleopatra's Theme;Cleopatra;['Pop'];249.0;0.0
+60;One Heart At A Time;Various Artists;['Pop'];242.0;0.0
+61;The Cup Of Life (The Official Song Of The World Cup, France '98);Ricky Martin;['Pop'];271.0;0.0
+62;Black Ice (Sky High);Goodie Mob Featuring Outkast;['Rap/Hip Hop'];205.0;1.0
+63;I'm Alright;Jo Dee Messina;['Country'];199.0;0.0
+64;Recover Your Soul;Elton John;['Pop'];318.0;0.0
+65;Ninety Nine [Flash The Message];John Forte;['Rap/Hip Hop'];223.0;1.0
+66;Ding-A-Ling;Hi-Town DJs;[];;
+67;Freak Out;Nutta Butta Featuring Teddy Riley And Anonymous;[];;
+68;Crush;Jennifer Paige;['Pop'];200.0;0.0
+69;There You Are;Sam Salter;[];;
+70;Second Round K.O.;Canibus;['Rap/Hip Hop'];277.0;1.0
+71;Now That I Found You;Terri Clark;['Country'];217.0;0.0
+72;Clock Strikes;Timbaland & Magoo;['Rap/Hip Hop'];291.0;1.0
+73;I Just Want To Dance With You;George Strait;['Country'];198.0;0.0
+74;If You Ever Have Forever In Mind;Vince Gill;['Country'];277.0;0.0
+75;I Honestly Love You (David Foster Vers.);Olivia Newton-John;[];;
+76;Money Ain't A Thang;JD Featuring Jay-Z;[];;
+77;Can't We Try;Rockell [Duet With Collage];['Electro', 'Dance'];257.0;0.0
+78;Do For Love;2Pac Featuring Eric Williams;['Rap/Hip Hop'];272.0;0.0
+79;I Do [Cherish You];Mark Wills;['Country'];199.0;0.0
+80;A Man Holdin' On (To A Woman Lettin' Go);Ty Herndon;['Country'];217.0;0.0
+81;2 Way Street;Missjones;[];;
+82;The Unforgiven II;Metallica;['Pop'];396.0;0.0
+83;The Mummers' Dance;Loreena McKennitt;[];364.0;0.0
+84;Whatuon;LaTanya Featuring Twista;[];;
+85;Know What You Mean;Sister 7;['Pop'];287.0;0.0
+86;A Rose Is Still A Rose;Aretha Franklin;['R&B', 'Soul'];266.0;0.0
+87;I'm From The Country;Tracy Byrd;['Country'];214.0;0.0
+88;Party Ain't A Party;Queen Pen Featuring Teddy Riley, Nutta Butta, Markell & Jesse Wes;[];;
+89;The Party Continues;JD Featuring Da Brat;['Rap/Hip Hop'];252.0;0.0
+90;This Is How We Party;S.O.A.P.;['Pop'];198.0;0.0
+91;Baby Be There;Nu Flavor;['Pop'];255.0;0.0
+92;Hooked On A Feeling (Ooga-Chaka);Baby Talk;['Jeunesse'];179.0;0.0
+93;How Do I Say I'm Sorry;Tami Davis;[];;
+94;Sin So Well;Rebekah;['Pop'];216.0;0.0
+95;One Of These Days;Tim McGraw;['Country'];281.0;0.0
+96;Just Be Straight With Me;Silkk The Shocker Featuring Master P, Destiny's Child, O'Dell, Mo;[];;
+97;You Only Have To Say You Love Me;Hannah Jones;['Dance', 'Pop'];715.0;0.0
+98;Blue On Black;The Kenny Wayne Shepherd Band;['Rock'];325.0;0.0
+99;My Heart Will Go On;Deja Vu;['Electro', 'Dance'];443.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Somethin' Stupid;Nancy Sinatra & Frank Sinatra;['Jazz'];160.0;0.0
+1;The Happening;The Supremes;['Pop'];172.0;0.0
+2;Sweet Soul Music;Arthur Conley;['Pop'];141.0;0.0
+3;A Little Bit Me, A Little Bit You;The Monkees;['Pop'];168.0;0.0
+4;Happy Together;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];176.0;0.0
+5;I Think We're Alone Now;Tommy James And The Shondells;['Pop'];131.0;0.0
+6;Don't You Care;The Buckinghams;['Pop'];148.0;0.0
+7;Close Your Eyes;Peaches & Herb;['Pop'];154.0;0.0
+8;You Got What It Takes;The Dave Clark Five;['Pop'];103.0;0.0
+9;I'm A Man;The Spencer Davis Group;['Alternative', 'Rock'];177.0;0.0
+10;Jimmy Mack;Martha & The Vandellas;['R&B'];172.0;0.0
+11;On A Carousel;The Hollies;['Rock'];194.0;0.0
+12;This Is My Song;Petula Clark;['Pop', 'Rock'];207.0;0.0
+13;Western Union;The Five Americans;['Alternative', 'Rock indé', 'Pop', 'Rock'];150.0;0.0
+14;When I Was Young;Eric Burdon & The Animals;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+15;I Never Loved A Man (The Way I Love You);Aretha Franklin;['Pop'];147.0;0.0
+16;I Got Rhythm;The Happenings;['Pop'];178.0;0.0
+17;Friday On My Mind;The Easybeats;['Rock'];163.0;0.0
+18;Groovin';The Young Rascals;['Pop', 'Rock'];147.0;0.0
+19;Release Me (And Let Me Love Again);Engelbert Humperdinck;['Pop'];167.0;0.0
+20;Girl, You'll Be A Woman Soon;Neil Diamond;['Pop'];180.0;0.0
+21;Love Eyes;Nancy Sinatra;['Pop', 'Rock'];157.0;0.0
+22;At The Zoo;Simon & Garfunkel;['Rock'];143.0;0.0
+23;Bernadette;Four Tops;['Films/Jeux vidéo', 'Musiques de films'];183.0;0.0
+24;Here Comes My Baby;The Tremeloes;['Rock'];171.0;0.0
+25;Respect;Aretha Franklin;['Pop'];147.0;0.0
+26;With This Ring;The Platters;[];165.0;0.0
+27;Get Me To The World On Time;The Electric Prunes;['Rock'];152.0;0.0
+28;Yellow Balloon;The Yellow Balloon;['Pop'];140.0;0.0
+29;My Back Pages;The Byrds;['Rock'];187.0;0.0
+30;Somebody To Love;Jefferson Airplane;['Pop', 'Rock'];174.0;0.0
+31;Dead End Street Monologue/Dead End Street;Lou Rawls;[];;
+32;Him Or Me - What's It Gonna Be?;Paul Revere & The Raiders;['Pop'];170.0;0.0
+33;Music To Watch Girls By;Andy Williams;[];154.0;0.0
+34;Sunshine Girl;The Parade;['Pop'];166.0;0.0
+35;Making Memories;Frankie Laine;['Pop', 'R&B'];177.0;0.0
+36;Walkin' In The Sunshine;Roger Miller;['Country', 'Rock'];159.0;0.0
+37;My Girl Josephine;Jerry Jaye;['R&B'];118.0;0.0
+38;Casino Royale;Herb Alpert & The Tijuana Brass;['Pop'];156.0;0.0
+39;Mirage;Tommy James And The Shondells;['Pop'];159.0;0.0
+40;Shake A Tail Feather;James & Bobby Purify;['Pop'];180.0;0.0
+41;All I Need;The Temptations;['Soul & Funk'];191.0;0.0
+42;California Nights;Lesley Gore;['Pop'];172.0;0.0
+43;Creeque Alley;The Mamas & The Papas;['Pop'];207.0;0.0
+44;Buy For Me The Rain;The Nitty Gritty Dirt Band;['Country'];142.0;0.0
+45;I Was Kaiser Bill's Batman;Whistling Jack Smith;['Pop'];140.0;0.0
+46;Melancholy Music Man;The Righteous Brothers;['Pop'];156.0;0.0
+47;Portrait Of My Love;The Tokens;['R&B'];149.0;0.0
+48;Hip Hug-Her;Booker T. & The MG's;['Soul'];158.0;0.0
+49;For What It's Worth (Stop, Hey What's That Sound);Buffalo Springfield;['Pop'];153.0;0.0
+50;Happy Jack;The Who;['Pop'];131.0;0.0
+51;Dry Your Eyes;Brenda & The Tabulations;['R&B', 'Soul & Funk', 'Soul'];164.0;0.0
+52;I Found A Love - Part 1;Wilson Pickett;[];;
+53;I'll Try Anything;Dusty Springfield;['Pop'];148.0;0.0
+54;My Babe;Ronnie Dove;['Pop'];155.0;0.0
+55;Little Games;The Yardbirds;['Rock', 'Blues'];236.0;0.0
+56;Too Many Fish In The Sea & Three Little Fishes;Mitch Ryder And The Detroit Wheels;['Rock'];181.0;0.0
+57;Nothing Takes The Place Of You;Toussaint McCall;['R&B'];204.0;0.0
+58;When You're Young And In Love;The Marvelettes;['Pop'];160.0;0.0
+59;Danny Boy;Ray Price;['Country'];184.0;0.0
+60;Out Of Left Field;Percy Sledge;['Rock'];212.0;0.0
+61;The Lady Came From Baltimore;Bobby Darin;[];;
+62;Can't Seem To Make You Mine;The Seeds;['Alternative', 'Rock indé', 'Pop', 'Rock'];185.0;0.0
+63;Six O'Clock;The Lovin' Spoonful;['Pop'];161.0;0.0
+64;Lay Some Happiness On Me;Dean Martin;['Pop'];140.0;0.0
+65;The Oogum Boogum Song;Brenton Wood;['R&B'];153.0;0.0
+66;Precious Memories;The Romeos;['Films/Jeux vidéo', 'Musiques de films'];178.0;0.0
+67;Alfie;Dionne Warwick;['Jazz'];166.0;0.0
+68;Live;The Merry-Go-Round;['Classique'];216.0;0.0
+69;The Whole World Is A Stage;The Fantastic Four;['R&B'];175.0;0.0
+70;A Beautiful Story;Sonny & Cher;['Pop'];172.0;0.0
+71;I Could Be So Good To You;Don And The Goodtimes;['Alternative', 'Rock indé', 'Pop', 'Rock'];174.0;0.0
+72;Just Look What You've Done;Brenda Holloway;['Pop'];174.0;0.0
+73;I'll Make Him Love Me;Barbara Lewis;['Pop', 'Rock'];137.0;0.0
+74;Another Day, Another Heartache;The 5th Dimension;['Pop'];155.0;0.0
+75;It's All Over Now;Casinos;['R&B'];134.0;0.0
+76;Why? (Am I Treated So Bad);Cannonball Adderley;['Jazz'];467.0;0.0
+77;One Hurt Deserves Another;The Raelets/Ray Charles Orchestra;[];;
+78;Tramp;Otis & Carla;['Rock'];181.0;0.0
+79;Time, Time;Ed Ames;['Pop'];164.0;0.0
+80;I'm Indestructible;Jack Jones;[];;
+81;Misty Blue;Eddy Arnold;['Country'];127.0;0.0
+82;Love Me Forever;Roger Williams;['Pop'];154.0;0.0
+83;Together;The Intruders;['R&B', 'Soul'];175.0;0.0
+84;Come On Down To My Boat;Every Mothers' Son;['Pop'];148.0;0.0
+85;Do It Again A Little Bit Slower;Jon & Robin And The In Crowd;['Rock'];149.0;0.0
+86;Funky Broadway Part I;Dyke And The Blazers;[];;
+87;I Want You To Be My Baby;Ellie Greenwich;['Pop'];173.0;0.0
+88;I've Lost You;Jackie Wilson;['R&B'];161.0;0.0
+89;Let Yourself Go;James Brown And The Famous Flames;[];;
+90;Daddy's Home;Chuck Jackson & Maxine Brown;['Pop', 'R&B', 'Soul'];142.0;0.0
+91;When Love Slips Away;Dee Dee Warwick;[];;
+92;Got To Have You Back;The Isley Brothers;['Jeunesse'];167.0;0.0
+93;Blue's Theme;Davie Allan And The Arrows;['Rock'];140.0;0.0
+94;Shake Hands And Walk Away Cryin';Lou Christie;[];;
+95;I Believed It All;Pozo Seco Singers;['Country'];161.0;0.0
+96;Hey Love;Stevie Wonder;['R&B'];163.0;0.0
+97;Take Me In Your Arms And Love Me;Gladys Knight And The Pips;['R&B'];176.0;0.0
+98;When Tomorrow Comes;Carla Thomas;['Rock'];150.0;0.0
+99;She Shot A Hole In My Soul;Clifford Curry;['Pop'];139.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Raindrops Keep Fallin' On My Head;B.J. Thomas;['Dance', 'Pop'];172.0;0.0
+1;Leaving On A Jet Plane;Peter, Paul & Mary;['Pop', 'Folk'];207.0;0.0
+2;Someday We'll Be Together;Diana Ross & The Supremes;['Pop'];211.0;0.0
+3;Down On The Corner/Fortunate Son;Creedence Clearwater Revival;[];;
+4;Na Na Hey Hey Kiss Him Goodbye;Steam;['Pop'];246.0;0.0
+5;Whole Lotta Love;Led Zeppelin;['Rock'];334.0;0.0
+6;I Want You Back;Jackson 5;['R&B'];178.0;0.0
+7;Venus;The Shocking Blue;['Pop'];181.0;0.0
+8;Holly Holy;Neil Diamond;['Pop'];280.0;0.0
+9;La La La (If I Had You);Bobby Sherman;['Pop', 'Rock'];165.0;0.0
+10;Midnight Cowboy;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];199.0;0.0
+11;Come Together/Something;The Beatles;['Pop'];178.0;0.0
+12;Jam Up Jelly Tight;Tommy Roe;['Pop'];136.0;0.0
+13;Eli's Coming;Three Dog Night;['Pop'];169.0;0.0
+14;Don't Cry Daddy/Rubberneckin';Elvis Presley;[];;
+15;Take A Letter Maria;R.B. Greaves;['Pop'];164.0;0.0
+16;Jingle Jangle;The Archies;['Pop', 'Rock'];162.0;0.0
+17;Early In The Morning;Vanity Fare;['Rock', 'Rock & Roll/Rockabilly'];165.0;0.0
+18;Backfield In Motion;Mel And Tim;['R&B'];154.0;0.0
+19;And When I Die;Blood, Sweat & Tears;['Rock'];245.0;0.0
+20;These Eyes;Jr. Walker & The All Stars;['R&B'];217.0;0.0
+21;Evil Woman Don't Play Your Games With Me;CROW;['Musique asiatique', 'Alternative', 'Rock indé', 'Pop', 'Rock', 'Rock & Roll/Rockabilly'];229.0;0.0
+22;Yester-Me, Yester-You, Yesterday;Stevie Wonder;['R&B'];185.0;0.0
+23;Friendship Train;Gladys Knight And The Pips;['R&B'];230.0;0.0
+24;Up On Cripple Creek;The Band;['Pop'];271.0;0.0
+25;Smile A Little Smile For Me;The Flying Machine;['Pop'];190.0;0.0
+26;A Brand New Me;Dusty Springfield;['Pop'];146.0;0.0
+27;She;Tommy James And The Shondells;['Pop'];123.0;0.0
+28;Without Love (There Is Nothing);Tom Jones;[];212.0;0.0
+29;Baby, I'm For Real;The Originals;['Soul'];412.0;0.0
+30;Ain't It Funky Now (Part 1);James Brown;[];;
+31;Wedding Bell Blues;The 5th Dimension;['Pop'];162.0;0.0
+32;Cold Turkey;Plastic Ono Band;['Rock'];302.0;0.0
+33;Cherry Hill Park;Billy Joe Royal;['Country'];179.0;0.0
+34;Winter World Of Love;Engelbert Humperdinck;['Pop'];197.0;0.0
+35;Heaven Knows;The Grass Roots;['Pop'];149.0;0.0
+36;Wonderful World, Beautiful People;Jimmy Cliff;['Reggae'];191.0;0.0
+37;She Belongs To Me;Rick Nelson;['Pop'];182.0;0.0
+38;Point It Out;Smokey Robinson & The Miracles;['R&B'];158.0;0.0
+39;I'll Never Fall In Love Again;Dionne Warwick;['Pop'];174.0;0.0
+40;Okie From Muskogee;Merle Haggard And The Strangers;['Country'];163.0;0.0
+41;Cupid;Johnny Nash;['Pop'];203.0;0.0
+42;Arizona;Mark Lindsay;['Pop', 'Rock'];176.0;0.0
+43;Fancy;Bobbie Gentry;['Country'];255.0;0.0
+44;Walkin' In The Rain;Jay & The Americans;['Rock'];167.0;0.0
+45;She Came In Through The Bathroom Window;Joe Cocker;['Rock'];159.0;0.0
+46;Don't Let Love Hang You Up;Jerry Butler;[];;
+47;Don't Let Him Take Your Love From Me;Four Tops;['Pop'];169.0;0.0
+48;Sunday Mornin';Oliver;['Pop'];186.0;0.0
+49;Let's Work Together (Part 1);Wilbert Harrison;[];;
+50;Baby Take Me In Your Arms;Jefferson;['Pop', 'Rock'];165.0;0.0
+51;What You Gave Me;Marvin Gaye & Tammi Terrell;['R&B'];167.0;0.0
+52;No Time;The Guess Who;['Rock'];227.0;0.0
+53;Walk A Mile In My Shoes;Joe South and The Believers;[];;
+54;When Julie Comes Around;The Cuff Links;['Pop'];165.0;0.0
+55;Let A Man Come In And Do The Popcorn (Part Two);James Brown;['R&B'];430.0;0.0
+56;Hey There Lonely Girl;Eddie Holman;['R&B', 'Soul'];201.0;0.0
+57;Tonight I'll Say A Prayer;Eydie Gorme;['Pop'];207.0;0.0
+58;Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star;Sly & The Family Stone;[];;
+59;I'll Hold Out My Hand;The Clique;[];;
+60;One Tin Soldier;The Original Caste;['Films/Jeux vidéo', 'Musiques de films'];218.0;0.0
+61;I'm So Glad I Fell For You;David Ruffin;['R&B'];186.0;0.0
+62;Kozmic Blues;Janis Joplin;['Rock'];262.0;0.0
+63;Monster;Steppenwolf;['Rock'];235.0;0.0
+64;You Got To Pay The Price;Gloria Taylor;['R&B'];216.0;0.0
+65;Traces/Memories Medley;The Lettermen;['Pop'];177.0;0.0
+66;Love Bones;Johnnie Taylor;['R&B'];248.0;0.0
+67;She Lets Her Hair Down (Early In The Morning);The Tokens;[];;
+68;Turn! Turn! Turn!/To Everything There Is A Season;Judy Collins;['Pop', 'Folk'];216.0;0.0
+69;Can't Take My Eyes Off You;Nancy Wilson;['Rock'];204.0;0.0
+70;Midnight;Dennis Yost And The Classics IV;['Pop'];174.0;0.0
+71;Look-Ka Py Py;The Meters;['Pop'];198.0;0.0
+72;Are You Getting Any Sunshine?;Lou Christie;['Rock'];164.0;0.0
+73;I Love You;Otis Leavill;['Soul'];155.0;0.0
+74;Bold Soul Sister;Ike & Tina Turner;['Rock'];157.0;0.0
+75;Oh Me Oh My (I'm A Fool For You Baby);Lulu;['Pop'];164.0;0.0
+76;Blowing Away;The 5th Dimension;['Pop'];153.0;0.0
+77;Volunteers;Jefferson Airplane;['Rock'];124.0;0.0
+78;Is It Because I'm Black;Syl Johnson;['R&B', 'Soul'];454.0;0.0
+79;Together;The Illusion;['Rock'];179.0;0.0
+80;Hold On;The Rascals;['Rock'];215.0;0.0
+81;Six White Horses;Tommy Cash;['Country'];170.0;0.0
+82;Come Saturday Morning;The Sandpipers;['Pop'];185.0;0.0
+83;To Be Young, Gifted And Black;Nina Simone;['Jazz', 'R&B', 'Soul'];170.0;0.0
+84;Groovin' (Out On Life);The Newbeats;['Pop', 'Rock'];184.0;0.0
+85;I'm Gonna Love You;The Intrigues;['Soul'];133.0;0.0
+86;Jennifer Tomkins;Street People;['Pop', 'R&B', 'Soul'];107.0;0.0
+87;He Ain't Heavy, He's My Brother;The Hollies;['Rock'];261.0;0.0
+88;Won't Find Better (Than Me);The New Hope;[];;
+89;A World Without Music;Archie Bell & The Drells;['Pop', 'Rock'];137.0;0.0
+90;I Started Loving You Again;Al Martino;[];;
+91;The Thrill Is Gone;B.B. King;['Rock', 'Blues'];324.0;0.0
+92;She Lets Her Hair Down (Early In The Morning);Gene Pitney;['Pop'];163.0;0.0
+93;"Theme Music For The Film ""2001"" A Space Odyssey from Also Sprach Zarathustr";Berlin Philharmonic;[];;
+94;Theme From Electric Surfboard;Brother Jack McDuff;['Jazz'];214.0;0.0
+95;Want You To Know;Rotary Connection;['R&B'];186.0;0.0
+96;I'm Just A Prisoner (Of Your Good Lovin');Candi Staton;['Pop'];192.0;0.0
+97;The Gangs Back Again;Kool & The Gang;['R&B'];164.0;0.0
+98;Guess Who;Ruby Winters;['Soul'];187.0;0.0
+99;Moon Walk Part 1;Joe Simon;['R&B', 'Soul'];353.0;0.0

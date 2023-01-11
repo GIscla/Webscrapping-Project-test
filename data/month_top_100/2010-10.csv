@@ -1,0 +1,102 @@
+;title;artist;genres;duration;explicit_content
+0;Just The Way You Are;Bruno Mars;['Pop'];220.0;0.0
+1;Love The Way You Lie;Eminem Featuring Rihanna;['Pop'];296.0;0.0
+2;Only Girl (In The World);Rihanna;['Pop'];235.0;0.0
+3;Teenage Dream;Katy Perry;['Pop'];227.0;0.0
+4;DJ Got Us Fallin' In Love;Usher Featuring Pitbull;['R&B'];220.0;0.0
+5;Dynamite;Taio Cruz;['Pop'];202.0;0.0
+6;I Like It;Enrique Iglesias Featuring Pitbull;['Pop'];219.0;0.0
+7;Just A Dream;Nelly;['Rap/Hip Hop'];237.0;0.0
+8;Club Can't Handle Me;Flo Rida Featuring David Guetta;['Rap/Hip Hop'];234.0;0.0
+9;Like A G6;Far*East Movement Featuring Cataracs & Dev;['Pop'];220.0;0.0
+10;Take It Off;Ke$ha;['Pop'];215.0;0.0
+11;Mine;Taylor Swift;['Pop'];230.0;0.0
+12;Bottoms Up;Trey Songz Featuring Nicki Minaj;['R&B'];242.0;1.0
+13;Not Afraid;Eminem;['Rap/Hip Hop'];248.0;1.0
+14;Cooler Than Me;Mike Posner;['Pop'];215.0;0.0
+15;Airplanes;B.o.B Featuring Hayley Williams;['Rap/Hip Hop'];180.0;1.0
+16;California Gurls;Katy Perry Featuring Snoop Dogg;['Films/Jeux vidéo', 'Musiques de films'];218.0;0.0
+17;Magic;B.o.B Featuring Rivers Cuomo;['Rap/Hip Hop'];196.0;0.0
+18;Deuces;Chris Brown Featuring Tyga & Kevin McCall;['R&B'];276.0;1.0
+19;Misery;Maroon 5;['Pop'];216.0;0.0
+20;Dog Days Are Over;Florence + The Machine;['Alternative'];252.0;0.0
+21;Animal;Neon Trees;['Alternative'];212.0;0.0
+22;Ridin' Solo;Jason Derulo;['Pop'];215.0;0.0
+23;OMG;Usher Featuring will.i.am;['R&B'];269.0;0.0
+24;Fancy;Drake Featuring T.I. & Swizz Beatz;[];;
+25;Stuck Like Glue;Sugarland;['Country'];247.0;0.0
+26;The Catalyst;Linkin Park;['Alternative'];339.0;0.0
+27;Secrets;OneRepublic;['Pop'];224.0;0.0
+28;Hot Tottie;Usher Featuring Jay-Z;['R&B'];299.0;0.0
+29;If I Had You;Adam Lambert;['Pop'];228.0;0.0
+30;Right Above It;Lil Wayne Featuring Drake;['Jeunesse', 'Rap/Hip Hop'];273.0;0.0
+31;The Boys of Fall;Kenny Chesney;['Country'];391.0;0.0
+32;Billionaire;Travie McCoy Featuring Bruno Mars;['Pop'];211.0;1.0
+33;Find Your Love;Gold x4;[];;
+34;F**k You! (Forget You);Drake;[];;
+35;Letting Go (Dutty Love);CeeLo Green;[];;
+36;Radioactive;Sean Kingston Featuring Nicki Minaj;[];;
+37;Your Love;Kings Of Leon;[];;
+38;The Only Exception;Nicki Minaj;[];;
+39;If I Die Young;Paramore;[];;
+40;2012 (It Ain't The End);The Band Perry;[];;
+41;Hey, Soul Sister;Jay Sean Featuring Nicki Minaj;[];;
+42;If It's Love;Train;['Pop'];239.0;0.0
+43;Teach Me How To Dougie;Train;[];;
+44;King Of Anything;Cali Swag District;[];;
+45;No Hands;Sara Bareilles;[];;
+46;Need You Now;Waka Flocka Flame Featuring Roscoe Dash & Wale;[];;
+47;Smile;Lady Antebellum;[];;
+48;Miss Me;Uncle Kracker;[];;
+49;Breakeven;Drake Featuring Lil Wayne;[];;
+50;Half Of My Heart;The Script;[];;
+51;Our Kind Of Love;John Mayer;[];;
+52;September;Lady Antebellum;[];;
+53;Come Back Song;Daughtry;[];;
+54;Pretty Good At Drinkin' Beer;Darius Rucker;[];;
+55;As She's Walking Away;Billy Currington;[];;
+56;Check It Out;Zac Brown Band Featuring Alan Jackson;[];;
+57;Love All Over Me;will.i.am & Nicki Minaj;[];;
+58;Got Your Back;Monica;[];;
+59;Farmer's Daughter;T.I. Featuring Keri Hilson;[];;
+60;B.M.F. (Blowin' Money Fast);Rodney Atkins;[];;
+61;Roll With It;Rick Ross Featuring Styles P;[];;
+62;Little White Church;Easton Corbin;[];;
+63;All Over Me;Little Big Town;[];;
+64;A Year Without Rain;Josh Turner;[];;
+65;My Kinda Party;Selena Gomez & The Scene;[];;
+66;POWER;Jason Aldean;[];186.0;0.0
+67;Love Like Woe;Kanye West;[];;
+68;Love Like Crazy;The Ready Set;[];;
+69;La La La;Lee Brice;['Reggae', 'Dancehall/Ragga'];171.0;0.0
+70;Holding You Down (Goin In Circles);Auburn Featuring Iyaz;[];;
+71;Pretty Boy Swag;Jazmine Sullivan;[];;
+72;All About Tonight;Soulja Boy Tell'em;[];;
+73;Can't Be Friends;Blake Shelton;[];;
+74;Little Lion Man;Trey Songz;[];;
+75;Why Wait;Mumford & Sons;[];;
+76;Free;Rascal Flatts;['Country'];412.0;0.0
+77;Erase Me;Zac Brown Band;[];;
+78;Break My Bank;Kid Cudi Featuring Kanye West;[];;
+79;Toot It And Boot It;New Boyz Featuring Iyaz;[];;
+80;Anything Like Me;YG;[];;
+81;Put You In A Song;Brad Paisley;[];;
+82;We No Speak Americano;Keith Urban;[];;
+83;Bittersweet;Yolanda Be Cool & Dcup;[];;
+84;The Breath You Take;Fantasia;[];;
+85;Round & Round;George Strait;[];;
+86;Waka Waka (This Time For Africa);Selena Gomez & The Scene;[];;
+87;Way Out Here;Shakira Featuring Freshlyground;[];;
+88;Only Prettier;Josh Thompson;[];;
+89;Somebody To Love;Miranda Lambert;[];;
+90;All I Want Is You;Justin Bieber Featuring Usher;[];;
+91;Hold You (Hold Yuh);Miguel Featuring J. Cole;[];;
+92;Glitter In The Air;Gyptian;[];;
+93;Turn On The Radio;P!nk;[];;
+94;U Smile;Reba;[];;
+95;Waiting For The End;Justin Bieber;[];;
+96;Smoke A Little Smoke;Linkin Park;[];;
+97;Rhythm of Love;Eric Church;[];;
+98;Trailerhood;Plain White T's;[];;
+99;Black And Yellow;Toby Keith;[];;
+100;;Wiz Khalifa;[];;

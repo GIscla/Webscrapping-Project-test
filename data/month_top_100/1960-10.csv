@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;My Heart Has A Mind Of Its Own;Connie Francis;['Pop'];150.0;0.0
+1;Chain Gang;Sam Cooke;['R&B', 'Soul & Funk'];151.0;0.0
+2;Mr. Custer;Larry Verne;['Rock'];185.0;0.0
+3;The Twist;Chubby Checker;['Electro'];158.0;0.0
+4;A Million To One;Jimmy Charles and The Revelletts;['Pop'];150.0;0.0
+5;Save The Last Dance For Me;The Drifters;['Pop'];144.0;0.0
+6;It's Now Or Never;Elvis Presley With The Jordanaires;[];;
+7;Walk -- Don't Run;The Ventures;['Pop'];126.0;0.0
+8;So Sad (To Watch Good Love Go Bad);The Everly Brothers;['Pop', 'Rock'];151.0;0.0
+9;Theme From The Apartment;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+10;Kiddio;Brook Benton;['R&B', 'Soul'];152.0;0.0
+11;Devil Or Angel;Bobby Vee;['Rock'];141.0;0.0
+12;Pineapple Princess;Annette With The Afterbeats;[];;
+13;I Want To Be Wanted;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];187.0;1.0
+14;Volare;Bobby Rydell;['Pop'];148.0;0.0
+15;The Same One;Brook Benton;['R&B', 'Soul'];148.0;0.0
+16;You Mean Everything To Me;Neil Sedaka;['Pop'];158.0;0.0
+17;Dreamin';Johnny Burnette;['Pop'];141.0;0.0
+18;Let's Think About Living;Bob Luman;['Pop'];117.0;0.0
+19;Yogi;The Ivy Three;['Pop'];134.0;0.0
+20;Three Nights A Week;Fats Domino;[];106.0;0.0
+21;Diamonds And Pearls;The Paradons;['R&B'];138.0;0.0
+22;Don't Be Cruel;Bill Black's Combo;['Pop'];135.0;0.0
+23;Finger Poppin' Time;Hank Ballard And The Midnighters;['Pop'];133.0;0.0
+24;Never On Sunday;Don Costa And His Orchestra And Chorus;['Pop'];175.0;0.0
+25;Lucille;The Everly Brothers;['Rock', 'Rock & Roll/Rockabilly'];545.0;0.0
+26;Over The Rainbow;The Demensions;['Pop'];179.0;0.0
+27;Mission Bell;Donnie Brooks;['Pop'];148.0;0.0
+28;I'm Not Afraid;Ricky Nelson;['Rock'];158.0;0.0
+29;The Twist;Hank Ballard And The Midnighters;['Pop'];154.0;0.0
+30;Honest I Do;The Innocents;['R&B'];117.0;0.0
+31;In My Little Corner Of The World;Anita Bryant;['Pop'];135.0;0.0
+32;Hot Rod Lincoln;Johnny Bond;['Pop'];166.0;0.0
+33;Yes Sir, That's My Baby;Ricky Nelson;['Jazz'];114.0;0.0
+34;Run Samson Run;Neil Sedaka;['Pop'];171.0;0.0
+35;Anymore;Teresa Brewer;['Jazz'];142.0;0.0
+36;(I Do The) Shimmy Shimmy;Bobby Freeman;['Pop'];157.0;0.0
+37;I'm Sorry;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];163.0;1.0
+38;Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini;Brian Hyland;['Rock', 'Rock & Roll/Rockabilly'];141.0;0.0
+39;A Fool In Love;Ike & Tina Turner;['Pop'];191.0;0.0
+40;Sleep;Little Willie John;['R&B', 'Soul'];158.0;0.0
+41;Malagueña;Connie Francis;['Pop'];185.0;0.0
+42;Ta Ta;Clyde McPhatter;['R&B'];136.0;0.0
+43;(You've Got To) Move Two Mountains;Marv Johnson;['R&B'];166.0;0.0
+44;Hello Young Lovers;Paul Anka;['Dance', 'Pop'];151.0;0.0
+45;Only The Lonely (Know How I Feel);Roy Orbison;['Pop'];146.0;0.0
+46;Let's Have A Party;Wanda Jackson;[];131.0;0.0
+47;I Love You In The Same Old Way;Paul Anka;[];146.0;0.0
+48;You Talk Too Much;Joe Jones;['R&B', 'Soul'];152.0;0.0
+49;Please Help Me, I'm Falling;Hank Locklin;['Pop'];133.0;0.0
+50;Big Boy Pete;The Olympics;['Pop'];148.0;0.0
+51;(You Were Made For) All My Love;Jackie Wilson;['Pop'];127.0;0.0
+52;Shimmy Like Kate;The Olympics;['R&B', 'Soul'];153.0;0.0
+53;You're Looking Good;Dee Clark;['Electro', 'Dance'];124.0;0.0
+54;Artificial Flowers;Bobby Darin;['Pop', 'Rock'];193.0;0.0
+55;My Love For You;Johnny Mathis;['Pop'];187.0;0.0
+56;Togetherness;Frankie Avalon;['Pop'];149.0;0.0
+57;If I Can't Have You;Etta & Harvey;['Rock', 'Blues'];170.0;0.0
+58;Georgia On My Mind;Ray Charles;['Jazz'];215.0;0.0
+59;Rocking Goose;Johnny And The Hurricanes;['Rock', 'Rock & Roll/Rockabilly'];109.0;0.0
+60;Twistin' U.S.A.;Danny & The Juniors;['Chanson française'];147.0;0.0
+61;Tonights The Night;The Shirelles;['R&B', 'Soul'];161.0;0.0
+62;Come Back;Jimmy Clanton;['Rock', 'Rock & Roll/Rockabilly'];126.0;0.0
+63;North To Alaska;Johnny Horton;['Country'];169.0;0.0
+64;Let's Go, Let's Go, Let's Go;Hank Ballard And The Midnighters;['Rock'];150.0;0.0
+65;Somebody To Love;Bobby Darin;['Pop', 'Rock'];128.0;0.0
+66;Hot Rod Lincoln;Charlie Ryan and the Timberline Riders;['Rock', 'Rock & Roll/Rockabilly'];148.0;0.0
+67;Blue Angel;Roy Orbison;['Classique', 'Jazz'];168.0;0.0
+68;Summer's Gone;Paul Anka;['Classique', 'Jazz'];160.0;0.0
+69;Image Of A Girl;Safaris with The Phantom's Band;[];;
+70;A Kookie Little Paradise;Jo Ann Campbell;['Rock'];154.0;0.0
+71;Put Your Arms Around Me Honey;Fats Domino;['Rock', 'R&B', 'Soul'];119.0;0.0
+72;A Mess Of Blues;Elvis Presley With The Jordanaires;[];;
+73;Let The Good Times Roll;Shirley & Lee;[];145.0;0.0
+74;My Shoes Keep Walking Back To You;Guy Mitchell;['Pop', 'R&B'];170.0;0.0
+75;Time Machine;Dante and the Evergreens;['Rock'];141.0;0.0
+76;I Walk The Line;Jaye P. Morgan;['Country'];166.0;0.0
+77;Love Walked In;Dinah Washington;['Classique', 'Jazz'];126.0;0.0
+78;Temptation;Roger Williams;['Electro', 'Dance'];174.0;0.0
+79;(I Can't Help You) I'm Falling Too;Skeeter Davis;['Country'];167.0;0.0
+80;Is You Is Or Is You Ain't My Baby;Buster Brown;['Soul'];150.0;0.0
+81;Five Brothers;Marty Robbins;['Country'];133.0;0.0
+82;I Wish I'd Never Been Born;Patti Page;['Pop'];142.0;0.0
+83;Just A Little;Brenda Lee;['Country'];146.0;0.0
+84;My Dearest Darling;Etta James;['R&B', 'Soul & Funk'];180.0;0.0
+85;Stay;Maurice Williams & The Zodiacs;['Films/Jeux vidéo', 'Musiques de films'];94.0;0.0
+86;Nice 'N' Easy;Frank Sinatra;['Jazz'];165.0;0.0
+87;Alabam;Cowboy Copas;['Country'];138.0;0.0
+88;"Over The Mountain; Across The Sea";Johnnie & Joe;['Pop', 'Rock', 'R&B'];140.0;0.0
+89;Just Call Me (And I'll Understand);Lloyd Price and His Orchestra;[];;
+90;And Now;Della Reese;['Pop'];159.0;0.0
+91;The Lovin' Touch;Mark Dinning;['Pop'];98.0;0.0
+92;Tonight's The Night;The Chiffons;['Pop', 'Singer & Songwriter'];108.0;0.0
+93;Wait;Jimmy Clanton;['Rock', 'Rock & Roll/Rockabilly'];126.0;0.0
+94;You Talk Too Much;Frankie Ford;['Rock', 'Rock & Roll/Rockabilly'];153.0;0.0
+95;Theme From The Sundowners;Felix Slatkin Orchestra and Chorus;['Films/Jeux vidéo', 'Musiques de films'];141.0;0.0
+96;The Sundowners;Billy Vaughn And His Orchestra;[];162.0;0.0
+97;Journey Of Love;The Crests featuring Johnny Mastro;[];;
+98;Shoppin' For Clothes;The Coasters;['R&B', 'Soul'];180.0;0.0
+99;My Hero;The Blue Notes;['Rock', 'Rock & Roll/Rockabilly'];160.0;0.0

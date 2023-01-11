@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Hello Goodbye;The Beatles;['Rock'];207.0;0.0
+1;Daydream Believer;The Monkees;['Pop'];179.0;0.0
+2;Judy In Disguise (With Glasses);John Fred And The Playboys;['R&B'];174.0;0.0
+3;I Heard It Through The Grapevine;Gladys Knight And The Pips;['R&B'];166.0;0.0
+4;Woman, Woman;The Union Gap Featuring Gary Puckett;[];;
+5;I Second That Emotion;Smokey Robinson & The Miracles;['Pop'];162.0;0.0
+6;Chain Of Fools;Aretha Franklin;['Pop', 'Rock'];163.0;0.0
+7;Bend Me, Shape Me;The American Breed;['Pop'];130.0;0.0
+8;Boogaloo Down Broadway;The Fantastic Johnny C;['R&B', 'Soul & Funk', 'Soul'];155.0;0.0
+9;Skinny Legs And All;Joe Tex;['Soul'];185.0;0.0
+10;Honey Chile;Martha Reeves & The Vandellas;['Pop'];178.0;0.0
+11;Green Tambourine;The Lemon Pipers;['Pop'];147.0;0.0
+12;If I Could Build My Whole World Around You;Marvin Gaye & Tammi Terrell;['R&B'];142.0;0.0
+13;Summer Rain;Johnny Rivers;['Rock'];232.0;0.0
+14;Incense And Peppermints;Strawberry Alarm Clock;['Pop'];167.0;0.0
+15;You Better Sit Down Kids;Cher;[];231.0;0.0
+16;Next Plane To London;The Rose Garden;['Pop'];151.0;0.0
+17;Different Drum;Stone Poneys Featuring Linda Ronstadt;['Pop'];162.0;0.0
+18;The Rain, The Park & Other Things;The Cowsills;['Pop'];184.0;0.0
+19;I Say A Little Prayer;Dionne Warwick;['Pop'];188.0;0.0
+20;Susan;The Buckinghams;['Pop'];175.0;0.0
+21;And Get Away;The Esquires;['R&B', 'Soul & Funk'];143.0;0.0
+22;Wear Your Love Like Heaven;Donovan;['Pop'];146.0;0.0
+23;Monterey;Eric Burdon & The Animals;['Rock'];253.0;0.0
+24;It's Wonderful;The Young Rascals;['Pop', 'Rock'];136.0;0.0
+25;She's My Girl;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];157.0;0.0
+26;Who Will Answer?;Ed Ames;['Pop'];222.0;0.0
+27;Tell Mama;Etta James;['Rock', 'Blues'];144.0;0.0
+28;Come See About Me;Jr. Walker & The All Stars;['R&B'];179.0;0.0
+29;Love Me Two Times;The Doors;['Rock'];195.0;0.0
+30;The Other Man's Grass Is Always Greener;Petula Clark;['Pop'];172.0;0.0
+31;Love Power;The Sandpebbles;[];;
+32;I Can't Stand Myself (When You Touch Me);James Brown And The Famous Flames;[];;
+33;Keep The Ball Rollin';Jay And The Techniques;['Soul'];138.0;0.0
+34;Nobody But Me;The Human Beinz;['Rock'];140.0;0.0
+35;By The Time I Get To Phoenix;Glen Campbell;['Country'];164.0;0.0
+36;Best Of Both Worlds;Lulu;['Pop'];180.0;0.0
+37;Goin' Out Of My Head/Can't Take My Eyes Off You;The Lettermen;['Pop'];180.0;0.0
+38;Am I That Easy To Forget;Engelbert Humperdinck;['Pop'];185.0;0.0
+39;My Baby Must Be A Magician;The Marvelettes;['R&B'];155.0;0.0
+40;Two Little Kids;Peaches & Herb;['Pop'];171.0;0.0
+41;Cover Me;Percy Sledge;['Rock'];180.0;0.0
+42;Itchycoo Park;Small Faces;['Rock'];169.0;0.0
+43;Windy;Wes Montgomery;['Jazz'];142.0;0.0
+44;I'm In Love;Wilson Pickett;['Pop'];149.0;0.0
+45;In The Misty Moonlight;Dean Martin;['Pop'];163.0;0.0
+46;Spooky;Classics IV;['Rock'];171.0;0.0
+47;She's A Rainbow;The Rolling Stones;['Rock'];251.0;0.0
+48;Everybody Knows;The Dave Clark Five;['Pop'];139.0;0.0
+49;Dear Eloise;The Hollies;['Pop'];185.0;0.0
+50;Dancing Bear;The Mamas & The Papas;['Pop'];252.0;0.0
+51;Baby, Now That I've Found You;The Foundations;['Pop'];156.0;0.0
+52;Darlin';The Beach Boys;['Rock'];133.0;0.0
+53;Explosion (In Your Soul);Soul Survivors;['Pop'];156.0;0.0
+54;Neon Rainbow;The Box Tops;['Pop'];112.0;0.0
+55;Storybook Children;Billy Vera & Judy Clay;['Jazz'];124.0;0.0
+56;Skip A Rope;Henson Cargill;['Country'];161.0;0.0
+57;Good Combination;Sonny & Cher;['Pop'];179.0;0.0
+58;The Lesson;Vikki Carr;['Latino'];151.0;0.0
+59;I Wonder What She's Doing Tonite;Tommy Boyce & Bobby Hart;['Pop'];162.0;0.0
+60;Too Much Of Nothing;Peter, Paul & Mary;['Pop'];151.0;0.0
+61;To Give (The Reason I Live);Frankie Valli;['Pop'];202.0;0.0
+62;Tomorrow;Strawberry Alarm Clock;['Rock'];144.0;0.0
+63;I'm Coming Home;Tom Jones;['Pop'];186.0;0.0
+64;O-O, I Love You;The Dells;['Pop'];200.0;0.0
+65;I'll Be Sweeter Tomorrow (Than I Was Today);The O'Jays;['R&B'];181.0;0.0
+66;Just As Much As Ever;Bobby Vinton;['Pop'];139.0;0.0
+67;Baby You Got It;Brenton Wood;['Soul'];128.0;0.0
+68;What's It Gonna Be;Dusty Springfield;['Pop'];131.0;0.0
+69;Watch Her Ride;Jefferson Airplane;['Pop', 'Rock'];197.0;0.0
+70;Hooray For The Salvation Army Band;Bill Cosby;['Films/Jeux vidéo', 'Comédie'];141.0;0.0
+71;Some Velvet Morning;Nancy Sinatra & Lee Hazlewood;['Country'];221.0;0.0
+72;Back Up Train;Al Greene & The Soul Mate's;[];;
+73;Up-Up And Away;Hugh Masekela;['Jazz'];332.0;0.0
+74;Foxey Lady;Jimi Hendrix;['Pop'];198.0;0.0
+75;Pick Up The Pieces;Carla Thomas;['R&B'];169.0;0.0
+76;I Was Made To Love Her;King Curtis & The Kingpins;[];;
+77;Lost;Jerry Butler;['R&B', 'Soul'];142.0;0.0
+78;Bottle Of Wine;The Fireballs;['Pop'];132.0;0.0
+79;A Voice In The Choir;Al Martino;[];;
+80;A Working Man's Prayer;Arthur Prysock;[];;
+81;No Sad Songs;Joe Simon;['R&B', 'Soul'];166.0;0.0
+82;Zabadak;Dave Dee, Dozy, Beaky, Mick And Tich;['Pop'];233.0;0.0
+83;We're A Winner;The Impressions;['Soul'];143.0;0.0
+84;Money;The Lovin' Spoonful;['Pop'];290.0;0.0
+85;Sunday Mornin';Spanky And Our Gang;['Pop'];372.0;0.0
+86;In Another Land;Bill Wyman;[];;
+87;Something's Missing;5 Stairsteps and Cubie;[];;
+88;Cross My Heart;Billy Stewart;['R&B'];183.0;0.0
+89;Mission-Impossible;Lalo Schifrin;['Films/Jeux vidéo', 'Musiques de films'];152.0;0.0
+90;United (Part 1);The Music Makers;[];;
+91;Mellow Moonlight;Leon Haywood;['Classique', 'Soul & Funk'];157.0;0.0
+92;A Little Rain Must Fall;The Epic Splendor;[];;
+93;Oh, How It Hurts;Barbara Mason;['Soul'];179.0;0.0
+94;Up Tight, Good Man;Laura Lee;[];;
+95;I Call It Love;The Manhattans;['Pop', 'Singer & Songwriter'];131.0;0.0
+96;A Man Needs A Woman;James Carr;['R&B', 'Soul'];167.0;0.0
+97;New Orleans;Neil Diamond;['Pop'];144.0;0.0
+98;Love Is Blue (L'amour Est Bleu);Paul Mauriat And His Orchestra;[];152.0;0.0
+99;Born Free;The Hesitations;[];;

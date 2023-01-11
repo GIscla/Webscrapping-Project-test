@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Honey;Bobby Goldsboro;['Country'];238.0;0.0
+1;Cry Like A Baby;The Box Tops;['Rock'];113.0;0.0
+2;Young Girl;The Union Gap Featuring Gary Puckett;['Pop'];252.0;0.0
+3;Lady Madonna;The Beatles;['Rock'];136.0;0.0
+4;Tighten Up;Archie Bell & The Drells;['Pop', 'Rock'];191.0;0.0
+5;I Got The Feelin';James Brown And The Famous Flames;[];;
+6;Cowboys To Girls;The Intruders;['R&B', 'Soul'];157.0;0.0
+7;The Good, The Bad And The Ugly;Hugo Montenegro, His Orchestra And Chorus;['Films/Jeux vidéo', 'Musiques de films'];136.0;0.0
+8;A Beautiful Morning;The Rascals;['Pop', 'Rock'];151.0;0.0
+9;The Unicorn;The Irish Rovers;['Pop', 'Pop internationale', 'Variété Internationale'];179.0;0.0
+10;If You Can Want;Smokey Robinson & The Miracles;['Pop'];163.0;0.0
+11;Dance To The Music;Sly & The Family Stone;['Soul & Funk'];179.0;0.0
+12;Take Time To Know Her;Percy Sledge;['Pop'];173.0;0.0
+13;Summertime Blues;Blue Cheer;['Rock'];227.0;0.0
+14;The Ballad Of Bonnie And Clyde;Georgie Fame;[];189.0;0.0
+15;Ain't No Way;Aretha Franklin;['Pop', 'Rock'];254.0;0.0
+16;Love Is All Around;The Troggs;['Pop'];178.0;0.0
+17;Sweet Inspiration;The Sweet Inspirations;['R&B', 'Soul'];175.0;0.0
+18;(Sittin' On) The Dock Of The Bay;Otis Redding;['R&B', 'Soul'];160.0;0.0
+19;Shoo-Be-Doo-Be-Doo-Da-Day;Stevie Wonder;['R&B'];165.0;0.0
+20;Do You Know The Way To San José;Dionne Warwick;['Pop'];179.0;0.0
+21;(Sweet Sweet Baby) Since You've Been Gone;Aretha Franklin;['Pop', 'Rock'];146.0;0.0
+22;Funky Street;Arthur Conley;['Pop'];143.0;0.0
+23;Playboy;Gene And Debbe;['Country'];172.0;0.0
+24;Ain't Nothing Like The Real Thing;Marvin Gaye & Tammi Terrell;['R&B'];133.0;0.0
+25;La - La - Means I Love You;The Delfonics;['Pop', 'R&B', 'Soul'];199.0;0.0
+26;Delilah;Tom Jones;['Pop'];206.0;0.0
+27;Forever Came Today;Diana Ross & The Supremes;['Pop'];192.0;0.0
+28;Mighty Quinn (Quinn The Eskimo);Manfred Mann;['Rock', 'Rock & Roll/Rockabilly'];167.0;0.0
+29;Soul Serenade;Willie Mitchell;['R&B'];140.0;0.0
+30;U.S. Male;Elvis Presley With The Jordanaires;[];;
+31;Mrs. Robinson;Simon & Garfunkel;['Folk'];242.0;0.0
+32;Take Good Care Of My Baby;Bobby Vinton;[];167.0;0.0
+33;Mony Mony;Tommy James And The Shondells;['Pop'];174.0;0.0
+34;Love Is Blue (L'amour Est Bleu);Paul Mauriat And His Orchestra;[];152.0;0.0
+35;Scarborough Fair (/Canticle);Simon & Garfunkel;['Rock'];190.0;0.0
+36;Ame Caline (Soul Coaxing);Raymond Lefevre and His Orchestra;[];;
+37;Cab Driver;The Mills Brothers;['Pop'];173.0;0.0
+38;The Unknown Soldier;The Doors;['Rock'];204.0;0.0
+39;Call Me Lightning;The Who;['Rock'];145.0;0.0
+40;She's Lookin' Good;Wilson Pickett;['R&B'];143.0;0.0
+41;The Son Of Hickory Holler's Tramp;O.C. Smith;['R&B'];233.0;0.0
+42;Jennifer Eccles;The Hollies;['Rock'];175.0;0.0
+43;I Will Always Think About You;The New Colony Six;['Alternative', 'Rock indé', 'Rock'];171.0;0.0
+44;Valleri;The Monkees;['Pop'];140.0;0.0
+45;Like To Get To Know You;Spanky And Our Gang;['Pop'];197.0;0.0
+46;The Happy Song (Dum-Dum);Otis Redding;['R&B'];161.0;0.0
+47;Does Your Mama Know About Me;Bobby Taylor & The Vancouvers;[];175.0;0.0
+48;My Girl/Hey Girl;Bobby Vee;['Pop'];152.0;0.0
+49;Look To Your Soul;Johnny Rivers;['Pop'];195.0;0.0
+50;Loving You Has Made Me Bananas;Guy Marks;['Pop'];171.0;0.0
+51;Jennifer Juniper;Donovan;['Pop'];160.0;0.0
+52;Goodbye Baby (I Don't Want To See You Cry);Tommy Boyce & Bobby Hart;['Pop'];238.0;0.0
+53;Paying The Cost To Be The Boss;B.B. King;['Rock', 'Blues'];152.0;0.0
+54;Foggy Mountain Breakdown;Flatt & Scruggs;['Country'];140.0;0.0
+55;Security;Etta James;['Rock', 'Blues'];150.0;0.0
+56;Jumbo;Bee Gees;['Pop'];128.0;0.0
+57;The Impossible Dream;The Hesitations;[];;
+58;We're Rolling On (Part I);The Impressions;[];;
+59;You've Still Got A Place In My Heart;Dean Martin;['Pop'];167.0;0.0
+60;I Wanna Live;Glen Campbell;['Country'];167.0;0.0
+61;Wear It On Our Face;The Dells;['Pop'];203.0;0.0
+62;Master Jack;Four Jacks And A Jill;['Pop'];170.0;0.0
+63;Sherry Don't Go;The Lettermen;['Pop'];125.0;0.0
+64;I Can't Believe I'm Losing You;Frank Sinatra;['Jazz'];165.0;0.0
+65;Friends;The Beach Boys;['Pop'];153.0;0.0
+66;Me, The Peaceful Heart;Lulu;['Pop'];145.0;0.0
+67;Cinderella Rockefella;Esther & Abi Ofarim;['Pop'];151.0;0.0
+68;If I Were A Carpenter;Four Tops;['R&B'];168.0;0.0
+69;Funky Walk Part I (East);Dyke And The Blazers;[];;
+70;Impossible Mission (Mission Impossible);Soul Survivors;['Pop'];144.0;0.0
+71;L. David Sloane;Michele Lee;['Pop'];183.0;0.0
+72;Baby Make Your Own Sweet Music;Jay And The Techniques;['Rock'];162.0;0.0
+73;I Got A Sure Thing;Ollie & The Nightingales;['R&B'];160.0;0.0
+74;Unwind;Ray Stevens;[];;
+75;If You Don't Want My Love;Robert John;['Rock'];139.0;0.0
+76;I'm Sorry;The Delfonics;['R&B'];164.0;0.0
+77;I Promise To Wait My Love;Martha Reeves & The Vandellas;['Pop'];128.0;0.0
+78;Goin' Away;The Fireballs;['Rock'];145.0;0.0
+79;Anything;Eric Burdon & The Animals;['Pop'];201.0;0.0
+80;Cabaret;Herb Alpert & The Tijuana Brass;['Jazz'];161.0;0.0
+81;(You Keep Me) Hangin' On;Joe Simon;['R&B', 'Soul'];179.0;0.0
+82;May I Take A Giant Step (Into Your Heart);1910 Fruitgum Co.;['Pop'];143.0;0.0
+83;Gentle On My Mind;Patti Page;[];154.0;0.0
+84;I Love You;People;['Alternative'];214.0;0.0
+85;Chain Gang;Jackie Wilson & Count Basie;['R&B', 'Soul'];168.0;0.0
+86;I Could Never Love Another (After Loving You);The Temptations;['Jeunesse'];214.0;0.0
+87;Yummy Yummy Yummy;Ohio Express;['Pop'];140.0;0.0
+88;A Tribute To A King;William Bell;['R&B'];172.0;0.0
+89;Soul Train;Classics IV;['Rock'];126.0;0.0
+90;Never Give You Up;Jerry Butler;['R&B'];176.0;0.0
+91;I Have A Dream;Rev. Martin Luther King, Jr.;['Livres audio'];318.0;0.0
+92;He Don't Really Love You;The Delfonics;['R&B', 'Soul'];138.0;0.0
+93;I Can Remember;James & Bobby Purify;['Pop'];157.0;0.0
+94;I Wish I Knew (How It Would Feel To Be Free);Solomon Burke;['Rock'];172.0;0.0
+95;Lili Marlene;Al Martino;[];;
+96;Angel Of The Morning;Merrilee Rush & The Turnabouts;['Pop'];192.0;0.0
+97;Greasy Heart;Jefferson Airplane;['Pop', 'Rock'];205.0;0.0
+98;Here's To You;Hamilton Camp;['Pop'];138.0;0.0
+99;How'd We Ever Get This Way;Andy Kim;['Pop'];151.0;0.0

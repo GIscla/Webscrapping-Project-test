@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Running Bear;Johnny Preston;['Pop', 'Singer & Songwriter'];153.0;0.0
+1;Teen Angel;Mark Dinning;['Films/Jeux vidéo', 'Musiques de films'];157.0;0.0
+2;El Paso;Marty Robbins;['Country'];259.0;0.0
+3;Where Or When;Dion & The Belmonts;['Pop', 'Rock'];156.0;0.0
+4;Go, Jimmy, Go;Jimmy Clanton;['Pop'];134.0;0.0
+5;Why;Frankie Avalon;['Pop'];158.0;0.0
+6;Handy Man;Jimmy Jones;['Rock', 'Rock & Roll/Rockabilly'];121.0;0.0
+7;The Big Hurt;Miss Toni Fisher;['Pop'];135.0;0.0
+8;Way Down Yonder In New Orleans;Freddie Cannon;['Rock'];150.0;0.0
+9;Pretty Blue Eyes;Steve Lawrence;[];114.0;0.0
+10;The Village Of St. Bernadette;Andy Williams;['Dance', 'Pop'];197.0;0.0
+11;What In The World's Come Over You;Jack Scott;['Country'];173.0;0.0
+12;You Got What It Takes;Marv Johnson;['R&B'];159.0;0.0
+13;Lonely Blue Boy;Conway Twitty;['Country', 'Pop'];132.0;0.0
+14;Down By The Station;The Four Preps;['Pop'];150.0;0.0
+15;Let It Be Me;The Everly Brothers;[];159.0;0.0
+16;He'll Have To Go;Jim Reeves;['Pop', 'Folk'];136.0;0.0
+17;It's Time To Cry;Paul Anka;['Pop'];145.0;0.0
+18;"The Theme From ""A Summer Place""";Percy Faith And His Orchestra;[];142.0;0.0
+19;Tracy's Theme;Spencer Ross;['Rock'];174.0;0.0
+20;Sandy;Larry Hall;['Pop'];145.0;0.0
+21;Among My Souvenirs;Connie Francis;[];151.0;0.0
+22;Beyond The Sea;Bobby Darin;['Pop'];172.0;0.0
+23;Hound Dog Man;Fabian;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];127.0;0.0
+24;First Name Initial;Annette With The Afterbeats;[];;
+25;T.L.C. Tender Love And Care;Jimmie Rodgers;[];135.0;0.0
+26;Not One Minute More;Della Reese;['Pop'];158.0;0.0
+27;Heartaches By The Number;Guy Mitchell;['Country'];177.0;0.0
+28;Lucky Devil;Carl Dobkins, Jr.;[];159.0;0.0
+29;Smokie - Part 2;Bill Black's Combo;[];130.0;0.0
+30;If I Had A Girl;Rod Lauren;['Pop'];131.0;0.0
+31;Shimmy, Shimmy, Ko-Ko-Bop;Little Anthony And The Imperials;['Pop'];132.0;0.0
+32;Bonnie Came Back;Duane Eddy His Twangy Guitar And The Rebels;[];;
+33;Rockin' Little Angel;Ray Smith;['Rock'];138.0;0.0
+34;Little Things Mean A Lot;Joni James;['Musique africaine', 'Pop'];157.0;0.0
+35;Little Coco Palm;Jerry Wallace;['Pop'];142.0;0.0
+36;This Friendly World;Fabian;['Rock'];123.0;0.0
+37;Bulldog;The Fireballs;['Rock'];129.0;0.0
+38;How About That;Dee Clark;['R&B', 'Soul'];129.0;0.0
+39;Mack The Knife;Bobby Darin;['Pop'];184.0;0.0
+40;Waltzing Matilda;Jimmie Rodgers;['Pop'];176.0;0.0
+41;Run Red Run;The Coasters;['Soul'];204.0;0.0
+42;Baciare Baciare (Kissing Kissing);Dorothy Collins;['Pop'];157.0;0.0
+43;Am I That Easy To Forget;Debbie Reynolds;['Pop'];139.0;0.0
+44;Too Much Tequila;The Champs;['Rock', 'Rock & Roll/Rockabilly'];133.0;0.0
+45;Forever;The Little Dippers;['Pop'];143.0;0.0
+46;Tear Drop;Santo & Johnny;['Pop'];124.0;0.0
+47;Sweet Nothin's;Brenda Lee;['Pop'];141.0;0.0
+48;Talk That Talk;Jackie Wilson;[];132.0;0.0
+49;Why Do I Love You So;Johnny Tillotson;['Country', 'Singer & Songwriter'];127.0;0.0
+50;Darling Lorraine;The Knockouts;['Jazz'];116.0;0.0
+51;Harlem Nocturne;The Viscounts;['Jazz'];168.0;0.0
+52;Just Come Home;Hugo & Luigi;['Jazz'];153.0;0.0
+53;No Love Have I;Webb Pierce;['Country'];146.0;0.0
+54;Crazy Arms;Bob Beckham;['Pop'];145.0;0.0
+55;A Year Ago Tonight;The Crests;['Rock'];144.0;0.0
+56;What About Us;The Coasters;['Soul'];141.0;0.0
+57;Midnite Special;Paul Evans;['Rock'];127.0;0.0
+58;Let's Try Again;Clyde McPhatter;['Pop'];148.0;0.0
+59;Harbor Lights;The Platters;['Pop'];187.0;0.0
+60;Country Boy;Fats Domino;['Rock'];135.0;0.0
+61;I Don't Know What It Is;The Bluenotes;['Pop'];116.0;0.0
+62;Mary Don't You Weep;Stonewall Jackson;['Rock'];152.0;0.0
+63;Amapola;Jacky Noguez And His Orchestra;[];;
+64;Honey Hush;Joe Turner;['Rock', 'Blues'];159.0;0.0
+65;I Wanna Be Loved;Ricky Nelson;['Pop'];165.0;0.0
+66;Baby (You've Got What It Takes);Dinah Washington & Brook Benton;['Jazz'];165.0;0.0
+67;We Got Love;Bobby Rydell;['Pop'];143.0;0.0
+68;Oh! Carol;Neil Sedaka;['Pop'];135.0;0.0
+69;China Doll;The Ames Brothers;['Pop'];155.0;0.0
+70;Lady Luck;Lloyd Price and His Orchestra;[];;
+71;Wild One;Bobby Rydell;['Pop'];143.0;0.0
+72;Tell Her For Me;Adam Wade;['Pop'];155.0;0.0
+73;On The Beach;Frank Chacksfield And His Orch.;[];;
+74;Up Town;Roy Orbison;['Pop'];128.0;0.0
+75;Scarlet Ribbons (For Her Hair);The Browns;['Pop'];159.0;0.0
+76;The Happy Muleteer;Ivo Robic;[];;
+77;So Many Ways;Brook Benton;['Rock', 'Blues', 'Soul'];151.0;0.0
+78;Skokiaan (South African Song);Bill Haley And His Comets;['Pop'];135.0;0.0
+79;I Forgot More Than You'll Ever Know;Sonny James;['Country'];138.0;0.0
+80;Let It Rock;Chuck Berry;['Rock'];106.0;0.0
+81;One Mint Julep;Chet Atkins;[];128.0;0.0
+82;Time And The River;Nat King Cole;['Jazz'];139.0;0.0
+83;My Little Marine;Jamie Horton;['Pop'];152.0;0.0
+84;That Old Feeling;Kitty Kallen;['Pop'];206.0;0.0
+85;Little Bitty Girl;Bobby Rydell;['Pop'];146.0;0.0
+86;Time After Time;Frankie Ford;['Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+87;Secret Of Love;Elton Anderson With Sid Lawrence Combo;[];;
+88;Sixteen Reasons;Connie Stevens;['Pop'];118.0;0.0
+89;I Can't Say Goodbye;The Fireflies Featuring Ritchie Adams;[];;
+90;Believe Me;Royal Teens;[];151.0;0.0
+91;(There Was A) Tall Oak Tree;Dorsey Burnette;['Pop', 'Rock'];125.0;0.0
+92;Since I Made You Cry;The Rivieras;['Pop'];157.0;0.0
+93;I'll Take Care Of You;Bobby Bland;['Rock', 'Blues'];145.0;0.0
+94;Money (That's what I want);Barrett Strong;[];159.0;0.0
+95;Peace Of Mind;Teresa Brewer;[];225.0;0.0
+96;Fannie Mae;Buster Brown;['Rock', 'Rock & Roll/Rockabilly'];176.0;0.0
+97;(Baby) Hully Gully;The Olympics;['Pop', 'Rock', 'Rock & Roll/Rockabilly', 'R&B', 'Films/Jeux vidéo', 'Comédie', 'Livres audio', 'Soul'];216.0;0.0
+98;Mediterranean Moon;The Rays;['Electro', 'Dance'];149.0;0.0
+99;The Whiffenpoof Song;Bob Crewe;['Pop'];197.0;0.0

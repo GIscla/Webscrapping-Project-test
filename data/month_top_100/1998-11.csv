@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The First Night;Monica;['R&B', 'Soul'];235.0;0.0
+1;One Week;Barenaked Ladies;['Pop'];169.0;0.0
+2;How Deep Is Your Love;Dru Hill Featuring Redman;[];;
+3;Lately;Divine;['R&B', 'Soul'];218.0;0.0
+4;Because Of You;98 Degrees;['R&B'];296.0;0.0
+5;Crush;Jennifer Paige;['Pop'];200.0;0.0
+6;I Don't Want To Miss A Thing;Aerosmith;['Rock'];299.0;0.0
+7;This Kiss;Faith Hill;['Country'];194.0;0.0
+8;I'll Be;Edwin McCain;['Country'];266.0;0.0
+9;Nobody's Supposed To Be Here;Deborah Cox;['Pop', 'R&B', 'Soul'];262.0;0.0
+10;Touch It;Monifah;['R&B'];285.0;1.0
+11;Come And Get With Me;Keith Sweat Featuring Snoop Dogg;['R&B'];293.0;0.0
+12;The Power Of Good-Bye;Madonna;['Pop'];250.0;0.0
+13;Westside;TQ;['R&B'];304.0;1.0
+14;My Little Secret;Xscape;['R&B'];268.0;0.0
+15;I Still Love You;Next;['R&B', 'Soul'];254.0;1.0
+16;Too Close;Next;['R&B', 'Soul'];259.0;1.0
+17;Never Ever;All Saints;['Pop'];387.0;0.0
+18;Love Me;112 Featuring Mase;['R&B'];257.0;0.0
+19;When The Lights Go Out;Five;['Pop'];249.0;0.0
+20;You're Still The One;Shania Twain;['Country'];212.0;0.0
+21;Time After Time;Inoj;['R&B'];255.0;0.0
+22;My Way;Usher;['R&B'];219.0;0.0
+23;The Boy Is Mine;Brandy & Monica;['Pop'];294.0;0.0
+24;Truly Madly Deeply;Savage Garden;['Pop'];277.0;0.0
+25;All The Places (I Will Kiss You);Aaron Hall;['R&B'];240.0;0.0
+26;Just The Two Of Us;Will Smith;['Pop'];315.0;0.0
+27;Daydreamin';Tatyana Ali;['Pop'];300.0;0.0
+28;Adia;Sarah McLachlan;['Pop'];244.0;0.0
+29;So Into You;Tamia;['Rock'];261.0;0.0
+30;Make It Hot;"Nicole Featuring Missy ""Misdemeanor"" Elliott & Mocha";['R&B'];241.0;1.0
+31;Pushin' Weight;Ice Cube Featuring Mr. Short Khop;[];;
+32;Splackavellie;Pressha;['R&B'];242.0;0.0
+33;I Can Do That;Montell Jordan;['R&B'];286.0;0.0
+34;Movin' On;Mya Featuring Silkk The Shocker;[];;
+35;Wherever You Go;Voices Of Theory;['Rap/Hip Hop', 'R&B'];339.0;0.0
+36;Trippin';Total Featuring Missy Elliott;[];;
+37;Still A G Thang;Snoop Dogg;['Rap/Hip Hop'];259.0;1.0
+38;All My Life;K-Ci & JoJo;['Pop'];331.0;0.0
+39;Lookin' At Me;Mase Featuring Puff Daddy;['Rap/Hip Hop'];255.0;1.0
+40;SuperThug (What What);Noreaga;[];;
+41;Can I Get A...;Jay-Z Featuring Amil (Of Major Coinz) & Ja;[];;
+42;Hard Knock Life (Ghetto Anthem);JAY-Z;['Rap/Hip Hop'];238.0;1.0
+43;Still Not A Player;Big Punisher Featuring Joe;[];;
+44;I Don't Want To Wait;Paula Cole;['Pop', 'Rock'];320.0;0.0
+45;Whatcha Wanna Do?;Mia X Featuring Charlie Wilson;[];;
+46;Friend Of Mine;Kelly Price;['R&B'];377.0;0.0
+47;How's It Going To Be;Third Eye Blind;['Alternative', 'Pop', 'Rock', 'Rock Indé/Pop Rock'];253.0;0.0
+48;Thinkin' Bout It;Gerald Levert;['R&B'];391.0;0.0
+49;Ghetto Supastar (That Is What You Are);Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya;[];;
+50;Intergalactic;Beastie Boys;['Rap/Hip Hop'];231.0;0.0
+51;I Had No Right;P.M. Dawn;['Rap/Hip Hop'];301.0;0.0
+52;Everything's Gonna Be Alright;Sweetbox;['Pop'];194.0;0.0
+53;Don't Let It Go To Your Head;Brand Nubian;['Rap/Hip Hop'];244.0;1.0
+54;Perfect;The Smashing Pumpkins;['Rock'];202.0;0.0
+55;Shimmer;Fuel;['Rock'];214.0;0.0
+56;Lost In Love;Nastyboy Klick;['Rap/Hip Hop'];247.0;0.0
+57;Cruel Summer;Ace Of Base;['Pop'];215.0;0.0
+58;Ray Of Light;Madonna;['Pop'];367.0;0.0
+59;Invasion Of The Flat Booty B*****s;Too $hort;[];;
+60;Goodbye To My Homies;Master P Featuring Silkk The Shocker, Sons Of Funk And Mo B. Dick;[];;
+61;Music Sounds Better With You;Stardust;['Electro', 'Techno/House'];260.0;0.0
+62;26 Cents;The Wilkinsons;['Country'];231.0;0.0
+63;If You Could Read My Mind;Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez;['Dance', 'Pop'];206.0;0.0
+64;Better Days;WC Featuring Jon B.;[];;
+65;Money's Just A Touch Away;Mack 10 Featuring Gerald Levert;[];;
+66;Nobody Else;Tyrese;['R&B', 'Soul'];232.0;0.0
+67;Ooh La La;Rod Stewart;['Pop', 'Rock'];256.0;0.0
+68;Can't Get Enough;Willie Max Featuring Raphael Saadiq;[];;
+69;Yesterday;Debelah Morgan;[];;
+70;Money Ain't A Thang;JD Featuring Jay-Z;[];;
+71;Only When I Lose Myself;Depeche Mode;['Pop'];275.0;0.0
+72;How's It Goin' Down;DMX Featuring Faith Evans;[];;
+73;Come With Me;Puff Daddy Featuring Jimmy Page;['Pop'];364.0;0.0
+74;No Fool No More;En Vogue;['Pop'];257.0;0.0
+75;Whenever You're Near Me;Ace Of Base;['Pop'];211.0;0.0
+76;Landslide;Fleetwood Mac;['Pop'];199.0;0.0
+77;The Rockafeller Skank;Fatboy Slim;['Dance'];236.0;0.0
+78;For You I Will;Aaron Tippin;['Country'];211.0;0.0
+79;Let The Music Heal Your Soul;BRAVO All Stars;['Pop'];238.0;0.0
+80;Life Ain't Easy;Cleopatra;['Pop'];200.0;0.0
+81;Touch Me;Solo;['R&B'];258.0;0.0
+82;Here We Go;Funkmaster Flex Presents Khadejia Featuring Product;[];;
+83;Deadly Zone;Bounty Killer Featuring Mobb Deep & Rappin' Noyd;['Rap/Hip Hop'];300.0;0.0
+84;Let Me Return The Favor;Andrea Martin;['R&B'];254.0;0.0
+85;Dr. Greenthumb;Cypress Hill;['Rap/Hip Hop'];189.0;1.0
+86;Gotta Be;Jagged Edge;['R&B'];215.0;0.0
+87;I Ain't Havin' That;Heltah Skeltah Featuring Starang Wondah Of O.G.C. & Doc Holiday;[];;
+88;A Little Past Little Rock;Lee Ann Womack;['Country'];256.0;0.0
+89;Ava Adore;The Smashing Pumpkins;['Rock'];270.0;0.0
+90;If I Can't Have You;L.F.O. (Lyte Funky Ones) (Featuring Kayo);[];;
+91;Wide Open Spaces;Dixie Chicks;['Country'];223.0;0.0
+92;The Street Mix;Mag 7;[];;
+93;If I Lost You;Travis Tritt;['Pop'];228.0;0.0
+94;Nobody Does It Better;Nate Dogg Featuring Warren G;['Rap/Hip Hop'];270.0;0.0
+95;I Should Cheat On You;J'Son;[];;
+96;Can't We Try;Rockell [Duet With Collage];['Electro', 'Dance'];257.0;0.0
+97;If I Had The Chance;Cynthia;['Electro', 'Dance'];255.0;0.0
+98;Cleopatra's Theme;Cleopatra;['Pop'];249.0;0.0
+99;Horse & Carriage;Cam'Ron Featuring Mase;['Rap/Hip Hop'];241.0;1.0

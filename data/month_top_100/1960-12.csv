@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Are You Lonesome To-night?;Elvis Presley With The Jordanaires;[];;
+1;Last Date;Floyd Cramer;['Country'];150.0;0.0
+2;Poetry In Motion;Johnny Tillotson;['R&B', 'Soul'];149.0;0.0
+3;Stay;Maurice Williams & The Zodiacs;['Films/Jeux vidéo', 'Musiques de films'];94.0;0.0
+4;A Thousand Stars;Kathy Young With The Innocents;['Rock'];214.0;0.0
+5;North To Alaska;Johnny Horton;['Country'];169.0;0.0
+6;He Will Break Your Heart;Jerry Butler;['Soul'];167.0;0.0
+7;New Orleans;U.S. Bonds;['Pop'];168.0;0.0
+8;Sailor (Your Home Is The Sea);Lolita;[];169.0;0.0
+9;Let's Go, Let's Go, Let's Go;Hank Ballard And The Midnighters;['Rock'];150.0;0.0
+10;Many Tears Ago;Connie Francis;[];114.0;0.0
+11;Alone At Last;Jackie Wilson;['Soul'];178.0;0.0
+12;Wonderland By Night;Bert Kaempfert And His Orchestra;['Pop'];159.0;0.0
+13;My Girl Josephine;Fats Domino;['Pop'];120.0;0.0
+14;Georgia On My Mind;Ray Charles;['Jazz'];215.0;0.0
+15;Sway;Bobby Rydell;['Pop'];142.0;0.0
+16;You're Sixteen;Johnny Burnette;['Rock', 'Rock & Roll/Rockabilly'];117.0;0.0
+17;Save The Last Dance For Me;The Drifters;['Pop'];144.0;0.0
+18;Perfidia;The Ventures;['Pop'];124.0;0.0
+19;The Hucklebuck;Chubby Checker;['Electro'];148.0;0.0
+20;Lonely Teenager;Dion;['Rock'];138.0;0.0
+21;I'll Save The Last Dance For You;Damita Jo;[];135.0;0.0
+22;Like Strangers;The Everly Brothers;['Dance', 'Pop'];118.0;0.0
+23;Fools Rush In (Where Angels Fear To Tread);Brook Benton;['Dance', 'Pop'];134.0;0.0
+24;I Want To Be Wanted;Brenda Lee;['Rock', 'Rock & Roll/Rockabilly'];187.0;1.0
+25;To Each His Own;The Platters;[];168.0;0.0
+26;I Gotta Know;Elvis Presley With The Jordanaires;[];;
+27;You Talk Too Much;Joe Jones;['R&B', 'Soul'];152.0;0.0
+28;Sleep;Little Willie John;['R&B', 'Soul'];158.0;0.0
+29;Exodus;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];176.0;0.0
+30;Ol' Mac Donald;Frank Sinatra;[];161.0;0.0
+31;Am I The Man;Jackie Wilson;['Soul'];154.0;0.0
+32;Artificial Flowers;Bobby Darin;['Pop', 'Rock'];193.0;0.0
+33;My Dearest Darling;Etta James;['R&B', 'Soul & Funk'];180.0;0.0
+34;Ruby Duby Du;Tobin Mathews & Co.;[];;
+35;Blue Angel;Roy Orbison;['Classique', 'Jazz'];168.0;0.0
+36;Am I Losing You;Jim Reeves;['Country', 'Pop', 'Pop internationale', 'Rock'];157.0;0.0
+37;Natural Born Lover;Fats Domino;[];283.0;0.0
+38;Last Date;Lawrence Welk And His Orchestra;['Pop'];148.0;0.0
+39;Ballad Of The Alamo;Marty Robbins;['Films/Jeux vidéo', 'Musiques de films'];218.0;0.0
+40;Blue Tango;Bill Black's Combo;[];124.0;0.0
+41;Togetherness;Frankie Avalon;['Pop'];149.0;0.0
+42;Gonzo;James Booker;['Pop'];145.0;0.0
+43;Wait For Me;The Playmates;['Pop'];176.0;0.0
+44;Ruby;Ray Charles;['Jazz'];234.0;0.0
+45;Dear John;Pat Boone;['Pop'];169.0;0.0
+46;Alabam;Pat Boone;['Pop'];140.0;0.0
+47;Devil Or Angel;Bobby Vee;['Rock'];141.0;0.0
+48;I Missed Me;Jim Reeves;['Country'];151.0;0.0
+49;Ruby Duby Du From Key Witness;Charles Wolcott;['Rock'];108.0;0.0
+50;Wonderland By Night;Louis Prima;['Pop', 'R&B'];187.0;0.0
+51;Don't Be Cruel;Bill Black's Combo;['Pop'];135.0;0.0
+52;Rubber Ball;Bobby Vee;['Rock'];153.0;0.0
+53;Main Theme from Exodus (Ari's Theme);Mantovani & His Orch.;[];;
+54;Hardhearted Hannah;Ray Charles;['R&B', 'Soul & Funk', 'Soul'];197.0;0.0
+55;Gee Whiz;The Innocents;['R&B', 'Soul'];145.0;0.0
+56;Peter Gunn;Duane Eddy His Twangy Guitar And The Rebels;[];;
+57;Will You Love Me Tomorrow;The Shirelles;['Pop', 'Rock', 'Soul'];128.0;0.0
+58;Once In Awhile;The Chimes;['Jazz'];145.0;0.0
+59;My Heart Has A Mind Of Its Own;Connie Francis;['Pop'];150.0;0.0
+60;Summer's Gone;Paul Anka;['Classique', 'Jazz'];160.0;0.0
+61;Wings Of A Dove;Ferlin Husky;['Country'];139.0;0.0
+62;Let's Think About Living;Bob Luman;['Pop'];117.0;0.0
+63;Love Walked In;Dinah Washington;['Classique', 'Jazz'];126.0;0.0
+64;The Green Leaves Of Summer;The Brothers Four;['Pop'];174.0;0.0
+65;The Sundowners;Billy Vaughn And His Orchestra;[];162.0;0.0
+66;Walk Slow;Little Willie John;['Rock', 'Blues', 'R&B'];111.0;0.0
+67;Send Me The Pillow You Dream On;The Browns Featuring Jim Edward Brown;[];;
+68;Sad Mood;Sam Cooke;['R&B', 'Soul & Funk'];158.0;0.0
+69;The Bells;James Brown;['Pop', 'R&B'];182.0;0.0
+70;Corinna, Corinna;Ray Peterson;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];155.0;0.0
+71;Doll House;Donnie Brooks;[];137.0;0.0
+72;Alabam;Cowboy Copas;['Country'];138.0;0.0
+73;Don't Go To Strangers;Etta Jones;['Jazz'];229.0;0.0
+74;The Big Time Spender (Parts I & II);Cornbread & Biscuits;[];;
+75;Cry Cry Cry;Bobby Bland;['Classique', 'Jazz'];156.0;0.0
+76;Ballad Of The Alamo;Bud & Travis;['Folk'];176.0;0.0
+77;Theme From The Apartment;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+78;Groovy Tonight;Bobby Rydell;['Pop'];130.0;0.0
+79;Ramona;The Blue Diamonds;['Pop'];151.0;0.0
+80;Gee;Jan & Dean;['Rock'];133.0;0.0
+81;Bumble Bee;LaVern Baker;['R&B'];147.0;0.0
+82;Come Rain Or Come Shine;Ray Charles;['Pop', 'R&B'];218.0;0.0
+83;The Hoochi Coochi Coo;Hank Ballard And The Midnighters;['R&B', 'Soul'];163.0;0.0
+84;Serenata;Sarah Vaughan;['Jazz'];162.0;0.0
+85;Gloria's Theme;Adam Wade;['Pop'];171.0;0.0
+86;The Magnificent Seven;Al Caiola And His Orchestra;['Films/Jeux vidéo', 'Musiques de films'];121.0;0.0
+87;Rambling;The Ramblers;['Folk'];221.0;0.0
+88;Wonderland By Night;Anita Bryant;['Pop'];199.0;0.0
+89;Dance By The Light Of The Moon;The Olympics;['Pop'];137.0;0.0
+90;You Are My Sunshine;Johnny And The Hurricanes;[];127.0;0.0
+91;Have You Ever Been Lonely (Have You Ever Been Blue);Teresa Brewer;[];;
+92;Sweet Dreams;Don Gibson;['Country'];128.0;0.0
+93;Psycho;Bobby Hendricks;['Soul'];150.0;0.0
+94;Diamonds And Pearls;The Paradons;['R&B'];138.0;0.0
+95;Little Miss Blue;Dion;['Rock'];139.0;0.0
+96;The Age For Love;Jimmy Charles;['Soul'];151.0;0.0
+97;(You Better) Know What You're Doin';Lloyd Price and His Orchestra;[];;
+98;Wabash Blues;The Viscounts;['Pop'];121.0;0.0
+99;Rockin', Rollin' Ocean;Hank Snow;['Country'];153.0;0.0

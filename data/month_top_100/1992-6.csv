@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Jump;Kris Kross;['Rap/Hip Hop'];195.0;0.0
+1;Under The Bridge;Red Hot Chili Peppers;['Alternative'];265.0;0.0
+2;My Lovin' (You're Never Gonna Get It);En Vogue;['R&B'];281.0;0.0
+3;I'll Be There;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];264.0;0.0
+4;Baby Got Back;Sir Mix-A-Lot;['Rap/Hip Hop'];262.0;0.0
+5;Live And Learn;Joe Public;['R&B'];262.0;0.0
+6;Damn I Wish I Was Your Lover;Sophie B. Hawkins;['Pop'];323.0;0.0
+7;In The Closet;Michael Jackson;['Pop'];390.0;0.0
+8;If You Asked Me To;Celine Dion;['Pop'];234.0;0.0
+9;Ain't 2 Proud 2 Beg;TLC;['R&B', 'Soul'];336.0;0.0
+10;Tennessee;Arrested Development;['Rap/Hip Hop'];272.0;0.0
+11;Achy Breaky Heart;Billy Ray Cyrus;['Country'];204.0;0.0
+12;Save The Best For Last;Vanessa Williams;['Pop'];219.0;0.0
+13;Hold On My Heart;Genesis;['Rock'];278.0;0.0
+14;Tears In Heaven;Eric Clapton;['Rock', 'Rock & Roll/Rockabilly'];280.0;0.0
+15;Bohemian Rhapsody;Queen;['Rock'];354.0;0.0
+16;Everything About You;Ugly Kid Joe;['Rock'];260.0;1.0
+17;One;U2;['Rock'];276.0;0.0
+18;The Best Things In Life Are Free;Luther Vandross And Janet Jackson With BBD And Ralph Tresvant;[];;
+19;Thought I'd Died And Gone To Heaven;Bryan Adams;['Pop'];348.0;0.0
+20;Just Take My Heart;Mr. Big;['Rock'];265.0;0.0
+21;Let's Get Rocked;Def Leppard;['Rock'];295.0;0.0
+22;You Won't See Me Cry;Wilson Phillips;['Pop'];231.0;0.0
+23;Just Another Day;Jon Secada;['Pop'];327.0;0.0
+24;Slow Motion;Color Me Badd;['Pop'];265.0;0.0
+25;I Will Remember You;Amy Grant;[];300.0;0.0
+26;Come & Talk To Me;Jodeci;['R&B'];270.0;0.0
+27;Hazard;Richard Marx;['Pop'];316.0;0.0
+28;Do It To Me;Lionel Richie;['Pop'];364.0;0.0
+29;Make It Happen;Mariah Carey;['Pop', 'Rock'];307.0;0.0
+30;Wishing On A Star;The Cover Girls;['Pop'];281.0;0.0
+31;Nu Nu;Lidell Townsell;['Pop'];199.0;0.0
+32;Lift Me Up;Howard Jones;['Pop'];218.0;0.0
+33;Life Is A Highway;Tom Cochrane;['Rock'];266.0;0.0
+34;T.L.C.;Linear;[];;
+35;Will You Marry Me?;Paula Abdul;['Pop'];265.0;0.0
+36;Not The Only One;Bonnie Raitt;['Country'];250.0;0.0
+37;Silent Prayer;Shanice;['Pop'];303.0;0.0
+38;Masterpiece;Atlantic Starr;['Pop'];295.0;0.0
+39;They Want EFX;Das EFX;['R&B'];221.0;0.0
+40;Everything Changes;Kathy Troccoli;[];262.0;0.0
+41;Breakin' My Heart (Pretty Brown Eyes);Mint Condition;['R&B'];356.0;0.0
+42;High;The Cure;['Alternative'];214.0;0.0
+43;Why Me Baby?;Keith Sweat;['R&B'];253.0;0.0
+44;I'm The One You Need;Jody Watley;['R&B'];262.0;0.0
+45;I Can't Dance;Genesis;['Rock'];241.0;0.0
+46;Money Don't Matter 2 Night;Prince And The N.P.G.;[];;
+47;Your Song;Rod Stewart;['Rock'];287.0;0.0
+48;Just For Tonight;Vanessa Williams;['Pop'];267.0;0.0
+49;Innocent Child;Colourhaus;[];;
+50;Anything At All;Mitch Malloy;['Rock'];242.0;0.0
+51;Remember The Time;Michael Jackson;['Pop'];239.0;0.0
+52;Maria;TKA;['Dance'];417.0;0.0
+53;Please Don't Go;Boyz II Men;['R&B'];268.0;0.0
+54;Closer To Me;The Outfield;['Pop'];197.0;0.0
+55;Come As You Are;Nirvana;['Rock'];218.0;0.0
+56;Keep On Walkin';CeCe Peniston;['Dance'];272.0;0.0
+57;Love Me;Tracie Spencer;['R&B'];303.0;0.0
+58;Helluva;Brotherhood Creed;['Soul'];249.0;0.0
+59;You Think You Know Her;Cause And Effect;['Rock'];283.0;0.0
+60;Smells Like Nirvana;"""Weird Al"" Yankovic";['Films/Jeux vidéo', 'Comédie'];224.0;0.0
+61;Take Time;Chris Walker;['R&B'];260.0;0.0
+62;3-2-1 Pump;Redhead Kingpin & The F.B.I.;['Rap/Hip Hop'];265.0;0.0
+63;Why;Annie Lennox;['Pop'];293.0;0.0
+64;Fall In Love Again;Eddie Money;['Pop'];266.0;0.0
+65;Sometimes I Rhyme Slow;Nice & Smooth;['Rap/Hip Hop'];172.0;1.0
+66;We Got A Love Thang;CeCe Peniston;['R&B'];251.0;0.0
+67;Never Satisfied;Good 2 Go;[];;
+68;Human Touch/Better Days;Bruce Springsteen;[];;
+69;This Is The Last Time;Laura Enea;['Pop'];259.0;0.0
+70;What Goes Around Comes Around;Giggles;['Electro', 'Dance'];223.0;0.0
+71;Honey Love;R. Kelly & Public Announcement;['R&B'];244.0;0.0
+72;The Choice Is Yours;Black Sheep;['R&B'];243.0;0.0
+73;Don't Be Afraid;Aaron Hall;['Soul'];315.0;0.0
+74;Nothing Else Matters;Metallica;['Pop'];388.0;0.0
+75;Everything's Gonna Be Alright;Naughty By Nature;['Rap/Hip Hop', 'Rock', 'Hard Rock'];291.0;1.0
+76;All Woman;Lisa Stansfield;['Pop'];315.0;0.0
+77;If You Want It;2nd II None;['Rap/Hip Hop'];226.0;1.0
+78;Boom! I Got Your Boyfriend;MC Luscious;['Dance', 'Rap/Hip Hop'];266.0;1.0
+79;James Brown Is Dead;L.A. Style;['Dance'];344.0;0.0
+80;Victim Of The Ghetto;The College Boyz;['Rap/Hip Hop'];293.0;1.0
+81;Love You All My Lifetime;Chaka Khan;['Rap/Hip Hop', 'R&B'];284.0;0.0
+82;Thinkin' Back;Color Me Badd;['Pop'];322.0;0.0
+83;Baby Hold On To Me;Gerald Levert (Duet With Eddie Levert);[];;
+84;Goodbye;Tevin Campbell;['R&B'];270.0;0.0
+85;Baby-Baby-Baby;TLC;['R&B', 'Soul'];315.0;0.0
+86;Missing You Now;Michael Bolton;['Pop'];274.0;0.0
+87;You Showed Me;Salt-N-Pepa;['Rap/Hip Hop'];204.0;0.0
+88;I Wanna Rock;Luke;['Rap/Hip Hop'];264.0;1.0
+89;Set Me Free;Clubland Featuring Zemya Hamilton;[];;
+90;Strawberry Letter 23;Tevin Campbell;['R&B'];196.0;0.0
+91;Warm It Up;Kris Kross;['Rap/Hip Hop'];248.0;0.0
+92;Scenario;A Tribe Called Quest;['Rap/Hip Hop'];250.0;0.0
+93;Mama, I'm Coming Home;Ozzy Osbourne;['Rock', 'Hard Rock', 'Metal'];251.0;0.0
+94;Giving Him Something He Can Feel;En Vogue;['R&B'];235.0;0.0
+95;This Is The Way We Roll;M.C. Hammer;['Rap/Hip Hop'];281.0;0.0
+96;All You've Got;RTZ;['Rock'];244.0;0.0
+97;Bad Bad Boys;Midi Maxi & Efti;['Dance'];202.0;0.0
+98;Can't Cry Hard Enough;The Williams Brothers;['Rock'];192.0;0.0
+99;Take My Advice;Kym Sims;['Pop'];283.0;0.0

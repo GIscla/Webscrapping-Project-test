@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;We Are Young;fun. Featuring Janelle Monae;['Alternative'];250.0;0.0
+1;Stronger (What Doesn't Kill You);Kelly Clarkson;['Pop'];221.0;0.0
+2;Glad You Came;The Wanted;['Pop'];197.0;0.0
+3;Somebody That I Used To Know;Gotye Featuring Kimbra;['Alternative', 'Pop Indé', 'Pop'];243.0;0.0
+4;Starships;Nicki Minaj;['Rap/Hip Hop'];210.0;1.0
+5;Set Fire To The Rain;Adele;['Pop'];242.0;0.0
+6;Wild Ones;Flo Rida Featuring Sia;['Rap/Hip Hop'];234.0;0.0
+7;Part Of Me;Katy Perry;['Pop'];216.0;0.0
+8;Take Care;Drake Featuring Rihanna;['Rap/Hip Hop'];277.0;1.0
+9;Turn Me On;David Guetta Featuring Nicki Minaj;['Dance'];199.0;0.0
+10;What Makes You Beautiful;One Direction;['Pop'];200.0;0.0
+11;Young, Wild & Free;Snoop Dogg & Wiz Khalifa Featuring Bruno Mars;['Films/Jeux vidéo', 'Musiques de films'];207.0;1.0
+12;Drive By;Train;['Pop', 'Pop internationale', 'Rock'];196.0;0.0
+13;We Found Love;Rihanna Featuring Calvin Harris;['Pop'];214.0;0.0
+14;Feel So Close;Calvin Harris;['Dance'];207.0;0.0
+15;Ass Back Home;Gym Class Heroes Featuring Neon Hitch;['Alternative'];222.0;1.0
+16;The Motto;Drake Featuring Lil Wayne;['Rap/Hip Hop'];181.0;1.0
+17;Call Me Maybe;Carly Rae Jepsen;['Pop'];193.0;0.0
+18;Eyes Open;Taylor Swift;['Films/Jeux vidéo', 'Musiques de films'];244.0;0.0
+19;Good Feeling;Flo Rida;['Rap/Hip Hop'];248.0;0.0
+20;International Love;Pitbull Featuring Chris Brown;['Pop'];227.0;0.0
+21;Rack City;Tyga;['Rap/Hip Hop'];203.0;1.0
+22;Domino;Jessie J;['Pop'];231.0;0.0
+23;Sexy And I Know It;LMFAO;['Dance', 'Pop'];199.0;0.0
+24;Turn Up The Music;Chris Brown;['Pop'];228.0;0.0
+25;It Will Rain;Bruno Mars;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];257.0;0.0
+26;So Good;B.o.B;['Rap/Hip Hop'];213.0;0.0
+27;Ni**as in Paris;Jay Z Kanye West;['Rap/Hip Hop'];219.0;1.0
+28;Party Rock Anthem;LMFAO Featuring Lauren Bennett & GoonRock;['Pop'];265.0;0.0
+29;Not Over You;Gavin DeGraw;['Pop', 'Singer & Songwriter'];218.0;0.0
+30;Moves Like Jagger;Maroon 5 Featuring Christina Aguilera;['Electro', 'Dance'];203.0;0.0
+31;Good Girl;Carrie Underwood;['Country'];205.0;0.0
+32;A Woman Like You;Lee Brice;['Country'];209.0;0.0
+33;Birthday Cake;Rihanna Featuring Chris Brown;['Pop'];78.0;0.0
+34;Safe & Sound;Taylor Swift Featuring The Civil Wars;['Pop', 'Singer & Songwriter'];249.0;0.0
+35;A Thousand Years;Christina Perri;['Films/Jeux vidéo', 'Musiques de films'];285.0;0.0
+36;Talk That Talk;Rihanna Featuring Jay-Z;['Pop', 'Singer & Songwriter'];218.0;0.0
+37;Paradise;Coldplay;['Rock'];278.0;0.0
+38;Someone Like You;Adele;['Pop'];285.0;0.0
+39;Climax;Usher;['R&B'];232.0;0.0
+40;Alone With You;Jake Owen;['Country'];211.0;0.0
+41;Ours;Taylor Swift;['Pop'];238.0;0.0
+42;Rolling In The Deep;Adele;['Pop'];228.0;1.0
+43;Rumour Has It;Adele;['Pop'];223.0;0.0
+44;Tonight Is The Night;Outasight;['Pop'];190.0;0.0
+45;Springsteen;Eric Church;['Country'];263.0;0.0
+46;Drink On It;Blake Shelton;['Country'];211.0;0.0
+47;The One That Got Away;Katy Perry;['Pop'];227.0;0.0
+48;Over You;Miranda Lambert;['Country'];253.0;0.0
+49;Without You;David Guetta Featuring Usher;['Dance'];208.0;0.0
+50;Strip;Chris Brown Featuring Kevin K-MAC McCall;['Soul'];165.0;0.0
+51;Brokenhearted;Karmin;['Dance', 'Pop'];228.0;0.0
+52;Dancin' Away With My Heart;Lady Antebellum;['Country'];231.0;0.0
+53;Love On Top;Beyonce;['Pop', 'Pop internationale', 'Rock'];267.0;0.0
+54;I Won't Give Up;Jason Mraz;['Pop'];240.0;0.0
+55;Fly Over States;Jason Aldean;['Country'];218.0;0.0
+56;Drank In My Cup;Kirko Bangz;['R&B'];232.0;1.0
+57;Somethin' 'Bout A Truck;Kip Moore;['Country'];213.0;0.0
+58;UP!;LoveRance Featuring IamSu & Skipper or 50 Cent;[];;
+59;Drunk On You;Luke Bryan;['Pop'];213.0;0.0
+60;Can't Get Enough;J. Cole Featuring Trey Songz;['Rap/Hip Hop', 'R&B'];225.0;0.0
+61;Ayy Ladies;Travis Porter Featuring Tyga;['Rap/Hip Hop'];213.0;1.0
+62;Banjo;Rascal Flatts;['Country'];257.0;0.0
+63;Faded;Tyga Featuring Lil Wayne;['Rap/Hip Hop'];203.0;0.0
+64;Everybody Talks;Neon Trees;['Alternative'];177.0;1.0
+65;Lights;Ellie Goulding;['Pop'];210.0;0.0
+66;Better Than I Used To Be;Tim McGraw;['Country'];201.0;0.0
+67;Too Close;Alex Clare;['Pop'];256.0;0.0
+68;Levels;Avicii;['Dance'];199.0;0.0
+69;Some Nights;fun.;['Alternative'];277.0;1.0
+70;Magic;Future Featuring T.I.;['Rap/Hip Hop'];211.0;1.0
+71;Where I Come From;Montgomery Gentry;['Country'];201.0;0.0
+72;Home;Dierks Bentley;['Country'];182.0;0.0
+73;Love's Gonna Make It Alright;George Strait;['Country'];228.0;0.0
+74;Midnight City;M83.;['Alternative', 'Rock'];244.0;0.0
+75;Bangarang;Skrillex Featuring Sirah;['Dance'];215.0;1.0
+76;Princess Of China;Coldplay Featuring Rihanna;[];237.0;0.0
+77;You Don't Know Her Like I Do;Brantley Gilbert;['Country'];287.0;0.0
+78;No Hurry;Zac Brown Band;['Country'];226.0;0.0
+79;Do It Like You;Diggy Featuring Jeremih;['Rap/Hip Hop'];233.0;0.0
+80;4 AM;Melanie Fiona;['R&B'];290.0;0.0
+81;Even If It Breaks Your Heart;Eli Young Band;['Country'];220.0;0.0
+82;Come Away To The Water;Maroon 5 Featuring Rozzi Crane;[];;
+83;You Gonna Fly;Keith Urban;['Country'];216.0;0.0
+84;You Da One;Rihanna;['Pop'];200.0;1.0
+85;Scary Monsters And Nice Sprites;Skrillex;['Electro'];243.0;0.0
+86;Sorry For Party Rocking;LMFAO;['Dance', 'Pop'];262.0;0.0
+87;Leave You Alone;Young Jeezy Featuring Ne-Yo;['Rap/Hip Hop'];329.0;0.0
+88;Lonely Boy;The Black Keys;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];193.0;0.0
+89;Mirror;Lil Wayne Featuring Bruno Mars;['Rap/Hip Hop'];229.0;0.0
+90;Sex Ain't Better Than Love;Trey Songz;['R&B'];263.0;0.0
+91;This Ole Boy;Craig Morgan;['Country'];263.0;0.0
+92;Reality;Kenny Chesney;['Country'];210.0;0.0
+93;Bully;Shinedown;['Rock'];242.0;0.0
+94;Mr. Wrong;Mary J. Blige Featuring Drake;['R&B'];241.0;0.0
+95;HYFR (Hell Ya F*****g Right);Drake Featuring Lil Wayne;['Rap/Hip Hop'];31.0;0.0
+96;TTYLXOX;Bella Thorne;['Films/Jeux vidéo', 'Musiques de films'];153.0;0.0
+97;I Do;Young Jeezy Featuring Jay-Z & Andre 3000;['Rap/Hip Hop'];269.0;0.0
+98;We Run The Night;Havana Brown Featuring Pitbull;['Electro', 'Dance'];228.0;0.0
+99;Crew Love;Drake Featuring The Weeknd;['Rap/Hip Hop'];208.0;1.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;It's All In The Game;Tommy Edwards;['Soul'];161.0;0.0
+1;It's Only Make Believe;Conway Twitty;['Country'];132.0;0.0
+2;Topsy II;Cozy Cole;['R&B'];214.0;0.0
+3;Tom Dooley;The Kingston Trio;['Rock', 'Rock & Roll/Rockabilly'];324.0;0.0
+4;Rock-in Robin;Bobby Day;['Electro', 'Dance'];156.0;0.0
+5;Chantilly Lace;Big Bopper;['Rock'];141.0;0.0
+6;Tea For Two Cha Cha;The Tommy Dorsey Orchestra;['Rock', 'Rock & Roll/Rockabilly'];175.0;0.0
+7;The End;Earl Grant;['Jazz'];140.0;0.0
+8;Tears On My Pillow;Little Anthony And The Imperials;['Jazz'];137.0;0.0
+9;Bird Dog;The Everly Brothers;['Pop'];138.0;0.0
+10;To Know Him, Is To Love Him;The Teddy Bears;['Pop'];144.0;0.0
+11;Susie Darlin';Robin Luke;['Pop'];159.0;0.0
+12;I Got A Feeling;Ricky Nelson;['Pop'];125.0;0.0
+13;Lonesome Town;Ricky Nelson;['Pop'];133.0;0.0
+14;Queen Of The Hop;Bobby Darin;['Electro', 'Dance'];127.0;0.0
+15;Mexican Hat Rock;The Applejacks;['Pop'];128.0;0.0
+16;Pussy Cat;The Ames Brothers;[];145.0;1.0
+17;Nel Blu Dipinto Di Blu (Volare);Domenico Modugno;['Pop'];216.0;0.0
+18;Forget Me Not;Kalin Twins;['Rock'];146.0;0.0
+19;Near You;Roger Williams;['Pop'];170.0;0.0
+20;Little Star;The Elegants;['Pop'];161.0;0.0
+21;Call Me;Johnny Mathis;['Pop', 'R&B'];165.0;0.0
+22;You Cheated;The Shields;['Jazz'];151.0;0.0
+23;The Day The Rains Came;Jane Morgan;['Pop'];177.0;0.0
+24;There Goes My Heart;Joni James;['Pop'];153.0;0.0
+25;Hideaway;The Four Esquires;['Pop'];141.0;0.0
+26;How The Time Flies;Jerry Wallace;['Country'];148.0;0.0
+27;Firefly;Tony Bennett;['Jazz'];117.0;0.0
+28;Ten Commandments Of Love;Harvey & The Moonglows;['R&B', 'Soul'];244.0;0.0
+29;The Day The Rains Came;Raymond Lefevre and His Orchestra;[];;
+30;For My Good Fortune;Pat Boone;['Pop'];139.0;0.0
+31;A Lover's Question;Clyde McPhatter;['R&B'];150.0;0.0
+32;The Blob;The Five Blobs;['Pop'];160.0;0.0
+33;Summertime Blues;Eddie Cochran;['Rock'];119.0;0.0
+34;Need You;Donnie Owens;['Pop'];140.0;0.0
+35;With Your Love;Jack Scott;['Rock', 'Rock & Roll/Rockabilly'];123.0;0.0
+36;Topsy I;Cozy Cole;['Rock'];192.0;0.0
+37;Devoted To You;The Everly Brothers;['Pop', 'Rock'];144.0;0.0
+38;The Secret;Gordon MacRae;[];188.0;0.0
+39;No One Knows;Dion & The Belmonts;['Pop', 'Rock'];153.0;0.0
+40;I'll Wait For You;Frankie Avalon;['Pop'];176.0;0.0
+41;All Over Again;Johnny Cash;['Country'];132.0;0.0
+42;Poor Boy;The Royaltones;['Rock'];141.0;0.0
+43;Fallin';Connie Francis;[];133.0;0.0
+44;Leave Me Alone (Let Me Cry);Dicky Doo And The Don'ts;['Rock', 'Rock & Roll/Rockabilly'];135.0;0.0
+45;Treasure Of Your Love;Eileen Rodgers;['Pop'];171.0;0.0
+46;A Letter To An Angel;Jimmy Clanton;['Pop'];173.0;0.0
+47;La-Do-Dada;Dale Hawkins;['Pop'];155.0;0.0
+48;Love Makes The World Go 'round;Perry Como;['Pop'];171.0;0.0
+49;I'll Remember Tonight;Pat Boone;['Pop'];146.0;0.0
+50;Baby Face;Little Richard;['R&B'];133.0;0.0
+51;Non Dimenticar (Don't Forget);Nat King Cole;['Pop'];170.0;0.0
+52;Guaglione;Perez Prado And His Orchestra;['Pop'];145.0;0.0
+53;Beep Beep;The Playmates;['Rock'];151.0;0.0
+54;This Little Girl's Gone Rockin';Ruth Brown;['Rock'];108.0;0.0
+55;Give Myself A Party;Don Gibson;['Country'];157.0;0.0
+56;Promise Me, Love;Andy Williams;['Electro', 'Dance'];142.0;0.0
+57;Come On, Let's Go;Ritchie Valens;['Pop', 'Rock'];125.0;0.0
+58;Just A Dream;Jimmy Clanton And His Rockets;['R&B'];150.0;0.0
+59;Mandolins In The Moonlight;Perry Como;['Pop'];163.0;0.0
+60;Gee, But It's Lonely;Pat Boone;['Pop'];147.0;0.0
+61;"Nine More Miles (The ""Faster-Faster"" Song)";Georgie Young;['Pop'];152.0;0.0
+62;Love Is All We Need;Tommy Edwards;['Rock'];156.0;0.0
+63;Fibbin';Patti Page;['Rock', 'Rock & Roll/Rockabilly'];113.0;0.0
+64;I Got Stung;Elvis Presley;['Rock'];110.0;0.0
+65;Look Who's Blue;Don Gibson;['Country'];148.0;0.0
+66;Tunnel Of Love;Doris Day;['Pop'];131.0;0.0
+67;The Hula Hoop Song;Georgia Gibbs;['Rock'];141.0;0.0
+68;Just Young;Andy Rose;['Rock'];139.0;0.0
+69;What Do I Care;Johnny Cash;['Country', 'Pop'];124.0;0.0
+70;No One But You (In My Heart);The Ames Brothers;['Pop'];173.0;0.0
+71;Go Chase A Moonbeam;Jerry Vale;[];152.0;0.0
+72;Down The Aisle Of Love;The Quin-Tones;['R&B'];169.0;0.0
+73;When I Grow Too Old To Dream;Ed Townsend;['R&B'];148.0;0.0
+74;Walking Along;The Diamonds;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+75;Mr. Success;Frank Sinatra;[];154.0;0.0
+76;Light Of Love;Peggy Lee;['Pop'];90.0;0.0
+77;I Wish;The Platters;['Pop'];162.0;0.0
+78;Win Your Love For Me;Sam Cooke;['R&B', 'Soul & Funk'];163.0;0.0
+79;The Ballad Of Thunder Road;Robert Mitchum;['Pop'];151.0;0.0
+80;Blue Ribbon Baby;Tommy Sands And The Raiders;[];;
+81;Hoopa Hoola;Betty Johnson;['Pop'];130.0;0.0
+82;Cimarron (Roll On);Billy Vaughn And His Orchestra;['Jazz'];153.0;0.0
+83;Just Young;Paul Anka;['Dance', 'Pop'];147.0;0.0
+84;Patricia;Perez Prado And His Orchestra;[];134.0;0.0
+85;The Mocking Bird;The Four Lads;['Pop'];140.0;0.0
+86;Jealous Heart;Tab Hunter;['Pop'];135.0;0.0
+87;Cannonball;Duane Eddy His Twangy Guitar And The Rebels;[];;
+88;The Ways Of A Woman In Love;Johnny Cash And The Tennessee Two;['Country'];135.0;0.0
+89;Somebody Touched Me;Buddy Knox with the Rhythm Orchids;[];;
+90;The Hula Hoop Song;Teresa Brewer;['Rock'];173.0;0.0
+91;Dreamy Eyes;Johnny Tillotson;[];154.0;0.0
+92;Please Love Me Forever;Tommy Edwards;['Pop'];157.0;0.0
+93;My True Love;Jack Scott;['Rock', 'Rock & Roll/Rockabilly'];165.0;0.0
+94;You Cheated;The Slades;['Pop'];151.0;0.0
+95;It's Raining Outside;The Platters;['Pop', 'Rock'];172.0;0.0
+96;Itchy Twitchy Feeling;Bobby Hendricks;['Rock'];151.0;0.0
+97;A Part Of Me;Jimmy Clanton;['Electro', 'Dance'];174.0;0.0
+98;Born Too Late;Poni-Tails;['Pop'];139.0;0.0
+99;That Old Black Magic;Louis Prima And Keely Smith;['Jazz'];176.0;0.0

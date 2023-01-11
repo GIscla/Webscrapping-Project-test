@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Sussudio;Phil Collins;['Pop', 'Rock'];263.0;0.0
+1;A View To A Kill;Duran Duran;['Rock'];217.0;0.0
+2;Raspberry Beret;Prince And The Revolution;['Soul & Funk'];216.0;0.0
+3;Heaven;Bryan Adams;['Pop'];243.0;0.0
+4;The Search Is Over;Survivor;['Pop'];253.0;0.0
+5;Would I Lie To You?;Eurythmics;['Pop'];267.0;0.0
+6;You Give Good Love;Whitney Houston;['Pop'];249.0;0.0
+7;Everytime You Go Away;Paul Young;['Pop'];324.0;0.0
+8;Voices Carry;'Til Tuesday;['Pop'];260.0;0.0
+9;Angel;Madonna;['Pop'];236.0;0.0
+10;Glory Days;Bruce Springsteen;['Rock'];254.0;0.0
+11;The Goonies `R' Good Enough;Cyndi Lauper;['Films/Jeux vidéo', 'Musiques de films'];218.0;0.0
+12;If You Love Somebody Set Them Free;Sting;['Pop'];254.0;0.0
+13;Everybody Wants To Rule The World;Tears For Fears;['Pop'];251.0;0.0
+14;Sentimental Street;Night Ranger;['Rock'];253.0;0.0
+15;Things Can Only Get Better;Howard Jones;['Pop'];235.0;0.0
+16;Crazy In The Night (Barking At Airplanes);Kim Carnes;['Pop'];217.0;0.0
+17;Smuggler's Blues;Glenn Frey;['Pop'];231.0;0.0
+18;Walking On Sunshine;Katrina And The Waves;['Pop'];238.0;0.0
+19;In My House;Mary Jane Girls;['R&B'];302.0;0.0
+20;19;Paul Hardcastle;['Pop'];210.0;0.0
+21;Tough All Over;John Cafferty & The Beaver Brown Band;['Rock'];280.0;0.0
+22;Shout;Tears For Fears;['Rock'];392.0;0.0
+23;Just As I Am;Air Supply;['Pop'];283.0;0.0
+24;Get It On (Bang A Gong);The Power Station;['Pop', 'Rock'];329.0;0.0
+25;Getcha Back;The Beach Boys;['Rock'];179.0;0.0
+26;People Are People;Depeche Mode;['Rock'];224.0;0.0
+27;Cannonball;Supertramp;['Rock'];458.0;0.0
+28;Never Surrender;Corey Hart;['Films/Jeux vidéo', 'Musiques de films'];293.0;0.0
+29;Possession Obsession;Daryl Hall John Oates;['Pop'];245.0;0.0
+30;Who's Holding Donna Now;Debarge;['R&B'];268.0;0.0
+31;You Spin Me Round (Like A Record);Dead Or Alive;['Pop'];196.0;0.0
+32;What About Love?;Heart;['Pop'];222.0;0.0
+33;Freeway Of Love;Aretha Franklin;['R&B'];352.0;0.0
+34;The Power Of Love;Huey Lewis & The News;['Rock'];234.0;0.0
+35;Little By Little;Robert Plant;['Rock'];284.0;0.0
+36;Suddenly;Billy Ocean;['Pop', 'R&B'];231.0;0.0
+37;Find A Way;Amy Grant;['Pop'];208.0;0.0
+38;Everything She Wants;Wham!;['Pop'];392.0;0.0
+39;Not Enough Love In The World;Don Henley;['Rock'];234.0;0.0
+40;Axel F;Harold Faltermeyer;['Films/Jeux vidéo', 'Musiques de films'];184.0;0.0
+41;Rock Me Tonight;Freddie Jackson;['R&B'];284.0;0.0
+42;Fresh;Kool & The Gang;['R&B'];264.0;0.0
+43;Centerfield;John Fogerty;['Rock'];231.0;0.0
+44;State Of the Heart;Rick Springfield;['Pop'];242.0;0.0
+45;Summer Of '69;Bryan Adams;['Pop'];216.0;0.0
+46;Black Cars;Gino Vannelli;['Rock'];263.0;0.0
+47;Forever;Kenny Loggins;['Pop'];264.0;0.0
+48;Let Him Go;Animotion;['Pop'];267.0;0.0
+49;Like A Surgeon;"""Weird Al"" Yankovic";['Films/Jeux vidéo', 'Comédie'];210.0;0.0
+50;Everything I Need;Men At Work;['Pop'];211.0;0.0
+51;We Don't Need Another Hero (Thunderdome);Tina Turner;['Pop'];255.0;0.0
+52;St. Elmo's Fire (Man In Motion);John Parr;['Films/Jeux vidéo', 'Musiques de films', 'Bandes originales'];251.0;0.0
+53;Make It Better (Forget About Me);Tom Petty And The Heartbreakers;['Rock'];263.0;0.0
+54;The NeverEnding Story;Limahl;['Films/Jeux vidéo', 'Musiques de films'];201.0;0.0
+55;People Get Ready;Jeff Beck & Rod Stewart;['Rock'];292.0;0.0
+56;Reaction To Action;Foreigner;['Rock', 'Hard Rock'];212.0;0.0
+57;Call Me;Go West;['Pop'];252.0;0.0
+58;I Wonder If I Take You Home;Lisa Lisa And Cult Jam With Full Force;['R&B'];237.0;0.0
+59;Your Love Is King;Sade;['Pop'];219.0;0.0
+60;Invincible (Theme From The Legend Of Billie Jean);Pat Benatar;[];;
+61;Stir It Up;Patti LaBelle;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+62;Wake Up (Next To You);Graham Parker & The Shot;[];;
+63;Willie & The Hand Jive;George Thorogood & The Destroyers;['Rock'];243.0;0.0
+64;Animal Instinct;Commodores;['R&B'];289.0;0.0
+65;Mystery Lady;Billy Ocean;['Pop', 'R&B'];234.0;0.0
+66;All You Zombies;Hooters;['Pop'];352.0;0.0
+67;When Your Heart Is Weak;Cock Robin;['Pop'];278.0;0.0
+68;Don't You (Forget About Me);Simple Minds;['Pop'];259.0;0.0
+69;Cherish;Kool & The Gang;['R&B'];290.0;0.0
+70;Through the Fire;Chaka Khan;['Dance', 'Rock'];288.0;0.0
+71;Life In One Day;Howard Jones;['Pop'];221.0;0.0
+72;(Closest Thing To) Perfect;Jermaine Jackson;['R&B'];229.0;0.0
+73;Tired Of Being Blonde;Carly Simon;['Pop'];287.0;0.0
+74;Burning Flame;Vitamin Z;[];;
+75;Crazy For You;Madonna;['Pop'];225.0;0.0
+76;Frankie;Sister Sledge;['Pop'];256.0;0.0
+77;Just A Gigolo/I Ain't Got Nobody;David Lee Roth;['Rock'];278.0;0.0
+78;Meeting In The Ladies Room;Klymaxx;['R&B'];315.0;0.0
+79;Smooth Operator;Sade;['R&B'];256.0;0.0
+80;We Are The World;USA For Africa;['Pop'];427.0;0.0
+81;Hold Me;Menudo;['Latino'];249.0;0.0
+82;One Lonely Night;REO Speedwagon;['Pop'];201.0;0.0
+83;My Toot Toot;Jean Knight;['R&B', 'Soul & Funk'];262.0;0.0
+84;Take No Prisoners (In The Game Of Love);Peabo Bryson;[];;
+85;Lay It Down;Ratt;['Rock', 'Hard Rock'];205.0;0.0
+86;One Night In Bangkok;Murray Head;['Pop'];193.0;0.0
+87;Bit By Bit (Theme From Fletch);Stephanie Mills;['Rock'];208.0;0.0
+88;See What Love Can Do;Eric Clapton;['Pop', 'Rock'];238.0;0.0
+89;Say You're Wrong;Julian Lennon;['Pop'];209.0;0.0
+90;Rhythm Of The Night;Debarge;['R&B'];229.0;0.0
+91;Alone Again;Dokken;['Rock', 'Hard Rock'];264.0;0.0
+92;Go For Soda;Kim Mitchell;['Rock'];205.0;0.0
+93;Dangerous;Natalie Cole;[];229.0;0.0
+94;The Lady Of My Heart;Jack Wagner;[];;
+95;Do You Wanna Get Away;Shannon;['Dance'];295.0;0.0
+96;Obsession;Animotion;['Alternative', 'Rock indé', 'Dance', 'Pop', 'Rock'];323.0;0.0
+97;Some Like It Hot;The Power Station;['Pop', 'Rock'];305.0;0.0
+98;Lucky In Love;Mick Jagger;['Rock'];373.0;0.0
+99;New Attitude;Patti LaBelle;['Pop'];338.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Windy;The Association;['Pop', 'Rock'];176.0;0.0
+1;Groovin';The Young Rascals;['Pop', 'Rock'];147.0;0.0
+2;Little Bit O' Soul;The Music Explosion;['Rock'];141.0;0.0
+3;San Francisco (Be Sure To Wear Flowers In Your Hair);Scott McKenzie;['Pop'];178.0;0.0
+4;She'd Rather Be With Me;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];141.0;0.0
+5;Respect;Aretha Franklin;['Pop'];147.0;0.0
+6;Can't Take My Eyes Off You;Frankie Valli;['Pop'];203.0;0.0
+7;Let's Live For Today;The Grass Roots;['Pop'];166.0;0.0
+8;Come On Down To My Boat;Every Mothers' Son;['Pop'];148.0;0.0
+9;Don't Sleep In The Subway;Petula Clark;['Pop'];176.0;0.0
+10;Ding Dong! The Witch Is Dead;The Fifth Estate;['Alternative', 'Rock indé', 'Rock'];124.0;0.0
+11;Up -- Up And Away;The 5th Dimension;['Pop'];289.0;0.0
+12;The Tracks Of My Tears;Johnny Rivers;['Country'];175.0;0.0
+13;New York Mining Disaster 1941 (Have You Seen My Wife, Mr. Jones);Bee Gees;[];;
+14;Alfie;Dionne Warwick;['Jazz'];166.0;0.0
+15;Sunday Will Never Be The Same;Spanky And Our Gang;['Pop'];176.0;0.0
+16;Somebody To Love;Jefferson Airplane;['Pop', 'Rock'];174.0;0.0
+17;C'mon Marianne;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+18;Light My Fire;The Doors;['Rock'];425.0;0.0
+19;7 Rooms Of Gloom;Four Tops;['R&B'];154.0;0.0
+20;Ain't No Mountain High Enough;Marvin Gaye & Tammi Terrell;['R&B'];146.0;0.0
+21;Society's Child (Baby I've Been Thinking);Janis Ian;['Pop'];192.0;0.0
+22;Here We Go Again;Ray Charles;['Jazz', 'R&B'];238.0;0.0
+23;Do It Again A Little Bit Slower;Jon & Robin And The In Crowd;['Rock'];149.0;0.0
+24;I Was Made To Love Her;Stevie Wonder;['Pop'];155.0;0.0
+25;For Your Precious Love;Oscar Toney, Jr.;['R&B', 'Soul & Funk'];303.0;0.0
+26;Release Me (And Let Me Love Again);Engelbert Humperdinck;['Pop'];167.0;0.0
+27;A Whiter Shade Of Pale;Procol Harum;['Pop'];248.0;0.0
+28;Pay You Back With Interest;The Hollies;['Rock'];163.0;0.0
+29;Mary In The Morning;Al Martino;['Pop', 'Rock'];177.0;0.0
+30;Soul Finger;Bar-Kays;['R&B', 'Soul'];142.0;0.0
+31;Make Me Yours;Bettye Swann;['R&B', 'Soul'];195.0;0.0
+32;White Rabbit;Jefferson Airplane;['Pop', 'Rock'];150.0;0.0
+33;Shake, Rattle & Roll;Arthur Conley;['R&B', 'Soul'];179.0;0.0
+34;You Must Have Been A Beautiful Baby;The Dave Clark Five;['Pop'];137.0;0.0
+35;Mercy, Mercy, Mercy;The Buckinghams;['Pop'];148.0;0.0
+36;Come To The Sunshine;Harpers Bizarre;['Pop', 'Rock'];153.0;0.0
+37;Don't Blame The Children;Sammy Davis Jr.;[];;
+38;I Take It Back;Sandy Posey;['Pop'];145.0;0.0
+39;All I Need;The Temptations;['Soul & Funk'];191.0;0.0
+40;Step Out Of Your Mind;The American Breed;['Pop', 'Rock'];139.0;0.0
+41;More Love;Smokey Robinson & The Miracles;['R&B'];168.0;0.0
+42;Bowling Green;The Everly Brothers;['Pop', 'Rock'];166.0;0.0
+43;Tramp;Otis & Carla;['Rock'];181.0;0.0
+44;Carrie-Anne;The Hollies;['Rock'];175.0;0.0
+45;For Your Love;Peaches & Herb;['Pop'];157.0;0.0
+46;Mirage;Tommy James And The Shondells;['Pop'];159.0;0.0
+47;I Got Rhythm;The Happenings;['Pop'];178.0;0.0
+48;Don't Go Out Into The Rain (You're Going To Melt);Herman's Hermits;['Pop', 'Rock'];122.0;0.0
+49;Jackson;Nancy Sinatra & Lee Hazlewood;['Pop'];167.0;0.0
+50;Sound Of Love;The Five Americans;[];144.0;0.0
+51;The Oogum Boogum Song;Brenton Wood;[];153.0;0.0
+52;Love Me Tender;Percy Sledge;[];182.0;0.0
+53;Airplane Song (My Airplane);The Royal Guardsmen;[];;
+54;You Gave Me Something (And Everything's Alright);Fantastic Four;[];194.0;0.0
+55;Woman Like That, Yeah;Joe Tex;[];193.0;0.0
+56;Why (Am I Treated So Bad);The Sweet Inspirations;[];169.0;0.0
+57;Silence Is Golden;The Tremeloes;[];189.0;0.0
+58;Graduation Day;The Arbors;['Rock'];149.0;0.0
+59;Soul Dance Number Three;Wilson Pickett;['R&B'];162.0;0.0
+60;Baby Please Come Back Home;J.J. Barnes;[];;
+61;You Wanted Someone To Play With (I Wanted Someone To Love);Frankie Laine;[];;
+62;There Goes My Everything;Engelbert Humperdinck;['Pop'];172.0;0.0
+63;Somebody Help Me;The Spencer Davis Group;['Alternative', 'Rock'];124.0;0.0
+64;Oooh, Baby Baby;The Five Stairsteps;['R&B'];151.0;0.0
+65;Summer And Sandy;Lesley Gore;['Pop'];179.0;0.0
+66;Who's Lovin' You;Brenda & The Tabulations;['R&B', 'Soul & Funk', 'Soul'];193.0;0.0
+67;It's Cold Outside;The Choir;['R&B'];169.0;0.0
+68;Soothe Me;Sam & Dave;['Rock'];152.0;0.0
+69;Stay Together Young Lovers;Brenda & The Tabulations;['R&B', 'Soul & Funk', 'Soul'];192.0;0.0
+70;One By One;Blues Magoos;['Rock'];170.0;0.0
+71;You Only Live Twice;Nancy Sinatra;['Pop', 'Singer & Songwriter'];163.0;0.0
+72;Now I Know;Jack Jones;['Pop'];171.0;0.0
+73;Have You Seen Her Face;The Byrds;['Pop'];160.0;0.0
+74;Black Sheep;Sam The Sham and the Pharaohs;['Pop', 'Singer & Songwriter'];167.0;0.0
+75;Hypnotized;Linda Jones;['R&B', 'Soul & Funk', 'Soul'];167.0;0.0
+76;I Like The Way;Tommy James And The Shondells;['Pop'];163.0;0.0
+77;Show Business;Lou Rawls;['R&B'];155.0;0.0
+78;You Were On My Mind;Crispian St. Peters;['Pop'];162.0;0.0
+79;Daylight Savin' Time;Keith;[];;
+80;I'll Do It For You;Toussaint McCall;['R&B'];162.0;0.0
+81;Night And Day;Sergio Mendes & Brasil '66;['Jazz'];187.0;0.0
+82;I Stand Accused (Of Loving You);The Glories;[];;
+83;Let The Good Times Roll & Feel So Good;Bunny Sigler;['Pop'];175.0;0.0
+84;Groovy Summertime;The Love Generation;['Pop'];147.0;0.0
+85;I'll Always Have Faith In You;Carla Thomas;['R&B'];173.0;0.0
+86;Take Me (Just As I Am);Solomon Burke;['Rock'];183.0;0.0
+87;Lonely Drifter;Pieces Of Eight;[];;
+88;Give Me Time;Dusty Springfield;['Pop'];186.0;0.0
+89;Pictures Of Lily;The Who;['Pop'];164.0;0.0
+90;Why (Am I Treated So Bad);Bobby Powell;['R&B', 'Soul & Funk'];143.0;0.0
+91;Up-Up And Away;The Johnny Mann Singers;['Pop'];152.0;0.0
+92;My World Fell Down;Sagittarius;['Pop'];174.0;0.0
+93;To Be A Lover;Gene Chandler;['Rock', 'Blues'];177.0;0.0
+94;(I Wanna) Testify;The Parliaments;['Rock', 'Rock & Roll/Rockabilly'];183.0;0.0
+95;Your Unchanging Love;Marvin Gaye;['R&B'];183.0;0.0
+96;Washed Ashore (On A Lonely Island In The Sea);The Platters;['R&B', 'Soul'];169.0;0.0
+97;Don't Rock The Boat;Eddie Floyd;['R&B', 'Soul'];123.0;0.0
+98;Mr. Pleasant;The Kinks;['Rock'];180.0;0.0
+99;Joy;Mitch Ryder;['Rock'];191.0;0.0

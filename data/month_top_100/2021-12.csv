@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Easy On Me;Adele;['Pop', 'Pop internationale', 'Rock'];224.0;0.0
+1;Stay;The Kid LAROI & Justin Bieber;['Pop'];141.0;1.0
+2;Industry Baby;Lil Nas X & Jack Harlow;['Rap/Hip Hop', 'Pop'];212.0;1.0
+3;All Too Well (Taylor's Version);Taylor Swift;['Pop'];329.0;0.0
+4;Oh My God;Adele;['Pop', 'Pop internationale', 'Rock'];225.0;0.0
+5;Shivers;Ed Sheeran;['Pop'];207.0;0.0
+6;Heat Waves;Glass Animals;['Pop'];238.0;0.0
+7;Bad Habits;Ed Sheeran;['Pop'];230.0;0.0
+8;Need To Know;Doja Cat;['Pop'];210.0;1.0
+9;Smokin Out The Window;Silk Sonic (Bruno Mars & Anderson .Paak);['Pop'];183.0;0.0
+10;Cold Heart (PNAU Remix);Elton John & Dua Lipa;['Pop'];202.0;0.0
+11;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+12;Fancy Like;Walker Hayes;['Country', 'Pop'];161.0;0.0
+13;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+14;Good 4 U;Olivia Rodrigo;['Pop'];178.0;1.0
+15;Essence;Wizkid Featuring Justin Bieber & Tems;['Pop'];263.0;0.0
+16;Way 2 Sexy;Drake Featuring Future & Young Thug;[];183.0;0.0
+17;I Drink Wine;Adele;['Pop', 'Pop internationale', 'Rock'];376.0;0.0
+18;You Right;Doja Cat & The Weeknd;['Pop'];186.0;1.0
+19;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+20;One Right Now;Post Malone & The Weeknd;['Rap/Hip Hop'];193.0;1.0
+21;Beggin';Maneskin;['Pop'];211.0;0.0
+22;My Little Love;Adele;['Pop', 'Pop internationale', 'Rock'];389.0;0.0
+23;Levitating;Dua Lipa;['Pop'];203.0;0.0
+24;Kiss Me More;Doja Cat Featuring SZA;['Pop'];208.0;1.0
+25;Can I Get It;Adele;['Pop', 'Pop internationale', 'Rock'];210.0;0.0
+26;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+27;If I Didn't Love You;Jason Aldean & Carrie Underwood;['Country'];212.0;0.0
+28;My Universe;Coldplay x BTS;['Pop'];223.0;0.0
+29;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+30;Save Your Tears;The Weeknd & Ariana Grande;['Pop'];219.0;0.0
+31;To Be Loved;Adele;['Pop', 'Pop internationale', 'Rock'];403.0;0.0
+32;Knife Talk;Drake Featuring 21 Savage & Project Pat;[];;
+33;Better Days;NEIKED X Mae Muller X Polo G;[];;
+34;Buy Dirt;Jordan Davis Featuring Luke Bryan;[];167.0;0.0
+35;Thinking 'Bout You;Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter;[];;
+36;Love Nwantiti (Ah Ah Ah);CKay;['Musique africaine'];145.0;1.0
+37;Ghost;Justin Bieber;['Pop'];153.0;0.0
+38;Meet Me At Our Spot;THE ANXIETY: WILLOW & Tyler Cole;['Pop'];162.0;1.0
+39;Last Christmas;Wham!;['Pop'];263.0;0.0
+40;Strangers By Nature;Adele;['Pop', 'Pop internationale', 'Rock'];182.0;0.0
+41;Thats What I Want;Lil Nas X;['Pop'];143.0;1.0
+42;Girls Want Girls;Drake Featuring Lil Baby;[];;
+43;Cry Your Heart Out;Adele;['Pop', 'Pop internationale', 'Rock'];255.0;0.0
+44;Happier Than Ever;Billie Eilish;['Alternative'];298.0;1.0
+45;Cold As You;Luke Combs;['Country'];186.0;0.0
+46;Pepas;Farruko;['Dance', 'Rap/Hip Hop', 'Pop', 'Latino'];287.0;1.0
+47;Who Want Smoke??;Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage;['Rap/Hip Hop'];279.0;1.0
+48;Hold On;Adele;['Pop', 'Pop internationale', 'Rock'];366.0;0.0
+49;Leave The Door Open;Silk Sonic (Bruno Mars & Anderson .Paak);['Pop'];228.0;0.0
+50;abcdefu;GAYLE;['Pop'];168.0;1.0
+51;You Should Probably Leave;Chris Stapleton;['Country'];213.0;0.0
+52;All Night Parking (Interlude);Adele With Erroll Garner;['Pop', 'Pop internationale', 'Rock'];161.0;0.0
+53;Same Boat;Zac Brown Band;['Country'];190.0;0.0
+54;Woman Like Me;Adele;['Pop', 'Pop internationale', 'Rock'];300.0;0.0
+55;Love Is A Game;Adele;['Pop', 'Pop internationale', 'Rock'];403.0;0.0
+56;Have Mercy;Chloe;['R&B', 'Soul'];148.0;1.0
+57;Wild Side;Normani Featuring Cardi B;['Pop'];209.0;1.0
+58;One Mississippi;Kane Brown;['Country'];213.0;0.0
+59;Chosen;Blxst & Tyga Featuring Ty Dolla $ign;[];;
+60;Already Dead;Juice WRLD;['Rap/Hip Hop'];231.0;1.0
+61;Sand In My Boots;Morgan Wallen;['Country'];202.0;0.0
+62;Super Gremlin;Kodak Black;['Rap/Hip Hop'];200.0;1.0
+63;Family Ties;Baby Keem & Kendrick Lamar;['Rap/Hip Hop'];252.0;1.0
+64;Gyalis;Capella Grey;['R&B'];105.0;1.0
+65;No Love;Summer Walker & SZA;['R&B'];231.0;1.0
+66;Whiskey And Rain;Michael Ray;['Country'];206.0;0.0
+67;Bad Man (Smooth Criminal);Polo G;['Rap/Hip Hop'];106.0;1.0
+68;Knowing You;Kenny Chesney;['Country'];226.0;0.0
+69;I Bet You Think About Me (Taylor's Version) (From The Vault);Taylor Swift Featuring Chris Stapleton;[];;
+70;Sharing Locations;Meek Mill Featuring Lil Baby & Lil Durk;['Rap/Hip Hop'];161.0;1.0
+71;Big Energy;Latto;['Alternative', 'Pop Indé', 'Rap/Hip Hop', 'Pop'];173.0;1.0
+72;God's Country;State Of Mine & Drew Jacobs;['Rock'];210.0;0.0
+73;Message In A Bottle (Taylor's Version) (From The Vault);Taylor Swift;['Pop'];225.0;0.0
+74;Tequila Little Time;Jon Pardi;['Country'];207.0;0.0
+75;Freedom Was A Highway;Jimmie Allen & Brad Paisley;['Country'];212.0;0.0
+76;'Til You Can't;Cody Johnson;['Country'];224.0;0.0
+77;Fair Trade;Drake Featuring Travis Scott;[];;
+78;Bubbly;Young Thug With Drake & Travis Scott;['Rap/Hip Hop'];165.0;1.0
+79;Woman;Doja Cat;['Pop'];172.0;1.0
+80;Sad Girlz Luv Money;Amaarae & Moliy Featuring Kali Uchis;[];212.0;0.0
+81;Doin' This;Luke Combs;['Country'];254.0;0.0
+82;For Tonight;Giveon;['R&B'];193.0;0.0
+83;Moth To A Flame;Swedish House Mafia & The Weeknd;['Dance'];234.0;0.0
+84;Enemy;Imagine Dragons X JID;[];;
+85;Red (Taylor's Version);Taylor Swift;['Pop'];240.0;0.0
+86;Memory I Don't Mess With;Lee Brice;['Country'];180.0;0.0
+87;State Of Grace (Taylor's Version);Taylor Swift;['Pop'];295.0;0.0
+88;Heart On Fire;Eric Church;['Country'];258.0;0.0
+89;Ex For A Reason;Summer Walker & JT;['Electro', 'Dance'];224.0;0.0
+90;Poke It Out;Wale Featuring J. Cole;['Rap/Hip Hop'];183.0;1.0
+91;Half Of My Hometown;Kelsea Ballerini Featuring Kenny Chesney;['Country'];231.0;0.0
+92;Volvi;Aventura x Bad Bunny;[];;
+93;Maybach;42 Dugg Featuring Future;[];;
+94;Baddest;Yung Bleu, Chris Brown & 2 Chainz;[];;
+95;Too Easy;Gunna & Future;['Rap/Hip Hop'];138.0;1.0
+96;Escape Plan;Travis Scott;['Rap/Hip Hop'];149.0;1.0
+97;Who's In Your Head;Jonas Brothers;['Pop'];183.0;0.0
+98;Jugaste y Sufri;Eslabon Armado Featuring DannyLux;[];;
+99;Take My Breath;The Weeknd;['R&B'];220.0;0.0

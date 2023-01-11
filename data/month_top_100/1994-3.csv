@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Power Of Love;Celine Dion;['Pop'];342.0;0.0
+1;The Sign;Ace Of Base;['Pop'];191.0;0.0
+2;Whatta Man;Salt-N-Pepa Featuring En Vogue;['R&B'];296.0;0.0
+3;Without You/Never Forget You;Mariah Carey;[];;
+4;Breathe Again;Toni Braxton;['R&B', 'Soul'];269.0;0.0
+5;All For Love;Bryan Adams/Rod Stewart/Sting;['Pop'];282.0;0.0
+6;So Much In Love;All-4-One;['Pop'];212.0;0.0
+7;Now And Forever;Richard Marx;['Pop'];213.0;0.0
+8;Cantaloop (Flip Fantasia);US3;['Jazz'];279.0;0.0
+9;Hero;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];257.0;0.0
+10;Because Of Love;Janet Jackson;['R&B'];261.0;0.0
+11;Bump N' Grind;R. Kelly;['R&B'];254.0;0.0
+12;Understanding;Xscape;['R&B'];341.0;0.0
+13;Rock And Roll Dreams Come Through;Meat Loaf;['Rock'];350.0;0.0
+14;Gin And Juice;Snoop Doggy Dogg;['Rap/Hip Hop'];211.0;1.0
+15;Getto Jam;Domino;['Rap/Hip Hop'];257.0;1.0
+16;Because The Night;10,000 Maniacs;['Pop', 'Rock'];223.0;0.0
+17;Groove Thang;Zhane;['R&B'];237.0;0.0
+18;All That She Wants;Ace Of Base;['Pop'];211.0;0.0
+19;Mary Jane's Last Dance;Tom Petty And The Heartbreakers;['Rock'];273.0;0.0
+20;Cry For You;Jodeci;['R&B'];300.0;0.0
+21;Please Forgive Me;Bryan Adams;['Pop'];355.0;0.0
+22;Stay;Eternal;['Rap/Hip Hop'];237.0;0.0
+23;Amazing;Aerosmith;['Rock'];352.0;0.0
+24;Choose;Color Me Badd;['Pop'];263.0;0.0
+25;Linger;The Cranberries;['Rock'];274.0;0.0
+26;Said I Loved You...But I Lied;Michael Bolton;['Pop'];302.0;0.0
+27;Shoop;Salt-N-Pepa;['Rap/Hip Hop'];248.0;0.0
+28;Can We Talk;Tevin Campbell;['R&B'];284.0;0.0
+29;Found Out About You;Gin Blossoms;['Rock'];232.0;0.0
+30;Whoomp! (There It Is);Tag Team;['R&B', 'Soul'];224.0;0.0
+31;Everyday;Phil Collins;['Pop', 'Rock'];209.0;0.0
+32;Again;Janet Jackson;['Pop'];301.0;0.0
+33;"Streets Of Philadelphia (From ""Philadelphia"")";Bruce Springsteen;['Pop'];252.0;0.0
+34;Never Keeping Secrets;Babyface;['R&B'];291.0;0.0
+35;(Lay Your Head On My) Pillow;Tony Toni Tone;['R&B'];367.0;0.0
+36;Loser;Beck;['Rock'];236.0;0.0
+37;"I Can See Clearly Now (From ""Cool Runnings"")";Jimmy Cliff;[];;
+38;Dreams;Gabrielle;['Pop'];224.0;0.0
+39;Mmm Mmm Mmm Mmm;Crash Test Dummies;['Pop'];233.0;0.0
+40;I'm In The Mood;CeCe Peniston;['Dance'];253.0;0.0
+41;I Swear;John Michael Montgomery;['Country'];262.0;0.0
+42;Having A Party;Rod Stewart;['Pop', 'Rock'];286.0;0.0
+43;Cannonball;The Breeders;['Alternative'];213.0;0.0
+44;U.N.I.T.Y.;Queen Latifah;['Rap/Hip Hop'];252.0;0.0
+45;Jessie;Joshua Kadison;['Pop'];319.0;0.0
+46;Will You Be There (In The Morning);Heart;['Pop'];269.0;0.0
+47;U Send Me Swingin';Mint Condition;['R&B'];251.0;0.0
+48;It's All Good;M.C. Hammer;[];;
+49;Mr. Vain;Culture Beat;['Dance'];257.0;0.0
+50;Dunkie Butt (Please Please Please);12 Gauge;['Pop'];232.0;0.0
+51;Life (Everybody Needs Somebody To Love);Haddaway;[];;
+52;"Hey D.J. (From ""Mi Vida Loca"")";Lighter Shade Of Brown;[];;
+53;Keep Ya Head Up;2Pac;['Rap/Hip Hop'];262.0;1.0
+54;I'm Outstanding;Shaquille O'Neal;['Rap/Hip Hop'];248.0;0.0
+55;Miss You In A Heartbeat;Def Leppard;['Rock'];244.0;0.0
+56;You Know How We Do It;Ice Cube;['Rap/Hip Hop'];232.0;1.0
+57;Always On My Mind;SWV;['R&B', 'Soul'];317.0;0.0
+58;"Baby I Love Your Way (From ""Reality Bites"")";Big Mountain;[];;
+59;The Most Beautiful Girl In The World;Prince;['R&B'];265.0;0.0
+60;What's My Name?;Snoop Dogg;['Rap/Hip Hop'];247.0;1.0
+61;Zunga Zeng;K7;['Dance', 'R&B', 'Soul'];273.0;0.0
+62;"A Deeper Love (From ""Sister Act 2"")";Aretha Franklin;['Films/Jeux vidéo', 'Musiques de films'];283.0;0.0
+63;Laid;James;['Rock'];156.0;0.0
+64;Goody Goody;Lisette Melendez;['Rap/Hip Hop'];271.0;0.0
+65;All About Soul;Billy Joel;['Rock'];257.0;0.0
+66;Mother;Danzig;['Metal'];204.0;1.0
+67;Slow And Easy;Zapp & Roger;['R&B'];311.0;0.0
+68;Funk Dat/Why Is It?;Sagat;['Dance'];259.0;1.0
+69;I'll Be Loving You;Collage;['Electro', 'Dance'];248.0;0.0
+70;And Our Feelings;Babyface;['Pop'];342.0;0.0
+71;Player's Ball;OutKast;['Rap/Hip Hop'];261.0;1.0
+72;If That's Your Boyfriend (He Wasn't Last Night);MeShell Ndegeocello;['Jazz', 'R&B'];271.0;1.0
+73;What Might Have Been;Little Texas;['Country'];116.0;0.0
+74;Indian Outlaw;Tim McGraw;['Country'];182.0;0.0
+75;Award Tour;A Tribe Called Quest;['Rap/Hip Hop'];226.0;1.0
+76;You Don't Have To Worry;Mary J. Blige;['R&B'];278.0;0.0
+77;Sweet Lullaby;Deep Forest;['Electro', 'Techno/House'];269.0;0.0
+78;God;Tori Amos;['Pop'];234.0;0.0
+79;Heaven Help/Spinning Around Over You;Lenny Kravitz;[];;
+80;Stay (Faraway, So Close!);U2;['Rock'];298.0;0.0
+81;Since I Don't Have You;Guns N' Roses;['Rock'];259.0;0.0
+82;Mass Appeal;Gang Starr;['Rap/Hip Hop'];221.0;1.0
+83;John Deere Green;Joe Diffie;['Country'];273.0;0.0
+84;You Don't Love Me (No, No, No);Dawn Penn;['Pop'];277.0;0.0
+85;My Love;Little Texas;['Country'];245.0;0.0
+86;Return To Innocence;Enigma;['Pop'];255.0;0.0
+87;Come To My Window;Melissa Etheridge;['Pop'];236.0;0.0
+88;Sound Of Da Police;KRS-One;['Rap/Hip Hop'];258.0;0.0
+89;Ain't Seen Love Like That;Mr. Big;['Rock'];211.0;0.0
+90;Time And Chance;Color Me Badd;['Pop'];257.0;0.0
+91;Betcha'll Never Find;Chantay Savage;['Dance', 'R&B'];286.0;0.0
+92;One On One;To Be Continued...;[];;
+93;Sex Me (Parts I & II);R. Kelly;[];;
+94;Tryin' To Get Over You;Vince Gill;['Country'];223.0;0.0
+95;On And On;Shyheim;['Rap/Hip Hop', 'East Coast'];227.0;1.0
+96;Rock My World (Little Country Girl);Brooks & Dunn;['Country'];222.0;0.0
+97;(I Know I Got) Skillz;Shaquille O'Neal;['Rap/Hip Hop'];263.0;0.0
+98;Money In The Ghetto;Too $hort;['Rap/Hip Hop'];343.0;1.0
+99;Big Time Sensuality;Bjork;['Alternative'];236.0;0.0

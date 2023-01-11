@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Seasons In The Sun;Terry Jacks;['Bolero'];206.0;0.0
+1;The Way We Were;Barbra Streisand;['Pop'];210.0;0.0
+2;Spiders & Snakes;Jim Stafford;['Country'];186.0;0.0
+3;Boogie Down;Eddie Kendricks;['Soul & Funk'];419.0;0.0
+4;Jungle Boogie;Kool & The Gang;['Pop'];185.0;0.0
+5;Rock On;David Essex;['Pop'];204.0;0.0
+6;Until You Come Back To Me (That's What I'm Gonna Do);Aretha Franklin;['R&B'];207.0;0.0
+7;Love's Theme;Love Unlimited Orchestra;['R&B'];251.0;0.0
+8;Dark Lady;Cher;['Pop'];209.0;0.0
+9;Put Your Hands Together;The O'Jays;['Rap/Hip Hop'];210.0;0.0
+10;You're Sixteen;Ringo Starr;['Pop'];169.0;0.0
+11;I Love;Tom T. Hall;['Country'];129.0;0.0
+12;Mockingbird;Carly Simon & James Taylor;['Pop'];254.0;0.0
+13;Love Song;Anne Murray;['Pop'];168.0;0.0
+14;Let Me Be There;Olivia Newton-John;['Country'];201.0;0.0
+15;Last Time I Saw Him;Diana Ross;['R&B'];170.0;0.0
+16;Sunshine On My Shoulders;John Denver;['Rock'];311.0;0.0
+17;Eres Tu (Touch The Wind);Mocedades;['Pop'];226.0;0.0
+18;Sexy Mama;Moments;['R&B', 'Soul'];533.0;0.0
+19;Jet;Paul McCartney And Wings;['Pop'];248.0;0.0
+20;Americans;Byron MacGregor;[];;
+21;My Sweet Lady;Cliff DeYoung;[];;
+22;Trying To Hold On To My Woman;Lamont Dozier;['Soul'];274.0;0.0
+23;Come And Get Your Love;Redbone;['Rock'];205.0;0.0
+24;Doo Doo Doo Doo Doo (heartbreaker);The Rolling Stones;['Rock'];206.0;0.0
+25;Show And Tell;Al Wilson;['R&B'];207.0;0.0
+26;Midnight Rider;Gregg Allman;['Rock'];266.0;0.0
+27;There Won't Be Anymore;Charlie Rich;['Country'];141.0;0.0
+28;I Like To Live The Love;B.B. King;['Rock', 'Blues'];209.0;0.0
+29;Mighty Love - Pt. 1;The Spinners;[];;
+30;The Joker;The Steve Miller Band;['Rock'];264.0;0.0
+31;Bennie And The Jets;Elton John;['Pop'];323.0;0.0
+32;Energy Crisis '74;Dickie Goodman;['Films/Jeux vidéo', 'Comédie', 'Livres audio'];33.0;0.0
+33;Last Kiss;Wednesday;['Pop', 'Rock'];143.0;0.0
+34;Can This Be Real;Natural Four;['R&B', 'Soul'];208.0;0.0
+35;Rock And Roll, Hoochie Koo;Rick Derringer;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];173.0;0.0
+36;I've Got To Use My Imagination;Gladys Knight And The Pips;['Rock'];208.0;0.0
+37;Hooked On A Feeling;Blue Swede;['Rock'];172.0;0.0
+38;Jim Dandy;Black Oak Arkansas;['Rock', 'Rock & Roll/Rockabilly'];252.0;0.0
+39;Smokin' In The Boy's Room;Brownsville Station;['Rock'];178.0;0.0
+40;Star;Stealers Wheel;['Rock'];187.0;0.0
+41;Living For The City;Stevie Wonder;['Pop'];219.0;0.0
+42;Baby Come Close;Smokey Robinson;['R&B'];297.0;0.0
+43;Best Thing That Ever Happened To Me;Gladys Knight And The Pips;['R&B'];223.0;0.0
+44;Abra-Ca-Dabra;The De Franco Family;[];;
+45;Lookin' For A Love;Bobby Womack;['R&B'];144.0;0.0
+46;I've Got A Thing About You Baby/Take Good Care Of Her;Elvis Presley;[];;
+47;WOLD;Harry Chapin;['Pop'];313.0;0.0
+48;We're Getting Careless With Our Love;Johnnie Taylor;['R&B'];239.0;0.0
+49;The Lord's Prayer;Sister Janet Mead;['Pop'];186.0;0.0
+50;A Very Special Love Song;Charlie Rich;[];157.0;0.0
+51;Thanks For Saving My Life;Billy Paul;['R&B'];177.0;0.0
+52;You Sure Love To Ball;Marvin Gaye;['Pop'];285.0;0.0
+53;In The Mood;Bette Midler;['Pop'];161.0;0.0
+54;What It Comes Down To;The Isley Brothers;['R&B'];233.0;0.0
+55;I'll Be The Other Woman;The Soul Children;['Pop'];212.0;0.0
+56;Just Don't Want To Be Lonely;The Main Ingredient;['R&B', 'Soul'];214.0;0.0
+57;Homely Girl;The Chi-lites;['Soul'];207.0;0.0
+58;Life Is A Song Worth Singing;Johnny Mathis;['Pop'];364.0;0.0
+59;Jolene;Dolly Parton;['Country'];161.0;0.0
+60;I Miss You;The Dells;['Rock', 'Blues'];262.0;0.0
+61;I Wish It Was Me;Tyrone Davis;['Soul'];196.0;0.0
+62;On A Night Like This;Bob Dylan;['Rock'];177.0;0.0
+63;I Just Can't Get You Out Of My Mind;Four Tops;['R&B'];239.0;0.0
+64;TSOP (The Sound Of Philadelphia);MFSB Featuring The Three Degrees;['R&B', 'Soul'];222.0;0.0
+65;Tell Me A Lie;Sami Jo;[];202.0;0.0
+66;Let It Ride;Bachman-Turner Overdrive;['Rock'];268.0;0.0
+67;Houston (I'm Comin' To See You);Glen Campbell;['Country'];200.0;0.0
+68;Touch A Hand, Make A Friend;The Staple Singers;['R&B'];206.0;0.0
+69;Get That Gasoline Blues;NRBQ;[];;
+70;That's The Sound That Lonely Makes;Tavares;['R&B'];222.0;0.0
+71;She's Gone;Daryl Hall John Oates;['Pop'];313.0;0.0
+72;I'll Have To Say I Love You In A Song;Jim Croce;['Rock'];154.0;0.0
+73;It's Been A Long Time;The New Birth;['R&B'];354.0;0.0
+74;Stop To Start;Blue Magic;['Pop'];202.0;0.0
+75;Would You Lay With Me (in A Field Of Stone);Tanya Tucker;['Pop', 'Pop internationale', 'Rock'];143.0;0.0
+76;Honey Please, Can't Ya See;Barry White;['Pop'];194.0;0.0
+77;My Mistake (Was To Love You);Diana Ross & Marvin Gaye;['Pop'];180.0;0.0
+78;Must Be Love;The James Gang;['Rock'];231.0;0.0
+79;Quick, Fast, In A Hurry;New York City;['R&B', 'Soul & Funk'];153.0;0.0
+80;Virginia (Touch Me Like You Do);Bill Amesbury;[];;
+81;Star Baby;The Guess Who;['Pop'];160.0;0.0
+82;Your Cash Ain't Nothin' But Trash;The Steve Miller Band;['Rock'];202.0;0.0
+83;Piano Man;Billy Joel;['Pop'];339.0;0.0
+84;Outside Woman;Bloodstone;['Pop', 'Rock'];217.0;0.0
+85;Watching The River Run;Loggins & Messina;['Pop'];207.0;0.0
+86;Tubular Bells;Mike Oldfield;['Rock'];1561.0;0.0
+87;Beyond The Blue Horizon;Lou Christie;['Films/Jeux vidéo', 'Musiques de films'];224.0;0.0
+88;Unborn Child;Seals & Crofts;['Pop'];229.0;0.0
+89;Midnight At The Oasis;Maria Muldaur;['Pop'];229.0;0.0
+90;What Is Hip?;Tower Of Power;['Pop'];304.0;0.0
+91;There's Got To Be Rain In Your Life (To Appreciate The Sunshine);Dorothy Norwood;[];;
+92;The Crude Oil Blues;Jerry Reed;['Country'];156.0;0.0
+93;I'm A Train;Albert Hammond;['Pop'];200.0;0.0
+94;Goin' Down Slow;"Bobby ""Blue"" Bland";[];;
+95;A Mother For My Children;The Whispers;['R&B', 'Soul & Funk'];195.0;0.0
+96;Newsy Neighbors;First Choice;[];;
+97;Try (Try To Fall In Love);Cooker;['Folk', 'Singer & Songwriter'];176.0;0.0
+98;Best Thing That Ever Happened To Me;The Persuaders;['R&B', 'Soul & Funk', 'Soul'];295.0;0.0
+99;Music Eyes;Heartsfield;['Pop'];385.0;0.0

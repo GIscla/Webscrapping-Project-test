@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;You Needed Me;Anne Murray;['Pop'];222.0;0.0
+1;MacArthur Park;Donna Summer;['Pop'];236.0;0.0
+2;Reminiscing;Little River Band;['Rock'];257.0;0.0
+3;Double Vision;Foreigner;['Rock', 'Hard Rock'];268.0;0.0
+4;"Whenever I Call You ""Friend""";Kenny Loggins;['Pop'];237.0;0.0
+5;Hot Child In The City;Nick Gilder;['Pop'];214.0;0.0
+6;Kiss You All Over;Exile;['Rock'];210.0;0.0
+7;How Much I Feel;Ambrosia;['Rock'];282.0;0.0
+8;Beast Of Burden;The Rolling Stones;['Rock'];265.0;0.0
+9;Get Off;Foxy;['R&B'];244.0;0.0
+10;Love Is In The Air;John Paul Young;['Rock'];208.0;0.0
+11;You Never Done It Like That;Captain & Tennille;['Pop'];192.0;0.0
+12;Ready To Take A Chance Again;Barry Manilow;['Pop'];177.0;0.0
+13;Who Are You;The Who;['Rock'];381.0;1.0
+14;I Love The Nightlife (Disco 'round);Alicia Bridges;['Pop'];200.0;0.0
+15;I Just Wanna Stop;Gino Vannelli;['Pop'];220.0;0.0
+16;Boogie Oogie Oogie;A Taste Of Honey;['Pop'];338.0;0.0
+17;Talking In Your Sleep;Crystal Gayle;['Country'];173.0;0.0
+18;Time Passages;Al Stewart;['Pop'];398.0;0.0
+19;It's A Laugh;Daryl Hall John Oates;['Pop'];225.0;0.0
+20;Alive Again;Chicago;['Pop', 'Rock'];247.0;0.0
+21;Strange Way;Firefall;['Rock'];285.0;0.0
+22;Sharing The Night Together;Dr. Hook;['Rock'];173.0;0.0
+23;Dance (Disco Heat);Sylvester;['Dance'];351.0;0.0
+24;Blue Collar Man (Long Nights);Styx;['Rock'];245.0;0.0
+25;(Our Love) Don't Throw It All Away;Andy Gibb;['Pop'];249.0;0.0
+26;Prisoner Of Your Love;Player;['Rock'];385.0;0.0
+27;Sweet Life;Paul Davis;['Pop'];209.0;0.0
+28;Straight On;Heart;['Rock'];306.0;0.0
+29;Took The Last Train;David Gates;['Pop'];271.0;0.0
+30;You Don't Bring Me Flowers;Barbra Streisand & Neil Diamond;['Pop'];204.0;0.0
+31;Don't Want To Live Without It;Pablo Cruise;['Pop'];276.0;0.0
+32;Change Of Heart;Eric Carmen;['Pop'];219.0;0.0
+33;One Nation Under A Groove - Part I;Funkadelic;[];;
+34;Themes From The Wizard Of Oz;Meco;[];;
+35;Everybody Needs Love;Stephen Bishop;['Pop'];222.0;0.0
+36;Summer Nights;John Travolta, Olivia Newton-John & Grease Cast;[];220.0;0.0
+37;Flying High;Commodores;['Pop'];231.0;0.0
+38;She's Always A Woman;Billy Joel;['Rock'];202.0;0.0
+39;The Power Of Gold;Dan Fogelberg/Tim Weisberg;[];;
+40;Right Down The Line;Gerry Rafferty;['Rock'];267.0;0.0
+41;How You Gonna See Me Now;Alice Cooper;['Rock', 'Hard Rock'];236.0;0.0
+42;Champagne Jam;Atlanta Rhythm Section;['Rock'];336.0;0.0
+43;Got To Have Loving;Don Ray;['Electro'];499.0;0.0
+44;Wavelength;Van Morrison;['Rock'];399.0;0.0
+45;This Is Love;Paul Anka;['Jazz'];223.0;0.0
+46;Raining In My Heart;Leo Sayer;['Pop'];191.0;0.0
+47;Like A Sunday In Salem (The Amos & Andy Song);Gene Cotton;[];;
+48;Dreadlock Holiday;10cc;['Pop'];267.0;0.0
+49;Don't Look Back;Boston;['Pop'];360.0;0.0
+50;Run For Home;Lindisfarne;[];261.0;0.0
+51;On The Shelf;Donny & Marie Osmond;['Pop'];234.0;0.0
+52;Hold The Line;Toto;['Pop'];235.0;0.0
+53;You Should Do It;Peter Brown With Betty Wright;[];;
+54;There'll Never Be;Switch;['Soul & Funk'];323.0;0.0
+55;I'm Every Woman;Chaka Khan;['Pop'];249.0;0.0
+56;Forever Autumn;Justin Hayward;['Rock'];271.0;0.0
+57;Searching For A Thrill;Starbuck;[];;
+58;Promises;Eric Clapton And His Band;[];;
+59;New York Groove;Ace Frehley;['Rock'];181.0;0.0
+60;Hot Summer Nights;Walter Egan;['Pop', 'Rock'];250.0;0.0
+61;Instant Replay;Dan Hartman;['Dance'];320.0;0.0
+62;Do You Feel All Right;KC And The Sunshine Band;['Rap/Hip Hop'];307.0;0.0
+63;Fun Time;Joe Cocker;['Rock'];160.0;0.0
+64;Mellow Lovin';Judy Cheeks;['Dance'];451.0;0.0
+65;Can You Fool;Glen Campbell;['Country'];191.0;0.0
+66;My Best Friend's Girl;The Cars;['Pop'];225.0;0.0
+67;Y.M.C.A.;Village People;['Dance', 'Pop', 'Rock', 'Disco'];286.0;0.0
+68;My Life;Billy Joel;['Pop'];284.0;0.0
+69;Le Freak;Chic;['R&B'];327.0;0.0
+70;Here Comes The Night;Nick Gilder;['Pop'];184.0;0.0
+71;I Will Be In Love With You;Livingston Taylor;['Folk'];212.0;0.0
+72;We've Got Tonight;Bob Seger & The Silver Bullet Band;['Rock'];282.0;0.0
+73;Back In The U.s.a.;Linda Ronstadt;['Pop'];178.0;0.0
+74;In The Bush;Musique;['Dance'];486.0;0.0
+75;New York City;Zwol;[];;
+76;Lights;Journey;['Musique asiatique'];292.0;0.0
+77;I Will Still Love You;Stonebolt;[];;
+78;Hopelessly Devoted To You;Olivia Newton-John;['Films/Jeux vidéo', 'Comédies musicales'];185.0;0.0
+79;It's Over;Electric Light Orchestra;['Rock'];248.0;0.0
+80;So Young, So Bad;Starz;['Rock'];206.0;0.0
+81;Blame It On The Boogie;The Jacksons;['Pop', 'R&B'];214.0;0.0
+82;Mary Jane;Rick James;['Soul & Funk'];297.0;0.0
+83;The Gambler;Kenny Rogers;['Country'];214.0;0.0
+84;Hold Me, Touch Me;Paul Stanley;['Rock'];219.0;0.0
+85;Get Back;Billy Preston;['Rock'];191.0;0.0
+86;Love Me Again;Rita Coolidge;['Pop'];193.0;0.0
+87;The Dream Never Dies;Cooper Brothers;['Rock'];258.0;0.0
+88;Driftwood;The Moody Blues;['Pop'];303.0;0.0
+89;Substitute;Clout;['Pop'];203.0;0.0
+90;Take Me To The River;Talking Heads;['Pop', 'Rock'];301.0;0.0
+91;Cuz It's You, Girl;James Walsh Gypsy Band;['Pop'];241.0;0.0
+92;(You Got To Walk And) Don't Look Back;Peter Tosh with Mick Jagger;[];;
+93;Dancing In Paradise;El Coco;[];;
+94;Only You;Loleatta Holloway And Bunny Sigler;['Dance'];350.0;0.0
+95;Soft And Wet;Prince;['Pop'];185.0;0.0
+96;Ease On Down The Road;Diana Ross & Michael Jackson;['Films/Jeux vidéo', 'Musiques de films'];234.0;0.0
+97;Greased Lightnin';John Travolta;['Films/Jeux vidéo', 'Comédies musicales'];194.0;0.0
+98;Josie;Steely Dan;['Pop'];270.0;0.0
+99;Hollywood Nights;Bob Seger & The Silver Bullet Band;['Rock'];302.0;0.0

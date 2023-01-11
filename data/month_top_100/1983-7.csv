@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Flashdance...What A Feeling;Irene Cara;['Electro', 'Techno/House', 'Dance', 'Disco'];237.0;0.0
+1;Electric Avenue;Eddy Grant;['Electro'];198.0;0.0
+2;Every Breath You Take;The Police;['Pop'];251.0;0.0
+3;Time (Clock Of The Heart);Culture Club;['Rock'];223.0;0.0
+4;Never Gonna Let You Go;Sergio Mendes;['Jazz'];255.0;0.0
+5;Don't Let It End;Styx;['Rock'];294.0;0.0
+6;Too Shy;Kajagoogoo;['Rock'];221.0;0.0
+7;Family Man;Daryl Hall John Oates;['Pop'];205.0;0.0
+8;Wanna Be Startin' Somethin';Michael Jackson;['Pop', 'Pop internationale', 'Rock'];362.0;0.0
+9;She's A Beauty;The Tubes;['Rock'];237.0;0.0
+10;Come Dancing;The Kinks;['Rock'];236.0;0.0
+11;Affair Of The Heart;Rick Springfield;['Pop'];226.0;0.0
+12;Our House;Madness;['Pop'];203.0;0.0
+13;I'm Still Standing;Elton John;['Pop'];183.0;0.0
+14;Let's Dance;David Bowie;['Rock'];247.0;0.0
+15;Beat It;Michael Jackson;['Pop', 'Pop internationale', 'Rock'];257.0;0.0
+16;Is There Something I Should Know;Duran Duran;['Rock'];249.0;0.0
+17;All This Love;Debarge;['R&B'];352.0;0.0
+18;Stand Back;Stevie Nicks;['Pop'];288.0;0.0
+19;Always Something There To Remind Me;Naked Eyes;['Rock'];218.0;0.0
+20;Baby Jane;Rod Stewart;['Pop', 'Rock'];283.0;0.0
+21;Faithfully;Journey;['Pop', 'Rock'];266.0;0.0
+22;1999;Prince;['Pop'];379.0;0.0
+23;The Woman In You;Bee Gees;['Films/Jeux vidéo', 'Musiques de films'];243.0;0.0
+24;She Works Hard For The Money;Donna Summer;['R&B'];320.0;0.0
+25;Sweet Dreams (Are Made Of This);Eurythmics;['Pop'];182.0;0.0
+26;Roll Me Away;Bob Seger & The Silver Bullet Band;['Rock'];280.0;0.0
+27;Wishing (If I Had A Photograph Of You);A Flock Of Seagulls;['Pop'];330.0;0.0
+28;We Two;Little River Band;['Rock'];273.0;0.0
+29;Try Again;Champaign;['Pop'];226.0;0.0
+30;Overkill;Men At Work;['Pop'];229.0;0.0
+31;(Keep Feeling) Fascination;The Human League;['Rock'];225.0;0.0
+32;Cuts Like A Knife;Bryan Adams;['Pop'];316.0;0.0
+33;Don't Pay The Ferryman;Chris de Burgh;['Pop'];232.0;0.0
+34;Hot Girls In Love;Loverboy;['Pop'];238.0;0.0
+35;White Wedding;Billy Idol;['Pop'];506.0;0.0
+36;My Love;Lionel Richie;['Pop'];243.0;0.0
+37;Take Me To Heart;Quarterflash;['Rock'];212.0;0.0
+38;Maniac;Michael Sembello;['Films/Jeux vidéo', 'Musiques de films'];244.0;0.0
+39;Stop In The Name Of Love;The Hollies;['Pop'];190.0;0.0
+40;Saved By Zero;The Fixx;['Rock'];220.0;0.0
+41;It's A Mistake;Men At Work;['Rock'];271.0;0.0
+42;Rock Of Ages;Def Leppard;['Rock'];247.0;0.0
+43;Rock 'n' Roll Is King;Electric Light Orchestra;['Pop'];225.0;0.0
+44;China Girl;David Bowie;['Rock'];333.0;0.0
+45;How Do You Keep The Music Playing;James Ingram And Patti Austin;['R&B'];254.0;0.0
+46;That's Love;Jim Capaldi;['Rock'];213.0;0.0
+47;Slipping Away;Dave Edmunds;['Pop'];262.0;0.0
+48;The Salt In My Tears;Martin Briley;['Pop', 'Rock'];241.0;0.0
+49;She Blinded Me With Science;Thomas Dolby;['Rock'];221.0;0.0
+50;Little Red Corvette;Prince;['Pop'];303.0;1.0
+51;Candy Girl;New Edition;['R&B', 'Soul'];235.0;0.0
+52;I.o.u.;Lee Greenwood;[];182.0;0.0
+53;The Border;America;['Pop'];241.0;0.0
+54;China;Red Rockers;['Pop'];241.0;0.0
+55;War Games;Crosby, Stills & Nash;['Pop', 'Rock'];141.0;0.0
+56;Space Age Whiz Kids;Joe Walsh;['Rock'];263.0;0.0
+57;Pieces Of Ice;Diana Ross;['Pop'];300.0;0.0
+58;Love Never Fails;Greg Kihn Band;['Rock'];206.0;0.0
+59;Midnight Blue;Louise Tucker;['Pop'];236.0;0.0
+60;The Metro;Berlin;['Pop'];249.0;0.0
+61;Puttin' On The Ritz;Taco;['Pop'];281.0;0.0
+62;It's Inevitable;Charlie;['Classique', 'Rock'];234.0;0.0
+63;I'll Tumble 4 Ya;Culture Club;['Rock'];156.0;0.0
+64;Straight From The Heart;Bryan Adams;['Pop'];211.0;0.0
+65;Save The Overtime (For Me);Gladys Knight And The Pips;['R&B'];281.0;0.0
+66;Europa And The Pirate Twins;Thomas Dolby;['Rock'];199.0;0.0
+67;Stand By;Roman Holliday;['Pop'];166.0;0.0
+68;All Time High;Rita Coolidge;['Films/Jeux vidéo', 'Musiques de films'];181.0;0.0
+69;Juicy Fruit;Mtume;['R&B'];352.0;0.0
+70;Solid Rock;Goanna;['Rock'];275.0;0.0
+71;Inside Love (so Personal);George Benson;['Pop'];254.0;0.0
+72;The Closer You Get;Alabama;['Country'];322.0;0.0
+73;Solitaire;Laura Branigan;['Pop'];245.0;0.0
+74;Don't Make Me Do It;Patrick Simmons;[];;
+75;Stranger In My House;Ronnie Milsap;['Country'];253.0;0.0
+76;Hold Me 'til The Mornin' Comes;Paul Anka;['Pop', 'Pop internationale', 'Rock'];290.0;0.0
+77;You Are In My System;Robert Palmer;['Pop'];298.0;0.0
+78;Blame It On Love;Smokey Robinson & Barbara Mitchell;[];;
+79;The Safety Dance;Men Without Hats;['Pop'];164.0;0.0
+80;Boogie Down;Jarreau;['Jazz'];252.0;0.0
+81;Fade Away;Loz Netto;[];;
+82;Dead Giveaway;Shalamar;['R&B', 'Soul'];210.0;0.0
+83;Photograph;Def Leppard;['Rock'];247.0;0.0
+84;Ewok Celebration;Meco;[];;
+85;Drop The Pilot;Joan Armatrading;['Folk'];222.0;0.0
+86;How Am I Supposed To Live Without You;Laura Branigan;['Pop'];263.0;0.0
+87;Do You Compute?;Donnie Iris;['Rock'];220.0;0.0
+88;Shy Boy (Don't It Make You Feel Good);Bananarama;[];;
+89;Waiting For Your Love;Toto;['Pop'];252.0;0.0
+90;West Coast Summer Nights;Tony Carey;[];;
+91;Cool Places;Sparks & Jane Wiedlin;['Pop'];205.0;0.0
+92;Never Tell An Angel (When Your Heart's On Fire);The Stompers;['Rock', 'Rock & Roll/Rockabilly'];247.0;0.0
+93;Love Is The Key;Maze Featuring Frankie Beverly;['Pop', 'R&B'];268.0;0.0
+94;Night Pulse;Double Image;[];;
+95;All My Life;Kenny Rogers;['Country'];234.0;0.0
+96;No Time For Talk;Christopher Cross;['Pop'];262.0;0.0
+97;Billie Jean;Michael Jackson;['Pop', 'Pop internationale', 'Rock'];294.0;0.0
+98;I Won't Hold You Back;Toto;['Pop'];293.0;0.0
+99;Der Kommissar;After The Fire;['Pop'];248.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Hello;Adele;['Pop'];295.0;0.0
+1;Sorry;Justin Bieber;['Pop'];200.0;0.0
+2;Hotline Bling;Drake;['Rap/Hip Hop'];267.0;0.0
+3;Love Yourself;Justin Bieber;['Pop'];233.0;0.0
+4;What Do You Mean?;Justin Bieber;['Pop'];205.0;0.0
+5;The Hills;The Weeknd;['R&B'];242.0;1.0
+6;Stitches;Shawn Mendes;['Pop'];206.0;0.0
+7;679;Fetty Wap Featuring Remy Boyz;[];319.0;1.0
+8;Wildest Dreams;Taylor Swift;['Pop'];220.0;0.0
+9;Here;Alessia Cara;['Pop'];199.0;0.0
+10;Like I'm Gonna Lose You;Meghan Trainor Featuring John Legend;['Pop'];225.0;0.0
+11;Ex's & Oh's;Elle King;['Alternative'];202.0;0.0
+12;Same Old Love;Selena Gomez;['Pop'];229.0;0.0
+13;Focus;Ariana Grande;['Pop'];211.0;0.0
+14;On My Mind;Ellie Goulding;['Pop'];213.0;0.0
+15;Jumpman;Drake & Future;['Rap/Hip Hop'];205.0;1.0
+16;Can't Feel My Face;The Weeknd;['R&B'];213.0;0.0
+17;Watch Me;Silento;['Rap/Hip Hop'];185.0;0.0
+18;I'll Show You;Justin Bieber;['Pop'];199.0;0.0
+19;Locked Away;R. City Featuring Adam Levine;['Pop', 'Pop internationale', 'Rock', 'R&B'];227.0;0.0
+20;Lean On;Major Lazer & DJ Snake Featuring MO;['Electro'];176.0;0.0
+21;WTF (Where They From);Missy Elliott Featuring Pharrell Williams;['Rap/Hip Hop'];192.0;1.0
+22;Antidote;Travis Scott;['Rap/Hip Hop'];262.0;1.0
+23;Uptown Funk!;Mark Ronson Featuring Bruno Mars;['Pop'];269.0;1.0
+24;Die A Happy Man;Thomas Rhett;['Country'];227.0;0.0
+25;Renegades;X Ambassadors;['Alternative'];195.0;0.0
+26;Hit The Quan;iLoveMemphis;['Rap/Hip Hop'];181.0;0.0
+27;White Iverson;Post Malone;['Rap/Hip Hop'];256.0;1.0
+28;Trap Queen;Fetty Wap;['Rap/Hip Hop'];222.0;1.0
+29;Great Is Thy Faithfulness;Jordan Smith;['Pop'];214.0;0.0
+30;The Feeling;Justin Bieber Featuring Halsey;[];247.0;0.0
+31;Good For You;Selena Gomez Featuring A$AP Rocky;['Pop'];199.0;0.0
+32;I'm Comin' Over;Chris Young;['Country'];197.0;0.0
+33;Where Are U Now;Skrillex & Diplo With Justin Bieber;['Electro', 'Dance'];250.0;0.0
+34;Where Ya At;Future Featuring Drake;['Rap/Hip Hop'];208.0;1.0
+35;Confident;Demi Lovato;['Pop'];205.0;1.0
+36;Perfect;One Direction;['Pop'];230.0;0.0
+37;Don't;Bryson Tiller;['R&B'];198.0;1.0
+38;My Way;Fetty Wap Featuring Monty;['Rap/Hip Hop'];213.0;1.0
+39;Drag Me Down;One Direction;['Pop'];192.0;0.0
+40;See You Again;Wiz Khalifa Featuring Charlie Puth;['Rap/Hip Hop'];229.0;0.0
+41;Mark My Words;Justin Bieber;['Pop'];134.0;0.0
+42;Purpose;Justin Bieber;['Pop'];233.0;0.0
+43;Break Up In A Small Town;Sam Hunt;['Country'];229.0;0.0
+44;Again;Fetty Wap;['Rap/Hip Hop'];312.0;1.0
+45;Photograph;Ed Sheeran;['Pop'];258.0;0.0
+46;Cheerleader;OMI;['Electro', 'Techno/House', 'Dance', 'Reggae'];174.0;0.0
+47;How Deep Is Your Love;Calvin Harris & Disciples;['Electro', 'Techno/House', 'Dance', 'Pop', 'Pop internationale', 'Rock', 'Films/Jeux vidéo', 'Musiques de films'];212.0;0.0
+48;No Pressure;Justin Bieber Featuring Big Sean;[];;
+49;Lay It All On Me;Rudimental Featuring Ed Sheeran;['Dance', 'Pop'];242.0;0.0
+50;Say It;Tory Lanez;['Rap/Hip Hop'];237.0;1.0
+51;No Role Modelz;J. Cole;['Rap/Hip Hop'];292.0;1.0
+52;Company;Justin Bieber;['Pop'];208.0;0.0
+53;No Sense;Justin Bieber Featuring Travi$ Scott;[];;
+54;Back Up;DeJ Loaf Featuring Big Sean;['Rap/Hip Hop'];241.0;1.0
+55;Smoke Break;Carrie Underwood;['Country'];198.0;0.0
+56;Downtown;Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz;['Rap/Hip Hop'];292.0;1.0
+57;Burning House;Cam;['Country'];231.0;0.0
+58;Do It Like Me;DLOW;['Rap/Hip Hop'];146.0;0.0
+59;Nothin' Like You;Dan + Shay;['Country'];186.0;0.0
+60;Gonna;Blake Shelton;['Country'];182.0;0.0
+61;Roses;The Chainsmokers Featuring Rozes;['Electro', 'Electro Pop/Electro Rock', 'Dance', 'Pop', 'Pop internationale', 'Rock'];226.0;0.0
+62;Blase;Ty Dolla $ign Featuring Future & Rae Sremmurd;['Rap/Hip Hop'];286.0;1.0
+63;Break Up With Him;Old Dominion;['Country', 'Folk'];207.0;0.0
+64;Come Get Her;Rae Sremmurd;['Rap/Hip Hop'];212.0;1.0
+65;Tennessee Whiskey;Chris Stapleton;['Country'];293.0;0.0
+66;Life Is Worth Living;Justin Bieber;['Pop'];234.0;0.0
+67;Back To Back;Drake;['Rap/Hip Hop'];170.0;1.0
+68;Stressed Out;twenty one pilots;['Alternative'];202.0;0.0
+69;Strip It Down;Luke Bryan;['Country'];241.0;0.0
+70;The Fix;Nelly Featuring Jeremih;['Rap/Hip Hop', 'Pop'];173.0;1.0
+71;Adventure Of A Lifetime;Coldplay;['Alternative'];263.0;0.0
+72;Gonna Know We Were Here;Jason Aldean;['Country'];223.0;0.0
+73;Children;Justin Bieber;['Pop'];223.0;0.0
+74;Hide Away;Daya;['Pop'];191.0;0.0
+75;Big Rings;Drake & Future;['Rap/Hip Hop'];217.0;1.0
+76;Stay A Little Longer;Brothers Osborne;['Country'];335.0;0.0
+77;Exchange;Bryson Tiller;['R&B'];194.0;1.0
+78;Liquor;Chris Brown;['R&B'];224.0;1.0
+79;Let Me See Ya Girl;Cole Swindell;['Country'];187.0;0.0
+80;Been You;Justin Bieber;['Pop'];199.0;0.0
+81;I Got The Boy;Jana Kramer;['Country'];201.0;0.0
+82;If I Could Fly;One Direction;['Pop'];230.0;0.0
+83;Love Myself;Hailee Steinfeld;['Pop'];218.0;0.0
+84;Top Of The World;Tim McGraw;['Country'];233.0;0.0
+85;In The Night;The Weeknd;['R&B'];235.0;1.0
+86;Olivia;One Direction;['Pop'];177.0;0.0
+87;We Are;Justin Bieber Featuring Nas;[];;
+88;Me, Myself & I;G-Eazy x Bebe Rexha;['Alternative'];252.0;0.0
+89;Get Used To It;Justin Bieber;['Pop'];238.0;0.0
+90;Right Hand;Drake;['Rap/Hip Hop'];190.0;1.0
+91;I Love This Life;LOCASH;[];208.0;0.0
+92;Cake By The Ocean;DNCE;['Pop'];219.0;1.0
+93;A.M.;One Direction;['Pop'];192.0;0.0
+94;RGF Island;Fetty Wap;['Rap/Hip Hop'];173.0;1.0
+95;Temporary Fix;One Direction;['Pop'];175.0;0.0
+96;I Know What You Did Last Summer;Shawn Mendes & Camila Cabello;['Pop'];223.0;0.0
+97;Trust;Justin Bieber;['Pop'];203.0;0.0
+98;My House;Flo Rida;['Rap/Hip Hop'];192.0;0.0
+99;Never Enough;One Direction;['Pop'];213.0;0.0

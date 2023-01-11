@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;How Deep Is Your Love;Bee Gees;['Pop'];245.0;0.0
+1;Baby Come Back;Player;['Rock'];255.0;0.0
+2;Blue Bayou;Linda Ronstadt;['Pop'];239.0;0.0
+3;(Every Time I Turn Around) Back In Love Again;LTD;['R&B'];280.0;0.0
+4;Here You Come Again;Dolly Parton;['Country'];179.0;0.0
+5;You Light Up My Life;Debby Boone;['Pop'];218.0;0.0
+6;Slip Slidin' Away;Paul Simon;['Pop'];285.0;0.0
+7;Sentimental Lady;Bob Welch;['Rock'];178.0;0.0
+8;You're In My Heart (The Final Acclaim);Rod Stewart;['Pop', 'Rock'];271.0;0.0
+9;Hey Deanie;Shaun Cassidy;['Pop'];219.0;0.0
+10;Come Sail Away;Styx;['Rock'];365.0;0.0
+11;You Can't Turn Me Off (In The Middle Of Turning Me On);High Inergy;['R&B'];211.0;0.0
+12;We Are The Champions;Queen;['Rock'];186.0;0.0
+13;Runaround Sue;Leif Garrett;['Pop'];142.0;0.0
+14;It's So Easy;Linda Ronstadt;['Pop'];145.0;0.0
+15;Don't It Make My Brown Eyes Blue;Crystal Gayle;['Country'];157.0;0.0
+16;Short People;Randy Newman;['Pop', 'Rock'];176.0;0.0
+17;Just The Way You Are;Billy Joel;['Rock'];290.0;0.0
+18;Serpentine Fire;Earth, Wind & Fire;['Pop'];230.0;0.0
+19;Turn To Stone;Electric Light Orchestra;['Rock'];229.0;0.0
+20;I Go Crazy;Paul Davis;['R&B'];232.0;0.0
+21;My Way;Elvis Presley;['Pop'];229.0;0.0
+22;(Love Is) Thicker Than Water;Andy Gibb;['Pop'];256.0;0.0
+23;The Way I Feel Tonight;Bay City Rollers;['Pop'];232.0;0.0
+24;Sometimes When We Touch;Dan Hill;['Pop'];252.0;0.0
+25;Dance, Dance, Dance (Yowsah, Yowsah, Yowsah);Chic;[];;
+26;Gettin' Ready For Love;Diana Ross;[];;
+27;Stayin' Alive;Bee Gees;[];;
+28;Desiree;Neil Diamond;[];;
+29;Point Of Know Return;Kansas;[];;
+30;Don't Let Me Be Misunderstood;Santa Esmeralda Starring Leroy Gomez;['Pop'];326.0;0.0
+31;Isn't It Time;The Babys;['Rock'];243.0;0.0
+32;Native New Yorker;Odyssey;['Pop'];206.0;0.0
+33;Girls' School;Wings;['Rock'];278.0;0.0
+34;We're All Alone;Rita Coolidge;['Pop'];212.0;0.0
+35;Swingtown;The Steve Miller Band;['Rock'];205.0;0.0
+36;Emotion;Samantha Sang;['Pop', 'Disco'];237.0;0.0
+37;What's Your Name;Lynyrd Skynyrd;['Rock'];213.0;0.0
+38;(You're My) Soul And Inspiration;Donny & Marie Osmond;['Pop'];194.0;0.0
+39;Peg;Steely Dan;['Pop'];240.0;0.0
+40;Bloat On Featuring the Bloaters;Cheech & Chong;[];;
+41;As;Stevie Wonder;['Pop'];428.0;0.0
+42;Tried To Love;Peter Frampton;['Pop'];267.0;0.0
+43;If You're Not Back In Love By Monday;Millie Jackson;['R&B', 'Soul'];291.0;0.0
+44;Lovely Day;Bill Withers;['Pop'];254.0;0.0
+45;How Can I Leave You Again;John Denver;['Country'];188.0;0.0
+46;Long, Long Way From Home;Foreigner;['Rock', 'Hard Rock'];175.0;0.0
+47;Wrap Your Arms Around Me;KC And The Sunshine Band;['Pop'];223.0;0.0
+48;Too Hot Ta Trot;Commodores;['R&B'];210.0;0.0
+49;Ffun;ConFunkShun;['Soul & Funk'];249.0;0.0
+50;You Make Loving Fun;Fleetwood Mac;['Rock'];213.0;0.0
+51;The Next Hundred Years;Al Martino;['Livres audio'];225.0;0.0
+52;Street Corner Serenade;Wet Willie;['Rock'];349.0;0.0
+53;Baby, What A Big Surprise;Chicago;['Pop', 'Rock'];182.0;0.0
+54;Easy To Love;Leo Sayer;['Pop'];223.0;0.0
+55;Heaven On The 7th Floor;Paul Nicholas;['Pop'];168.0;0.0
+56;Breakdown;Tom Petty And The Heartbreakers;['Pop'];163.0;0.0
+57;Your Smiling Face;James Taylor;['Rock'];164.0;0.0
+58;Boogie Nights;Heatwave;['Pop'];302.0;0.0
+59;Falling;LeBlanc & Carr;['Pop'];191.0;0.0
+60;Theme From Close Encounters;Meco;['Soul & Funk'];261.0;0.0
+61;Sweet Music Man;Kenny Rogers;['Country'];259.0;0.0
+62;I Love You;Donna Summer;['Pop'];198.0;0.0
+63;Happy Anniversary;Little River Band;['Rock'];242.0;0.0
+64;You Make Me Crazy;Sammy Hagar;['Rock'];165.0;0.0
+65;Thunder Island;Jay Ferguson;['Rock'];240.0;0.0
+66;The Name Of The Game;ABBA;['Pop'];292.0;0.0
+67;Mind Bender;Stillwater;['Classique', 'Rock'];255.0;0.0
+68;God Only Knows;Marilyn Scott;[];;
+69;Rockaway Beach;Ramones;['Alternative', 'Rock indé', 'Rock'];126.0;0.0
+70;"Theme From ""Close Encounters Of The Third Kind""";John Williams;['Jazz'];155.0;0.0
+71;Any Way You Want Me;The Sylvers;['R&B'];160.0;0.0
+72;Curious Mind (Um, Um, Um, Um, Um, Um);Johnny Rivers;[];;
+73;Was Dog A Doughnut;Cat Stevens;['Rock'];255.0;0.0
+74;Lay Down Sally;Eric Clapton;['Rock', 'Blues'];236.0;0.0
+75;Don't Ask My Neighbors;The Emotions;['Pop'];267.0;0.0
+76;It's Ecstasy When You Lay Down Next To Me;Barry White;['R&B'];418.0;0.0
+77;Always And Forever;Heatwave;['Pop'];289.0;0.0
+78;Galaxy;War;['R&B', 'Soul & Funk'];494.0;0.0
+79;Ooh Boy;Rose Royce;['Pop', 'R&B'];258.0;0.0
+80;If It Don't Fit, Don't Force It;Kellee Patterson;['R&B', 'Soul'];318.0;0.0
+81;Crazy On You;Heart;['Pop'];293.0;0.0
+82;Cocomotion;El Coco;['Disco'];314.0;0.0
+83;Le Spank;Le Pamplemousse;['Electro', 'Techno/House', 'Dance', 'Disco'];621.0;0.0
+84;What A Difference You've Made In My Life;Ronnie Milsap;['Country'];241.0;0.0
+85;Goodbye Girl;David Gates;['Pop'];168.0;0.0
+86;Reach For It;George Duke;['Jazz', 'Pop', 'Soul & Funk'];294.0;0.0
+87;Boats Against The Current;Eric Carmen;['Rock'];227.0;0.0
+88;The Loneliest Man On The Moon;David Castle;[];;
+89;Take Me To The Kaptin;Prism;['Rock'];237.0;0.0
+90;Until Now;Bobby Arvon;[];;
+91;Don't Let It Show;The Alan Parsons Project;['Rock'];265.0;0.0
+92;She's Not There;Santana;['Rock'];249.0;0.0
+93;Come Go With Me;Pockets;['Pop'];265.0;0.0
+94;Calling Occupants Of Interplanetary Craft;Carpenters;['Pop'];429.0;0.0
+95;We Just Disagree;Dave Mason;['Rock'];180.0;0.0
+96;Send In The Clowns;Judy Collins;['Pop', 'Folk'];240.0;0.0
+97;Belle;Al Green;['R&B', 'Soul'];291.0;0.0
+98;Nobody Does It Better;Carly Simon;['Films/Jeux vidéo', 'Musiques de films'];212.0;0.0
+99;I Feel Love;Donna Summer;['Pop'];225.0;0.0

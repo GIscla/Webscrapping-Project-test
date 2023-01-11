@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Temperature;Sean Paul;['R&B'];218.0;0.0
+1;Bad Day;Daniel Powter;['Pop'];233.0;0.0
+2;So Sick;Ne-Yo;['R&B'];207.0;0.0
+3;You're Beautiful;James Blunt;['Pop'];209.0;1.0
+4;Be Without You;Mary J. Blige;['R&B'];248.0;1.0
+5;Unwritten;Natasha Bedingfield;['Pop'];259.0;0.0
+6;Lean Wit It, Rock Wit It;Dem Franchize Boyz Featuring Lil Peanut & Charlay;['Pop'];229.0;0.0
+7;I'm N Luv (Wit A Stripper);T-Pain Featuring Mike Jones;['Rap/Hip Hop'];239.0;1.0
+8;Yo (Excuse Me Miss);Chris Brown;['R&B'];229.0;0.0
+9;Check On It;Beyonce Featuring Slim Thug;['Pop'];210.0;0.0
+10;Everytime We Touch;Cascada;['Electro', 'Dance', 'Disco'];197.0;0.0
+11;Grillz;Nelly Featuring Paul Wall, Ali & Gipp;['Pop'];295.0;0.0
+12;Ms. New Booty;Bubba Sparxxx Featuring Ying Yang Twins & Mr. ColliPark;[];;
+13;Beep;The Pussycat Dolls Featuring will.i.am;['Pop'];251.0;0.0
+14;Shake That;Eminem Featuring Nate Dogg;['Rap/Hip Hop'];274.0;0.0
+15;Walk Away;Kelly Clarkson;['Pop'];188.0;0.0
+16;Dance, Dance;Fall Out Boy;['Rock'];180.0;0.0
+17;Touch It;Busta Rhymes;['Rap/Hip Hop'];214.0;1.0
+18;Unpredictable;Jamie Foxx Featuring Ludacris;['R&B', 'Soul'];219.0;0.0
+19;Love;Keyshia Cole;['R&B'];255.0;0.0
+20;Dirty Little Secret;The All-American Rejects;['Pop'];193.0;0.0
+21;Because Of You;Kelly Clarkson;['Pop'];219.0;0.0
+22;Fresh Azimiz;Bow Wow Featuring J-Kwon & Jermaine Dupri;['Pop'];271.0;0.0
+23;Jesus, Take The Wheel;Carrie Underwood;['Country'];226.0;0.0
+24;Who Says You Can't Go Home;Bon Jovi;['Rock'];230.0;0.0
+25;Pump It;The Black Eyed Peas;['Rap/Hip Hop'];213.0;0.0
+26;Ridin';Chamillionaire Featuring Krayzie Bone;['Films/Jeux vidéo', 'Comédie'];170.0;0.0
+27;My Humps;The Black Eyed Peas;['Rap/Hip Hop'];327.0;0.0
+28;Rompe;Daddy Yankee;['Latino'];188.0;0.0
+29;King Without A Crown;Matisyahu;['Alternative', 'Rap/Hip Hop', 'Pop', 'Pop internationale', 'Variété Internationale', 'Reggae'];288.0;0.0
+30;Stupid Girls;P!nk;['Pop'];195.0;1.0
+31;Move Along;The All-American Rejects;['Pop'];193.0;0.0
+32;Run It!;Chris Brown;['R&B'];250.0;0.0
+33;Stickwitu;The Pussycat Dolls;['Pop'];208.0;0.0
+34;Tell Me When To Go;E-40 Featuring Keak Da Sneak;['Rap/Hip Hop'];237.0;1.0
+35;Tonight I Wanna Cry;Keith Urban;['Country'];259.0;0.0
+36;Sugar, We're Goin' Down;Fall Out Boy;['Rock'];229.0;0.0
+37;SOS;Rihanna;['Pop'];238.0;0.0
+38;Gold Digger;Kanye West Featuring Jamie Foxx;[];208.0;0.0
+39;Photograph;Nickelback;['Rock'];259.0;0.0
+40;World Wide Suicide;Pearl Jam;['Alternative', 'Pop'];207.0;0.0
+41;Savin' Me;Nickelback;['Rock'];217.0;0.0
+42;Poppin' My Collar;Three 6 Mafia;['Pop'];176.0;1.0
+43;For You I Will (Confidence);Teddy Geiger;[];227.0;0.0
+44;You And Me;Lifehouse;['Electro'];306.0;0.0
+45;What Hurts The Most;Rascal Flatts;['Country'];214.0;0.0
+46;Touch The Sky;Kanye West Featuring Lupe Fiasco;['Jeunesse', 'Soul'];251.0;0.0
+47;Over My Head (Cable Car);The Fray;['Rock'];236.0;0.0
+48;Living In Fast Forward;Kenny Chesney;['Country', 'Pop', 'Pop internationale', 'Rock'];211.0;0.0
+49;Feel Good Inc;Gorillaz;['Rap/Hip Hop'];222.0;0.0
+50;Your Man;Josh Turner;['Country'];211.0;0.0
+51;Girl Next Door;Saving Jane;['Pop'];203.0;0.0
+52;Ever The Same;Rob Thomas;['Pop'];256.0;0.0
+53;What You Know;T.I.;['Rap/Hip Hop'];274.0;0.0
+54;When I Get Where I'm Going;Brad Paisley Featuring Dolly Parton;['Country'];246.0;0.0
+55;Best Friend;50 Cent & Olivia;['Rap/Hip Hop'];250.0;1.0
+56;I Write Sins Not Tragedies;Panic! At The Disco;['Rock'];187.0;0.0
+57;Rodeo;Juvenile;['Rap/Hip Hop'];237.0;1.0
+58;Upside Down;Jack Johnson;['Films/Jeux vidéo', 'Musiques de films'];208.0;0.0
+59;Get Drunk And Be Somebody;Toby Keith;['Country'];180.0;0.0
+60;Rush;Aly & AJ;['Rock'];233.0;0.0
+61;She Don't Tell Me To;Montgomery Gentry;['Country'];187.0;0.0
+62;Looking For You;Kirk Franklin;[];245.0;0.0
+63;Nobody But Me;Blake Shelton;['Country'];158.0;0.0
+64;Believe;Brooks & Dunn;['Country'];263.0;0.0
+65;When You're Mad;Ne-Yo;['R&B'];222.0;0.0
+66;L.O.V.E.;Ashlee Simpson;['Pop'];153.0;0.0
+67;Girl;Paul Wall;['Rap/Hip Hop'];278.0;1.0
+68;Cheatin';Sara Evans;['Country'];206.0;0.0
+69;What's Left Of Me;Nick Lachey;['Pop', 'Rock'];244.0;0.0
+70;Goodbye My Lover;James Blunt;['Pop'];258.0;0.0
+71;Why;Jason Aldean;['Country'];213.0;0.0
+72;Oh Yes (aka 'Postman');Juelz Santana;['Pop'];192.0;0.0
+73;Always On Your Side;Sheryl Crow & Sting;['Pop'];251.0;0.0
+74;The Real Thing;Bo Bice;['Country', 'Pop'];201.0;0.0
+75;Perfect Situation;Weezer;['Rock'];254.0;0.0
+76;Sorry;Madonna;['Pop'];281.0;0.0
+77;In My Mind;Heather Headley;[];;
+78;Can't Let Go;Anthony Hamilton;['R&B', 'Soul'];232.0;0.0
+79;Breaking Free;Zac Efron, Andrew Seeley & Vanessa Anne Hudgens;[];;
+80;4 Minutes;Avant;['R&B'];240.0;0.0
+81;Gotta Go;Trey Songz;['R&B'];247.0;0.0
+82;Lights And Sounds;Yellowcard;['Rock'];208.0;0.0
+83;Hips Don't Lie;Shakira Featuring Wyclef Jean;['Pop'];218.0;0.0
+84;Black Horse & The Cherry Tree;KT Tunstall;['Rock'];172.0;0.0
+85;Bring Out The Freak In You;Lil Rob;['Rap/Hip Hop'];227.0;0.0
+86;Betcha Can't Do It Like Me;D4L;['Rap/Hip Hop'];220.0;1.0
+87;The Only Difference Between Martyrdom And Suicide Is Press Coverage;Panic! At The Disco;['Pop'];176.0;0.0
+88;Settle For A Slowdown;Dierks Bentley;['Country'];223.0;0.0
+89;Kerosene;Miranda Lambert;['Country'];185.0;0.0
+90;Wherever You Are;Jack Ingram;['Country'];194.0;0.0
+91;Something's Gotta Give;LeAnn Rimes;['Country', 'Pop'];236.0;0.0
+92;Conceited (There's Something About Remy);Remy Ma;['Rap/Hip Hop'];219.0;1.0
+93;Wasteland;10 Years;['Rock'];229.0;0.0
+94;Kryptonite (I'm On It);Purple Ribbon All-Stars;[];;
+95;Gettin' Some;Shawnna;['Rap/Hip Hop'];203.0;1.0
+96;Gold Lion;Yeah Yeah Yeahs;['Rock'];187.0;0.0
+97;My Hood;Young Jeezy;['Rap/Hip Hop'];240.0;1.0
+98;Talk;Coldplay;['Rock'];311.0;0.0
+99;Crash;Gwen Stefani;['Pop'];245.0;0.0

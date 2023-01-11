@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Stand Up;Ludacris Featuring Shawnna;[];;
+1;Hey Ya!;OutKast;['Rap/Hip Hop'];235.0;0.0
+2;Baby Boy;Beyonce Featuring Sean Paul;['Pop', 'R&B'];244.0;0.0
+3;The Way You Move;OutKast Featuring Sleepy Brown;['Rap/Hip Hop'];234.0;1.0
+4;Holidae In;Chingy Featuring Ludacris & Snoop Dogg;['Rap/Hip Hop'];314.0;1.0
+5;Here Without You;3 Doors Down;['Rock'];238.0;0.0
+6;Suga Suga;Baby Bash Featuring Frankie J;[];;
+7;Walked Outta Heaven;Jagged Edge;['R&B'];270.0;0.0
+8;Damn!;YoungBloodZ Featuring Lil Jon;['Rap/Hip Hop'];298.0;1.0
+9;Step In The Name Of Love;R. Kelly;['R&B'];308.0;0.0
+10;Get Low;Lil Jon & The East Side Boyz Featuring Ying Yang Twins;['Rap/Hip Hop', 'Dirty South'];324.0;0.0
+11;Milkshake;Kelis;['R&B'];182.0;0.0
+12;Stunt 101;G Unit;['Rap/Hip Hop'];232.0;1.0
+13;Why Don't You & I;Santana Featuring Alex Band Or Chad Kroeger;[];;
+14;Change Clothes;JAY-Z;['Rap/Hip Hop'];258.0;1.0
+15;You Don't Know My Name;Alicia Keys;['Pop', 'R&B'];366.0;0.0
+16;Wat Da Hook Gon Be;Murphy Lee Featuring Jermaine Dupri;['Pop'];244.0;0.0
+17;It's My Life;No Doubt;['Pop'];225.0;0.0
+18;Headstrong;Trapt;['Rock'];286.0;1.0
+19;Runnin (Dying To Live);Tupac Featuring The Notorious B.I.G.;[];;
+20;Read Your Mind;Avant;['R&B'];263.0;0.0
+21;Someday;Nickelback;['Rock'];207.0;0.0
+22;Bright Lights;matchbox twenty;['Pop'];234.0;0.0
+23;Rain On Me;Ashanti;['R&B'];297.0;0.0
+24;Shake Ya Tailfeather;Nelly, P. Diddy & Murphy Lee;['Rap/Hip Hop'];293.0;0.0
+25;Harder To Breathe;Maroon 5;['Pop'];173.0;1.0
+26;So Far Away;Staind;['Rock'];244.0;0.0
+27;Right Thurr;Chingy;['Rap/Hip Hop'];250.0;1.0
+28;White Flag;Dido;['Pop'];240.0;0.0
+29;I Love This Bar;Toby Keith;['Country'];333.0;0.0
+30;(There's Gotta Be) More To Life;Stacie Orrico;[];200.0;0.0
+31;Unwell;matchbox twenty;['Pop'];228.0;0.0
+32;Stacy's Mom;Fountains Of Wayne;['Pop'];197.0;0.0
+33;I Melt;Rascal Flatts;['Country'];234.0;0.0
+34;Why Can't I?;Liz Phair;['Rock'];208.0;1.0
+35;Me, Myself And I;Beyonce;['Pop'];301.0;0.0
+36;The First Cut Is The Deepest;Sheryl Crow;['Films/Jeux vidéo', 'Musiques de films'];230.0;0.0
+37;Perfect;Simple Plan;['Rock'];277.0;0.0
+38;Wave On Wave;Pat Green;['Country'];244.0;0.0
+39;Me Against The Music;Britney Spears Featuring Madonna;['Pop'];223.0;0.0
+40;Breathe;Michelle Branch;['Pop'];211.0;0.0
+41;There Goes My Life;Kenny Chesney;['Country'];302.0;0.0
+42;Cowboys Like Us;George Strait;['Country'];198.0;0.0
+43;Invisible;Clay Aiken;['Pop'];243.0;0.0
+44;Numb;Linkin Park;['Alternative'];185.0;0.0
+45;Calling All Angels;Train;['Rock'];242.0;0.0
+46;Clap Back;Ja Rule;['Rap/Hip Hop'];296.0;1.0
+47;Pass That Dutch;Missy Elliott;['Rap/Hip Hop'];220.0;0.0
+48;Into You;Fabolous Featuring Tamia Or Ashanti;[];;
+49;Hell Yeah;Montgomery Gentry;['Country'];290.0;0.0
+50;Who Wouldn't Wanna Be Me;Keith Urban;['Country'];221.0;0.0
+51;Fallen;Sarah McLachlan;['Pop'];227.0;0.0
+52;Clubbin;Marques Houston Featuring Joe Budden & Pied Piper;['R&B', 'Soul & Funk', 'Soul'];243.0;0.0
+53;Can't Hold Us Down;Christina Aguilera Featuring Lil' Kim;['Pop'];255.0;0.0
+54;More & More;Joe;['R&B', 'Soul'];180.0;0.0
+55;You Can't Take The Honky Tonk Out Of The Girl;Brooks & Dunn;['Country'];221.0;0.0
+56;The Voice Within;Christina Aguilera;['Pop'];304.0;0.0
+57;Chicks Dig It;Chris Cagle;['Country'];210.0;0.0
+58;Gigolo;Nick Cannon Featuring R. Kelly;['Pop', 'R&B'];237.0;0.0
+59;Can't Stop, Won't Stop;Young Gunz;['Rap/Hip Hop'];262.0;1.0
+60;Walking In Memphis;Lonestar;['Country'];229.0;0.0
+61;Slow Jamz;Twista Featuring Kanye West & Jamie Foxx;['Rap/Hip Hop'];212.0;1.0
+62;Tough Little Boys;Gary Allan;['Country'];236.0;0.0
+63;Honesty (Write Me A List);Rodney Atkins;['Country'];255.0;0.0
+64;Fallen;Mya;['Pop'];214.0;0.0
+65;Forthenight;Musiq;['R&B'];229.0;0.0
+66;Bigger Than My Body;John Mayer;['Pop', 'Rock'];266.0;0.0
+67;(I Hate) Everything About You;Three Days Grace;['Pop'];231.0;0.0
+68;Still Frame;Trapt;['Rock'];271.0;1.0
+69;Drinkin' Bone;Tracy Byrd;['Country'];132.0;0.0
+70;My Baby;Bow Wow Featuring Jagged Edge;['Rap/Hip Hop'];303.0;0.0
+71;Bad Boy This Bad Boy That;Bad Boy's Da Band;['Rap/Hip Hop'];196.0;0.0
+72;Away From Me;Puddle Of Mudd;['Rock'];238.0;1.0
+73;She's Not Just A Pretty Face;Shania Twain;['Pop'];229.0;0.0
+74;Knock Knock;Monica;['Rock'];495.0;0.0
+75;Weak And Powerless;A Perfect Circle;['Rock'];195.0;0.0
+76;Gangsta Nation;Westside Connection Featuring Nate Dogg;['Rap/Hip Hop'];273.0;1.0
+77;Love You More;Ginuwine;['R&B'];241.0;0.0
+78;Salt Shaker;Ying Yang Twins Featuring Lil Jon & The East Side Boyz;['Rap/Hip Hop', 'Dirty South'];252.0;1.0
+79;Hot & Wet;112 Featuring Ludacris;['Rap/Hip Hop'];83.0;1.0
+80;Faint;Linkin Park;['Alternative'];162.0;0.0
+81;I Can Only Imagine;MercyMe;['Pop', 'Spiritualité & religion'];251.0;0.0
+82;Amazing;Josh Kelley;['Pop'];259.0;0.0
+83;Heaven;Live;['Rock', 'Rock & Roll/Rockabilly'];280.0;0.0
+84;Show Me How To Live;Audioslave;['Rock'];277.0;0.0
+85;Another Postcard (Chimps);Barenaked Ladies;['Pop'];204.0;0.0
+86;Take Me Away;Fefe Dobson;['Rock'];209.0;0.0
+87;"Roc Ya Body ""Mic Check 1,2""";M.V.P. (Most Valuable Playas) Featuring Stagga Lee;[];;
+88;Through The Wire;Kanye West;['Rap/Hip Hop'];221.0;1.0
+89;So Yesterday;Hilary Duff;['Pop'];215.0;0.0
+90;Waiting For You;Seal;['Pop'];273.0;0.0
+91;Party To Damascus;Wyclef Jean Featuring Missy Elliott;['Rap/Hip Hop'];243.0;0.0
+92;This One's For The Girls;Martina McBride;['Country'];243.0;0.0
+93;I Can't Take You Anywhere;Scotty Emerick With Toby Keith;[];;
+94;One More Chance;Michael Jackson;['Pop'];229.0;0.0
+95;Shake That Monkey;Too Short Featuring Lil Jon & The East Side Boyz;[];;
+96;Find A Way;Dwele;['Rock'];249.0;0.0
+97;F**k It (I Don't Want You Back);Eamon;['Pop'];223.0;1.0
+98;Never (Past Tense);The Roc Project Featuring Tina Arena;['Pop'];223.0;0.0
+99;I Need You Now;Smokie Norful;[];251.0;0.0

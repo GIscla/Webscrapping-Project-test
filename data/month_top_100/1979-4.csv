@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Will Survive;Gloria Gaynor;['R&B', 'Disco'];265.0;0.0
+1;What A Fool Believes;The Doobie Brothers;['Rock', 'Rock & Roll/Rockabilly'];219.0;0.0
+2;Tragedy;Bee Gees;['Pop'];302.0;0.0
+3;Sultans Of Swing;Dire Straits;['Rock'];348.0;0.0
+4;Shake Your Groove Thing;Peaches & Herb;['R&B'];346.0;0.0
+5;Music Box Dancer;Frank Mills;['Pop'];198.0;0.0
+6;Knock On Wood;Amii Stewart;['Soul'];251.0;0.0
+7;Da Ya Think I'm Sexy?;Rod Stewart;['Pop', 'Rock'];331.0;0.0
+8;Heart Of Glass;Blondie;['Pop'];252.0;0.0
+9;Lady;Little River Band;['Rock'];289.0;0.0
+10;Stumblin' In;Suzi Quatro & Chris Norman;['Films/Jeux vidéo', 'Musiques de films'];238.0;0.0
+11;I Just Fall In Love Again;Anne Murray;['Pop'];170.0;0.0
+12;I Want Your Love;Chic;['R&B'];415.0;0.0
+13;Heaven Knows;Donna Summer With Brooklyn Dreams;[];;
+14;Reunited;Peaches & Herb;['Pop'];341.0;0.0
+15;Goodnight Tonight;Wings;['Rock'];262.0;0.0
+16;Livin' It Up (Friday Night);Bell & James;['Disco'];418.0;0.0
+17;What You Won't Do For Love;Bobby Caldwell;['Films/Jeux vidéo', 'Musiques de films'];285.0;0.0
+18;He's The Greatest Dancer;Sister Sledge;['R&B'];374.0;0.0
+19;Take Me Home;Cher;['Pop'];403.0;0.0
+20;In The Navy;Village People;['Dance', 'Pop', 'Rock'];339.0;0.0
+21;Maybe I'm A Fool;Eddie Money;['Rock'];184.0;0.0
+22;I Don't Know If It's Right;"Evelyn ""Champagne"" King";['Pop'];497.0;0.0
+23;Love Ballad;George Benson;['Pop'];313.0;0.0
+24;Precious Love;Bob Welch;['Pop'];194.0;0.0
+25;Blow Away;George Harrison;['Rock'];240.0;0.0
+26;I Got My Mind Made Up (You Can Get It Girl);Instant Funk;['Dance'];201.0;0.0
+27;Superman;Herbie Mann;['Jazz'];334.0;0.0
+28;Don't Cry Out Loud;Melissa Manchester;['Pop'];230.0;0.0
+29;Shake Your Body (Down To The Ground);The Jacksons;['Pop', 'Pop internationale', 'Rock'];233.0;0.0
+30;Big Shot;Billy Joel;['Pop'];243.0;0.0
+31;Love Is The Answer;England Dan & John Ford Coley;['Rock'];284.0;0.0
+32;Crazy Love;Poco;['Rock'];176.0;0.0
+33;Bustin' Loose;Chuck Brown & The Soul Searchers;['R&B'];462.0;0.0
+34;Love Takes Time;Orleans;['Pop', 'Rock'];261.0;0.0
+35;Every Time I Think Of You;The Babys;['Rock'];239.0;0.0
+36;Rubber Biscuit;Blues Brothers;['Rock', 'Blues'];177.0;0.0
+37;Renegade;Styx;['Rock'];253.0;0.0
+38;Crazy Love;The Allman Brothers Band;['Rock'];226.0;0.0
+39;Roxanne;The Police;['Pop'];188.0;0.0
+40;Souvenirs;Voyage;['Pop'];164.0;0.0
+41;Keep On Dancin';Gary's Gang;['Dance'];458.0;0.0
+42;Roller;April Wine;['Classique', 'Rock'];217.0;0.0
+43;Here Comes The Night;The Beach Boys;['Pop'];163.0;0.0
+44;Elena;The Marc Tanner Band;[];;
+45;Oh Honey;Delegation;['Classique', 'R&B', 'Disco', 'Soul & Funk'];356.0;0.0
+46;Rock 'n' Roll Fantasy;Bad Company;['Rock', 'Hard Rock'];211.0;0.0
+47;Bridge Over Troubled Water;Linda Clifford;['Dance'];453.0;0.0
+48;Happiness;The Pointer Sisters;['R&B'];238.0;0.0
+49;Sweet Lui-Louise;Ironhorse;[];;
+50;Fire;The Pointer Sisters;['Pop'];210.0;0.0
+51;Such A Woman;Tycoon;['Rock'];261.0;0.0
+52;Disco Nights (Rock-Freak);G.Q.;['R&B', 'Soul'];233.0;0.0
+53;Don't You Write Her Off;McGuinn, Clark & Hillman;['Rock'];198.0;0.0
+54;A Little More Love;Olivia Newton-John;['Pop'];206.0;0.0
+55;At Midnight;T-Connection;['Rap/Hip Hop'];584.0;0.0
+56;Good Times Roll;The Cars;['Pop'];224.0;0.0
+57;Feelin' Satisfied;Boston;['Pop'];251.0;0.0
+58;Just When I Needed You Most;Randy VanWarmer;['Rock'];241.0;0.0
+59;Can You Read My Mind;Maureen McGovern;['Pop'];208.0;0.0
+60;Get Used To It;Roger Voudouris;['Pop'];182.0;0.0
+61;I Need Your Help Barry Manilow;Ray Stevens;[];;
+62;(If Loving You Is Wrong) I Don't Want To Be Right;Barbara Mandrell;['Country'];184.0;0.0
+63;Dog + Butterfly;Heart;['Rock'];320.0;0.0
+64;Chase;Giorgio Moroder;['Films/Jeux vidéo', 'Musiques de films'];506.0;0.0
+65;The Logical Song;Supertramp;['Rock'];249.0;0.0
+66;Take It Back;The J. Geils Band;['Rock'];199.0;0.0
+67;California Dreamin';America;['Rock'];199.0;0.0
+68;Le Freak;Chic;['R&B'];327.0;0.0
+69;Saturday Night, Sunday Morning;Thelma Houston;['Pop'];235.0;0.0
+70;Y.M.C.A.;Village People;['Dance', 'Pop', 'Rock', 'Disco'];286.0;0.0
+71;Old Time Rock & Roll;Bob Seger & The Silver Bullet Band;['Rock'];195.0;0.0
+72;Rhumba Girl;Nicolette Larson;['Country', 'Rock'];232.0;0.0
+73;Heart To Heart;Errol Sober;[];;
+74;Diamonds;Chris Rea;['Pop', 'Rock'];294.0;0.0
+75;I Don't Want Nobody Else (To Dance With You);Narada Michael Walden;['Pop'];260.0;0.0
+76;It Must Be Love;Alton McClain & Destiny;['Rap/Hip Hop', 'Pop'];286.0;0.0
+77;You Says It All;Randy Brown;[];;
+78;There But For The Grace Of God Go I;Machine;['Disco'];463.0;0.0
+79;Makin' It;David Naughton;['Pop', 'Disco'];189.0;0.0
+80;Just The Same Way;Journey;['Rock', 'Rock & Roll/Rockabilly'];274.0;0.0
+81;Hot Number;Foxy;['Pop'];253.0;0.0
+82;I'll Come Running;Livingston Taylor;[];;
+83;I Need You;Euclid Beach Band;['Pop'];225.0;0.0
+84;Give Me An Inch;Ian Matthews;[];;
+85;Body Heat;Alicia Bridges;['Pop'];184.0;0.0
+86;I (Who Have Nothing);Sylvester;['Dance'];674.0;0.0
+87;Dancer;Gino Soccio;['R&B'];508.0;0.0
+88;Love Is Gonna Come At Last;Badfinger;['Rock'];218.0;0.0
+89;(Sittin' On) The Dock Of The Bay;Sammy Hagar;['Rock'];182.0;0.0
+90;High On Your Love Suite;Rick James;['Soul & Funk'];448.0;0.0
+91;I Never Said I Love You;Orsa Lia;[];;
+92;I'll Supply The Love;Toto;['Pop'];224.0;0.0
+93;Forever In Blue Jeans;Neil Diamond;['Pop'];217.0;0.0
+94;Stay The Night;The Faragher Bros.;[];;
+95;Heartaches;BTO;['Rock'];232.0;0.0
+96;Hard Times For Lovers;Judy Collins;['Pop', 'Rock'];236.0;0.0
+97;Watch Out For Lucy;Eric Clapton And His Band;[];;
+98;Love And Desire (Part I);Arpeggio;[];;
+99;Too Much Heaven;Bee Gees;['Pop'];295.0;0.0

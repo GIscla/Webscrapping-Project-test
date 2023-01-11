@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Ode To Billie Joe;Bobbie Gentry;['Country'];254.0;0.0
+1;All You Need Is Love;The Beatles;['Rock'];227.0;0.0
+2;Reflections;Diana Ross & The Supremes;[];170.0;0.0
+3;Light My Fire;The Doors;['Rock'];425.0;0.0
+4;Baby I Love You;Aretha Franklin;['Pop', 'Rock'];158.0;0.0
+5;Come Back When You Grow Up;Bobby Vee And The Strangers;[];;
+6;Cold Sweat - Part 1;James Brown And The Famous Flames;[];;
+7;Pleasant Valley Sunday;The Monkees;['Pop'];194.0;0.0
+8;You're My Everything;The Temptations;['Soul'];185.0;0.0
+9;I Was Made To Love Her;Stevie Wonder;['Pop'];155.0;0.0
+10;Words;The Monkees;['Pop'];170.0;0.0
+11;Heroes And Villains;The Beach Boys;['Pop'];219.0;0.0
+12;Thank The Lord For The Night Time;Neil Diamond;['Pop'];181.0;0.0
+13;Apples, Peaches, Pumpkin Pie;Jay And The Techniques;['Soul'];148.0;0.0
+14;The Letter;The Box Tops;['Pop'];112.0;0.0
+15;A Whiter Shade Of Pale;Procol Harum;['Pop'];248.0;0.0
+16;A Girl Like You;The Young Rascals;['Pop'];170.0;0.0
+17;Carrie-Anne;The Hollies;['Rock'];175.0;0.0
+18;Funky Broadway;Wilson Pickett;['R&B'];155.0;0.0
+19;(I Wanna) Testify;The Parliaments;['Rock', 'Rock & Roll/Rockabilly'];183.0;0.0
+20;Silence Is Golden;The Tremeloes;['Rock'];189.0;0.0
+21;Brown Eyed Girl;Van Morrison;['Rock'];183.0;0.0
+22;Fakin' It;Simon & Garfunkel;['Rock'];197.0;0.0
+23;There Is A Mountain;Donovan;['Rock'];155.0;0.0
+24;San Franciscan Nights;Eric Burdon & The Animals;['Pop'];199.0;0.0
+25;To Love Somebody;Bee Gees;['Pop'];180.0;0.0
+26;(Your Love Keeps Lifting Me) Higher And Higher;Jackie Wilson;['R&B'];179.0;0.0
+27;You Know What I Mean;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];122.0;0.0
+28;I Had A Dream;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];140.0;0.0
+29;The World We Knew (Over And Over);Frank Sinatra;['Jazz'];167.0;0.0
+30;Mercy, Mercy, Mercy;The Buckinghams;['Pop'];148.0;0.0
+31;The Windows Of The World;Dionne Warwick;['Pop'];181.0;0.0
+32;Groovin';Booker T. & The MG's;['Soul'];229.0;0.0
+33;Let The Good Times Roll & Feel So Good;Bunny Sigler;['Pop'];175.0;0.0
+34;Can't Take My Eyes Off You;Frankie Valli;['Pop'];203.0;0.0
+35;Twelve Thirty (Young Girls Are Coming To The Canyon);The Mamas & The Papas;['Films/Jeux vidéo', 'Musiques de films'];206.0;0.0
+36;Things I Should Have Said;The Grass Roots;['Rock', 'Folk'];151.0;0.0
+37;I Dig Rock And Roll Music;Peter, Paul & Mary;['Pop'];151.0;0.0
+38;Hypnotized;Linda Jones;['R&B', 'Soul & Funk', 'Soul'];167.0;0.0
+39;Gettin' Together;Tommy James And The Shondells;['Pop'];134.0;0.0
+40;Blue's Theme;Davie Allan And The Arrows;['Rock'];140.0;0.0
+41;Zip Code;The Five Americans;['Rock'];152.0;0.0
+42;The Sweetest Thing This Side Of Heaven;Chris Bartley;['Pop'];179.0;0.0
+43;Shoot Your Shot;Jr. Walker & The All Stars;['R&B'];181.0;0.0
+44;Ha Ha Said The Clown;The Yardbirds;['Pop'];148.0;0.0
+45;Gimme Little Sign;Brenton Wood;['Soul'];141.0;0.0
+46;My Mammy;The Happenings;['Pop'];182.0;0.0
+47;Everybody Needs Love;Gladys Knight And The Pips;['R&B'];176.0;0.0
+48;Little Ole Wine Drinker, Me;Dean Martin;['Pop'];167.0;0.0
+49;It's The Little Things;Sonny & Cher;['Pop'];186.0;0.0
+50;Making Every Minute Count;Spanky And Our Gang;['Pop'];152.0;0.0
+51;Happy;The Sunshine Company;['Pop'];116.0;0.0
+52;Cry Softly Lonely One;Roy Orbison;['Rock'];173.0;0.0
+53;I Want To Love You For What You Are;Ronnie Dove;['Pop', 'Rock'];189.0;0.0
+54;Knock On Wood;Otis & Carla;['R&B'];172.0;0.0
+55;Jill;Gary Lewis And The Playboys;['Pop'];140.0;0.0
+56;Get On Up;The Esquires;['R&B', 'Soul'];138.0;0.0
+57;Love Bug Leave My Heart Alone;Martha & The Vandellas;['Pop'];132.0;0.0
+58;Never My Love;The Association;['Pop', 'Rock'];190.0;0.0
+59;You've Got To Pay The Price;Al Kent;[];;
+60;Anything Goes;Harpers Bizarre;['Pop', 'Rock'];123.0;0.0
+61;Museum;Herman's Hermits;['Pop'];161.0;0.0
+62;Run, Run, Run;The Third Rail;['Rock'];118.0;0.0
+63;Put Your Mind At Ease;Every Mothers' Son;[];;
+64;Turn On Your Love Light;Oscar Toney, Jr.;['R&B'];145.0;0.0
+65;Funky Broadway Part I;Dyke And The Blazers;[];;
+66;A Little Bit Now;The Dave Clark Five;[];;
+67;Laura, What's He Got That I Ain't Got;Frankie Laine;[];;
+68;A Woman's Hands;Joe Tex;['Soul'];210.0;0.0
+69;I Make A Fool Of Myself;Frankie Valli;['Pop'];219.0;0.0
+70;Little Ole Man (Uptight-Everything's Alright);Bill Cosby;[];;
+71;The Cat In The Window (The Bird In The Sky);Petula Clark;['Pop'];116.0;0.0
+72;Sixteen Tons;Tom Jones;['Pop'];188.0;0.0
+73;There's Always Me;Elvis Presley With The Jordanaires;[];;
+74;Memphis Soul Stew;King Curtis;['R&B'];179.0;0.0
+75;In The Heat Of The Night;Ray Charles;['R&B', 'Soul & Funk', 'Soul'];155.0;0.0
+76;I Feel Good (I Feel Bad);The Lewis & Clarke Expedition;[];;
+77;Casonova (Your Playing Days Are Over);Ruby Andrews;['R&B'];313.0;0.0
+78;Just Out Of Reach (Of My Two Empty Arms);Percy Sledge;['R&B', 'Soul & Funk', 'Soul'];211.0;0.0
+79;It Must Be Him;Vikki Carr;['Latino'];172.0;0.0
+80;Laura (Tell Me What He's Got That I Ain't Got);Brook Benton;[];;
+81;Take A Look;Aretha Franklin;['R&B'];171.0;0.0
+82;Expressway (To Your Heart);Soul Survivors;['Rap/Hip Hop', 'R&B'];140.0;0.0
+83;Ballad Of You & Me & Pooneil;Jefferson Airplane;['Pop', 'Rock'];275.0;0.0
+84;Turn The World Around;Eddy Arnold;['Country'];148.0;0.0
+85;It Could Be We're In Love;The Cryan' Shames;['Rock'];153.0;0.0
+86;Knucklehead;Bar-Kays;['R&B', 'Soul'];142.0;0.0
+87;Get Together;The Youngbloods;['Rock'];276.0;0.0
+88;It's Got To Be Mellow;Leon Haywood;['Pop'];147.0;0.0
+89;I Can't Stay Away From You;The Impressions;['Pop'];164.0;0.0
+90;Tell Him;Patti Drew;['Jazz'];151.0;0.0
+91;Stout-Hearted Men;Barbra Streisand;['Pop'];161.0;0.0
+92;Purple Haze;The Jimi Hendrix Experience;['Pop'];171.0;0.0
+93;Paper Sun;Traffic featuring Stevie Winwood;[];;
+94;Penny Arcade;The Cyrkle;['Pop'];159.0;0.0
+95;The Look Of Love;Dusty Springfield;['Pop', 'Singer & Songwriter'];209.0;0.0
+96;Come On Sock It To Me;Syl Johnson;['Soul'];147.0;0.0
+97;There Goes The Lover;Gene Chandler;['R&B', 'Soul'];142.0;0.0
+98;Nearer To You;Betty Harris;['R&B', 'Soul & Funk', 'Soul'];175.0;0.0
+99;Requiem For The Masses;The Association;['Pop', 'Rock'];246.0;0.0

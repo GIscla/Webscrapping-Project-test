@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Night Fever;Bee Gees;['Pop'];212.0;0.0
+1;If I Can't Have You;Yvonne Elliman;['Pop'];177.0;0.0
+2;Can't Smile Without You;Barry Manilow;['Pop'];190.0;0.0
+3;The Closer I Get To You;Roberta Flack With Donny Hathaway;['Pop'];278.0;0.0
+4;With A Little Luck;Wings;['Rock'];344.0;0.0
+5;Too Much, Too Little, Too Late;Johnny Mathis/Deniece Williams;['Pop'];180.0;0.0
+6;You're The One That I Want;John Travolta & Olivia Newton-John;['Films/Jeux vidéo', 'Comédies musicales'];169.0;0.0
+7;Lay Down Sally;Eric Clapton;['Rock', 'Blues'];236.0;0.0
+8;Dust In The Wind;Kansas;['Rock'];205.0;0.0
+9;Count On Me;Jefferson Starship;['Rock'];194.0;0.0
+10;Jack And Jill;Raydio;['Pop', 'R&B'];276.0;0.0
+11;Imaginary Lover;Atlanta Rhythm Section;['Pop', 'Rock'];332.0;0.0
+12;Feels So Good;Chuck Mangione;['Jazz'];212.0;0.0
+13;Shadow Dancing;Andy Gibb;['Pop'];276.0;0.0
+14;Disco Inferno;The Trammps;['Pop'];219.0;0.0
+15;This Time I'm In It For Love;Player;['Rock'];265.0;0.0
+16;Sweet Talkin' Woman;Electric Light Orchestra;['Rock'];229.0;0.0
+17;Flash Light;Parliament;['R&B'];347.0;0.0
+18;On Broadway;George Benson;['Pop'];316.0;0.0
+19;Two Doors Down;Dolly Parton;['Country', 'Films/Jeux vidéo', 'Musiques de films'];184.0;0.0
+20;Love Is Like Oxygen;Sweet;['Pop'];224.0;0.0
+21;Baby Hold On;Eddie Money;['Rock'];211.0;0.0
+22;Movin' Out (Anthony's Song);Billy Joel;['Rock'];207.0;0.0
+23;Werewolves Of London;Warren Zevon;['Rock'];209.0;0.0
+24;It's A Heartache;Bonnie Tyler;['Pop'];209.0;0.0
+25;Stayin' Alive;Bee Gees;['Pop'];283.0;0.0
+26;Running On Empty;Jackson Browne;['Pop', 'Rock'];298.0;0.0
+27;Our Love;Natalie Cole;['Jazz'];209.0;0.0
+28;Goodbye Girl;David Gates;['Pop'];168.0;0.0
+29;Take A Chance On Me;ABBA;['Pop'];246.0;0.0
+30;You Belong To Me;Carly Simon;['Pop'];232.0;0.0
+31;More Than A Woman;Tavares;['Rap/Hip Hop'];195.0;0.0
+32;Do You Believe In Magic;Shaun Cassidy;['Pop'];138.0;0.0
+33;Ego;Elton John;['Pop'];240.0;0.0
+34;(Love Is) Thicker Than Water;Andy Gibb;['Pop'];256.0;0.0
+35;Two Out Of Three Ain't Bad;Meat Loaf;['Rock'];324.0;0.0
+36;Let's All Chant;The Michael Zager Band;['Electro', 'Techno/House', 'Dance'];397.0;0.0
+37;Deacon Blues;Steely Dan;['Pop'];456.0;0.0
+38;Every Kinda People;Robert Palmer;['Pop'];199.0;0.0
+39;Dance With Me;Peter Brown With Betty Wright;['R&B', 'Soul & Funk', 'Soul'];223.0;0.0
+40;Because The Night;Patti Smith Group;['Pop'];202.0;0.0
+41;(I Will Be Your) Shadow In The Street;Allan Clarke;[];;
+42;Heartless;Heart;['Rock', 'Hard Rock', 'Metal'];210.0;0.0
+43;Ain't Gonna Eat Out My Heart Anymore;Angel;['Rock'];207.0;0.0
+44;Make You Feel Love Again;Wet Willie;['Rock'];245.0;0.0
+45;Fooling Yourself (The Angry Young Man);Styx;['Rock'];328.0;0.0
+46;Fantasy;Earth, Wind & Fire;['R&B'];278.0;0.0
+47;We'll Never Have To Say Goodbye Again;England Dan & John Ford Coley;['Pop'];172.0;0.0
+48;Emotion;Samantha Sang;['Pop', 'Disco'];237.0;0.0
+49;Tumbling Dice;Linda Ronstadt;['Pop'];189.0;0.0
+50;Stay;Rufus/Chaka Khan;['R&B'];343.0;0.0
+51;Ebony Eyes;Bob Welch;['Rock'];212.0;0.0
+52;Baker Street;Gerry Rafferty;['Rock'];365.0;0.0
+53;Thank You For Being A Friend;Andrew Gold;['Pop'];280.0;0.0
+54;Since You Been Gone;Head East;['Rock'];181.0;0.0
+55;You're The Love;Seals & Crofts;['Pop'];200.0;0.0
+56;Always And Forever;Heatwave;['Pop'];289.0;0.0
+57;Wheel In The Sky;Journey;['Pop', 'Rock'];252.0;0.0
+58;How Deep Is Your Love;Bee Gees;['Pop'];245.0;0.0
+59;I Was Only Joking;Rod Stewart;['Pop', 'Rock'];367.0;0.0
+60;Follow You Follow Me;Genesis;['Rock'];240.0;0.0
+61;Lady Love;Lou Rawls;['R&B'];243.0;0.0
+62;Cheeseburger In Paradise;Jimmy Buffett;['Pop'];171.0;0.0
+63;The Wanderer;Leif Garrett;['Pop'];160.0;0.0
+64;I Want To Live;John Denver;['Rock', 'Rock & Roll/Rockabilly'];323.0;0.0
+65;Almost Summer;Celebration featuring Mike Love;[];;
+66;Music, Harmony And Rhythm;Brooklyn Dreams;['Rock'];257.0;0.0
+67;Everybody Dance;Chic;['Dance', 'Rock'];402.0;0.0
+68;I Can't Stand The Rain;Eruption;['Pop', 'Pop internationale', 'Rock'];185.0;0.0
+69;The Groove Line;Heatwave;['R&B'];255.0;0.0
+70;You'll Love Again;Hotel;['Pop'];192.0;0.0
+71;Dance Across The Floor;"Jimmy ""Bo"" Horne";['R&B', 'Disco'];150.0;0.0
+72;Use Ta Be My Girl;The O'Jays;['R&B'];198.0;0.0
+73;Warm Ride;Rare Earth;['R&B'];186.0;0.0
+74;Oh What A Night For Dancing;Barry White;['R&B'];235.0;0.0
+75;Even Now;Barry Manilow;['Pop'];346.0;0.0
+76;Bluer Than Blue;Michael Johnson;['Pop'];176.0;0.0
+77;Yank Me, Crank Me;Ted Nugent;['Pop'];274.0;0.0
+78;I'm On My Way;Captain & Tennille;['Pop', 'Rock'];167.0;0.0
+79;Ca Plane Pour Moi;Plastic Bertrand;['Alternative', 'Rock indé', 'Pop', 'Rock', 'Rock français'];182.0;0.0
+80;Chattanooga Choo Choo;Tuxedo Junction;['Alternative'];179.0;0.0
+81;Where Have You Been All My Life;Fotomaker;['Pop', 'Rock'];218.0;0.0
+82;I Go Crazy;Paul Davis;['R&B'];232.0;0.0
+83;Africanism/Gimme Some Lovin';Kongas;['Disco'];926.0;0.0
+84;Thank God It's Friday;Love And Kisses;['Disco'];201.0;0.0
+85;Do You Wanna Dance;Ramones;['Alternative', 'Rock indé', 'Rock'];115.0;0.0
+86;You Got It;Diana Ross;['R&B'];235.0;0.0
+87;You Keep Me Dancing;Samantha Sang;['Pop', 'Disco'];176.0;0.0
+88;Weekend Lover;Odyssey;['R&B'];197.0;0.0
+89;Before My Heart Finds Out;Gene Cotton;['Classique', 'Rock'];151.0;0.0
+90;Baby Come Back;Player;['Rock'];255.0;0.0
+91;Just The Way You Are;Billy Joel;['Rock'];290.0;0.0
+92;Runnin' With The Devil;Van Halen;['Rock', 'Hard Rock'];214.0;0.0
+93;Thunder Island;Jay Ferguson;['Rock'];240.0;0.0
+94;Let Me Party With You (Part 1) (Party, Party, Party);Bunny Sigler;[];;
+95;I'm Gonna Take Care Of Everything;Rubicon;['Classique', 'Rock'];209.0;0.0
+96;Dance, Dance, Dance (Yowsah, Yowsah, Yowsah);Chic;['Dance', 'Disco'];501.0;0.0
+97;You Got That Right;Lynyrd Skynyrd;['Rock'];228.0;0.0
+98;Don't Cost You Nothing;Ashford & Simpson;['Soul'];294.0;0.0
+99;Mama Let Him Play;Doucette;['Pop', 'Rock'];264.0;0.0

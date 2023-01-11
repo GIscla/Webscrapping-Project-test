@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Hey Jude;The Beatles;['Rock'];425.0;0.0
+1;Those Were The Days;Mary Hopkin;['Folk'];301.0;0.0
+2;Little Green Apples;O.C. Smith;['R&B'];240.0;0.0
+3;Fire;The Crazy World Of Arthur Brown;['Pop'];174.0;0.0
+4;Midnight Confessions;The Grass Roots;['Pop'];164.0;0.0
+5;Elenore;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];151.0;0.0
+6;Over You;Gary Puckett And The Union Gap;['Pop'];144.0;0.0
+7;Hold Me Tight;Johnny Nash;['Pop'];162.0;0.0
+8;Love Child;Diana Ross & The Supremes;[];175.0;0.0
+9;White Room;Cream;['Pop'];300.0;0.0
+10;Suzie Q. (Part One);Creedence Clearwater Revival;[];;
+11;Magic Carpet Ride;Steppenwolf;['Rock'];267.0;0.0
+12;Piece Of My Heart;Big Brother And The Holding Company;['Rock'];253.0;0.0
+13;Harper Valley P.T.A.;Jeannie C. Riley;['Country'];194.0;0.0
+14;Girl Watcher;The O'Kaysions;['Pop'];157.0;0.0
+15;I've Gotta Get A Message To You;Bee Gees;['Pop'];183.0;0.0
+16;My Special Angel;The Vogues;['Pop'];180.0;0.0
+17;Hey, Western Union Man;Jerry Butler;['R&B'];161.0;0.0
+18;Revolution;The Beatles;['Rock'];205.0;0.0
+19;Say It Loud - I'm Black And I'm Proud (Part 1);James Brown;['R&B', 'Soul & Funk'];176.0;0.0
+20;Sweet Blindness;The 5th Dimension;['Pop'];204.0;0.0
+21;Shape Of Things To Come;Max Frost And The Troopers;['Rock'];118.0;0.0
+22;Fool For You;The Impressions;['R&B', 'Soul'];172.0;0.0
+23;Time Has Come Today;The Chambers Brothers;['Pop'];661.0;0.0
+24;All Along The Watchtower;The Jimi Hendrix Experience;['Pop'];238.0;0.0
+25;Court Of Love;The Unifics;[];;
+26;Hi-Heel Sneakers;Jose Feliciano;['Pop', 'R&B'];274.0;0.0
+27;Bang-Shang-A-Lang;The Archies;['Pop', 'Rock'];153.0;0.0
+28;Who's Making Love;Johnnie Taylor;['R&B'];166.0;0.0
+29;In-A-Gadda-Da-Vida;Iron Butterfly;['Rock', 'Hard Rock'];1024.0;0.0
+30;Shoot'em Up, Baby;Andy Kim;['Alternative'];303.0;0.0
+31;Chained;Marvin Gaye;['R&B'];174.0;0.0
+32;Lalena;Donovan;['Rock'];175.0;0.0
+33;Keep On Lovin' Me Honey;Marvin Gaye & Tammi Terrell;['R&B'];154.0;0.0
+34;Abraham, Martin And John;Dion;['Rock'];200.0;0.0
+35;Chewy Chewy;Ohio Express;['Pop'];164.0;0.0
+36;Always Together;The Dells;['Pop', 'Singer & Songwriter'];182.0;0.0
+37;Take Me For A Little While;Vanilla Fudge;['Rock'];235.0;0.0
+38;Gentle On My Mind;Glen Campbell;['Country'];178.0;0.0
+39;Baby, Come Back;The Equals;['Pop'];151.0;0.0
+40;Quick Joey Small (Run Joey Run);Kasenetz-Katz Singing Orchestral Circus;['Pop'];143.0;0.0
+41;I Found A True Love;Wilson Pickett;['R&B'];144.0;0.0
+42;Cycles;Frank Sinatra;['Jazz'];187.0;0.0
+43;Do The Choo Choo;Archie Bell & The Drells;['Pop', 'Rock'];173.0;0.0
+44;Break Your Promise;The Delfonics;['R&B'];181.0;0.0
+45;Les Bicyclettes De Belsize;Engelbert Humperdinck;['Pop'];190.0;0.0
+46;The Funky Judge;Bull & The Matadors;['R&B'];192.0;0.0
+47;Naturally Stoned;The Avant-Garde;[];;
+48;I've Got Dreams To Remember;Otis Redding;['R&B'];195.0;0.0
+49;Bring It On Home To Me;Eddie Floyd;['R&B'];151.0;0.0
+50;I'm In A Different World;Four Tops;['R&B'];185.0;0.0
+51;1432 Franklin Pike Circle Hero;Bobby Russell;[];;
+52;Battle Hymn Of The Republic;Andy Williams with the St. Charles Borromeo Choir;['Pop'];211.0;0.0
+53;The Straight Life;Bobby Goldsboro;[];155.0;0.0
+54;Peace Of Mind;Nancy Wilson;['Pop'];160.0;0.0
+55;Pickin' Wild Mountain Berries;Peggy Scott & Jo Jo Benson;['R&B'];168.0;0.0
+56;Little Arrows;Leapy Lee;['Folk'];163.0;0.0
+57;Cinderella Sunshine;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];120.0;0.0
+58;Do Something To Me;Tommy James And The Shondells;['Pop'];151.0;0.0
+59;Cinnamon;Derek;['Pop'];163.0;0.0
+60;Ride My See-Saw;The Moody Blues;['Pop'];219.0;0.0
+61;Porpoise Song;The Monkees;['Pop'];160.0;0.0
+62;I Love You Madly;Fantastic Four;['Rock'];192.0;0.0
+63;I Love How You Love Me;Bobby Vinton;['Pop'];215.0;0.0
+64;From The Teacher To The Preacher;Gene Chandler & Barbara Acklin;[];;
+65;Promises, Promises;Dionne Warwick;['Pop'];182.0;0.0
+66;Stormy;Classics IV Featuring Dennis Yost;['Pop', 'Rock'];178.0;0.0
+67;Destination: Anywhere;The Marvelettes;['Pop'];158.0;0.0
+68;Smell Of Incense;Southwest F.O.B.;['R&B'];162.0;0.0
+69;Fly Me To The Moon;Bobby Womack;['R&B'];200.0;0.0
+70;Shake;Shadows Of Knight;['Alternative', 'Rock indé', 'Rock'];204.0;0.0
+71;Goody Goody Gumdrops;1910 Fruitgum Co.;['Pop'];136.0;0.0
+72;Alfie;Eivets Rednow;['Pop'];192.0;0.0
+73;Shame, Shame;Magic Lanterns;['R&B', 'Soul & Funk', 'Soul'];155.0;0.0
+74;Wichita Lineman;Glen Campbell;['Country'];186.0;0.0
+75;Peace Brother Peace;Bill Medley;['Pop'];256.0;0.0
+76;A Little Less Conversation;Elvis Presley With The Jordanaires;[];;
+77;Harper Valley P.T.A. (Later That Same Day);Ben Colder;[];;
+78;For Once In My Life;Stevie Wonder;['R&B'];170.0;0.0
+79;For Once In My Life;Jackie Wilson;['R&B', 'Soul'];190.0;0.0
+80;Everybody Got To Believe In Somebody;Sam & Dave;['R&B', 'Soul & Funk', 'Soul'];192.0;0.0
+81;You Put It On Me;B.B. King;['Rock', 'Blues'];166.0;0.0
+82;Do What You Gotta Do;Nina Simone;['Pop'];178.0;0.0
+83;Mornin' Glory;Bobbie Gentry & Glen Campbell;['Country'];173.0;0.0
+84;Soul Drippin';The Mauds;[];;
+85;Sweet Darlin';Martha Reeves & The Vandellas;['R&B'];185.0;0.0
+86;Fire;Five By Five;[];234.0;0.0
+87;It's Crazy;Eddie Harris;['Jazz'];189.0;0.0
+88;The Star-Spangled Banner;Jose Feliciano;['Pop'];109.0;0.0
+89;I Walk Alone;Marty Robbins;['Country'];197.0;0.0
+90;Crown Of Creation;Jefferson Airplane;['Pop', 'Rock'];176.0;0.0
+91;Billy You're My Friend;Gene Pitney;['Rock'];200.0;0.0
+92;Not Enough Indians;Dean Martin;['Pop'];206.0;0.0
+93;Aunt Dora's Love Soul Shack;Arthur Conley;['Pop'];171.0;0.0
+94;California Earthquake;Mama Cass;['Pop'];204.0;0.0
+95;Talking About My Baby;Gloria Walker;[];;
+96;The Yard Went On Forever;Richard Harris;[];;
+97;Jesse Brady;The McCoys;[];;
+98;Do Your Own Thing;Brook Benton;['R&B'];164.0;0.0
+99;Come On, React!;The Fireballs;['Pop'];131.0;0.0

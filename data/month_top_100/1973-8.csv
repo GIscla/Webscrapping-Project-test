@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;The Morning After;Maureen McGovern;['Pop'];141.0;0.0
+1;Bad, Bad Leroy Brown;Jim Croce;['Rock'];182.0;0.0
+2;Live And Let Die;Wings;['Rock'];194.0;0.0
+3;Smoke On The Water;Deep Purple;['Metal'];340.0;0.0
+4;Yesterday Once More;Carpenters;['Pop'];239.0;0.0
+5;Diamond Girl;Seals & Crofts;['Pop', 'Rock'];253.0;0.0
+6;Touch Me In The Morning;Diana Ross;['R&B'];204.0;0.0
+7;Brother Louie;Stories;['Pop', 'Rock'];235.0;0.0
+8;Will It Go Round In Circles;Billy Preston;['R&B'];268.0;0.0
+9;Shambala;Three Dog Night;['Pop'];207.0;0.0
+10;Feelin' Stronger Every Day;Chicago;['Pop', 'Rock'];254.0;0.0
+11;Monster Mash;"Bobby ""Boris"" Pickett And The Crypt-Kickers";['Pop'];192.0;0.0
+12;I Believe In You (You Believe In Me);Johnnie Taylor;['Pop'];306.0;0.0
+13;Get Down;Gilbert O'Sullivan;['Pop', 'Rock'];159.0;0.0
+14;Uneasy Rider;Charlie Daniels;['Country'];318.0;0.0
+15;Boogie Woogie Bugle Boy;Bette Midler;['Pop'];145.0;0.0
+16;Let's Get It On;Marvin Gaye;['Pop'];291.0;0.0
+17;Money;Pink Floyd;['Rock'];380.0;0.0
+18;Here I Am Come & Take Me;Al Green;['R&B'];254.0;0.0
+19;If You Want Me To Stay;Sly & The Family Stone;['Soul & Funk'];180.0;0.0
+20;Kodachrome;Paul Simon;['Pop'];213.0;0.0
+21;Delta Dawn;Helen Reddy;['Pop', 'Rock'];181.0;0.0
+22;Natural High;Bloodstone;['Pop', 'Rock'];249.0;0.0
+23;Say, Has Anybody Seen My Sweet Gypsy Rose;Dawn Featuring Tony Orlando;['Pop'];175.0;0.0
+24;So Very Hard To Go;Tower Of Power;['Pop'];217.0;0.0
+25;Angel;Aretha Franklin;['Pop', 'Rock'];268.0;0.0
+26;How Can I Tell Her;Lobo;['Rock'];258.0;0.0
+27;Where Peaceful Waters Flow;Gladys Knight And The Pips;['R&B'];264.0;0.0
+28;Behind Closed Doors;Charlie Rich;['Country'];174.0;0.0
+29;Are You Man Enough;Four Tops;['Soul'];208.0;0.0
+30;Give Me Love - (Give Me Peace On Earth);George Harrison;['Rock'];215.0;0.0
+31;Misdemeanor;Foster Sylvers;['Alternative', 'Pop'];147.0;0.0
+32;Gypsy Man;War;['R&B'];324.0;0.0
+33;Playground In My Mind;Clint Holmes;['Rock'];178.0;0.0
+34;Soul Makossa;Manu Dibango;[];265.0;0.0
+35;A Million To One/Young Love;Donny Osmond;[];;
+36;Long Train Runnin';The Doobie Brothers;['Rock', 'Rock & Roll/Rockabilly'];207.0;0.0
+37;Right Place Wrong Time;Dr. John;['Pop', 'Rock'];175.0;0.0
+38;The Hurt;Cat Stevens;['Pop'];259.0;0.0
+39;My Love;Paul McCartney And Wings;['Rock'];250.0;0.0
+40;Doing It To Death;Fred Wesley & The J.B.'s;['R&B'];304.0;0.0
+41;I'll Always Love My Mama (Part I);The Intruders;['R&B'];189.0;0.0
+42;There's No Me Without You;The Manhattans;['R&B'];218.0;0.0
+43;Why Me;Kris Kristofferson;['Country'];281.0;0.0
+44;You Light Up My Life/Believe In Humanity;Carole King;[];;
+45;Nobody Wants You When You're Down And Out;Bobby Womack;['R&B'];174.0;0.0
+46;That Lady (Part 1);The Isley Brothers;['Pop', 'Rock'];238.0;0.0
+47;Satin Sheets;Jeanne Pruett;['Country'];161.0;0.0
+48;Future Shock;Curtis Mayfield;['R&B', 'Soul'];218.0;0.0
+49;I'm Gonna Love You Just A Little More Baby;Barry White;['R&B'];238.0;0.0
+50;Love, Love, Love;Donny Hathaway;['R&B', 'Soul'];166.0;0.0
+51;I Was Checkin' Out She Was Checkin' In;Don Covay;['R&B'];262.0;0.0
+52;Clouds;David Gates;['Pop'];535.0;0.0
+53;Over The Hills And Far Away;Led Zeppelin;['Rock'];290.0;0.0
+54;Everyone's Agreed That Everything Will Turn Out Fine;Stealers Wheel;[];;
+55;One Of A Kind (Love Affair);The Spinners;['R&B', 'Soul & Funk', 'Soul'];214.0;0.0
+56;Roll Over Beethoven;Electric Light Orchestra;['Rock'];271.0;0.0
+57;Soul Makossa;Afrique;['Soul'];200.0;0.0
+58;Daddy Could Swear, I Declare;Gladys Knight And The Pips;['R&B'];223.0;0.0
+59;Loves Me Like A Rock;Paul Simon (with The Dixie Hummingbirds);[];;
+60;Sweet Charlie Babe;Jackie Moore;['R&B', 'Soul'];212.0;0.0
+61;Sweet Harmony;Smokey Robinson;['R&B'];277.0;0.0
+62;Time To Get Down;The O'Jays;['Pop', 'R&B'];172.0;0.0
+63;Pillow Talk;Sylvia (r&b);[];;
+64;Baby I've Been Missing You;The Independents;['Pop', 'Soul'];225.0;0.0
+65;Goin' Home;The Osmonds;['Pop'];146.0;0.0
+66;My Maria;B.W. Stevenson;['Rock'];152.0;0.0
+67;It's Forever;The Ebonys;['R&B'];437.0;0.0
+68;We're An American Band;Grand Funk;['Rock'];206.0;0.0
+69;Theme From Cleopatra Jones;Joe Simon featuring The Mainstreeters;[];;
+70;Lord, Mr. Ford;Jerry Reed;['Country'];197.0;0.0
+71;Darling Come Back Home;Eddie Kendricks;['R&B'];253.0;0.0
+72;Didn't I;Sylvia (r&b);[];;
+73;Saturday Night's Alright For Fighting;Elton John;['Pop'];295.0;0.0
+74;There It Is;Tyrone Davis;['Soul'];250.0;0.0
+75;Sixty Minute Man/Mother-In-Law;Clarence Carter;[];;
+76;Bongo Rock;The Incredible Bongo Band;['R&B', 'Soul & Funk'];293.0;0.0
+77;Never, Never, Never (Grande, Grande, Grande);Shirley Bassey;['Pop'];218.0;0.0
+78;Finder's Keepers;Chairman Of The Board;[];;
+79;Give Your Baby A Standing Ovation;The Dells;['Rock', 'Blues'];274.0;0.0
+80;Tequila Sunrise;Eagles;['Pop'];173.0;0.0
+81;He Did With Me;Vicki Lawrence;['Pop'];150.0;0.0
+82;There You Go;Edwin Starr;['R&B'];184.0;0.0
+83;To Know You Is To Love You;B.B. King;['Rock', 'Blues'];229.0;0.0
+84;Top Of The World;Lynn Anderson;['Pop'];178.0;0.0
+85;Billion Dollar Babies;Alice Cooper;['Rock', 'Hard Rock'];187.0;0.0
+86;Sunshine;Mickey Newbury;['Country'];266.0;0.0
+87;One Tin Soldier (The Legend of Billy Jack);Coven;['Pop'];194.0;0.0
+88;Half-Breed;Cher;['Pop'];163.0;0.0
+89;Jimmy Loves Mary-Anne;Looking Glass;['Pop'];218.0;0.0
+90;Don't Let It End ('til You Let It Begin);The Miracles;['R&B'];189.0;0.0
+91;Sylvia;Focus;['Pop'];213.0;0.0
+92;Show Biz Kids;Steely Dan;['Rock'];326.0;0.0
+93;Smoke! Smoke! Smoke! (That Cigarette);Commander Cody;['Country'];191.0;0.0
+94;I've Got So Much To Give;Barry White;['Pop'];190.0;0.0
+95;Stoned Out Of My Mind;The Chi-lites;['R&B', 'Soul'];191.0;0.0
+96;Friend Of Mine;Bill Withers;['Pop'];269.0;0.0
+97;L.a. Freeway;Jerry Jeff Walker;['Country'];289.0;0.0
+98;Loving Arms;Dobie Gray;['Pop', 'Rock'];186.0;0.0
+99;Evil;Earth, Wind & Fire;['R&B'];300.0;0.0

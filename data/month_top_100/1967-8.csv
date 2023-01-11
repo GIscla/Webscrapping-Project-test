@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Light My Fire;The Doors;['Rock'];425.0;0.0
+1;I Was Made To Love Her;Stevie Wonder;['Pop'];155.0;0.0
+2;All You Need Is Love;The Beatles;['Rock'];227.0;0.0
+3;Windy;The Association;['Pop', 'Rock'];176.0;0.0
+4;A Whiter Shade Of Pale;Procol Harum;['Pop'];248.0;0.0
+5;Can't Take My Eyes Off You;Frankie Valli;['Pop'];203.0;0.0
+6;Mercy, Mercy, Mercy;The Buckinghams;['Pop'];148.0;0.0
+7;White Rabbit;Jefferson Airplane;['Pop', 'Rock'];150.0;0.0
+8;Pleasant Valley Sunday;The Monkees;['Pop'];194.0;0.0
+9;Little Bit O' Soul;The Music Explosion;['Rock'];141.0;0.0
+10;A Girl Like You;The Young Rascals;['Pop'];170.0;0.0
+11;I Take It Back;Sandy Posey;['Pop'];145.0;0.0
+12;Silence Is Golden;The Tremeloes;['Rock'];189.0;0.0
+13;Jackson;Nancy Sinatra & Lee Hazlewood;['Pop'];167.0;0.0
+14;My Mammy;The Happenings;['Pop'];182.0;0.0
+15;Carrie-Anne;The Hollies;['Rock'];175.0;0.0
+16;San Francisco (Be Sure To Wear Flowers In Your Hair);Scott McKenzie;['Pop'];178.0;0.0
+17;Soul Finger;Bar-Kays;['R&B', 'Soul'];142.0;0.0
+18;Up -- Up And Away;The 5th Dimension;['Pop'];289.0;0.0
+19;For Your Love;Peaches & Herb;['Pop'];157.0;0.0
+20;Make Me Yours;Bettye Swann;['R&B', 'Soul'];195.0;0.0
+21;Baby I Love You;Aretha Franklin;['Pop', 'Rock'];158.0;0.0
+22;More Love;Smokey Robinson & The Miracles;['R&B'];168.0;0.0
+23;Thank The Lord For The Night Time;Neil Diamond;['Pop'];181.0;0.0
+24;I Like The Way;Tommy James And The Shondells;['Pop'];163.0;0.0
+25;In The Chapel In The Moonlight;Dean Martin;[];152.0;0.0
+26;To Love Somebody;Bee Gees;[];180.0;0.0
+27;Hypnotized;Linda Jones;[];167.0;0.0
+28;Come On Down To My Boat;Every Mothers' Son;[];148.0;0.0
+29;Let The Good Times Roll & Feel So Good;Bunny Sigler;['Pop'];175.0;0.0
+30;There Goes My Everything;Engelbert Humperdinck;['Pop'];172.0;0.0
+31;The Happening;Herb Alpert & The Tijuana Brass;['Jazz'];147.0;0.0
+32;Your Unchanging Love;Marvin Gaye;['R&B'];183.0;0.0
+33;Words;The Monkees;['Pop'];170.0;0.0
+34;C'mon Marianne;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+35;Society's Child (Baby I've Been Thinking);Janis Ian;['Pop'];192.0;0.0
+36;(I Wanna) Testify;The Parliaments;['Rock', 'Rock & Roll/Rockabilly'];183.0;0.0
+37;Here We Go Again;Ray Charles;['Jazz', 'R&B'];238.0;0.0
+38;Out & About;Tommy Boyce & Bobby Hart;['Pop'];150.0;0.0
+39;Don't Let The Rain Fall Down On Me;The Critters;['Alternative', 'Rock indé', 'Rock'];162.0;0.0
+40;Baby You're A Rich Man;The Beatles;['Rock'];181.0;0.0
+41;Don't Sleep In The Subway;Petula Clark;['Pop'];176.0;0.0
+42;I Take What I Want;James & Bobby Purify;['R&B'];133.0;0.0
+43;You Only Live Twice;Nancy Sinatra;['Pop', 'Singer & Songwriter'];163.0;0.0
+44;Show Business;Lou Rawls;['R&B'];155.0;0.0
+45;The River Is Wide;The Forum;[];;
+46;Cold Sweat - Part 1;James Brown And The Famous Flames;[];;
+47;Don't Go Out Into The Rain (You're Going To Melt);Herman's Hermits;['Pop', 'Rock'];122.0;0.0
+48;You Were On My Mind;Crispian St. Peters;['Pop'];162.0;0.0
+49;The Sweetest Thing This Side Of Heaven;Chris Bartley;['Pop'];179.0;0.0
+50;Pictures Of Lily;The Who;['Pop'];164.0;0.0
+51;You're My Everything;The Temptations;['Soul'];185.0;0.0
+52;Fakin' It;Simon & Garfunkel;['Rock'];197.0;0.0
+53;Shoot Your Shot;Jr. Walker & The All Stars;['R&B'];181.0;0.0
+54;Come Back When You Grow Up;Bobby Vee And The Strangers;[];;
+55;Everybody Needs Love;Gladys Knight And The Pips;['R&B'];176.0;0.0
+56;Washed Ashore (On A Lonely Island In The Sea);The Platters;['R&B', 'Soul'];169.0;0.0
+57;Bluebird;Buffalo Springfield;['Alternative', 'Pop Indé', 'Rock'];268.0;0.0
+58;Lonely Drifter;Pieces Of Eight;[];;
+59;Glory Of Love;Otis Redding;['Pop', 'R&B'];158.0;0.0
+60;Heroes And Villains;The Beach Boys;['Pop'];219.0;0.0
+61;Gentle On My Mind;Glen Campbell;['Country'];178.0;0.0
+62;Joy;Mitch Ryder;['Rock'];191.0;0.0
+63;The Windows Of The World;Dionne Warwick;['Pop'];181.0;0.0
+64;Cry Softly Lonely One;Roy Orbison;['Rock'];173.0;0.0
+65;Brown Eyed Girl;Van Morrison;['Rock'];183.0;0.0
+66;Blue's Theme;Davie Allan And The Arrows;['Rock'];140.0;0.0
+67;Apples, Peaches, Pumpkin Pie;Jay And The Techniques;['Soul'];148.0;0.0
+68;It's A Happening World;The Tokens;['Pop'];158.0;0.0
+69;Don't You Miss Me A Little Bit Baby;Jimmy Ruffin;['R&B'];175.0;0.0
+70;Ode To Billie Joe;Bobbie Gentry;['Country'];254.0;0.0
+71;A Thousand Shadows;The Seeds;['Alternative', 'Rock indé', 'Pop', 'Rock'];152.0;0.0
+72;San Franciscan Nights;Eric Burdon & The Animals;['Pop'];199.0;0.0
+73;You Keep Me Hangin' On;The Vanilla Fudge;['Rock'];226.0;0.0
+74;You Know What I Mean;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];122.0;0.0
+75;Slim Jenkin's Place;Booker T. & The MG's;[];;
+76;I'll Turn To Stone;Four Tops;['R&B'];148.0;0.0
+77;The World We Knew (Over And Over);Frank Sinatra;['Jazz'];167.0;0.0
+78;Happy;The Sunshine Company;['Pop'];116.0;0.0
+79;Ha Ha Said The Clown;The Yardbirds;['Pop'];148.0;0.0
+80;Funky Broadway Part I;Dyke And The Blazers;[];;
+81;I Want To Love You For What You Are;Ronnie Dove;['Pop', 'Rock'];189.0;0.0
+82;A Woman's Hands;Joe Tex;['Soul'];210.0;0.0
+83;Groovy Summertime;The Love Generation;['Pop'];147.0;0.0
+84;Nearer To You;Betty Harris;['R&B', 'Soul & Funk', 'Soul'];175.0;0.0
+85;Groovin';Booker T. & The MG's;['Soul'];229.0;0.0
+86;Happy;The Blades Of Grass;['Alternative', 'Pop Indé', 'Rock indé'];247.0;0.0
+87;More And More;Andy Williams;[];149.0;0.0
+88;My Elusive Dreams;David Houston & Tammy Wynette;['Country', 'Pop', 'Pop internationale', 'Rock'];171.0;0.0
+89;Pearl Time;Andre Williams;['R&B'];160.0;0.0
+90;Lonesome Road;The Wonder Who?;['Pop', 'Rock'];300.0;0.0
+91;Funky Broadway;Wilson Pickett;['R&B'];155.0;0.0
+92;Darling Be Home Soon;Bobby Darin;['Pop'];161.0;0.0
+93;The Look Of Love;Dusty Springfield;['Pop', 'Singer & Songwriter'];209.0;0.0
+94;Not So Sweet Martha Lorraine;Country Joe & The Fish;['Rock'];264.0;0.0
+95;Along Comes Mary;Baja Marimba Band;['Latino'];128.0;0.0
+96;I'll Never Find Another You;Sonny James;['Country'];145.0;0.0
+97;Run, Run, Run;The Third Rail;['Rock'];118.0;0.0
+98;It Could Be We're In Love;The Cryan' Shames;['Rock'];153.0;0.0
+99;Good Day Sunshine;Claudine Longet;['Pop'];122.0;0.0

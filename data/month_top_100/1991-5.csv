@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Baby Baby;Amy Grant;[];236.0;0.0
+1;Joyride;Roxette;['Pop'];263.0;0.0
+2;I Like The Way (The Kissing Game);Hi-Five;['R&B'];343.0;0.0
+3;Here We Go;C+C Music Factory/F. Williams;[];;
+4;Touch Me (All Night Long);Cathy Dennis;['Pop'];210.0;0.0
+5;I Touch Myself;Divinyls;['Rock'];227.0;0.0
+6;Cry For Help;Rick Astley;['Pop'];245.0;0.0
+7;Rhythm Of My Heart;Rod Stewart;['Pop', 'Rock'];255.0;0.0
+8;You're In Love;Wilson Phillips;['Pop'];291.0;0.0
+9;I Don't Wanna Cry;Mariah Carey;['Rock'];288.0;0.0
+10;Voices That Care;Voices That Care;['Pop', 'Rock'];272.0;0.0
+11;I've Been Thinking About You;Londonbeat;['Pop'];228.0;0.0
+12;Silent Lucidity;Queensryche;['Rock'];347.0;0.0
+13;Hold You Tight;Tara Kemp;['Rap/Hip Hop', 'R&B'];284.0;0.0
+14;More Than Ever;Nelson;['Rock'];207.0;0.0
+15;More Than Words;Extreme;['Pop'];334.0;0.0
+16;Sadeness Part 1;Enigma;['Pop'];260.0;0.0
+17;Save Some Love;Keedy;['Pop'];257.0;0.0
+18;You Don't Have To Go Home Tonight;The Triplets;['Pop', 'Rock'];239.0;0.0
+19;"I Wanna Sex You Up (From ""New Jack City"")";Color Me Badd;['Rap/Hip Hop'];236.0;0.0
+20;Losing My Religion;R.E.M.;['Alternative'];268.0;0.0
+21;Just The Way It Is, Baby;The Rembrandts;['Rock'];243.0;0.0
+22;Written All Over Your Face;The Rude Boys;[];;
+23;Love Is A Wonderful Thing;Michael Bolton;[];282.0;0.0
+24;Iesha;Another Bad Creation;['R&B'];261.0;0.0
+25;Miracle;Whitney Houston;['Pop'];342.0;0.0
+26;What Comes Naturally;Sheena Easton;['Pop'];272.0;0.0
+27;Don't Treat Me Bad;Firehouse;['Rock'];235.0;0.0
+28;Rico Suave;Gerardo;['Pop'];250.0;0.0
+29;It's A Shame (My Sister);Monie Love Featuring True Image;[];;
+30;My Heart Is Failing Me;Riff;['Pop'];260.0;0.0
+31;She Talks To Angels;The Black Crowes;['Rock'];329.0;0.0
+32;Mercy Mercy Me (The Ecology)/I Want You;Robert Palmer;['Pop'];290.0;0.0
+33;One More Try;Timmy T.;['Electro'];209.0;0.0
+34;Signs;Tesla;['Pop'];193.0;1.0
+35;Round And Round;Tevin Campbell;['R&B'];293.0;0.0
+36;Strike It Up;Black Box;['Pop'];298.0;0.0
+37;Coming Out Of The Dark;Gloria Estefan;['Pop'];244.0;0.0
+38;How Much Is Enough;The Fixx;[];;
+39;People Are Still Having Sex;LaTour;['Pop'];248.0;0.0
+40;Couple Days Off;Huey Lewis & The News;['Rock'];196.0;0.0
+41;Power Of Love/Love Power;Luther Vandross;['R&B'];402.0;0.0
+42;Unbelievable;EMF;['Rock'];209.0;1.0
+43;Here I Am (Come And Take Me);UB40;['Rock'];242.0;0.0
+44;Do You Want Me;Salt-N-Pepa;['R&B'];232.0;0.0
+45;Mama Said Knock You Out;LL Cool J;['Pop'];287.0;1.0
+46;Bitter Tears;INXS;['Pop'];229.0;0.0
+47;Love At First Sight;Styx;['Rock'];272.0;0.0
+48;Someday;Mariah Carey;['Pop', 'Rock'];248.0;0.0
+49;(If There Was) Any Other Way;Celine Dion;['Pop'];240.0;0.0
+50;This House;Tracie Spencer;['R&B'];306.0;0.0
+51;Walking In Memphis;Marc Cohn;['Country', 'Pop'];252.0;0.0
+52;Heartbreak Station;Cinderella;['Rock'];268.0;0.0
+53;Playground;Another Bad Creation;['R&B'];261.0;0.0
+54;Seal Our Fate;Gloria Estefan;['Pop'];263.0;0.0
+55;Let's Chill;Guy;['Rap/Hip Hop'];323.0;0.0
+56;Step On;Happy Mondays;['Alternative'];316.0;0.0
+57;How To Dance;Bingo Boys Featuring Princessa;[];;
+58;Together Forever;Lisette Melendez;['Rap/Hip Hop'];358.0;0.0
+59;Right Here, Right Now;Jesus Jones;['Rock'];189.0;0.0
+60;Something In My Heart;Michel'le;['R&B'];353.0;0.0
+61;I'll Never Let You Go;Steelheart;['Pop'];306.0;0.0
+62;How Can I Ease The Pain;Lisa Fischer;['Pop', 'Rock'];319.0;0.0
+63;Whatever You Want;Tony Toni Tone;['R&B'];291.0;0.0
+64;Come Again;Damn Yankees;['Rock', 'Hard Rock', 'Metal'];339.0;0.0
+65;Another Like My Lover;Jasmine Guy;['R&B', 'Soul & Funk', 'Soul'];250.0;0.0
+66;Never Gonna Let You Down;Surface;['R&B'];227.0;0.0
+67;Where Does My Heart Beat Now;Celine Dion;['Pop'];270.0;0.0
+68;Dream Lover;The Rebel Pebbles;['Rock'];237.0;0.0
+69;Going Through The Motions;Aftershock;[];;
+70;"New Jack Hustler (Nino's Theme) (From ""New Jack City"")";Ice-T;['Rap/Hip Hop'];283.0;1.0
+71;We Want The Funk;Gerardo;[];;
+72;Wicked Game;Chris Isaak;['Pop'];286.0;0.0
+73;Backyard;Pebbles (With Salt-N-Pepa);[];;
+74;Get Here;Oleta Adams;['Pop'];278.0;0.0
+75;Feel The Groove;Cartouche;['Pop'];340.0;0.0
+76;Crazy;Daisy Dee;['Dance'];229.0;0.0
+77;I'll Be By Your Side;Stevie B;['Dance', 'Dancefloor'];299.0;0.0
+78;I Don't Want To Lose Your Love;B Angie B;['Rap/Hip Hop'];269.0;0.0
+79;That's Why;The Party;['Alternative', 'Pop'];176.0;0.0
+80;Does Anybody Really Fall In Love Anymore?;Kane Roberts;['Rock', 'Metal'];265.0;0.0
+81;Show Me The Way;Styx;['Rock'];275.0;0.0
+82;The Star Spangled Banner;Whitney Houston;['Dance', 'Pop'];134.0;0.0
+83;Place In This World;Michael W. Smith;[];241.0;0.0
+84;All The Man That I Need;Whitney Houston;['Pop', 'Pop internationale', 'Rock', 'R&B'];249.0;0.0
+85;Uncle Tom's Cabin;Warrant;['Rock'];241.0;0.0
+86;Good Heart;Starship;['Rock'];262.0;0.0
+87;Word Of Mouth;Mike + The Mechanics;['Pop', 'Rock'];236.0;0.0
+88;Stone Cold Gentleman;Ralph Tresvant;['R&B'];303.0;0.0
+89;Waiting For Love;Alias;['Rock'];278.0;0.0
+90;Love Me Forever Or Love Me Not;Trilogy;['Electro', 'Dance', 'Pop'];242.0;0.0
+91;Around The Way Girl;LL Cool J;['Pop'];244.0;0.0
+92;I'll Do 4 U;Father M.C.;['Rap/Hip Hop'];224.0;0.0
+93;Gypsy Woman (She's Homeless);Crystal Waters;['Pop'];217.0;0.0
+94;Life Goes On;Poison;['Rock'];288.0;0.0
+95;Can I Call You My Girl;PC Quest;[];;
+96;Gonna Make You Sweat (Everybody Dance Now);C+C Music Factory;['Pop'];243.0;0.0
+97;One In A Million;Trixter;['Rock'];305.0;0.0
+98;Nightgown;Candyman;['Rap/Hip Hop'];391.0;1.0
+99;All True Man;Alexander O'Neal;['R&B'];375.0;0.0

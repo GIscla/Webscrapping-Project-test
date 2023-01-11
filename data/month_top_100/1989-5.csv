@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Like A Prayer;Madonna;['Pop'];340.0;0.0
+1;I'll Be There For You;Bon Jovi;['Rock'];346.0;0.0
+2;Real Love;Jody Watley;['R&B'];263.0;0.0
+3;Funky Cold Medina;Tone-Loc;['Rap/Hip Hop'];248.0;0.0
+4;Forever Your Girl;Paula Abdul;['Pop'];251.0;0.0
+5;Second Chance;Thirty Eight Special;['Rock'];328.0;0.0
+6;"After All (Love Theme From ""Chances Are"")";Cher & Peter Cetera;['Pop'];244.0;0.0
+7;Soldier Of Love;Donny Osmond;['Pop'];353.0;0.0
+8;Room To Move;Animotion;['Pop'];276.0;0.0
+9;She Drives Me Crazy;Fine Young Cannibals;['Pop'];217.0;0.0
+10;Heaven Help Me;Deon Estus;['R&B'];280.0;0.0
+11;Thinking Of You;SaFire;[];276.0;0.0
+12;Cult Of Personality;Living Colour;['Pop'];294.0;0.0
+13;"Rock On (From ""Dream A Little Dream"")";Michael Damian;[];;
+14;"Iko Iko (From ""Rain Man"")";The Belle Stars;[];;
+15;Sincerely Yours;Sweet Sensation (With Romeo J.D.);[];;
+16;Electric Youth;Debbie Gibson;['Pop'];298.0;0.0
+17;Patience;Guns N' Roses;['Pop'];356.0;1.0
+18;"Wind Beneath My Wings (From ""Beaches"")";Bette Midler;[];199.0;0.0
+19;Every Little Step;Bobby Brown;['R&B'];237.0;0.0
+20;The Look;Roxette;['Pop'];237.0;0.0
+21;I'll Be Loving You (Forever);New Kids On The Block;['Pop'];263.0;0.0
+22;Rocket;Def Leppard;['Rock'];396.0;0.0
+23;Everlasting Love;Howard Jones;['Pop'];259.0;0.0
+24;Close My Eyes Forever;Lita Ford (Duet With Ozzy Osbourne);[];;
+25;Seventeen;Winger;['Rock', 'Hard Rock', 'Metal'];245.0;0.0
+26;Where Are You Now?;Jimmy Harnen With Synch;[];;
+27;Girl You Know It's True;Milli Vanilli;['Pop', 'Pop internationale', 'Rock'];198.0;0.0
+28;A Shoulder To Cry On;Tommy Page;['Pop'];202.0;0.0
+29;Through The Storm;Aretha Franklin & Elton John;[];260.0;0.0
+30;Eternal Flame;The Bangles;['Pop'];240.0;0.0
+31;Buffalo Stance;Neneh Cherry;['Rap/Hip Hop'];342.0;0.0
+32;Voices Of Babylon;The Outfield;['Pop'];211.0;0.0
+33;Cry;Waterfront;['Jazz'];289.0;0.0
+34;Stand;R.E.M.;['Alternative'];192.0;0.0
+35;I Only Wanna Be With You;Samantha Fox;['Pop'];163.0;0.0
+36;I Wanna Be The One;Stevie B;['Pop'];304.0;0.0
+37;Your Mama Don't Dance;Poison;['Rock'];180.0;0.0
+38;Satisfied;Richard Marx;['Pop'];253.0;0.0
+39;Downtown;One 2 Many;[];243.0;0.0
+40;Little Jackie Wants To Be A Star;Lisa Lisa And Cult Jam;['Dance'];287.0;0.0
+41;Pop Singer;John Mellencamp;['Rock'];166.0;0.0
+42;Miss You Like Crazy;Natalie Cole;['R&B'];234.0;0.0
+43;Coming Home;Cinderella;['Rock'];294.0;0.0
+44;This Time I Know It's For Real;Donna Summer;['Pop'];218.0;0.0
+45;Superwoman;Karyn White;['Dance'];347.0;0.0
+46;You Got It;Roy Orbison;['Rock'];210.0;0.0
+47;Giving Up On Love;Rick Astley;['Pop'];243.0;0.0
+48;Baby Don't Forget My Number;Milli Vanilli;['Pop', 'Pop internationale', 'Rock'];249.0;0.0
+49;Circle;Edie Brickell & New Bohemians;['Pop'];193.0;0.0
+50;Cuddly Toy (Feel For Me);Roachford;['Pop'];254.0;0.0
+51;I'll Be You;The Replacements;['Pop', 'Rock'];209.0;0.0
+52;Veronica;Elvis Costello;['Pop', 'Rock'];188.0;0.0
+53;The Living Years;Mike + The Mechanics;['Pop', 'Rock'];332.0;0.0
+54;"Birthday Suit (From ""Sing"")";Johnny Kemp;[];;
+55;My Heart Can't Tell You No;Rod Stewart;['Pop', 'Rock'];352.0;0.0
+56;Lost In Your Eyes;Debbie Gibson;['Pop'];215.0;0.0
+57;Dreamin';Vanessa Williams;['Pop'];321.0;0.0
+58;Orinoco Flow (Sail Away);Enya;['Pop'];225.0;0.0
+59;I Drove All Night;Cyndi Lauper;['Pop'];253.0;0.0
+60;Let Me In;Eddie Money;['Pop'];292.0;0.0
+61;The Different Story (World Of Lust And Crime);Peter Schilling;['Pop'];301.0;0.0
+62;I Won't Back Down;Tom Petty;['Pop'];178.0;0.0
+63;Seeing Is Believing;Mike + The Mechanics;['Pop', 'Rock'];190.0;0.0
+64;Into The Night;Benny Mardones;['Rock'];271.0;0.0
+65;Closer Than Friends;Surface;['R&B'];305.0;0.0
+66;Stop;Sam Brown;['Pop'];295.0;0.0
+67;Straight Up;Paula Abdul;['Pop'];231.0;0.0
+68;Good Thing;Fine Young Cannibals;['Pop'];201.0;0.0
+69;You Ain't Seen Nothing Yet;Figures On A Beach;['Rock'];251.0;0.0
+70;You Got It (The Right Stuff);New Kids On The Block;['Pop'];250.0;0.0
+71;Wild Thing;Tone-Loc;['Rap/Hip Hop'];263.0;0.0
+72;Be With You;The Bangles;['Pop'];180.0;0.0
+73;Round & Round;New Order;['Pop', 'Rock'];271.0;0.0
+74;Down Boys;Warrant;['Rock'];243.0;0.0
+75;One;Metallica;['Metal'];447.0;0.0
+76;When Love Comes To Town;U2 With B.B. King;[];;
+77;Walk The Dinosaur;Was (Not Was);['Pop'];262.0;0.0
+78;Hearts On Fire;Steve Winwood;['Rock'];317.0;0.0
+79;Who Do You Give Your Love To?;Michael Morales;['Rock'];245.0;0.0
+80;If You Don't Know Me By Now;Simply Red;['Pop'];206.0;0.0
+81;I Like;Guy;['R&B'];289.0;0.0
+82;For The Love Of Money;BulletBoys;['Rock', 'Hard Rock', 'Metal'];227.0;0.0
+83;The Mayor Of Simpleton;XTC;['Rock'];237.0;0.0
+84;Rooms On Fire;Stevie Nicks;['Pop'];274.0;0.0
+85;You're Not Alone;Chicago;['Rock'];242.0;0.0
+86;The Love In Your Eyes;Eddie Money;['Pop'];246.0;0.0
+87;Just Because;Anita Baker;['R&B'];260.0;0.0
+88;Anything Can Happen;Was (Not Was);[];;
+89;Shake It Up;Bad Company;['Rock', 'Hard Rock'];238.0;0.0
+90;Paradise City;Guns N' Roses;['Pop'];405.0;1.0
+91;More Than You Know;Martika;['Pop'];242.0;0.0
+92;Repetition;Information Society;['Dance', 'Pop'];274.0;0.0
+93;"Let The River Run (Theme From ""Working Girl"")";Carly Simon;[];;
+94;24/7;Dino;['Pop'];307.0;0.0
+95;Good Life;Inner City;['Dance'];244.0;0.0
+96;Working On It;Chris Rea;['Pop', 'Rock'];265.0;0.0
+97;Can You Stand The Rain;New Edition;['R&B'];300.0;0.0
+98;I Can't Face The Fact;Gina Go-Go;[];;
+99;Somebody Like You;Robbie Nevil;['Pop'];257.0;0.0

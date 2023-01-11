@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Pony Time;Chubby Checker;['Classique', 'Rock'];145.0;0.0
+1;Surrender;Elvis Presley With The Jordanaires;[];;
+2;Wheels;The String-A-Longs;['Classique', 'Jazz'];115.0;0.0
+3;Don't Worry;Marty Robbins;['Country'];193.0;0.0
+4;Where The Boys Are;Connie Francis;['Pop'];159.0;0.0
+5;Calcutta;Lawrence Welk And His Orchestra;['Pop'];137.0;0.0
+6;Baby Sittin' Boogie;Buzz Clifford;['Pop'];125.0;0.0
+7;Dedicated To The One I Love;The Shirelles;['R&B'];132.0;0.0
+8;There's A Moon Out Tonight;The Capris;[];136.0;0.0
+9;Ebony Eyes;The Everly Brothers;['Dance', 'Pop'];183.0;0.0
+10;Good Time Baby;Bobby Rydell;['Rock'];129.0;0.0
+11;You Can Have Her;Roy Hamilton;['Rock'];158.0;0.0
+12;Spanish Harlem;Ben E. King;[];172.0;0.0
+13;Shop Around;"The Miracles (featuring Bill ""Smokey"" Robinson)";[];;
+14;Apache;Jorgen Ingmann & His Guitar;['Pop'];181.0;0.0
+15;Will You Love Me Tomorrow;The Shirelles;['Pop', 'Rock', 'Soul'];128.0;0.0
+16;Walk Right Back;The Everly Brothers;['Pop'];121.0;0.0
+17;Exodus;Ferrante & Teicher;['Films/Jeux vidéo', 'Musiques de films'];176.0;0.0
+18;Calendar Girl;Neil Sedaka;['Pop'];157.0;0.0
+19;Wings Of A Dove;Ferlin Husky;['Country'];139.0;0.0
+20;Little Boy Sad;Johnny Burnette;[];114.0;0.0
+21;Gee Whiz (Look At His Eyes);Carla Thomas;['Rock', 'Blues'];140.0;0.0
+22;Think Twice;Brook Benton;['Dance', 'Pop'];151.0;0.0
+23;Emotions;Brenda Lee;['Pop'];171.0;0.0
+24;All In My Mind;Maxine Brown;['R&B', 'Soul & Funk'];150.0;0.0
+25;Hearts Of Stone;Bill Black's Combo;['Soul'];122.0;0.0
+26;What A Price;Fats Domino;['Rock'];143.0;0.0
+27;Angel On My Shoulder;Shelby Flint;['Pop', 'Rock'];137.0;0.0
+28;Ram-Bunk-Shush;The Ventures;['Pop', 'Rock'];107.0;0.0
+29;Utopia;Frank Gari;['Rock'];140.0;0.0
+30;Lazy River;Bobby Darin;['Pop'];154.0;0.0
+31;Happy Birthday Blues;Kathy Young With The Innocents;[];;
+32;Jimmy's Girl;Johnny Tillotson;['Pop'];164.0;0.0
+33;Stayin' In;Bobby Vee;['Pop', 'Rock'];126.0;0.0
+34;Please Love Me Forever;Cathy Jean and The Roommates;['Rock', 'Rock & Roll/Rockabilly'];174.0;0.0
+35;Your Friends;Dee Clark;['Soul'];131.0;0.0
+36;Wheels;Billy Vaughn And His Orchestra;['Pop'];126.0;0.0
+37;Wait A Minute;The Coasters;['Dance', 'Pop'];155.0;0.0
+38;Asia Minor;Kokomo;['Pop'];119.0;0.0
+39;The Story Of My Love;Paul Anka;['Pop'];147.0;0.0
+40;No One;Connie Francis;['Pop'];172.0;0.0
+41;Havin' Fun;Dion;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];137.0;0.0
+42;Ain't That Just Like A Woman;Fats Domino;['Rock', 'Blues'];166.0;0.0
+43;Lonely Man;Elvis Presley With The Jordanaires;[];;
+44;Wonderland By Night;Bert Kaempfert And His Orchestra;['Pop'];159.0;0.0
+45;For My Baby;Brook Benton;['R&B'];129.0;0.0
+46;I Don't Want To Cry;Chuck Jackson;['Rock', 'Blues', 'Soul'];135.0;0.0
+47;Once Upon A Time;Rochell And The Candles With Johnny Wyatt;[];;
+48;The Watusi;The Vibrations;['Pop'];160.0;0.0
+49;Pepe;Duane Eddy His Twangy Guitar And The Rebels;[];;
+50;On The Rebound;Floyd Cramer;['Country'];127.0;0.0
+51;(I Wanna) Love My Life Away;Gene Pitney;['Rock', 'Rock & Roll/Rockabilly'];247.0;0.0
+52;I Pity The Fool;Bobby Bland;['Rock', 'Blues'];145.0;0.0
+53;Angel Baby;Rosie And The Originals;['Jazz'];214.0;0.0
+54;Model Girl;Johnny Maestro;['Rock', 'R&B'];149.0;0.0
+55;My Empty Arms;Jackie Wilson;['R&B', 'Soul & Funk'];168.0;0.0
+56;The Tear Of The Year;Jackie Wilson;['R&B', 'Soul & Funk'];152.0;0.0
+57;To Be Loved (Forever);The Pentagons;['Pop'];154.0;0.0
+58;Cherié;Bobby Rydell;['Rock', 'Rock & Roll/Rockabilly'];133.0;0.0
+59;Theme from Tunes Of Glory;The Cambridge Strings And Singers;[];;
+60;Pony Express;Danny & The Juniors;['Pop'];151.0;0.0
+61;(Ghost) Riders In The Sky;Ramrods;['Pop'];154.0;0.0
+62;At Last;Etta James;['Rock', 'Blues'];179.0;0.0
+63;Let's Go Again (Where We Went Last Night);Hank Ballard And The Midnighters;['Rock'];189.0;0.0
+64;Baby Blue;The Echoes;['Pop'];150.0;0.0
+65;That's It - I Quit - I'm Movin' On;Sam Cooke;['R&B', 'Soul'];156.0;0.0
+66;But I Do;Clarence Henry;['R&B'];141.0;0.0
+67;The Touchables;Dickie Goodman;['Rock', 'Rock & Roll/Rockabilly'];132.0;0.0
+68;Pony Time;The Goodtimers;['Pop', 'Rock'];140.0;0.0
+69;One Mint Julep;Ray Charles;['Jazz'];182.0;0.0
+70;Honky Tonk (Part 2);Bill Doggett;['Pop'];158.0;0.0
+71;When I Fall In Love;Etta Jones;['Jazz'];145.0;0.0
+72;Cerveza;Bert Kaempfert And His Orchestra;['Jazz'];152.0;0.0
+73;Find Another Girl;Jerry Butler;['R&B', 'Soul & Funk'];166.0;0.0
+74;All Of Everything;Frankie Avalon;['Pop'];151.0;0.0
+75;Portrait Of My Love;Steve Lawrence;['Classique', 'Jazz'];170.0;0.0
+76;Runaway;Del Shannon;['Rock'];137.0;0.0
+77;It's Unbelievable;The Larks;['R&B', 'Soul & Funk'];143.0;0.0
+78;Bewildered;James Brown And The Famous Flames;['Dance', 'Pop', 'Rock', 'Soul & Funk', 'Soul'];144.0;0.0
+79;C'est Si Bon (It's So Good);Conway Twitty;['Country'];134.0;0.0
+80;Hide Away;Freddy King;['Rock', 'Blues', 'R&B'];154.0;0.0
+81;Keep Your Hands Off Of Him;Damita Jo;['R&B'];145.0;0.0
+82;Won't Be Long;Aretha Franklin With The Ray Bryant Combo;['R&B'];187.0;0.0
+83;More Than I Can Say;Bobby Vee;['Rock'];150.0;0.0
+84;Orange Blossom Special;Billy Vaughn And His Orchestra;['Jazz'];128.0;0.0
+85;The Second Time Around;Frank Sinatra;['Jazz'];184.0;0.0
+86;Blue Moon;The Marcels;['R&B', 'Soul'];130.0;0.0
+87;Tunes Of Glory;Mitch Miller With Orchestra And Chorus;[];;
+88;Blue Moon;Herb Lance & The Classics;[];;
+89;Bye Bye Baby;Mary Wells;['R&B'];172.0;0.0
+90;The Most Beautiful Words;Della Reese;['Pop'];160.0;0.0
+91;Little Miss Stuck-Up;The Playmates;['Rock'];138.0;0.0
+92;Tonight I Fell In Love;The Tokens;['R&B'];101.0;0.0
+93;Top Forty, News, Weather And Sports;Mark Dinning;['Pop'];146.0;0.0
+94;Milord;Edith Piaf;['Pop'];270.0;0.0
+95;A Texan And A Girl From Mexico;Anita Bryant;['Classique'];160.0;0.0
+96;Ling-Ting-Tong;Buddy Knox;['Rock'];131.0;0.0
+97;Ja-Da;Johnny And The Hurricanes;['Rock'];126.0;0.0
+98;I Lied To My Heart;The Enchanters;['Rock'];157.0;0.0
+99;Apache;Sonny James;['Rock', 'Rock & Roll/Rockabilly'];169.0;0.0

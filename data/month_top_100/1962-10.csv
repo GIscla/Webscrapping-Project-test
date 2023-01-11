@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Sherry;The 4 Seasons;['Pop'];152.0;0.0
+1;Monster Mash;"Bobby ""Boris"" Pickett And The Crypt-Kickers";['Pop'];192.0;0.0
+2;Ramblin' Rose;Nat King Cole;['Pop'];167.0;0.0
+3;Let's Dance;Chris Montez;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];150.0;0.0
+4;Green Onions;Booker T. & The MG's;['Pop'];174.0;0.0
+5;Patches;Dickey Lee;['Pop'];180.0;0.0
+6;Venus In Blue Jeans;Jimmy Clanton;['Pop'];134.0;0.0
+7;I Remember You;Frank Ifield;['Pop'];124.0;0.0
+8;Alley Cat;Bent Fabric and His Piano;['Jazz'];150.0;0.0
+9;You Beat Me To The Punch;Mary Wells;['R&B'];163.0;0.0
+10;Sheila;Tommy Roe;['Rock', 'Rock & Roll/Rockabilly'];721.0;0.0
+11;Rain Rain Go Away;Bobby Vinton;['Pop'];176.0;0.0
+12;Lie To Me;Brook Benton;['Dance', 'Pop'];136.0;0.0
+13;If I Had A Hammer (The Hammer Song);Peter, Paul & Mary;['Pop'];142.0;0.0
+14;Do You Love Me;The Contours;['R&B', 'Soul'];174.0;0.0
+15;Teen Age Idol;Rick Nelson;['Pop'];148.0;0.0
+16;You Belong To Me;The Duprees;['Rock'];170.0;0.0
+17;Beechwood 4-5789;The Marvelettes;['R&B'];129.0;0.0
+18;Surfin' Safari;The Beach Boys;['Classique', 'Rock'];121.0;0.0
+19;What Kind Of Love Is This;Joey Dee & the Starliters;['Pop', 'Rock'];127.0;0.0
+20;Punish Her;Bobby Vee;['Rock'];111.0;0.0
+21;It Might As Well Rain Until September;Carole King;['Pop'];147.0;0.0
+22;He's A Rebel;The Crystals;['Pop'];150.0;0.0
+23;Only Love Can Break A Heart;Gene Pitney;['Pop'];172.0;0.0
+24;Popeye (The Hitchhiker);Chubby Checker;['Pop', 'Rock'];143.0;0.0
+25;Hully Gully Baby;The Dovells;['Pop'];153.0;0.0
+26;The Loco-Motion;Little Eva;['R&B'];149.0;0.0
+27;I Left My Heart In San Francisco;Tony Bennett;['Jazz'];171.0;0.0
+28;A Wonderful Dream;The Majors;['Pop'];123.0;0.0
+29;Don't Go Near The Indians;Rex Allen;['Country'];148.0;0.0
+30;Silver Threads And Golden Needles;The Springfields;['Folk'];134.0;0.0
+31;She's Not You;Elvis Presley With The Jordanaires;[];;
+32;Rinky Dink;Baby Cortez;['Pop'];173.0;0.0
+33;Come On Little Angel;The Belmonts;['Rock'];188.0;0.0
+34;All Alone Am I;Brenda Lee;[];165.0;0.0
+35;Little Black Book;Jimmy Dean;['Country'];152.0;0.0
+36;King Of The Whole Wide World;Elvis Presley With The Jordanaires;[];;
+37;Torture;Kris Jensen;['Pop', 'Rock'];131.0;0.0
+38;Stop The Music;The Shirelles;['Pop', 'Rock', 'Soul'];130.0;0.0
+39;What Kind Of Fool Am I;Sammy Davis Jr.;['Classique', 'Jazz'];191.0;0.0
+40;Devil Woman;Marty Robbins;['Country', 'Pop', 'Rock', 'Rock & Roll/Rockabilly'];172.0;0.0
+41;You Don't Know Me;Ray Charles;['Jazz', 'R&B'];235.0;0.0
+42;Shame On Me;Bobby Bare;['Country', 'Pop'];167.0;0.0
+43;Hide & Go Seek, Part I;Bunker Hill;[];;
+44;Point Of No Return;Gene McDaniels;[];136.0;0.0
+45;Gina;Johnny Mathis;['Pop'];165.0;0.0
+46;Limbo Rock;Chubby Checker;['Electro'];148.0;0.0
+47;A Swingin' Safari;Billy Vaughn And His Orchestra;['Classique', 'Pop'];134.0;0.0
+48;Warmed Over Kisses (Left Over Love);Brian Hyland;['Pop', 'Singer & Songwriter'];137.0;0.0
+49;The Things We Did Last Summer;Shelley Fabares;['Pop'];128.0;0.0
+50;Send Me The Pillow You Dream On;Johnny Tillotson;['Country', 'Singer & Songwriter'];173.0;0.0
+51;Your Nose Is Gonna Grow;Johnny Crawford;['Pop'];125.0;0.0
+52;Save All Your Lovin' For Me;Brenda Lee;['Country'];113.0;0.0
+53;A Taste Of Honey;Martin Denny and His Orchestra;[];;
+54;You Can't Judge A Book By The Cover;Bo Diddley;['Pop'];191.0;0.0
+55;Close To Cathy;Mike Clifford;['Rock'];174.0;0.0
+56;Party Lights;Claudine Clark;['Rock'];144.0;0.0
+57;I Keep Forgettin';Chuck Jackson;[];165.0;0.0
+58;Lollipops And Roses;Paul Petersen;[];153.0;0.0
+59;Stormy Monday Blues;Bobby Bland;['Rock', 'Blues'];247.0;0.0
+60;Sweet Sixteen Bars;Earl Grant;['Jazz'];292.0;0.0
+61;If I Didn't Have A Dime (To Play The Jukebox);Gene Pitney;['Pop'];145.0;0.0
+62;Workin' For The Man;Roy Orbison;['Pop'];146.0;0.0
+63;No One Will Ever Know;Jimmie Rodgers;['Country'];165.0;0.0
+64;...And Then There Were Drums;Sandy Nelson;['Rock', 'Rock & Roll/Rockabilly'];170.0;0.0
+65;Don't You Worry;Don Gardner And Dee Dee Ford;['Rock'];179.0;0.0
+66;Nothing Can Change This Love;Sam Cooke;['Pop'];157.0;0.0
+67;Ten Lonely Guys;Pat Boone;['Pop'];225.0;0.0
+68;Baby Face;Bobby Darin;['Pop'];125.0;0.0
+69;The Swiss Maid;Del Shannon;['Country', 'Rock'];123.0;0.0
+70;James (Hold The Ladder Steady);Sue Thompson;['Pop', 'Rock'];133.0;0.0
+71;Twistin' With Linda;The Isley Brothers;['R&B', 'Soul'];158.0;0.0
+72;If A Man Answers;Bobby Darin;['Pop', 'Rock'];144.0;0.0
+73;Long As The Rose Is Red;Florraine Darlin;[];;
+74;What Time Is It?;The Jive Five With Eugene Pitts;[];;
+75;I Love You The Way You Are;Bobby Vinton;['Pop'];174.0;0.0
+76;Next Door To An Angel;Neil Sedaka;['Pop'];145.0;0.0
+77;Don't You Believe It;Andy Williams;['Pop'];147.0;0.0
+78;Lookin' For A Love;The Valentinos;['R&B'];152.0;0.0
+79;Papa-Oom-Mow-Mow;The Rivingtons;['Rock'];143.0;0.0
+80;Susie Darlin';Tommy Roe;['Dance'];144.0;0.0
+81;Mashed Potatoes U.S.A.;James Brown And The Famous Flames;['R&B'];171.0;0.0
+82;Second Fiddle Girl;Barbara Lynn;['R&B', 'Soul & Funk'];114.0;0.0
+83;The Burning Of Atlanta;Claude King;['Country'];148.0;0.0
+84;What Kind Of Fool Am I;Anthony Newley;['Pop'];192.0;0.0
+85;Desafinado;Stan Getz/Charlie Byrd;['Pop'];128.0;0.0
+86;I'm Going Back To School;Dee Clark;['Electro', 'Dance'];145.0;0.0
+87;(Dance With The) Guitar Man;Duane Eddy and the Rebelettes;[];160.0;0.0
+88;What Kind Of Fool Am I?;Robert Goulet;['Pop'];155.0;0.0
+89;Pop Pop Pop - Pie;The Sherrys;['Rock', 'Singer & Songwriter'];133.0;0.0
+90;Forever And A Day;Jackie Wilson;[];177.0;0.0
+91;Love Me Tender;Richard Chamberlain;['Jazz'];147.0;0.0
+92;Mr. Lonely;Buddy Greco;['Pop'];145.0;0.0
+93;I Was Such A Fool (To Fall In Love With You);Connie Francis;[];165.0;0.0
+94;Léah;Roy Orbison;['Classique', 'Jazz'];157.0;0.0
+95;I Left My Heart In The Balcony;Linda Scott;['Pop'];151.0;0.0
+96;Did You Ever See A Dream Walking;Fats Domino;['Rock', 'Blues'];103.0;0.0
+97;Wiggle Wobble;Les Cooper and the Soul Rockers;['Pop', 'Rock'];118.0;0.0
+98;He Thinks I Still Care;Connie Francis;['Country'];200.0;0.0
+99;When The Boys Get Together;Joanie Sommers;['Pop'];133.0;0.0

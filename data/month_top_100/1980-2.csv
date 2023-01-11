@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Rock With You;Michael Jackson;['Pop'];220.0;0.0
+1;Do That To Me One More Time;Captain & Tennille;['Pop'];256.0;0.0
+2;Coward Of The County;Kenny Rogers;['Country'];258.0;0.0
+3;Cruisin';Smokey Robinson;['R&B'];352.0;0.0
+4;Crazy Little Thing Called Love;Queen;['Films/Jeux vidéo', 'Musiques de films'];163.0;0.0
+5;Escape (The Pina Colada Song);Rupert Holmes;['Pop'];232.0;0.0
+6;Sara;Fleetwood Mac;['Pop'];382.0;0.0
+7;The Long Run;Eagles;['Pop'];221.0;0.0
+8;Yes, I'm Ready;Teri DeSario With K.C.;[];;
+9;Don't Do Me Like That;Tom Petty And The Heartbreakers;['Rock'];161.0;0.0
+10;I Wanna Be Your Lover;Prince;['Pop'];347.0;0.0
+11;This Is It;Kenny Loggins;['Pop'];236.0;0.0
+12;We Don't Talk Anymore;Cliff Richard;['Rock'];254.0;0.0
+13;Send One Your Love;Stevie Wonder;['Pop'];242.0;0.0
+14;Deja Vu;Dionne Warwick;['R&B'];307.0;0.0
+15;On The Radio;Donna Summer;['Pop'];244.0;0.0
+16;Longer;Dan Fogelberg;['Rock', 'Folk'];194.0;0.0
+17;Don't Let Go;Isaac Hayes;['R&B'];435.0;0.0
+18;Romeo's Tune;Steve Forbert;['Rock'];212.0;0.0
+19;Daydream Believer;Anne Murray;['Pop'];149.0;0.0
+20;An American Dream;The Dirt Band;['Country'];217.0;0.0
+21;Desire;Andy Gibb;['Pop'];271.0;0.0
+22;Third Time Lucky (First Time I Was A Fool);Foghat;['Pop', 'Rock'];251.0;0.0
+23;Fool In The Rain;Led Zeppelin;['Rock'];370.0;0.0
+24;September Morn';Neil Diamond;['Pop'];232.0;0.0
+25;Wait For Me;Daryl Hall John Oates;['Pop'];242.0;0.0
+26;Why Me;Styx;['Rock'];236.0;0.0
+27;Forever Mine;The O'Jays;['R&B'];366.0;0.0
+28;Working My Way Back To You/Forgive Me, Girl;The Spinners;['R&B', 'Soul & Funk', 'Soul'];364.0;0.0
+29;Do You Love What You Feel;Rufus And Chaka Khan;['R&B'];269.0;0.0
+30;Better Love Next Time;Dr. Hook;['Pop'];180.0;0.0
+31;Voices;Cheap Trick;['Rock'];262.0;0.0
+32;Cool Change;Little River Band;['Rock'];313.0;0.0
+33;Wonderland;Commodores;['Pop'];227.0;0.0
+34;You Know That I Love You;Santana;['Rock'];264.0;0.0
+35;Lost Her In The Sun;John Stewart;['Rock'];230.0;0.0
+36;Ladies Night;Kool & The Gang;['R&B'];385.0;0.0
+37;When I Wanted You;Barry Manilow;['Pop'];218.0;0.0
+38;Last Train To London;Electric Light Orchestra;['Rock'];269.0;0.0
+39;The Second Time Around;Shalamar;['Rap/Hip Hop', 'Disco', 'Soul'];221.0;0.0
+40;Lonely Eyes;Robert John;['Pop'];190.0;0.0
+41;Dig The Gold;Joyce Cobb;[];;
+42;Looks Like Love Again;Dann Rogers;['Pop', 'Rock'];147.0;0.0
+43;Heartbreaker;Pat Benatar;['Rock'];207.0;0.0
+44;99;Toto;['Rock'];312.0;0.0
+45;I Don't Want To Talk About It;Rod Stewart;['Pop', 'Rock'];292.0;0.0
+46;Him;Rupert Holmes;['Pop'];241.0;0.0
+47;I Can't Help Myself (Sugar Pie, Honey Bunch);Bonnie Pointer;[];;
+48;Too Hot;Kool & The Gang;['R&B'];304.0;0.0
+49;Refugee;Tom Petty And The Heartbreakers;['Rock'];201.0;0.0
+50;Another Brick In The Wall (Part II);Pink Floyd;['Rock'];232.0;0.0
+51;Can We Still Be Friends;Robert Palmer;[];;
+52;Let Me Go, Love;Nicolette Larson & Michael McDonald;[];;
+53;Flirtin' With Disaster;Molly Hatchet;['Rock'];299.0;0.0
+54;Glide;Pleasure;['R&B'];388.0;0.0
+55;Please Don't Go;KC And The Sunshine Band;['Pop'];230.0;0.0
+56;Give It All You Got;Chuck Mangione;['Jazz'];370.0;0.0
+57;Kiss Me In The Rain;Barbra Streisand;['Pop'];260.0;0.0
+58;When A Man Loves A Woman;Bette Midler;['Pop'];299.0;0.0
+59;I'm Alive;Gamma;['Classique', 'Rock'];240.0;0.0
+60;I Thank You;ZZ Top;['Pop', 'Rock'];204.0;0.0
+61;Bad Times;Tavares;['Soul'];429.0;0.0
+62;Jane;Jefferson Starship;['Rock'];252.0;0.0
+63;Back On My Feet Again;The Babys;[];189.0;0.0
+64;Rotation;Herb Alpert;['Jazz'];311.0;0.0
+65;Got To Love Somebody;Sister Sledge;['R&B'];412.0;0.0
+66;With You I'm Born Again;Billy Preston & Syreeta;['R&B'];220.0;0.0
+67;How Do I Make You;Linda Ronstadt;['Pop'];137.0;0.0
+68;Remember (Walking In The Sand);Aerosmith;['Rock'];243.0;0.0
+69;Memorize Your Number;Leif Garrett;['Pop'];167.0;0.0
+70;I Pledge My Love;Peaches & Herb;['R&B'];255.0;0.0
+71;Goodnight My Love;Mike Pinera;['Rock'];251.0;0.0
+72;Three Times In Love;Tommy James;['Pop'];255.0;0.0
+73;Special Lady;Ray, Goodman & Brown;['R&B'];252.0;0.0
+74;Holdin' On For Dear Love;Lobo;['Pop'];166.0;0.0
+75;I Wish I Was Eighteen Again;George Burns;['Jazz'];206.0;0.0
+76;Haven't You Heard;Patrice Rushen;['R&B'];405.0;0.0
+77;You Might Need Somebody;Turley Richards;['Rock'];216.0;0.0
+78;Babe;Styx;['Rock'];264.0;0.0
+79;Rockin' Into The Night;38 Special;['Rock'];239.0;0.0
+80;Still;Commodores;['Pop'];225.0;0.0
+81;Come Back;The J. Geils Band;['Rock'];312.0;0.0
+82;I Call Your Name;Switch;[];455.0;0.0
+83;Years;Wayne Newton;[];143.0;0.0
+84;Dirty Water;The Inmates;['Pop'];179.0;0.0
+85;Head Games;Foreigner;['Rock', 'Hard Rock'];217.0;0.0
+86;Us And Love (We Go Together);Kenny Nolan;[];;
+87;The Hardest Part;Blondie;['Rock'];222.0;0.0
+88;I Don't Want To Be Lonely;Dana Valery;[];;
+89;Peanut Butter;Twennynine Featuring Lenny White;[];;
+90;I Don't Like Mondays;The Boomtown Rats;['Pop'];259.0;0.0
+91;"Computer Game ""Theme From The Circus""";Yellow Magic Orchestra;['Electro'];108.0;0.0
+92;Money;The Flying Lizards;['Dance'];153.0;0.0
+93;Volcano;Jimmy Buffett;['Pop'];291.0;0.0
+94;Too Late;Journey;['Rock'];178.0;0.0
+95;Don't Make Me Over;Jennifer Warnes;['Pop'];260.0;0.0
+96;She's In Love With You;Suzi Quatro;['Rock'];212.0;0.0
+97;Savannah Nights;Tom Johnston;['Pop', 'Rock'];244.0;0.0
+98;Takin' It Back;Breathless;['Classique', 'Rock'];202.0;0.0
+99;Stargazer;Peter Brown;['Rap/Hip Hop'];234.0;0.0

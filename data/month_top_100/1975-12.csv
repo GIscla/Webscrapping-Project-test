@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Fly, Robin, Fly;Silver Convention;['Pop', 'Disco'];230.0;0.0
+1;That's The Way (I Like It);KC And The Sunshine Band;['Pop'];306.0;0.0
+2;Sky High;Jigsaw;['Pop', 'Rock'];173.0;0.0
+3;Let's Do It Again;The Staple Singers;['R&B'];290.0;0.0
+4;The Way I Want To Touch You;Captain & Tennille;['Pop'];163.0;0.0
+5;Island Girl;Elton John;['Pop'];224.0;0.0
+6;Low Rider;War;['R&B'];190.0;0.0
+7;Nights On Broadway;Bee Gees;['Pop'];273.0;0.0
+8;Saturday Night;Bay City Rollers;['Pop'];174.0;0.0
+9;My Little Town;Simon & Garfunkel;['Pop'];231.0;0.0
+10;Fox On The Run;Sweet;['Pop'];201.0;0.0
+11;Love Rollercoaster;Ohio Players;['R&B'];292.0;0.0
+12;I Write The Songs;Barry Manilow;['Pop'];235.0;0.0
+13;Venus And Mars Rock Show;Wings;['Rock'];332.0;0.0
+14;Eighteen With A Bullet;Pete Wingfield;['Rock'];211.0;0.0
+15;Our Day Will Come;Frankie Valli;['Pop'];245.0;0.0
+16;I Want'a Do Something Freaky To You;Leon Haywood;['Pop'];303.0;0.0
+17;I Love Music (Part 1);The O'Jays;['R&B'];222.0;0.0
+18;Theme From Mahogany (Do You Know Where You're Going To);Diana Ross;['R&B'];204.0;0.0
+19;Secret Love;Freddy Fender;['Country'];219.0;0.0
+20;Who Loves You;The 4 Seasons;['Pop'];252.0;0.0
+21;This Will Be;Natalie Cole;['Pop'];170.0;0.0
+22;Feelings;Morris Albert;['Pop'];224.0;0.0
+23;Heat Wave/love Is A Rose;Linda Ronstadt;[];;
+24;Times Of Your Life;Paul Anka;['Pop'];192.0;0.0
+25;The Last Game Of The Season (A Blind Man In The Bleachers);David Geddes;['Rock'];263.0;0.0
+26;I'm On Fire;5000 Volts;['R&B', 'Soul & Funk', 'Soul'];157.0;0.0
+27;I Only Have Eyes For You;Art Garfunkel;['Pop'];216.0;0.0
+28;For The Love Of You (Part 1&2);The Isley Brothers;[];;
+29;Country Boy (You Got Your Feet In L.A.);Glen Campbell;['Country', 'Pop', 'Rock'];189.0;0.0
+30;Part Time Love;Gladys Knight And The Pips;['R&B'];151.0;0.0
+31;Miracles;Jefferson Starship;['Rock'];412.0;0.0
+32;Walk Away From Love;David Ruffin;['Soul'];327.0;0.0
+33;Rock And Roll All Nite (live);KISS;['Rock'];247.0;0.0
+34;Full Of Fire;Al Green;['R&B', 'Soul'];312.0;0.0
+35;Blue Eyes Crying In The Rain;Willie Nelson;['Rock'];197.0;0.0
+36;You Sexy Thing;Hot Chocolate;['Pop'];243.0;0.0
+37;Bad Blood;Neil Sedaka;['Pop'];179.0;0.0
+38;Lyin' Eyes;Eagles;['Pop'];382.0;0.0
+39;Volare;Al Martino;['Pop'];181.0;0.0
+40;Operator;The Manhattan Transfer;['Jazz'];192.0;0.0
+41;Love Machine (Part 1);The Miracles;['R&B'];183.0;0.0
+42;Winners And Losers;Hamilton, Joe Frank & Reynolds;['Pop', 'Singer & Songwriter'];204.0;0.0
+43;Fire On The Mountain;The Marshall Tucker Band;['Rock'];236.0;0.0
+44;Over My Head;Fleetwood Mac;['Pop'];214.0;0.0
+45;Sing A Song;Earth, Wind & Fire;['R&B'];203.0;0.0
+46;S.O.S.;ABBA;['Pop'];201.0;0.0
+47;Love Power;Willie Hutch;['R&B'];213.0;0.0
+48;Evil Woman;Electric Light Orchestra;['Rock'];252.0;0.0
+49;I'm Sorry;John Denver;['Country'];212.0;0.0
+50;School Boy Crush;AWB;[];;
+51;Carry Me;David Crosby/Graham Nash;['Country', 'Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock', 'Singer & Songwriter'];211.0;0.0
+52;Baby Face;The Wing And A Prayer Fife & Drum Corps.;[];;
+53;Do It Any Way You Wanna;People's Choice;['Dance'];191.0;0.0
+54;Love To Love You Baby;Donna Summer;['Pop'];202.0;0.0
+55;They Just Can't Stop It the (Games People Play);The Spinners;['R&B', 'Soul & Funk', 'Soul'];211.0;0.0
+56;Since I Met You Baby;Freddy Fender;['Country'];193.0;0.0
+57;Fly Away;John Denver;['Country'];251.0;0.0
+58;Caribbean Festival;Kool & The Gang;['Pop'];453.0;0.0
+59;Just Too Many People;Melissa Manchester;['R&B'];209.0;0.0
+60;Wake Up Everybody (Part 1);Harold Melvin And The Blue Notes;['Pop'];227.0;0.0
+61;Lonely School Year;The Hudson Brothers;[];;
+62;Nice, Nice, Very Nice;Ambrosia;['Pop'];349.0;0.0
+63;Let's Live Together;The Road Apples;[];;
+64;Lady Blue;Leon Russell;['Rock'];211.0;0.0
+65;Going Down Slowly;The Pointer Sisters;['Pop'];470.0;0.0
+66;Hey There Little Firefly Part I;Firefly;[];;
+67;Never Been Any Reason;Head East;['Rock'];311.0;0.0
+68;Hurricane (Part 1);Bob Dylan;[];;
+69;Drive My Car;Gary Toms Empire;['R&B', 'Soul & Funk'];348.0;0.0
+70;This Old Man;Purple Reign;['R&B', 'Soul & Funk'];161.0;0.0
+71;Happy;Eddie Kendricks;['Pop'];194.0;0.0
+72;Love Hurts;Nazareth;['Rock'];232.0;0.0
+73;Woman Tonight;America;['Rock'];142.0;0.0
+74;Let It Shine/He Ain't Heavy...He's My Brother;Olivia Newton-John;[];;
+75;Give It What You Got/Peace Pipe;B.T. Express;[];;
+76;Squeeze Box;The Who;['Pop'];163.0;0.0
+77;Is It Love That We're Missin';Quincy Jones (feat. The Brothers Johnson);[];;
+78;Paloma Blanca;George Baker Selection;['Pop'];212.0;0.0
+79;I'm On Fire;Jim Gilstrap;[];;
+80;(I'm Going By) The Stars In Your Eyes;Ron Banks And The Dramatics;[];;
+81;Convoy;C.W. McCall;['Country'];231.0;0.0
+82;Down To The Line;Bachman-Turner Overdrive;['Pop'];242.0;0.0
+83;Theme From S.W.A.T.;Rhythm Heritage;['Rap/Hip Hop', 'Pop'];205.0;0.0
+84;Somewhere In The Night;Helen Reddy;['Pop'];211.0;0.0
+85;The Blind Man In The Bleachers;Kenny Starr;[];;
+86;Free Ride;Tavares;['R&B'];177.0;0.0
+87;How High The Moon;Gloria Gaynor;['Pop', 'Disco'];288.0;0.0
+88;"Soul Train ""75""";Soul Train Gang;['R&B'];311.0;0.0
+89;I Want To Dance With You (Dance With Me);The Ritchie Family;[];;
+90;Bye Bye Baby;U.S. 1;[];;
+91;It's Alright;Graham Central Station;['Rock'];229.0;0.0
+92;The Zip;MFSB;['R&B'];230.0;0.0
+93;Art For Art's Sake;10cc;['Pop'];356.0;0.0
+94;Breakfast For Two;Country Joe McDonald;['Folk'];285.0;0.0
+95;Funky Weekend;The Stylistics;['Pop'];206.0;0.0
+96;We All Gotta Stick Together;Four Tops;['R&B'];289.0;0.0
+97;Sunday Sunrise;Anne Murray;[];;
+98;For A Dancer;Prelude;['Folk'];208.0;0.0
+99;Every Beat Of My Heart;Crown Heights Affair;['Pop', 'Disco'];338.0;0.0

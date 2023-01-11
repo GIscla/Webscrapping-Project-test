@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Wild Thing;The Troggs;['Pop'];154.0;0.0
+1;Lil' Red Riding Hood;Sam The Sham and the Pharaohs;['Pop', 'Rock'];163.0;0.0
+2;Summer In The City;The Lovin' Spoonful;['Pop'];162.0;0.0
+3;The Pied Piper;Crispian St. Peters;['Pop'];151.0;0.0
+4;They're Coming To Take Me Away, Ha-Haaa!;Napoleon XIV;['Pop'];134.0;0.0
+5;I Saw Her Again;The Mamas & The Papas;['Pop'];195.0;0.0
+6;Hanky Panky;Tommy James And The Shondells;['Pop'];173.0;0.0
+7;Sweet Pea;Tommy Roe;['Pop'];138.0;0.0
+8;Mothers Little Helper;The Rolling Stones;['Rock'];166.0;0.0
+9;Somewhere, My Love;Ray Conniff And The Singers;['Pop'];147.0;0.0
+10;Sunny;Bobby Hebb;['R&B'];165.0;0.0
+11;Hungry;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];180.0;0.0
+12;This Door Swings Both Ways;Herman's Hermits;['Rock'];128.0;0.0
+13;Over Under Sideways Down;The Yardbirds;['Alternative', 'Rock'];144.0;0.0
+14;See You In September;The Happenings;['Pop'];149.0;0.0
+15;I Couldn't Live Without Your Love;Petula Clark;['Pop'];164.0;0.0
+16;Sweet Dreams;Tommy McLain;['Rock', 'Blues'];203.0;0.0
+17;Paperback Writer;The Beatles;['Rock'];138.0;0.0
+18;The Work Song;Herb Alpert & The Tijuana Brass;['Jazz'];130.0;0.0
+19;I Want You;Bob Dylan;['Rock'];185.0;0.0
+20;Love Letters;Elvis Presley;['Pop'];174.0;0.0
+21;Trains And Boats And Planes;Dionne Warwick;['Pop'];168.0;0.0
+22;Red Rubber Ball;The Cyrkle;['Pop'];137.0;0.0
+23;Blowin In The Wind;Stevie Wonder;['Pop'];184.0;0.0
+24;Ain't Too Proud To Beg;The Temptations;['R&B'];153.0;0.0
+25;You Don't Have To Say You Love Me;Dusty Springfield;[];168.0;0.0
+26;Strangers In The Night;Frank Sinatra;[];164.0;0.0
+27;Searching For My Love;Bobby Moore & The Rhythm Aces;[];149.0;0.0
+28;Pretty Flamingo;Manfred Mann;[];150.0;0.0
+29;Where Were You When I Needed You;The Grass Roots;[];180.0;0.0
+30;Dirty Water;The Standells;['Rock'];167.0;0.0
+31;Along Comes Mary;The Association;['Pop', 'Rock'];171.0;0.0
+32;Summertime;Billy Stewart;['Pop'];159.0;0.0
+33;Billy And Sue;B.J. Thomas And The Triumphs;[];;
+34;Warm And Tender Love;Percy Sledge;['Rock'];201.0;0.0
+35;Friday's Child;Nancy Sinatra;['Country'];148.0;0.0
+36;The Joker Went Wild;Brian Hyland;['Pop'];164.0;0.0
+37;Born A Woman;Sandy Posey;['Pop'];125.0;0.0
+38;Lady Jane;The Rolling Stones;['Rock'];188.0;0.0
+39;The Impossible Dream (The Quest);Jack Jones;[];;
+40;Distant Shores;Chad & Jeremy;['Rock'];149.0;0.0
+41;Tar And Cement;Verdelle Smith;[];;
+42;Land Of 1000 Dances;Wilson Pickett;['R&B'];145.0;0.0
+43;5 D (Fifth Dimension);The Byrds;['Pop'];153.0;0.0
+44;Working In The Coal Mine;Lee Dorsey;['R&B'];169.0;0.0
+45;Make Me Belong To You;Barbara Lewis;['R&B', 'Soul & Funk', 'Soul'];149.0;0.0
+46;Misty;"""Groove"" Holmes";['Jazz'];360.0;0.0
+47;The Tip Of My Fingers;Eddy Arnold;['Country'];178.0;0.0
+48;Little Girl;Syndicate Of Sound;['Rock'];147.0;0.0
+49;You You You;Mel Carter;['R&B'];196.0;0.0
+50;Guantanamera;The Sandpipers;['Pop'];197.0;0.0
+51;Alfie;Cher;['Pop'];171.0;0.0
+52;Almost Persuaded;David Houston;['Country'];176.0;0.0
+53;Happy Summer Days;Ronnie Dove;['Pop'];143.0;0.0
+54;Wade In The Water;Ramsey Lewis;['Jazz'];229.0;0.0
+55;A Million And One;Dean Martin;['Pop'];175.0;0.0
+56;My Heart's Symphony;Gary Lewis And The Playboys;['Pop'];178.0;0.0
+57;Bus Stop;The Hollies;['Pop'];174.0;0.0
+58;(You Make Me Feel) So Good;The McCoys;['Rock'];161.0;0.0
+59;You Wouldn't Listen;The Ides Of March;['Rock'];156.0;0.0
+60;Sunshine Superman;Donovan;['Pop'];293.0;0.0
+61;Wouldn't It Be Nice;The Beach Boys;['Rock'];153.0;0.0
+62;Look At Me Girl;Bobby Vee And The Strangers;['Pop'];151.0;0.0
+63;Money Won't Change You (Part 1);James Brown And The Famous Flames;[];;
+64;I Guess I'll Always Love You;The Isley Brothers;['R&B'];170.0;0.0
+65;Open The Door To Your Heart;Darrell Banks;['Jazz'];157.0;0.0
+66;Can I Trust You?;The Bachelors;['Classique', 'Rock'];219.0;0.0
+67;I Believe I'm Gonna Make It;Joe Tex;['R&B'];184.0;0.0
+68;Whole Lot Of Shakin' In My Heart (Since I Met You);The Miracles;['R&B'];163.0;0.0
+69;Respectable;The Outsiders;['Rock'];169.0;0.0
+70;Say I Am (What I Am);Tommy James And The Shondells;['Pop'];152.0;0.0
+71;Go Ahead And Cry;The Righteous Brothers;['Pop'];156.0;0.0
+72;Lonely Soldier;Mike Williams;['R&B', 'Soul & Funk', 'Soul'];174.0;0.0
+73;Sugar And Spice;The Cryan' Shames;['Rock'];162.0;0.0
+74;With A Girl Like You;The Troggs;['Pop'];126.0;0.0
+75;Wipe Out;The Surfaris;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];133.0;0.0
+76;Too Soon To Know;Roy Orbison;['Rock'];215.0;0.0
+77;Bring Back The Time;B.J. Thomas;['Country'];185.0;0.0
+78;7 And 7 Is;Love;['Pop'];271.0;0.0
+79;Lonely Summer;The Shades Of Blue;['Pop'];128.0;0.0
+80;A Million And One;Vic Dana;['Pop'];149.0;0.0
+81;(We'll Be) United;The Intruders;['R&B', 'Soul'];170.0;0.0
+82;Livin' Above Your Head;Jay & The Americans;['Rock'];169.0;0.0
+83;Uptight (Everything's Alright);Nancy Wilson;['Jazz'];121.0;0.0
+84;Petticoat White (Summer Sky Blue);Bobby Vinton;['Pop'];143.0;0.0
+85;Out Of This World;The Chiffons;['Pop'];127.0;0.0
+86;Let's Call It A Day Girl;The Razor's Edge;[];;
+87;I Put A Spell On You;Alan Price Set;['Jazz'];265.0;0.0
+88;Georgia Rose;Tony Bennett;['Jazz'];176.0;0.0
+89;Sunny Afternoon;The Kinks;['Rock'];210.0;0.0
+90;Let Me Tell You, Babe;Nat King Cole;['Pop'];155.0;0.0
+91;The Dangling Conversation;Simon & Garfunkel;['Rock'];156.0;0.0
+92;World Of Fantasy;The Five Stairsteps;['Pop'];182.0;0.0
+93;The Philly Freeze;Alvin Cash & The Registers;['R&B'];153.0;0.0
+94;How Sweet It Is (To Be Loved By You);Jr. Walker & The All Stars;['R&B'];179.0;0.0
+95;Your Good Thing (Is About To End);Mable John;['R&B', 'Soul'];178.0;0.0
+96;Just Yesterday;Al Martino;[];;
+97;To Show I Love You;Peter And Gordon;['Pop'];145.0;0.0
+98;Suspicions;The Sidekicks;['Rock'];154.0;0.0
+99;That's Enough;Rosco Robinson;[];;

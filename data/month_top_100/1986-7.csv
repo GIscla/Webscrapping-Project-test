@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;There'll Be Sad Songs (To Make You Cry);Billy Ocean;['Pop', 'R&B'];290.0;0.0
+1;Holding Back The Years;Simply Red;['Pop'];269.0;0.0
+2;"Who's Johnny (""Short Circuit"" Theme)";El DeBarge;[];;
+3;No One Is To Blame;Howard Jones;['Pop'];210.0;0.0
+4;Nasty;Janet Jackson;['Pop'];243.0;0.0
+5;Invisible Touch;Genesis;['Rock'];210.0;0.0
+6;Crush On You;The Jets;['R&B'];270.0;0.0
+7;On My Own;Patti LaBelle & Michael McDonald;['R&B'];283.0;0.0
+8;Sledgehammer;Peter Gabriel;['Rock'];312.0;0.0
+9;Danger Zone;Kenny Loggins;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+10;Tuff Enuff;The Fabulous Thunderbirds;['Pop'];200.0;0.0
+11;Your Wildest Dreams;The Moody Blues;['Rock'];290.0;0.0
+12;Like A Rock;Bob Seger;['Rock'];357.0;0.0
+13;Like No Other Night;Thirty Eight Special;[];;
+14;When The Heart Rules The Mind;GTR;['Rock'];328.0;0.0
+15;A Different Corner;George Michael;['Pop'];243.0;0.0
+16;I Wanna Be A Cowboy;Boys Don't Cry;['Pop'];366.0;0.0
+17;Opportunities (Let's Make Lots Of Money);Pet Shop Boys;['Dance'];218.0;0.0
+18;"Glory Of Love (Theme From ""The Karate Kid Part II"")";Peter Cetera;[];;
+19;Live To Tell;Madonna;['Pop'];351.0;0.0
+20;"Love Touch (Theme From ""Legal Eagles"")";Rod Stewart;['Pop', 'Variété Internationale'];241.0;0.0
+21;Mad About You;Belinda Carlisle;['Pop'];216.0;0.0
+22;Mountains;Prince And The Revolution;[];;
+23;Dreams;Van Halen;['Pop'];292.0;0.0
+24;"Modern Woman (From ""Ruthless People"")";Billy Joel;[];;
+25;I Can't Wait;Nu Shooz;['R&B', 'Soul & Funk', 'Soul'];218.0;0.0
+26;Digging Your Scene;The Blow Monkeys;['Pop'];245.0;0.0
+27;Nothin' At All;Heart;['Pop'];249.0;0.0
+28;We Don't Have To Take Our Clothes Off;Jermaine Stewart;['R&B'];293.0;0.0
+29;Vienna Calling;Falco;['Pop'];250.0;0.0
+30;Secret Separation;The Fixx;['Pop'];231.0;0.0
+31;If She Knew What She Wants;The Bangles;['Pop'];229.0;0.0
+32;One Hit (To The Body);The Rolling Stones;['Rock'];283.0;0.0
+33;Something About You;Level 42;['Pop'];265.0;0.0
+34;Papa Don't Preach;Madonna;['Pop'];269.0;0.0
+35;You Should Be Mine (The Woo Woo Song);Jeffrey Osborne;['R&B'];257.0;0.0
+36;Greatest Love Of All;Whitney Houston;['Pop', 'R&B', 'Soul'];291.0;0.0
+37;Take It Easy;Andy Taylor;['Pop'];253.0;0.0
+38;Hyperactive;Robert Palmer;['Pop'];310.0;0.0
+39;Higher Love;Steve Winwood;['Rock'];351.0;0.0
+40;Suzanne;Journey;['Rock'];218.0;0.0
+41;All The Love In The World;The Outfield;['Pop'];211.0;0.0
+42;Rumors;Timex Social Club;['Electro'];288.0;0.0
+43;One Step Closer To You;Gavin Christopher;['Rock'];311.0;0.0
+44;All I Need Is A Miracle;Mike + The Mechanics;['Pop', 'Rock'];249.0;0.0
+45;"Sweet Freedom (Theme From ""Running Scared"")";Michael McDonald;[];;
+46;The Edge Of Heaven;Wham!;['Pop'];274.0;0.0
+47;Out Of Mind Out Of Sight;Models;['Pop'];217.0;0.0
+48;The Finest;The S.O.S. Band;['R&B'];366.0;0.0
+49;Peter Gunn;The Art Of Noise Featuring Duane Eddy;['Pop'];228.0;0.0
+50;If You Leave;Orchestral Manoeuvres In The Dark;['Rock'];270.0;0.0
+51;Hanging On A Heart Attack;Device;['Rock'];310.0;0.0
+52;Headed For The Future;Neil Diamond;['Pop'];246.0;0.0
+53;Words Get In The Way;Miami Sound Machine;['Pop'];207.0;0.0
+54;Jungle Boy;John Eddie;['Pop'];205.0;0.0
+55;"Take My Breath Away (Love Theme From ""Top Gun"")";Berlin;['Films/Jeux vidéo', 'Musiques de films'];255.0;0.0
+56;Venus;Bananarama;['Pop'];228.0;0.0
+57;Is It Love;Mr. Mister;['Pop'];217.0;0.0
+58;Baby Love;Regina;['R&B'];217.0;0.0
+59;With You All The Way;New Edition;['R&B'];217.0;0.0
+60;Rumbleseat;John Mellencamp;['Rock'];178.0;0.0
+61;Voice Of America's Sons;John Cafferty & The Beaver Brown Band;['Rock'];280.0;0.0
+62;A Kind Of Magic;Queen;['Rock'];262.0;0.0
+63;Taken In;Mike + The Mechanics;['Pop', 'Rock'];257.0;0.0
+64;Don Quichotte;Magazine 60;['Pop', 'Latino'];207.0;0.0
+65;Living On Video;Trans-X;['Dance', 'Pop'];354.0;0.0
+66;Bad Boy;Miami Sound Machine;['Pop'];224.0;0.0
+67;What Have You Done For Me Lately;Janet Jackson;['Pop'];300.0;0.0
+68;Headlines;Midnight Star;['Pop', 'Soul'];312.0;0.0
+69;In The Shape Of A Heart;Jackson Browne;['Pop'];346.0;0.0
+70;Be Good To Yourself;Journey;['Pop', 'Rock'];231.0;0.0
+71;Yankee Rose;David Lee Roth;['Rock', 'Hard Rock', 'Metal'];234.0;0.0
+72;Touch And Go;Emerson, Lake & Powell;['Rock'];220.0;0.0
+73;School's Out;Krokus;['Rock', 'Hard Rock', 'Metal'];195.0;0.0
+74;West End Girls;Pet Shop Boys;['Pop'];285.0;0.0
+75;Feel The Heat;Jean Beauvoir;['Pop', 'Rock'];433.0;0.0
+76;Friends And Lovers;Carl Anderson & Gloria Loring;['Pop'];226.0;0.0
+77;Rain On The Scarecrow;John Mellencamp;['Rock'];226.0;0.0
+78;One Way Love;TKA;['Dance'];252.0;0.0
+79;The Best Of Me;David Foster And Olivia Newton-John;[];241.0;0.0
+80;Your Love;The Outfield;['Pop'];221.0;0.0
+81;Rock'N'roll To The Rescue;The Beach Boys;[];;
+82;You Don't Have To Cry;Rene & Angela;['R&B'];335.0;0.0
+83;If Anybody Had A Heart;John Waite;[];;
+84;"Man Size Love (From ""Running Scared"")";Klymaxx;['R&B'];254.0;0.0
+85;The Captain Of Her Heart;Double;['Jazz', 'Pop'];274.0;0.0
+86;Victory Line;Limited Warranty;[];;
+87;That Was Then, This Is Now;The Monkees;['Pop'];242.0;0.0
+88;Listen Like Thieves;INXS;['Rock'];226.0;0.0
+89;If Your Heart Isn't In It;Atlantic Starr;['R&B'];242.0;0.0
+90;I Must Be Dreaming;Giuffria;['Rock'];263.0;0.0
+91;Move Away;Culture Club;['Pop'];256.0;0.0
+92;This Is The Time;Dennis DeYoung;[];;
+93;I Wouldn't Lie;Yarbrough & Peoples;['Rap/Hip Hop', 'Pop', 'Rock', 'R&B', 'Soul & Funk', 'Soul'];308.0;0.0
+94;No Promises;Icehouse;['Films/Jeux vidéo', 'Musiques de films'];222.0;0.0
+95;Before I Go;Starship;['Rock'];314.0;0.0
+96;Point Of No Return;Nu Shooz;['Dance', 'Rock'];266.0;0.0
+97;Do You Remember Me?;Jermaine Jackson;['R&B'];301.0;0.0
+98;Addicted To Love;Robert Palmer;['Pop'];359.0;0.0
+99;Female Intuition;Mai Tai;['Pop'];244.0;0.0

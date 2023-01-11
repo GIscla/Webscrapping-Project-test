@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Silly Love Songs;Wings;['Rock'];355.0;0.0
+1;Afternoon Delight;Starland Vocal Band;['Pop'];193.0;0.0
+2;Misty Blue;Dorothy Moore;['Classique', 'Pop', 'R&B'];220.0;0.0
+3;Sara Smile;Daryl Hall John Oates;['Pop'];187.0;0.0
+4;Shop Around;Captain & Tennille;['Pop'];203.0;0.0
+5;More, More, More Pt. 1;Andrea True Connection;['Films/Jeux vidéo', 'Musiques de films'];179.0;0.0
+6;Get Up And Boogie (That's Right);Silver Convention;['Pop', 'Disco'];172.0;0.0
+7;I'll Be Good To You;The Brothers Johnson;['R&B'];288.0;0.0
+8;Kiss And Say Goodbye;The Manhattans;['R&B'];265.0;0.0
+9;Love Is Alive;Gary Wright;['Pop'];230.0;0.0
+10;Never Gonna Fall In Love Again;Eric Carmen;['Pop'];224.0;0.0
+11;Got To Get You Into My Life;The Beatles;['Rock'];149.0;0.0
+12;Let Her In;John Travolta;['Pop'];181.0;0.0
+13;Moonlight Feels Right;Starbuck;['Pop', 'Rock'];221.0;0.0
+14;Take The Money And Run;Steve Miller;['Rock'];170.0;0.0
+15;Rock And Roll Music;The Beach Boys;['Rock'];148.0;0.0
+16;The Boys Are Back In Town;Thin Lizzy;['Pop'];269.0;0.0
+17;Love Hangover;Diana Ross;['Pop'];468.0;0.0
+18;If You Know What I Mean;Neil Diamond;['Pop'];225.0;0.0
+19;Get Closer;Seals & Crofts (Featuring Carolyn Willis);[];;
+20;You're My Best Friend;Queen;['Rock'];170.0;0.0
+21;I Want You;Marvin Gaye;['Pop', 'Soul contemporaine', 'Soul & Funk', 'Films/Jeux vidéo', 'Musiques de films', 'Soul'];273.0;0.0
+22;Takin' It To The Streets;The Doobie Brothers;['Rock'];226.0;0.0
+23;Today's The Day;America;['Rock'];195.0;0.0
+24;Making Our Dreams Come True;Cyndi Grecco;['Pop'];157.0;0.0
+25;Turn The Beat Around;Vicki Sue Robinson;['Pop'];204.0;0.0
+26;Tear The Roof Off The Sucker (Give Up The Funk);Parliament;['R&B'];348.0;0.0
+27;Save Your Kisses For Me;Brotherhood Of Man;['Pop'];184.0;0.0
+28;That's Where The Happy People Go;The Trammps;['Rock'];198.0;0.0
+29;I'm Easy;Keith Carradine;['Pop'];193.0;0.0
+30;Last Child;Aerosmith;['Pop'];206.0;0.0
+31;Mamma Mia;ABBA;['Pop'];210.0;0.0
+32;Somebody's Gettin' It;Johnnie Taylor;['R&B'];240.0;0.0
+33;Movin';Brass Construction;['R&B'];519.0;0.0
+34;Good Vibrations;Todd Rundgren;['Pop', 'Rock'];223.0;0.0
+35;Sophisticated Lady (She's A Different Lady);Natalie Cole;['R&B'];207.0;0.0
+36;Young Hearts Run Free;Candi Staton;['R&B'];248.0;0.0
+37;I Need To Be In Love;Carpenters;['Pop'];230.0;0.0
+38;Silver Star;The 4 Seasons;[];;
+39;A Fifth Of Beethoven;Walter Murphy & The Big Apple Band;['R&B', 'Soul'];184.0;0.0
+40;Framed;Cheech & Chong;['Films/Jeux vidéo', 'Musiques de films'];166.0;0.0
+41;You'll Never Find Another Love Like Mine;Lou Rawls;['R&B', 'Soul'];266.0;0.0
+42;Something He Can Feel;Aretha Franklin;['Pop', 'Rock'];374.0;0.0
+43;Heaven Must Be Missing An Angel (part 1);Tavares;['Jeunesse'];264.0;0.0
+44;Fool For The City;Foghat;['Pop', 'Rock'];494.0;0.0
+45;Livin' Ain't Livin';Firefall;['Pop', 'Rock'];223.0;0.0
+46;Who Loves You Better - Part 1;The Isley Brothers;[];;
+47;C'mon Marianne;Donny Osmond;['Pop'];142.0;0.0
+48;I Wanna Stay With You;Gallagher And Lyle;['Pop'];178.0;0.0
+49;I'd Really Love To See You Tonight;England Dan & John Ford Coley;['Pop'];159.0;0.0
+50;Shannon;Henry Gross;['Pop'];233.0;0.0
+51;Everything's Coming Up Love;David Ruffin;['R&B'];214.0;0.0
+52;Hot Stuff/fool To Cry;The Rolling Stones;[];;
+53;This Masquerade;George Benson;['Pop'];196.0;0.0
+54;Another Rainy Day In New York City;Chicago;['Pop', 'Rock'];181.0;0.0
+55;Baby, I Love Your Way;Peter Frampton;['Rock'];290.0;0.0
+56;Steppin' Out;Neil Sedaka;[];;
+57;It Keeps You Runnin';Carly Simon;['Rock'];238.0;0.0
+58;Let 'em In;Wings;['Rock'];311.0;0.0
+59;I'm Gonna Let My Heart Do The Walking;The Supremes;['Pop'];212.0;0.0
+60;Lipstick;Michel Polnareff;['Pop'];215.0;0.0
+61;A Little Bit More;Dr. Hook;['Pop'];173.0;0.0
+62;Foxy Lady;Crown Heights Affair;['R&B', 'Soul'];308.0;0.0
+63;Yes, Yes, Yes;Bill Cosby;[];;
+64;Happy Days;Pratt & McClain with Brother Love;[];;
+65;Don't Go Breaking My Heart;Elton John & Kiki Dee;['Pop'];266.0;0.0
+66;You Should Be Dancing;Bee Gees;['Pop'];257.0;0.0
+67;Ten Percent;Double Exposure;['Dance'];427.0;0.0
+68;Blt;Lee Oskar;[];;
+69;Crazy On You;Heart;['Pop'];293.0;0.0
+70;Who'd She Coo?;Ohio Players;['R&B'];272.0;0.0
+71;I'll Get Over You;Crystal Gayle;['Country'];210.0;0.0
+72;Roots, Rock, Reggae;Bob Marley And The Wailers;['Reggae'];218.0;0.0
+73;Say You Love Me;Fleetwood Mac;['Pop'];249.0;0.0
+74;Hold On;Sons Of Champlin;['Pop', 'Soul & Funk'];513.0;0.0
+75;Rain, Oh Rain;Fools Gold;['Rock'];282.0;0.0
+76;The Lonely One;Special Delivery Featuring Terry Huff;[];;
+77;Wham Bam (Shang-A-Lang);Silver;['Rock'];212.0;0.0
+78;Cotton Candy;The Sylvers;['R&B'];181.0;0.0
+79;Don't Touch Me There;The Tubes;['Rock'];211.0;0.0
+80;Open;Smokey Robinson;['R&B'];230.0;0.0
+81;Lowdown;Boz Scaggs;['Pop'];315.0;0.0
+82;Shower The People;James Taylor;['Rock'];271.0;0.0
+83;Norma Jean Wants To Be A Movie Star;Sundown Company;[];;
+84;Rainbow In Your Eyes;Leon & Mary Russell;['Pop'];252.0;0.0
+85;I Never Cry;Alice Cooper;['Rock', 'Hard Rock'];224.0;0.0
+86;Devil Woman;Cliff Richard;['Rock'];214.0;0.0
+87;Better Place To Be (Parts 1 & 2);Harry Chapin;[];;
+88;Play That Funky Music;Wild Cherry;['Rock'];300.0;0.0
+89;I've Been Lovin' You;Easy Street;['Classique', 'Rock'];220.0;0.0
+90;I Hope We Get To Love In Time;Marilyn McCoo & Billy Davis Jr.;[];;
+91;Hard Work;John Handy;['Jazz'];414.0;0.0
+92;Dancin' Kid;Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III;[];;
+93;Breaker - Breaker;Outlaws;['Pop', 'Rock'];175.0;0.0
+94;Will You Love Me Tomorrow;Dana Valery;[];;
+95;Vaya Con Dios;Freddy Fender;['Country'];167.0;0.0
+96;"Baretta's Theme (""Keep Your Eye On The Sparrow"")";Rhythm Heritage;['Disco'];309.0;0.0
+97;Rhiannon (Will You Ever Win);Fleetwood Mac;['Rock'];226.0;0.0
+98;Boogie Fever;The Sylvers;['R&B'];208.0;0.0
+99;Say You Love Me;D.J. Rogers;['R&B'];344.0;0.0

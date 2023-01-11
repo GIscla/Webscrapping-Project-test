@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Cold Hearted;Paula Abdul;['Pop'];231.0;0.0
+1;Right Here Waiting;Richard Marx;['Pop'];264.0;0.0
+2;Hangin' Tough;New Kids On The Block;['Pop'];256.0;0.0
+3;Don't Wanna Lose You;Gloria Estefan;['Pop'];249.0;0.0
+4;Angel Eyes;The Jeff Healey Band;['Rock'];321.0;0.0
+5;Heaven;Warrant;['Rock'];235.0;0.0
+6;Secret Rendezvous;Karyn White;['Pop'];337.0;0.0
+7;Shower Me With Your Love;Surface;['R&B'];293.0;0.0
+8;The End Of The Innocence;Don Henley;['Rock'];315.0;0.0
+9;Friends;Jody Watley With Eric B. & Rakim;[];;
+10;If I Could Turn Back Time;Cher;['Pop'];239.0;0.0
+11;Girl I'm Gonna Miss You;Milli Vanilli;['Pop', 'Pop internationale', 'Rock'];238.0;0.0
+12;18 And Life;Skid Row;['Rock', 'Hard Rock', 'Metal'];229.0;0.0
+13;Keep On Movin';Soul II Soul Featuring Caron Wheeler;['Pop'];360.0;0.0
+14;"On Our Own (From ""Ghostbusters II"")";Bobby Brown;['R&B'];290.0;0.0
+15;Sacred Emotion;Donny Osmond;['Pop'];301.0;0.0
+16;Once Bitten Twice Shy;Great White;['Rock'];323.0;0.0
+17;I Like It;Dino;['Pop'];307.0;0.0
+18;One;Bee Gees;['Pop'];287.0;0.0
+19;Cherish;Madonna;['Pop'];229.0;0.0
+20;Talk It Over;Grayson Hugh;['Pop'];258.0;0.0
+21;Kisses On The Wind;Neneh Cherry;['Rap/Hip Hop'];237.0;0.0
+22;Soul Provider;Michael Bolton;['Pop'];267.0;0.0
+23;That's The Way;Katrina And The Waves;['Pop'];200.0;0.0
+24;"Batdance (From ""Batman"")";Prince;['Pop', 'Films/Jeux vidéo', 'Musiques de films', 'Comédies musicales'];375.0;0.0
+25;So Alive;Love And Rockets;['Alternative'];257.0;0.0
+26;Put Your Mouth On Me;Eddie Murphy;['Pop'];244.0;0.0
+27;Headed For A Heartbreak;Winger;['Rock', 'Hard Rock', 'Metal'];312.0;0.0
+28;It's Not Enough;Starship;['Rock'];290.0;0.0
+29;Don't Look Back;Fine Young Cannibals;['Pop'];217.0;0.0
+30;Love Song;The Cure;['Alternative', 'Pop'];203.0;0.0
+31;Toy Soldiers;Martika;['Rap/Hip Hop'];295.0;1.0
+32;The Prisoner;Howard Jones;['Pop'];279.0;0.0
+33;Runnin' Down A Dream;Tom Petty;['Rock'];263.0;0.0
+34;Bust A Move;Young M.C.;['Films/Jeux vidéo', 'Musiques de films'];265.0;0.0
+35;Hey Ladies;Beastie Boys;['Rap/Hip Hop'];227.0;0.0
+36;(You're My One And Only) True Love;Seduction;['Soul'];277.0;0.0
+37;If You Don't Know Me By Now;Simply Red;['Pop'];206.0;0.0
+38;When I Looked At Him;Expose;['Pop'];259.0;0.0
+39;Partyman;Prince;['Pop'];191.0;0.0
+40;It's No Crime;Babyface;['Pop'];241.0;0.0
+41;Miss You Much;Janet Jackson;['R&B'];252.0;0.0
+42;What I Like About You;Michael Morales;[];;
+43;Turned Away;Chuckii Booker;['R&B'];343.0;0.0
+44;I'm That Type Of Guy;LL Cool J;['Rap/Hip Hop'];316.0;0.0
+45;Forget Me Not;Bad English;['Rock'];295.0;0.0
+46;Mixed Emotions;The Rolling Stones;['Rock'];278.0;0.0
+47;Listen To Your Heart;Roxette;['Pop'];328.0;0.0
+48;Lay Your Hands On Me;Bon Jovi;['Rock'];229.0;0.0
+49;Need A Little Taste Of Love;The Doobie Brothers;['Rock'];245.0;0.0
+50;Gypsy Road;Cinderella;['Metal'];235.0;0.0
+51;Hooked On You;Sweet Sensation;['Pop'];310.0;0.0
+52;Sowing The Seeds Of Love;Tears For Fears;['Pop'];377.0;0.0
+53;Love Cries;Stage Dolls;['Rock'];251.0;0.0
+54;Closer To Fine;Indigo Girls;['Rock'];241.0;0.0
+55;Love In An Elevator;Aerosmith;['Pop'];322.0;0.0
+56;Rock Wit'cha;Bobby Brown;['R&B'];289.0;0.0
+57;Oh Daddy;Adrian Belew;['Pop'];186.0;0.0
+58;Healing Hands;Elton John;['Pop'];270.0;0.0
+59;What About Me;Moving Pictures;['Pop', 'Rock'];211.0;0.0
+60;Baby Don't Forget My Number;Milli Vanilli;['Pop', 'Pop internationale', 'Rock'];249.0;0.0
+61;Lay Down Your Arms;The Graces;['Rock'];254.0;0.0
+62;Little Fighter;White Lion;['Rock', 'Hard Rock', 'Metal'];263.0;0.0
+63;My First Night Without You;Cyndi Lauper;['Pop'];181.0;0.0
+64;Dr. Feelgood;Motley Crue;['Rock'];289.0;0.0
+65;No More Rhyme;Debbie Gibson;['Pop'];255.0;0.0
+66;Hey Baby;Henry Lee Summer;[];220.0;0.0
+67;Call It Love;Poco;['Rock'];257.0;0.0
+68;In My Eyes;Stevie B;['Pop'];318.0;0.0
+69;Express Yourself;Madonna;['Pop'];239.0;0.0
+70;Dressed For Success;Roxette;['Pop'];251.0;0.0
+71;On The Line;Tangier;['Pop', 'Rock', 'Hard Rock'];282.0;0.0
+72;Let The Day Begin;The Call;['Pop'];231.0;0.0
+73;Don't Say You Love Me;Billy Squier;['Rock'];270.0;0.0
+74;Pride & Passion;John Cafferty & The Beaver Brown Band;['Films/Jeux vidéo', 'Musiques de films'];210.0;0.0
+75;Let Go;Sharon Bryant;[];;
+76;The Best;Tina Turner;['R&B'];253.0;0.0
+77;Don't Shut Me Out;Kevin Paige;['Rock'];232.0;0.0
+78;Buffalo Stance;Neneh Cherry;['Rap/Hip Hop'];342.0;0.0
+79;"Wind Beneath My Wings (From ""Beaches"")";Bette Midler;[];199.0;0.0
+80;Smooth Up;BulletBoys;['Rock', 'Hard Rock'];305.0;0.0
+81;When The Radio Is On;Paul Shaffer;['Pop'];241.0;0.0
+82;You Better Dance;The Jets;['R&B'];231.0;0.0
+83;Love Shack;The B-52s;['Pop'];320.0;0.0
+84;Glamour Boys;Living Colour;['Pop'];220.0;0.0
+85;Walkin' Shoes;Tora Tora;[];;
+86;Stand Up;Underworld;['Electro'];231.0;0.0
+87;Me Myself And I;De La Soul;['Rap/Hip Hop'];224.0;0.0
+88;Lay All Your Love On Me;Information Society;['Dance', 'Pop'];221.0;0.0
+89;Who Do You Give Your Love To?;Michael Morales;['Rock'];245.0;0.0
+90;Crazy About Her;Rod Stewart;['Pop', 'Rock'];299.0;0.0
+91;Love Has Taken Its Toll;Saraya;['Metal'];321.0;0.0
+92;Puss N' Boots/These Boots (Are Made For Walkin');Kon Kan;['Rap/Hip Hop'];226.0;0.0
+93;Trouble Me;10,000 Maniacs;['Pop', 'Rock'];220.0;0.0
+94;Still Cruisin';The Beach Boys;['Pop'];219.0;0.0
+95;I Feel The Earth Move;Martika;['Pop'];252.0;0.0
+96;Cover Of Love;Michael Damian;[];;
+97;Ain't Too Proud To Beg;Rick Astley;['Pop'];258.0;0.0
+98;Jackie Brown;John Mellencamp;['Rock'];243.0;0.0
+99;And The Night Stood Still;Dion;['Pop'];270.0;0.0

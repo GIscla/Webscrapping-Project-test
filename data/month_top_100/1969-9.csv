@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Honky Tonk Women;The Rolling Stones;['Rock'];179.0;0.0
+1;A Boy Named Sue;Johnny Cash;['Country'];226.0;0.0
+2;Sugar, Sugar;The Archies;['Pop', 'Rock'];167.0;0.0
+3;Green River;Creedence Clearwater Revival;['Rock'];151.0;0.0
+4;Get Together;The Youngbloods;['Rock'];276.0;0.0
+5;Put A Little Love In Your Heart;Jackie DeShannon;['Pop'];156.0;0.0
+6;Lay Lady Lay;Bob Dylan;['Country', 'Rock'];197.0;0.0
+7;Easy To Be Hard;Three Dog Night;['Pop'];194.0;0.0
+8;Sweet Caroline (Good Times Never Seemed So Good);Neil Diamond;['Pop', 'Pop internationale'];200.0;0.0
+9;I'll Never Fall In Love Again;Tom Jones;['Pop'];251.0;0.0
+10;I Can't Get Next To You;The Temptations;['Pop'];171.0;0.0
+11;Laughing;The Guess Who;['Pop', 'Rock'];161.0;0.0
+12;Polk Salad Annie;Tony Joe White;['Country'];224.0;0.0
+13;Give Peace A Chance;Plastic Ono Band;['Rock'];294.0;0.0
+14;Hurt So Bad;The Lettermen;['Pop'];140.0;0.0
+15;I'd Wait A Million Years;The Grass Roots;['Pop', 'Rock'];171.0;0.0
+16;Crystal Blue Persuasion;Tommy James And The Shondells;['Rock'];243.0;0.0
+17;Soul Deep;The Box Tops;['Pop'];146.0;0.0
+18;In The Year 2525;Zager & Evans;['Pop'];198.0;0.0
+19;Share Your Love With Me;Aretha Franklin;['Pop', 'Rock'];198.0;0.0
+20;Jean;Oliver;['Pop'];157.0;0.0
+21;Keem-O-Sabe;The Electric Indian;['R&B', 'Soul'];154.0;0.0
+22;The Nitty Gritty;Gladys Knight And The Pips;['R&B'];215.0;0.0
+23;Workin' On A Groovy Thing;The 5th Dimension;['Pop'];190.0;0.0
+24;Baby, I Love You;Andy Kim;['Pop'];176.0;0.0
+25;Birthday;Underground Sunshine;[];;
+26;Oh, What A Night;The Dells;[];247.0;0.0
+27;Everybody's Talkin';Nilsson;['Films/Jeux vidéo', 'Musiques de films'];152.0;0.0
+28;Hot Fun In The Summertime;Sly & The Family Stone;['Soul & Funk'];158.0;0.0
+29;Your Good Thing (Is About To End);Lou Rawls;['R&B'];172.0;0.0
+30;Choice Of Colors;The Impressions;['Rock'];200.0;0.0
+31;Did You See Her Eyes;The Illusion;['Rock', 'Rock Indé/Pop Rock'];420.0;0.0
+32;Marrakesh Express;Crosby, Stills & Nash;['Pop', 'Rock'];156.0;0.0
+33;Little Woman;Bobby Sherman;['Rock'];145.0;0.0
+34;Commotion;Creedence Clearwater Revival;['Rock'];164.0;0.0
+35;Goo Goo Barabajagal (Love Is Hot);Donovan/Jeff Beck Group;['Pop'];468.0;0.0
+36;Move Over;Steppenwolf;['Rock'];172.0;0.0
+37;This Girl Is A Woman Now;Gary Puckett And The Union Gap;['Pop'];189.0;0.0
+38;What's The Use Of Breaking Up;Jerry Butler;['R&B'];155.0;0.0
+39;It's Getting Better;Mama Cass;['Pop'];180.0;0.0
+40;That's The Way Love Is;Marvin Gaye;['Pop', 'Soul contemporaine', 'Soul & Funk', 'Films/Jeux vidéo', 'Musiques de films', 'Soul'];222.0;0.0
+41;When I Die;Motherlode;['Rock'];299.0;0.0
+42;Odds And Ends;Dionne Warwick;['R&B', 'Soul'];212.0;0.0
+43;What Kind Of Fool Do You Think I Am;Bill Deal & The Rhondels;['Pop'];130.0;0.0
+44;Nobody But You Babe;Clarence Reid;['R&B', 'Soul'];169.0;0.0
+45;Sugar On Sunday;The Clique;['Rock', 'Films/Jeux vidéo', 'Musiques de films'];190.0;0.0
+46;I'm Gonna Make You Mine;Lou Christie;['Rock'];211.0;0.0
+47;I Could Never Be President;Johnnie Taylor;['R&B'];139.0;0.0
+48;Change Of Heart;Dennis Yost And The Classics IV;['Pop'];177.0;0.0
+49;Simple Song Of Freedom;Tim Hardin;['Folk'];230.0;0.0
+50;True Grit;Glen Campbell;['Country'];151.0;0.0
+51;I'm Free;The Who;['Rock'];159.0;0.0
+52;Out Of Sight, Out Of Mind;Little Anthony And The Imperials;['R&B', 'Soul'];162.0;0.0
+53;Daddy's Little Man;O.C. Smith;['R&B'];249.0;0.0
+54;I'm A Better Man;Engelbert Humperdinck;['Electro', 'Chill Out/Trip-Hop/Lounge'];161.0;0.0
+55;In A Moment;The Intrigues;['Pop'];168.0;1.0
+56;Lowdown Popcorn;James Brown;['Soul'];410.0;0.0
+57;Your Husband - My Wife;Brooklyn Bridge;['R&B'];200.0;0.0
+58;Muddy River;Johnny Rivers;['Pop'];187.0;0.0
+59;You, I;The Rugbys;['Rock'];172.0;0.0
+60;You Got Yours And I'll Get Mine;The Delfonics;['R&B'];196.0;0.0
+61;I Do;The Moments;['Films/Jeux vidéo', 'Comédie'];186.0;1.0
+62;Maybe The Rain Will Fall;The Cascades;[];;
+63;Muddy Mississippi Line;Bobby Goldsboro;['Country'];162.0;0.0
+64;That's The Way God Planned It;Billy Preston;['Rock'];344.0;0.0
+65;Going In Circles;The Friends Of Distinction;['Pop'];254.0;0.0
+66;Here I Go Again;Smokey Robinson & The Miracles;['R&B'];177.0;0.0
+67;One Night Affair;The O'Jays;['R&B'];137.0;0.0
+68;By The Time I Get To Phoenix;Isaac Hayes;['R&B'];1124.0;0.0
+69;Carry Me Back;The Rascals;['Pop'];173.0;0.0
+70;No One For Me To Turn To;Spiral Starecase;['Pop'];152.0;0.0
+71;The Train;1910 Fruitgum Co.;[];;
+72;Sad Girl;The Intruders;['R&B'];115.0;0.0
+73;Lodi;Al Wilson;[];;
+74;Armstrong;John Stewart;['Folk'];157.0;0.0
+75;Rain;Jose Feliciano;['Pop', 'Latino'];158.0;0.0
+76;Let Me Be The One;Peaches & Herb;[];;
+77;Hook And Sling-Part I;Eddie Bo;[];;
+78;Don't It Make You Want To Go Home;Joe South and The Believers;[];;
+79;We Gotta All Get Together;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];181.0;0.0
+80;Máh-Ná-Mah-Ná;Piero Umiliani;['Films/Jeux vidéo', 'Musiques de films', 'Bandes originales'];115.0;0.0
+81;Something In The Air;Thunderclap Newman;['Pop'];234.0;0.0
+82;I Want You To Know;The New Colony Six;[];;
+83;Any Way That You Want Me;Evie Sands;['Pop'];217.0;0.0
+84;Can't Find The Time;Orpheus;['Pop'];234.0;0.0
+85;Sausalito (Is The Place To Go);Ohio Express;['Pop'];139.0;0.0
+86;Black Berries - Pt 1;The Isley Brothers;['R&B'];186.0;0.0
+87;Goodbye Columbus;The Association;['Pop', 'Rock'];142.0;0.0
+88;Runnin' Blue;The Doors;['Rock'];146.0;0.0
+89;Make Believe;Wind;['Folk'];288.0;0.0
+90;Moonlight Sonata;Henry Mancini And His Orchestra;[];174.0;0.0
+91;Green Fields;The Vogues;[];;
+92;MacArthur Park;Waylon Jennings & The Kimberlys;['Country'];309.0;0.0
+93;Baby It's You;Smith;['Rock'];207.0;0.0
+94;Luna Trip;Dickie Goodman;['Films/Jeux vidéo', 'Comédie', 'Livres audio'];175.0;0.0
+95;The Ways To Love A Man;Tammy Wynette;['Country'];147.0;0.0
+96;All I Have To Offer You (Is Me);Charley Pride;['Country'];175.0;0.0
+97;Slum Baby;Booker T. & The MG's;['R&B'];159.0;0.0
+98;Life And Death In G & A;Abaco Dream;[];;
+99;Get Off My Back Woman;B.B. King;['Pop'];196.0;0.0

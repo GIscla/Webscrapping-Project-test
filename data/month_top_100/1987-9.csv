@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;La Bamba;Los Lobos;['Pop'];175.0;0.0
+1;I Just Can't Stop Loving You;Michael Jackson With Siedah Garrett;[];;
+2;Who's That Girl;Madonna;['Pop'];239.0;0.0
+3;Only In My Dreams;Debbie Gibson;['Pop'];236.0;0.0
+4;Didn't We Almost Have It All;Whitney Houston;['R&B'];274.0;0.0
+5;Don't Mean Nothing;Richard Marx;['Pop'];281.0;0.0
+6;Can't We Try;Dan Hill (Duet With Vonda Shepard);[];;
+7;Here I Go Again;Whitesnake;['Rock'];232.0;0.0
+8;Rock Steady;The Whispers;['R&B', 'R&B vieille école', 'Soul'];310.0;0.0
+9;Doing It All For My Baby;Huey Lewis & The News;['Rock'];219.0;0.0
+10;When Smokey Sings;ABC;['Pop'];258.0;0.0
+11;Love Power;Dionne Warwick & Jeffrey Osborne;['Pop'];273.0;0.0
+12;Luka;Suzanne Vega;['Rock'];231.0;0.0
+13;It's Not Over ('til It's Over);Starship;['Pop'];254.0;0.0
+14;Touch Of Grey;Grateful Dead;['Rock'];347.0;0.0
+15;Wipeout;Fat Boys & The Beach Boys;['Pop'];239.0;0.0
+16;"I Heard A Rumour (From ""Disorderlies"")";Bananarama;[];;
+17;I Need Love;LL Cool J;['Pop'];321.0;0.0
+18;"I Want Your Sex (From ""Beverly Hills Cop II"")";George Michael;[];;
+19;Who Found Who;Jellybean Featuring Elisa Fiorillo;['Pop'];289.0;0.0
+20;Lost In Emotion;Lisa Lisa And Cult Jam;['Dance'];306.0;0.0
+21;Carrie;Europe;['Pop'];270.0;0.0
+22;Mary's Prayer;Danny Wilson;['Rock'];234.0;0.0
+23;One Heartbeat;Smokey Robinson;['Pop'];242.0;0.0
+24;I Still Haven't Found What I'm Looking For;U2;['Rock'];277.0;0.0
+25;Living In A Box;Living In A Box;['Pop'];183.0;0.0
+26;Lies;Jonathan Butler;['Jazz'];317.0;0.0
+27;Heart And Soul;T'Pau;['Rock'];257.0;0.0
+28;U Got The Look;Prince;['Pop'];227.0;0.0
+29;Jump Start;Natalie Cole;['Pop'];388.0;0.0
+30;Who Will You Run To;Heart;['Rock'];246.0;0.0
+31;Paper In Fire;John Mellencamp;['Rock'];231.0;0.0
+32;Give To Live;Sammy Hagar;['Rock'];264.0;0.0
+33;Casanova;Levert;['R&B'];262.0;0.0
+34;Making Love In The Rain;Herb Alpert;['Jazz'];354.0;0.0
+35;Let Me Be The One;Expose;['Pop'];249.0;0.0
+36;Back In The High Life Again;Steve Winwood;['Rock'];335.0;0.0
+37;"Cross My Broken Heart (From ""Beverly Hills Cop II"")";The Jets;[];;
+38;Never Let Me Down;David Bowie;['Rock'];245.0;0.0
+39;Fake;Alexander O'Neal;['R&B'];235.0;0.0
+40;"Back To Paradise (From ""Revenge Of The Nerds II"")";Thirty Eight Special;[];;
+41;"Be There (From ""Beverly Hills Cop II"")";The Pointer Sisters;[];;
+42;Jam Tonight;Freddie Jackson;['Pop'];270.0;0.0
+43;Victim Of Love;Bryan Adams;['Pop'];247.0;0.0
+44;Something Real (Inside Me/Inside You);Mr. Mister;['Pop'];261.0;0.0
+45;"Shakedown (From ""Beverly Hills Cop II"")";Bob Seger;[];;
+46;Little Lies;Fleetwood Mac;['Pop'];218.0;0.0
+47;In My Dreams;REO Speedwagon;['Pop'];270.0;0.0
+48;You Are The Girl;The Cars;['Pop'];235.0;0.0
+49;Rhythm Is Gonna Get You;Gloria Estefan & Miami Sound Machine;['Pop'];236.0;0.0
+50;Misfit;Curiosity Killed The Cat;['Pop'];241.0;0.0
+51;Don't Look Down - The Sequel;Go West;['Pop'];259.0;0.0
+52;Alone;Heart;['Rock'];218.0;0.0
+53;Oh Yeah;Yello;['Pop'];185.0;0.0
+54;Breakout;Swing Out Sister;['Pop'];226.0;0.0
+55;The Pleasure Principle;Janet Jackson;['Pop'];299.0;0.0
+56;Dreamin';Will To Power;['R&B'];249.0;0.0
+57;Since You've Been Gone;The Outfield;['Pop'];283.0;0.0
+58;Holiday;The Other Ones;['Pop'];213.0;0.0
+59;Don't Make Me Wait For Love;Kenny G. (Vocal By Lenny Williams);[];;
+60;One Lover At A Time;Atlantic Starr;['Pop'];240.0;0.0
+61;Dinner With Gershwin;Donna Summer;['Pop'];280.0;0.0
+62;I Think We're Alone Now;Tiffany;['Pop'];226.0;0.0
+63;Notorious;Loverboy;['Pop'];279.0;0.0
+64;I Wanna Dance With Somebody (Who Loves Me);Whitney Houston;['Pop', 'R&B'];291.0;0.0
+65;Johnny B;Hooters;['Pop'];236.0;0.0
+66;Wot's It To Ya;Robbie Nevil;['Pop'];228.0;0.0
+67;Seven Wonders;Fleetwood Mac;['Rock'];222.0;0.0
+68;I'd Still Say Yes;Klymaxx;['R&B'];281.0;0.0
+69;It's A Sin;Pet Shop Boys;['Dance'];301.0;0.0
+70;World Where You Live;Crowded House;['Pop'];184.0;0.0
+71;Mony Mony;Billy Idol;['Rock'];300.0;0.0
+72;Something So Strong;Crowded House;['Rock'];173.0;0.0
+73;Silent Morning;Noel;['Electro'];264.0;0.0
+74;I've Been In Love Before;Cutting Crew;['Rock'];308.0;0.0
+75;I Don't Think That Man Should Sleep Alone;Ray Parker Jr.;['R&B'];254.0;0.0
+76;Rock Me;Great White;['Rock'];439.0;0.0
+77;Heartache;Pepsi & Shirlie;['Pop'];217.0;0.0
+78;No One In The World;Anita Baker;['Pop'];246.0;0.0
+79;Women;Def Leppard;['Rock'];342.0;0.0
+80;Let's Dance;Chris Rea;['Pop', 'Rock'];245.0;0.0
+81;Painted Moon;The Silencers;['Pop'];364.0;0.0
+82;These Times Are Hard For Lovers;John Waite;['Pop'];255.0;0.0
+83;Happy Together;The Nylons;['Pop'];169.0;0.0
+84;"Good Times (From ""The Lost Boys"")";INXS & Jimmy Barnes;[];;
+85;Watching Over You;Glenn Medeiros;['Pop'];252.0;0.0
+86;I Won't Forget You;Poison;['Rock'];214.0;0.0
+87;He's My Girl;David Hallyday;['Pop'];229.0;0.0
+88;Love Is A House;Force M.D.'s;['R&B', 'Soul'];308.0;0.0
+89;Shattered Glass;Laura Branigan;['Pop'];221.0;0.0
+90;That's What Love Is All About;Michael Bolton;['Pop'];237.0;0.0
+91;Betcha Say That;Gloria Estefan & Miami Sound Machine;['Pop'];279.0;0.0
+92;Show Me The Way;Regina Belle;['R&B'];329.0;0.0
+93;Why Can't I Be You?;The Cure;['Alternative'];192.0;0.0
+94;Girls, Girls, Girls;Motley Crue;['Rock'];270.0;0.0
+95;Hearts On Fire;Bryan Adams;['Pop'];210.0;0.0
+96;Say You Really Want Me;Kim Wilde;['Pop'];225.0;0.0
+97;Kiss Him Goodbye;The Nylons;['Pop'];363.0;0.0
+98;Kiss And Tell;The Breakfast Club;[];;
+99;Tina Cherry;Georgio;[];;

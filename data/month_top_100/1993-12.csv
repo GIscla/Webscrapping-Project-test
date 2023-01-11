@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'd Do Anything For Love (But I Won't Do That);Meat Loaf;['Rock'];721.0;0.0
+1;Again;Janet Jackson;['Pop'];301.0;0.0
+2;All That She Wants;Ace Of Base;['Pop'];211.0;0.0
+3;Shoop;Salt-N-Pepa;['Rap/Hip Hop'];248.0;0.0
+4;Gangsta Lean;DRS;['Rap/Hip Hop', 'R&B'];322.0;1.0
+5;Hero;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];257.0;0.0
+6;Just Kickin' It;Xscape;['R&B'];204.0;1.0
+7;Please Forgive Me;Bryan Adams;['Pop'];355.0;0.0
+8;Breathe Again;Toni Braxton;['R&B', 'Soul'];269.0;0.0
+9;Can We Talk;Tevin Campbell;['R&B'];284.0;0.0
+10;Whoomp! (There It Is);Tag Team;['R&B', 'Soul'];224.0;0.0
+11;Said I Loved You...But I Lied;Michael Bolton;['Pop'];302.0;0.0
+12;Hey Mr. D.J.;Zhane;['R&B'];254.0;0.0
+13;Keep Ya Head Up;2Pac;['Rap/Hip Hop'];262.0;1.0
+14;What Is Love;Haddaway;['Pop'];271.0;0.0
+15;Dreamlover;Mariah Carey;['Pop'];232.0;0.0
+16;All For Love;Bryan Adams/Rod Stewart/Sting;['Pop'];282.0;0.0
+17;Anniversary;Tony Toni Tone;['R&B'];558.0;0.0
+18;Come Baby Come;K7;['Dance', 'R&B', 'Soul'];239.0;0.0
+19;Sex Me (Parts I & II);R. Kelly;[];;
+20;The River Of Dreams;Billy Joel;['Rock'];247.0;0.0
+21;Linger;The Cranberries;['Rock'];274.0;0.0
+22;Another Sad Love Song;Toni Braxton;['R&B', 'Soul'];301.0;0.0
+23;Time And Chance;Color Me Badd;['Pop'];257.0;0.0
+24;Both Sides Of The Story;Phil Collins;['Pop', 'Rock'];402.0;0.0
+25;Never Keeping Secrets;Babyface;['R&B'];291.0;0.0
+26;Wild World;Mr. Big;['Rock'];208.0;0.0
+27;Sweat (A La La La La Long);Inner Circle;['Reggae'];227.0;0.0
+28;No Rain;Blind Melon;['Rock'];217.0;0.0
+29;Because The Night;10,000 Maniacs;['Pop', 'Rock'];223.0;0.0
+30;If;Janet Jackson;['R&B'];271.0;0.0
+31;Mr. Vain;Culture Beat;['Dance'];257.0;0.0
+32;"Never Should've Let You Go (From ""Sister Act 2"")";Hi-Five;['Films/Jeux vidéo', 'Musiques de films'];281.0;0.0
+33;All About Soul;Billy Joel;['Rock'];257.0;0.0
+34;(I Know I Got) Skillz;Shaquille O'Neal;['Rap/Hip Hop'];263.0;0.0
+35;"Two Steps Behind (From ""Last Action Hero"")";Def Leppard;[];;
+36;Cryin';Aerosmith;['Rock'];308.0;0.0
+37;"I Can See Clearly Now (From ""Cool Runnings"")";Jimmy Cliff;[];;
+38;Right Here (Human Nature)/Downtown;SWV;[];;
+39;What's My Name?;Snoop Dogg;['Rap/Hip Hop'];247.0;1.0
+40;Reason To Believe;Rod Stewart;['Pop', 'Rock'];233.0;0.0
+41;Everybody Hurts;R.E.M.;['Alternative'];320.0;0.0
+42;I Get Around;2Pac;['Rap/Hip Hop'];259.0;1.0
+43;Dreams;Gabrielle;['Pop'];224.0;0.0
+44;Real Muthaphuckkin G's;Eazy-E;['Rap/Hip Hop'];332.0;1.0
+45;Slow And Easy;Zapp & Roger;['R&B'];311.0;0.0
+46;Come Inside;Intro;['R&B'];489.0;0.0
+47;Hey Jealousy;Gin Blossoms;['Pop'];236.0;0.0
+48;Runaway Train;Soul Asylum;['Rock'];266.0;0.0
+49;Jessie;Joshua Kadison;['Pop'];319.0;0.0
+50;Getto Jam;Domino;['Rap/Hip Hop'];257.0;1.0
+51;Freakit;Das EFX;['R&B'];199.0;0.0
+52;U.N.I.T.Y.;Queen Latifah;['Rap/Hip Hop'];252.0;0.0
+53;"Soul To Squeeze (From ""Coneheads"")";Red Hot Chili Peppers;['Films/Jeux vidéo', 'Musiques de films'];289.0;0.0
+54;Award Tour;A Tribe Called Quest;['Rap/Hip Hop'];226.0;1.0
+55;As Long As I Can Dream;Expose;['Pop'];290.0;0.0
+56;Higher Ground;UB40;['Reggae'];261.0;0.0
+57;Hopelessly;Rick Astley;['Pop'];215.0;0.0
+58;Better Than You;Lisa Keith;['Pop'];253.0;0.0
+59;Send Me A Lover;Taylor Dayne;['Pop'];294.0;0.0
+60;Human Wheels;John Mellencamp;['Rock'];334.0;0.0
+61;Something In Your Eyes;Bell Biv DeVoe;['R&B'];292.0;0.0
+62;Let Me Ride;Dr. Dre;['Rap/Hip Hop'];261.0;1.0
+63;Found Out About You;Gin Blossoms;['Rock'];232.0;0.0
+64;True Love;Elton John & Kiki Dee;['Pop'];213.0;0.0
+65;"Indo Smoke (From ""Poetic Justice"")";Mista Grimm;['Pop'];322.0;0.0
+66;Into Your Arms;The Lemonheads;['Rock'];164.0;0.0
+67;I'll Be Loving You;Collage;['Electro', 'Dance'];248.0;0.0
+68;Method Man;Wu-Tang Clan;['Rap/Hip Hop'];252.0;1.0
+69;Fields Of Gray;Bruce Hornsby;['Pop'];291.0;0.0
+70;Boom! Shake The Room;Jazzy Jeff & The Fresh Prince;['Pop'];226.0;0.0
+71;93 'til Infinity;Souls Of Mischief;['Rap/Hip Hop'];286.0;0.0
+72;The Power Of Love;Celine Dion;['Pop'];342.0;0.0
+73;Paying The Price Of Love;Bee Gees;['Pop'];252.0;0.0
+74;Rain;Madonna;['Pop'];324.0;0.0
+75;Runaway Love;En Vogue Featuring FMOB;['R&B'];301.0;0.0
+76;Cry For You;Jodeci;['R&B'];300.0;0.0
+77;Looking For Mr. Do Right;Jade;['Dance'];377.0;0.0
+78;Give It Up;The Goodmen;['Electro', 'Techno/House', 'Dance'];207.0;0.0
+79;Nothing 'Bout Me;Sting;['Pop'];221.0;0.0
+80;Cantaloop (Flip Fantasia);US3;['Jazz'];279.0;0.0
+81;God Blessed Texas;Little Texas;['Pop'];207.0;0.0
+82;Foreplay;RAab;['R&B', 'Soul'];308.0;1.0
+83;I'm Real;Kris Kross;['Rap/Hip Hop'];194.0;0.0
+84;Yolanda;Reality;['Dance'];307.0;0.0
+85;Love For Love;Robin S.;['Pop'];255.0;0.0
+86;Check Yo Self;Ice Cube Featuring Das EFX;[];;
+87;What's It To You;Clay Walker;['Country'];166.0;0.0
+88;Easy Come, Easy Go;George Strait;['Country'];184.0;0.0
+89;Same Ol' Shit;MC Ren;['Rap/Hip Hop'];92.0;1.0
+90;Push The Feeling On;Nightcrawlers;['Dance'];243.0;0.0
+91;The Song Remembers When;Trisha Yearwood;['Country'];234.0;0.0
+92;Cannonball;The Breeders;['Alternative'];213.0;0.0
+93;Amazing;Aerosmith;['Rock'];352.0;0.0
+94;I'm Looking For The One (To Be With Me);Jazzy Jeff & The Fresh Prince;['Rap/Hip Hop'];275.0;0.0
+95;Commitment Of The Heart;Clive Griffin;['Country', 'Pop'];299.0;0.0
+96;Oh Carolina;Shaggy;['Reggae'];194.0;0.0
+97;Stay Real;Erick Sermon;['Rap/Hip Hop'];235.0;1.0
+98;Alright;Kris Kross Featuring Supercat;[];;
+99;Jimmy Olsen's Blues;Spin Doctors;['Pop'];277.0;0.0

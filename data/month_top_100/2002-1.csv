@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;How You Remind Me;Nickelback;['Rock'];224.0;0.0
+1;U Got It Bad;Usher;['Rap/Hip Hop', 'R&B'];247.0;0.0
+2;Family Affair;Mary J. Blige;['R&B'];266.0;0.0
+3;Get The Party Started;P!nk;['Pop'];192.0;0.0
+4;Always On Time;Ja Rule Featuring Ashanti;['Pop'];256.0;0.0
+5;My Sacrifice;Creed;['Rock'];294.0;0.0
+6;Whenever, Wherever;Shakira;['Latino'];196.0;0.0
+7;Hero;Enrique Iglesias;['Pop'];264.0;0.0
+8;Differences;Ginuwine;['Pop'];265.0;0.0
+9;A Woman's Worth;Alicia Keys;['R&B'];303.0;0.0
+10;Livin' It Up;Ja Rule Featuring Case;[];;
+11;Gone;'N Sync;['Pop'];292.0;0.0
+12;Wherever You Will Go;The Calling;['Pop'];208.0;0.0
+13;Rock The Boat;Aaliyah;['R&B', 'Soul'];274.0;0.0
+14;In The End;Linkin Park;['Alternative'];216.0;0.0
+15;I Do!!;Toya;['R&B', 'Soul'];213.0;0.0
+16;Turn Off The Light;Nelly Furtado;['Pop'];275.0;0.0
+17;We Thuggin';Fat Joe Featuring R. Kelly;['Rap/Hip Hop'];207.0;0.0
+18;Butterflies;Michael Jackson;['Pop'];279.0;0.0
+19;Hey Baby;No Doubt Featuring Bounty Killer;['Pop'];206.0;0.0
+20;Superman (It's Not Easy);Five For Fighting;['Alternative'];221.0;0.0
+21;Caramel;City High Featuring Eve;[];;
+22;Only Time;Enya;['Pop'];218.0;0.0
+23;Where The Stars And Stripes And The Eagle Fly;Aaron Tippin;['Country'];228.0;0.0
+24;#1;Nelly;['Rap/Hip Hop'];228.0;0.0
+25;I'm Real;Jennifer Lopez Featuring Ja Rule;['Pop', 'R&B', 'Soul'];258.0;0.0
+26;7 Days;Craig David;['Pop'];235.0;0.0
+27;Roll Out (My Business);Ludacris;['Rap/Hip Hop'];283.0;0.0
+28;Fallin';Alicia Keys;['R&B'];210.0;0.0
+29;Break Ya Neck;Busta Rhymes;['Rap/Hip Hop'];231.0;1.0
+30;Son Of A Gun;Janet Featuring Missy Elliott, P. Diddy & Carly Simon;[];;
+31;Emotion;Destiny's Child;['Pop'];236.0;0.0
+32;It's Been Awhile;Staind;['Pop'];264.0;1.0
+33;Standing Still;Jewel;['Pop'];270.0;0.0
+34;Lights, Camera, Action!;Mr. Cheeks;['Rap/Hip Hop'];261.0;1.0
+35;Dig In;Lenny Kravitz;['Rock'];217.0;0.0
+36;Hanging By A Moment;Lifehouse;['Pop'];218.0;0.0
+37;Where Were You (When The World Stopped Turning);Alan Jackson;['Country'];304.0;0.0
+38;The Whole World;OutKast Featuring Killer Mike;['Rap/Hip Hop'];295.0;1.0
+39;Bouncin' Back (Bumpin' Me Against The Wall);Mystikal;['Rap/Hip Hop'];259.0;0.0
+40;Alive;P.O.D.;['Rock'];203.0;0.0
+41;Drops Of Jupiter (Tell Me);Train;['Rock'];259.0;0.0
+42;Uh Huh;B2K;['Pop'];223.0;0.0
+43;I Wanna Talk About Me;Toby Keith;['Country'];183.0;0.0
+44;Good Morning Beautiful;Steve Holy;['Country'];210.0;0.0
+45;Run;George Strait;['Country'];245.0;0.0
+46;Blurry;Puddle Of Mudd;['Rock'];303.0;0.0
+47;No More Drama;Mary J. Blige;['R&B'];267.0;0.0
+48;Can't Fight The Moonlight;LeAnn Rimes;['Country'];215.0;0.0
+49;Take Away;"Missy ""Misdemeanor"" Elliott Featuring Ginuwine & Tweet";[];;
+50;The World's Greatest;R. Kelly;['R&B'];237.0;0.0
+51;Brotha;Angie Stone;['R&B', 'Soul'];268.0;0.0
+52;Ain't It Funny;Jennifer Lopez Featuring Ja Rule;['Pop', 'R&B', 'Soul'];231.0;0.0
+53;You Gets No Love;Faith Evans;['R&B'];241.0;0.0
+54;Young'n (Holla Back);Fabolous;[];205.0;1.0
+55;I'm Tryin';Trace Adkins;['Country'];221.0;0.0
+56;Lifetime;Maxwell;['R&B'];329.0;0.0
+57;Welcome To Atlanta;Jermaine Dupri & Ludacris;['R&B'];200.0;1.0
+58;Wrapped Around;Brad Paisley;['Country'];202.0;0.0
+59;Wrapped Up In You;Garth Brooks;['Country'];261.0;0.0
+60;Riding With Private Malone;David Ball;['Country'];275.0;0.0
+61;Round And Round;Jonell & Method Man;['Films/Jeux vidéo', 'Musiques de films'];230.0;0.0
+62;Wish You Were Here;Incubus;['Rock'];212.0;0.0
+63;Everywhere;Michelle Branch;['Pop'];214.0;0.0
+64;From Her Mama (Mama Got A**);Juvenile;[];;
+65;Girls, Girls, Girls;JAY-Z;['Rap/Hip Hop'];275.0;1.0
+66;Goodbye;Jagged Edge;['R&B'];273.0;0.0
+67;Let's Stay Home Tonight;Joe;['R&B'];206.0;0.0
+68;Don't You Forget It;Glenn Lewis;['R&B'];248.0;0.0
+69;Bring On The Rain;Jo Dee Messina With Tim McGraw;['Pop'];237.0;0.0
+70;Fade;Staind;['Pop'];242.0;0.0
+71;Part II;Method Man & Redman;['Rap/Hip Hop'];244.0;1.0
+72;AM To PM;Christina Milian;['Pop'];231.0;0.0
+73;Dance With Me;KeKe Wyatt Featuring Avant;[];;
+74;Nothing In This World;System Of A Down;[];;
+75;Chop Suey;The Offspring;[];;
+76;Defy You;Default;[];;
+77;Wasting My Time;Brooks & Dunn;[];;
+78;The Long Goodbye;Whitney Houston;[];;
+79;The Star Spangled Banner;Lee Greenwood;[];;
+80;God Bless The USA;U2;[];;
+81;Stuck In A Moment You Can't Get Out Of;Alien Ant Farm;[];;
+82;Smooth Criminal;Britney Spears;[];;
+83;I'm A Slave 4 U;Travis Tritt;[];;
+84;Love Of A Woman;Puddle Of Mudd;[];;
+85;Control;Lonestar;['Dance', 'Trance'];328.0;1.0
+86;With Me;Brian McKnight;['Pop'];435.0;0.0
+87;Love Of My Life;Ludacris, LL Cool J & Keith Murray;[];;
+88;Fatty Girl;Bubba Sparxxx;[];;
+89;Ugly;Nas;['Rap/Hip Hop'];198.0;1.0
+90;Got Ur Self A...;Mariah Carey;[];;
+91;Never Too Far/Hero Medley;Backstreet Boys;[];;
+92;Drowning;Alan Jackson;[];;
+93;Where I Come From;Lil Bow Wow Featuring Jagged Edge & Fundisha;[];;
+94;Thank You;R.L., Snoop Dogg & Lil' Kim;[];;
+95;Do U Wanna Roll (Dolittle Theme);Master P Featuring Weebie;[];;
+96;Ooohhhwee;Michael Jackson;[];;
+97;You Rock My World;Tyrese;[];;
+98;What Am I Gonna Do;Daniel Rodriguez;[];;
+99;God Bless America;;[];;

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Monday, Monday;The Mamas & The Papas;['Pop', 'Rock'];200.0;0.0
+1;Good Lovin';The Young Rascals;['Rock'];150.0;0.0
+2;Sloop John B;The Beach Boys;['Rock'];180.0;0.0
+3;(You're My) Soul And Inspiration;The Righteous Brothers;['Pop'];180.0;0.0
+4;Kicks;Paul Revere & The Raiders Featuring Mark Lindsay;['Pop'];149.0;0.0
+5;Secret Agent Man;Johnny Rivers;['Films/Jeux vidéo', 'Musiques de films'];187.0;0.0
+6;Rainy Day Women #12 & 35;Bob Dylan;['Rock'];275.0;0.0
+7;Bang Bang (My Baby Shot Me Down);Cher;['Pop'];166.0;0.0
+8;Leaning On The Lamp Post;Herman's Hermits;['Pop', 'Rock'];150.0;0.0
+9;Gloria;Shadows Of Knight;['Pop'];157.0;0.0
+10;Time Won't Let Me;The Outsiders;['Pop'];189.0;0.0
+11;Try Too Hard;The Dave Clark Five;['Pop'];128.0;0.0
+12;Message To Michael;Dionne Warwick;['Pop'];188.0;0.0
+13;Shapes Of Things;The Yardbirds;['R&B'];150.0;0.0
+14;How Does That Grab You, Darlin'?;Nancy Sinatra;['Pop'];153.0;0.0
+15;When A Man Loves A Woman;Percy Sledge;['Pop', 'R&B'];175.0;0.0
+16;Eight Miles High;The Byrds;['Pop'];214.0;0.0
+17;A Groovy Kind Of Love;The Mindbenders;['Pop'];116.0;0.0
+18;Daydream;The Lovin' Spoonful;['Pop', 'Rock'];139.0;0.0
+19;I'm So Lonesome I Could Cry;B.J. Thomas And The Triumphs;[];;
+20;Rhapsody In The Rain;Lou Christie;['Pop'];95.0;0.0
+21;Together Again;Ray Charles;['R&B', 'Soul & Funk', 'Soul'];160.0;0.0
+22;A Sign Of The Times;Petula Clark;[];178.0;0.0
+23;The Sun Ain't Gonna Shine (Anymore);The Walker Bros.;['Pop'];181.0;0.0
+24;Nothing's Too Good For My Baby;Stevie Wonder;['Soul'];158.0;0.0
+25;Love Is Like An Itching In My Heart;The Supremes;['Pop'];173.0;0.0
+26;Let's Start All Over Again;Ronnie Dove;['Pop', 'Rock'];160.0;0.0
+27;Frankie And Johnny;Elvis Presley;['Pop'];123.0;0.0
+28;Love's Made A Fool Of You;Bobby Fuller Four;['Rock', 'Rock & Roll/Rockabilly'];1129.0;0.0
+29;This Old Heart Of Mine (Is Weak For You);The Isley Brothers;['Soul'];164.0;0.0
+30;It's A Man's Man's Man's World;James Brown And The Famous Flames;[];;
+31;The Phoenix Love Theme (Senza Fine);The Brass Ring featuring Phil Bodner;[];;
+32;I'll Take Good Care Of You;Garnet Mimms;['R&B'];215.0;0.0
+33;I Hear Trumpets Blow;The Tokens;['R&B'];152.0;0.0
+34;What Now My Love;Herb Alpert & The Tijuana Brass;['Jazz'];218.0;0.0
+35;Caroline, No;Brian Wilson;['Pop'];139.0;0.0
+36;The Ballad Of Irving;Frank Gallop;['Films/Jeux vidéo', 'Comédie', 'Livres audio'];178.0;0.0
+37;Somewhere;Len Barry;['Pop'];153.0;0.0
+38;I Can't Grow Peaches On A Cherry Tree;Just Us;['R&B'];154.0;0.0
+39;I'm Comin' Home, Cindy;Trini Lopez;[];141.0;0.0
+40;"The ""A"" Team";SSgt Barry Sadler;['Pop'];126.0;0.0
+41;I Can't Let Go;The Hollies;['Pop'];146.0;0.0
+42;Love Me With All Of Your Heart;The Bachelors;['Pop'];125.0;0.0
+43;History Repeats Itself;Buddy Starcher;['Livres audio'];124.0;0.0
+44;She Blew A Good Thing;The Poets;['R&B', 'Soul'];171.0;0.0
+45;Tippy Toeing;The Harden Trio;['Pop'];121.0;0.0
+46;Band Of Gold;Mel Carter;['Pop', 'Soul'];145.0;0.0
+47;Come On Let's Go;The McCoys;['Rock'];159.0;0.0
+48;Backstage;Gene Pitney;['Pop'];210.0;0.0
+49;Till The End Of The Day;The Kinks;['Pop'];139.0;0.0
+50;Got My Mojo Working (Part I);Jimmy Smith;[];;
+51;Twinkle Toes;Roy Orbison;['Rock'];156.0;0.0
+52;Dum-De-Da;Bobby Vinton;[];;
+53;You're The One;The Marvelettes;['Pop'];153.0;0.0
+54;Distant Drums;Jim Reeves;['Pop'];171.0;0.0
+55;Cool Jerk;The Capitols;['Pop'];166.0;0.0
+56;Evol-Not Love;The Five Americans;['Rock'];143.0;0.0
+57;Hold On! I'm A Comin';Sam & Dave;['Soul'];176.0;0.0
+58;The Cruel War;Peter, Paul & Mary;['Pop', 'Folk'];208.0;0.0
+59;(I'm A) Road Runner;Jr. Walker & The All Stars;['R&B'];164.0;0.0
+60;The More I See You;Chris Montez;['Pop'];159.0;0.0
+61;I Am A Rock;Simon & Garfunkel;['Rock'];170.0;0.0
+62;You've Got My Mind Messed Up;James Carr;['R&B', 'Soul'];140.0;0.0
+63;Remember The Rain;Bob Lind;['Pop'];168.0;0.0
+64;Did You Ever Have To Make Up Your Mind?;The Lovin' Spoonful;['Pop'];120.0;0.0
+65;Please Don't Stop Loving Me;Elvis Presley;['Pop'];123.0;0.0
+66;He Cried;The Shangri-Las;['Pop'];130.0;0.0
+67;I Love You 1000 Times;The Platters;[];165.0;0.0
+68;Dirty Water;The Standells;['Rock'];167.0;0.0
+69;Barefootin';Robert Parker;['Soul'];164.0;0.0
+70;A Lover's Concerto;Sarah Vaughan;['Jazz'];168.0;0.0
+71;Darling Baby;The Elgins;['R&B'];155.0;0.0
+72;Mame;Bobby Darin;['Pop'];124.0;0.0
+73;Elvira;Dallas Frazier;[];;
+74;Gloria;Them;['Films/Jeux vidéo', 'Musiques de films'];160.0;0.0
+75;Double Shot (Of My Baby's Love);Swingin' Medallions;['Classique', 'Rock'];132.0;0.0
+76;I Love You Drops;Vic Dana;['Pop'];170.0;0.0
+77;Let Me Be Good To You;Carla Thomas;['R&B', 'Soul & Funk', 'Soul'];101.0;0.0
+78;The Teaser;Bob Kuban And The In-Men;['Rock'];154.0;0.0
+79;There's No Living Without Your Loving;Peter And Gordon;['Pop'];181.0;0.0
+80;Wang Dang Doodle;Ko Ko Taylor;['Rock', 'Blues'];182.0;0.0
+81;Love Takes A Long Time Growing;Deon Jackson;['R&B', 'Soul & Funk', 'Soul'];144.0;0.0
+82;Come Running Back;Dean Martin;['Pop'];127.0;0.0
+83;Real Humdinger;J.J. Barnes;['Rock', 'Blues', 'Soul'];317.0;0.0
+84;Downtown;Mrs. Miller;['Livres audio'];175.0;0.0
+85;Sweet Talkin' Guy;The Chiffons;['Pop', 'Rock'];135.0;0.0
+86;Peter Rabbit;Dee Jay And The Runaways;['Rock'];131.0;0.0
+87;Please Don't Sell My Daddy No More Wine;The Greenwoods;[];;
+88;Oh How Happy;Shades Of Blue;['Rock'];132.0;0.0
+89;Strangers In The Night;Frank Sinatra;['Jazz'];164.0;0.0
+90;Truly Julie's Blues (I'll Be There);Bob Lind;['Pop'];171.0;0.0
+91;Bad Eye;Willie Mitchell;['R&B'];146.0;0.0
+92;Still;The Sunrays;['Rock'];150.0;0.0
+93;Pin The Tail On The Donkey;Paul Peek;['Rock', 'Rock & Roll/Rockabilly'];117.0;0.0
+94;The Big Hurt;Del Shannon;['Rock'];141.0;0.0
+95;A Lover's Concerto;Mrs. Miller;['Livres audio'];153.0;0.0
+96;My Little Red Book;Love;['Rock'];150.0;0.0
+97;I'll Love You Forever;The Holidays;['R&B'];139.0;0.0
+98;Mine Exclusively;The Olympics;['Pop'];140.0;0.0
+99;Headline News;Edwin Starr;['R&B'];153.0;0.0

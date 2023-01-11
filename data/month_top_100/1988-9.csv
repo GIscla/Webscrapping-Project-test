@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Monkey;George Michael;['Pop'];306.0;0.0
+1;Sweet Child O' Mine;Guns N' Roses;['Pop'];354.0;1.0
+2;Simply Irresistible;Robert Palmer;['Pop'];254.0;0.0
+3;I Don't Wanna Go On With You Like That;Elton John;['Pop'];274.0;0.0
+4;I Don't Wanna Live Without Your Love;Chicago;['Pop', 'Rock'];237.0;0.0
+5;Perfect World;Huey Lewis & The News;['Rock'];247.0;0.0
+6;Fast Car;Tracy Chapman;['Folk'];296.0;0.0
+7;When It's Love;Van Halen;['Pop'];339.0;0.0
+8;If It Isn't Love;New Edition;['R&B'];309.0;0.0
+9;I'll Always Love You;Taylor Dayne;['Pop'];270.0;0.0
+10;Love Will Save The Day;Whitney Houston;['Pop', 'R&B'];321.0;0.0
+11;Another Part Of Me;Michael Jackson;['Pop', 'Pop internationale', 'Rock'];234.0;0.0
+12;"Nobody's Fool (Theme From ""Caddyshack II"")";Kenny Loggins;['Pop'];257.0;0.0
+13;It Would Take A Strong Strong Man;Rick Astley;['Pop'];222.0;0.0
+14;"Don't Worry, Be Happy (From ""Cocktail"")";Bobby McFerrin;[];;
+15;Roll With It;Steve Winwood;['Rock'];320.0;0.0
+16;One Good Woman;Peter Cetera;['Pop'];277.0;0.0
+17;1-2-3;Gloria Estefan & Miami Sound Machine;['Pop'];213.0;0.0
+18;All Fired Up;Pat Benatar;['Rock'];251.0;0.0
+19;Hands To Heaven;Breathe;['Pop'];259.0;0.0
+20;I Hate Myself For Loving You;Joan Jett & The Blackhearts;['Rock'];246.0;0.0
+21;Make Me Lose Control;Eric Carmen;['Pop'];285.0;0.0
+22;Here With Me;REO Speedwagon;['Pop'];304.0;0.0
+23;Love Bites;Def Leppard;['Rock'];346.0;0.0
+24;Sign Your Name;Terence Trent D'Arby;['Pop'];276.0;0.0
+25;Don't Be Cruel;Cheap Trick;['Rock'];187.0;0.0
+26;Please Don't Go Girl;New Kids On The Block;['Pop'];247.0;0.0
+27;A Nightmare On My Street;D.J. Jazzy Jeff & The Fresh Prince;['Pop'];298.0;0.0
+28;Don't Be Cruel;Bobby Brown;['R&B'];291.0;0.0
+29;Hold On To The Nights;Richard Marx;['Pop'];314.0;0.0
+30;I Don't Want To Be A Hero;Johnny Hates Jazz;['Rock'];217.0;0.0
+31;Fallen Angel;Poison;['Rock'];236.0;0.0
+32;What's On Your Mind (Pure Energy);Information Society;['Dance', 'Pop'];275.0;0.0
+33;Staying Together;Debbie Gibson;['Pop', 'Rock'];244.0;0.0
+34;Look Out Any Window;Bruce Hornsby & The Range;['Pop'];328.0;0.0
+35;Red Red Wine;UB40;['Reggae'];184.0;0.0
+36;Missed Opportunity;Daryl Hall John Oates;['Pop'];286.0;0.0
+37;Sayin' Sorry (Don't Make It Right);Denise Lopez;['Dance'];281.0;0.0
+38;Just Got Paid;Johnny Kemp;['R&B'];331.0;0.0
+39;What You See Is What You Get;Brenda K. Starr;['Electro'];318.0;0.0
+40;Forever Young;Rod Stewart;['Pop', 'Rock'];245.0;0.0
+41;Don't You Know What The Night Can Do?;Steve Winwood;['Rock'];415.0;0.0
+42;Rag Doll;Aerosmith;['Rock'];265.0;0.0
+43;True Love;Glenn Frey;['Pop'];279.0;0.0
+44;Chains Of Love;Erasure;['Electro', 'Pop'];223.0;0.0
+45;Pour Some Sugar On Me;Def Leppard;['Rock'];267.0;0.0
+46;Spring Love (Come Back To Me);Stevie B;[];330.0;0.0
+47;The Right Stuff;Vanessa Williams;['R&B'];267.0;0.0
+48;Never Tear Us Apart;INXS;['Pop'];184.0;0.0
+49;Summergirls;Dino;['Pop'];376.0;0.0
+50;The Flame;Cheap Trick;['Rock'];338.0;0.0
+51;Groovy Kind Of Love;Phil Collins;['Pop', 'Rock'];210.0;0.0
+52;Parents Just Don't Understand;D.J. Jazzy Jeff & The Fresh Prince;['Pop'];314.0;0.0
+53;Time And Tide;Basia;['Pop'];242.0;0.0
+54;Off On Your Own (Girl);Al B. Sure!;['R&B'];246.0;0.0
+55;Superstitious;Europe;['Pop'];274.0;0.0
+56;Inside Outside;The Cover Girls;['Electro', 'Dance'];206.0;0.0
+57;Wild, Wild West;The Escape Club;['Pop', 'Rock'];245.0;0.0
+58;Make It Last Forever;Keith Sweat (Duet With Jacci McGhee);[];;
+59;Do You Love Me;The Contours;['R&B', 'Soul'];174.0;0.0
+60;The Dead Heart;Midnight Oil;['Pop'];311.0;0.0
+61;The Twist;Fat Boys;['Rap/Hip Hop'];248.0;0.0
+62;Indestructible;Four Tops;['Pop'];274.0;0.0
+63;The Loco-Motion;Kylie Minogue;['Pop'];193.0;0.0
+64;Nice 'N' Slow;Freddie Jackson;['Pop'];316.0;0.0
+65;Another Lover;Giant Steps;[];;
+66;Jackie;Blue Zone U.K.;[];;
+67;The Rumour;Olivia Newton-John;['Pop'];238.0;0.0
+68;It Takes Two;Rob Base & D.J. E-Z Rock;[];;
+69;Knocked Out;Paula Abdul;['Pop'];233.0;0.0
+70;Better Be Home Soon;Crowded House;['Rock'];188.0;0.0
+71;Say It's Gonna Rain;Will To Power;['R&B'];232.0;0.0
+72;She's On The Left;Jeffrey Osborne;['Pop'];300.0;0.0
+73;Don't Know What You Got (Till It's Gone);Cinderella;['Rock'];354.0;0.0
+74;Long And Lasting Love (Once In A Lifetime);Glenn Medeiros;[];;
+75;Don't Walk Away;Toni Childs;['Pop'];241.0;0.0
+76;I Still Believe;Brenda K. Starr;['Electro'];232.0;0.0
+77;The Colour Of Love;Billy Ocean;['Pop', 'R&B'];257.0;0.0
+78;"Powerful Stuff (From ""Cocktail"")";The Fabulous Thunderbirds;[];;
+79;Heart Turns To Stone;Foreigner;['Rock'];250.0;0.0
+80;I Know You're Out There Somewhere;The Moody Blues;['Rock'];395.0;0.0
+81;Tell Me;White Lion;['Rock', 'Hard Rock', 'Metal'];268.0;0.0
+82;Always There For You;Stryper;['Rock'];250.0;0.0
+83;Ship Of Fools;Robert Plant;['Rock'];300.0;0.0
+84;Love Changes (Everything);Climie Fisher;['Pop'];268.0;0.0
+85;Inside A Dream;Jane Wiedlin;['Pop'];215.0;0.0
+86;The Promise;When In Rome;['Rock'];221.0;0.0
+87;Supersonic;J.J. Fad;['Rap/Hip Hop'];232.0;0.0
+88;Rush Hour;Jane Wiedlin;['Pop'];242.0;0.0
+89;Pretty Boys And Pretty Girls;Book Of Love;['Pop'];265.0;0.0
+90;Sendin' All My Love;The Jets;['R&B'];229.0;0.0
+91;New Sensation;INXS;['Pop'];220.0;0.0
+92;Heart Don't Fail Me Now;Holly Knight;['Rock'];258.0;0.0
+93;What's The Matter Here?;10,000 Maniacs;['Pop', 'Rock'];290.0;0.0
+94;Foolish Beat;Debbie Gibson;['Pop'];263.0;0.0
+95;"Kokomo (From""Cocktail"" )";The Beach Boys;[];;
+96;Lost In You;Rod Stewart;['Pop', 'Rock'];302.0;0.0
+97;Mercedes Boy;Pebbles;['R&B'];295.0;0.0
+98;Kiss Me Deadly;Lita Ford;['Pop', 'Rock'];241.0;0.0
+99;Mary, Mary;Run-D.M.C.;['Rap/Hip Hop'];195.0;0.0

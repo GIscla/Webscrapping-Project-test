@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;My Love;Petula Clark;['Pop'];164.0;0.0
+1;Barbara Ann;The Beach Boys;['Rock'];128.0;0.0
+2;No Matter What Shape (Your Stomach's In);The T-Bones;['Rock'];136.0;0.0
+3;We Can Work It Out;The Beatles;['Rock'];135.0;0.0
+4;Lightnin' Strikes;Lou Christie;['Pop'];183.0;0.0
+5;The Men In My Little Girl's Life;Mike Douglas;['Pop'];181.0;0.0
+6;She's Just My Style;Gary Lewis And The Playboys;['Pop'];159.0;0.0
+7;Five O'Clock World;The Vogues;['Pop', 'Rock'];138.0;0.0
+8;A Must To Avoid;Herman's Hermits;['Pop', 'R&B'];135.0;0.0
+9;Crying Time;Ray Charles;['R&B'];234.0;0.0
+10;Jenny Take A Ride!;Mitch Ryder And The Detroit Wheels;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+11;As Tears Go By;The Rolling Stones;['Rock'];165.0;0.0
+12;My World Is Empty Without You;The Supremes;['R&B'];153.0;0.0
+13;Just Like Me;Paul Revere & The Raiders Featuring Mark Lindsay;[];;
+14;Zorba The Greek;Herb Alpert & The Tijuana Brass;['Jazz'];264.0;0.0
+15;Uptight (Everything's Alright);Stevie Wonder;['Pop'];173.0;0.0
+16;A Well Respected Man;The Kinks;['Pop'];161.0;0.0
+17;The Duck;Jackie Lee;['R&B', 'Soul'];142.0;0.0
+18;Don't Mess With Bill;The Marvelettes;['Pop'];168.0;0.0
+19;The Sound Of Silence;Simon & Garfunkel;['Pop'];183.0;0.0
+20;Going To A Go-Go;The Miracles;['Pop'];165.0;0.0
+21;Day Tripper;The Beatles;['Rock'];169.0;0.0
+22;Spanish Eyes;Al Martino;['Pop'];185.0;0.0
+23;Lies;The Knickerbockers;['Rock'];168.0;0.0
+24;You Didn't Have To Be So Nice;The Lovin' Spoonful;['Pop'];147.0;0.0
+25;Michelle;David & Jonathan;['Pop'];175.0;0.0
+26;Like A Baby;Len Barry;['Pop'];168.0;0.0
+27;These Boots Are Made For Walkin';Nancy Sinatra;['Pop'];163.0;0.0
+28;Attack;The Toys;[];157.0;0.0
+29;It Was A Very Good Year;Frank Sinatra;['Jazz'];266.0;0.0
+30;Flowers On The Wall;The Statler Brothers;['Pop'];143.0;0.0
+31;Second Hand Rose;Barbra Streisand;['Pop'];129.0;0.0
+32;California Dreamin';The Mamas & The Papas;['Pop'];162.0;0.0
+33;When Liking Turns To Loving;Ronnie Dove;['Pop'];177.0;0.0
+34;Tell Me Why;Elvis Presley With The Jordanaires;[];;
+35;Night Time;The Strangeloves;['Pop'];203.0;0.0
+36;A Hard Day's Night;Ramsey Lewis Trio;[];;
+37;Tijuana Taxi;Herb Alpert & The Tijuana Brass;['Jazz'];125.0;0.0
+38;Thunderball;Tom Jones;['Films/Jeux vidéo', 'Musiques de films'];183.0;0.0
+39;Sandy;Ronny And The Daytonas;['Rock'];166.0;0.0
+40;Call Me;Chris Montez;['Pop'];159.0;0.0
+41;Satin Pillows;Bobby Vinton;[];146.0;0.0
+42;Are You There (With Another Girl);Dionne Warwick;['Soul & Funk'];171.0;0.0
+43;Working My Way Back To You;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+44;I See The Light;The Five Americans;['Alternative', 'Rock indé', 'Pop', 'Rock'];137.0;0.0
+45;Recovery;Fontella Bass;['Rock', 'Blues'];150.0;0.0
+46;What Now My Love;Sonny & Cher;['Pop'];218.0;0.0
+47;(You're Gonna) Hurt Yourself;Frankie Valli;['Pop'];152.0;0.0
+48;Breakin' Up Is Breakin' My Heart;Roy Orbison;['Pop'];126.0;0.0
+49;Spread It On Thick;The Gentrys;[];;
+50;My Baby Loves Me;Martha & The Vandellas;['R&B'];186.0;0.0
+51;I Ain't Gonna Eat Out My Heart Anymore;The Young Rascals;['Pop', 'Rock'];163.0;0.0
+52;Cleo's Mood;Jr. Walker & The All Stars;['R&B'];159.0;0.0
+53;I Fought The Law;Bobby Fuller Four;['Rock'];135.0;0.0
+54;Look Through Any Window;The Hollies;['Rock'];137.0;0.0
+55;It's Good News Week;Hedgehoppers Anonymous;['Pop'];125.0;0.0
+56;Elusive Butterfly;Bob Lind;['Pop'];168.0;0.0
+57;Michael;The C.O.D.'s;['Pop'];160.0;0.0
+58;Get Out Of My Life, Woman;Lee Dorsey;['Pop'];146.0;0.0
+59;Under Your Spell Again;Johnny Rivers;['Rock'];193.0;0.0
+60;Andrea;The Sunrays;['Rock'];132.0;0.0
+61;Hurt;Little Anthony And The Imperials;['Pop', 'Rock', 'Blues', 'Soul'];151.0;0.0
+62;Can You Please Crawl Out Your Window?;Bob Dylan;['Pop', 'Pop internationale', 'Rock', 'Folk'];276.0;0.0
+63;I'm Too Far Gone (To Turn Around);Bobby Bland;['R&B'];156.0;0.0
+64;Bye Bye Blues;Bert Kaempfert And His Orchestra;['Pop'];176.0;0.0
+65;Love Makes The World Go Round;Deon Jackson;['R&B', 'Soul & Funk', 'Soul'];148.0;0.0
+66;Snow Flake;Jim Reeves;['Country'];129.0;0.0
+67;The Cheater;Bob Kuban And The In-Men;['Pop'];159.0;0.0
+68;Love Is All We Need;Mel Carter;['Soul'];107.0;0.0
+69;A Little Bit Of Soap;The Exciters;['Soul'];148.0;0.0
+70;You Baby;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];138.0;0.0
+71;If You Gotta Make A Fool Of Somebody;Maxine Brown;['Rock', 'Blues'];132.0;0.0
+72;At The Scene;The Dave Clark Five;['Pop'];111.0;0.0
+73;This Can't Be True;Eddie Holman;['R&B'];178.0;0.0
+74;My Generation;The Who;['Rock'];200.0;0.0
+75;My Ship Is Comin' In;The Walker Bros.;[];;
+76;Michelle;Billy Vaughn And His Orchestra;[];;
+77;Michelle;Bud Shank;['Jazz'];145.0;0.0
+78;Hide & Seek;The Sheep;[];;
+79;Baby Scratch My Back;Slim Harpo;[];174.0;0.0
+80;Long Live Our Love;The Shangri-Las;['Pop'];174.0;0.0
+81;The Rains Came;Sir Douglas Quintet;['Rock'];136.0;0.0
+82;I Can't Believe You Love Me;Tammi Terrell;['Pop'];153.0;0.0
+83;Something I Want To Tell You;Johnny and The Expressions;['Pop'];176.0;0.0
+84;Batman Theme;The Marketts;['Pop', 'Rock'];162.0;0.0
+85;The Loop;Johnny Lytle;['Jazz'];139.0;0.0
+86;The Ballad Of The Green Berets;SSgt Barry Sadler;['Latino'];149.0;0.0
+87;We Know We're In Love;Lesley Gore;['Pop'];131.0;0.0
+88;Waitin' In Your Welfare Line;Buck Owens;['Country'];141.0;0.0
+89;Georgia On My Mind;The Righteous Brothers;['Pop'];263.0;0.0
+90;Take Me For What I'm Worth;The Searchers;['Rock'];160.0;0.0
+91;Set You Free This Time;The Byrds;['Rock'];168.0;0.0
+92;In My Room (El Amor);Verdelle Smith;[];;
+93;Can't You See (You're Losing Me);Mary Wells;['R&B', 'Soul & Funk', 'Soul'];166.0;0.0
+94;Lost Someone;James Brown And The Famous Flames;['Jazz'];643.0;0.0
+95;Since I Lost The One I Love;The Impressions;['Pop'];153.0;0.0
+96;Red Hot;Sam The Sham and the Pharaohs;['Pop', 'Rock'];137.0;0.0
+97;Don't Forget About Me;Barbara Lewis;['R&B', 'Soul & Funk', 'Soul'];167.0;0.0
+98;I Want To Go With You;Eddy Arnold;['Country'];157.0;0.0
+99;The Answer To My Prayer;Neil Sedaka;['Pop'];123.0;0.0

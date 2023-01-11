@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Tha Crossroads;Bone Thugs-N-Harmony;['Rap/Hip Hop'];223.0;0.0
+1;Always Be My Baby;Mariah Carey;['Pop'];258.0;0.0
+2;"Because You Loved Me (From ""Up Close & Personal"")";Celine Dion;['Pop', 'Pop internationale', 'Rock'];274.0;0.0
+3;Nobody Knows;The Tony Rich Project;['Rap/Hip Hop', 'R&B'];306.0;0.0
+4;Give Me One Reason;Tracy Chapman;['Folk'];268.0;0.0
+5;You're The One;SWV;['R&B', 'Soul'];282.0;0.0
+6;Ironic;Alanis Morissette;['Pop'];228.0;0.0
+7;Fastlove;George Michael;['Pop'];324.0;0.0
+8;"Count On Me (From ""Waiting To Exhale"")";Whitney Houston & CeCe Winans;['Films/Jeux vidéo', 'Musiques de films'];266.0;0.0
+9;"Keep On, Keepin' On (From ""Sunset Park"")";MC Lyte Featuring Xscape;[];;
+10;Follow You Down/Til I Hear It From You;Gin Blossoms;[];;
+11;"Insensitive (From ""Bed Of Roses"")";Jann Arden;[];;
+12;Old Man & Me (When I Get To Heaven);Hootie & The Blowfish;['Pop'];245.0;0.0
+13;1, 2, 3, 4 (Sumpin' New);Coolio;['Rap/Hip Hop', 'Pop'];214.0;0.0
+14;"Sittin' Up In My Room (From ""Waiting To Exhale"")";Brandy;['Films/Jeux vidéo', 'Musiques de films'];292.0;0.0
+15;Sweet Dreams;La Bouche;['Pop'];204.0;0.0
+16;Down Low (Nobody Has To Know);R. Kelly Featuring Ronald Isley;['R&B', 'Soul'];288.0;0.0
+17;Get Money;Junior M.A.F.I.A. Featuring The Notorious B.I.G.;['Rap/Hip Hop'];274.0;1.0
+18;Macarena (Bayside Boys Mix);Los Del Rio;[];;
+19;Missing;Everything But The Girl;['Pop'];247.0;0.0
+20;The Earth, The Sun, The Rain;Color Me Badd;['Pop'];256.0;0.0
+21;Get On Up;Jodeci;['Pop'];225.0;1.0
+22;"Closer To Free (From ""Party Of Five"")";BoDeans;['Rock'];190.0;0.0
+23;"Theme From Mission: Impossible (From ""Mission: Impossible"")";Adam Clayton & Larry Mullen;[];204.0;0.0
+24;"Touch Me Tease Me (From ""The Nutty Professor"")";Case Featuring Foxxy Brown;[];;
+25;Woo-Hah!! Got You All In Check/Everything Remains Raw;Busta Rhymes;[];;
+26;Kissin' You;Total;['Rap/Hip Hop'];282.0;0.0
+27;Just A Girl;No Doubt;['Pop'];205.0;0.0
+28;"All The Things (Your Man Won't Do) (From ""Don't Be A Menace..."")";Joe;[];;
+29;Wonder;Natalie Merchant;['Pop', 'Rock'];266.0;0.0
+30;Doin It;LL Cool J;['Pop'];294.0;1.0
+31;You;Monifah;['R&B'];233.0;0.0
+32;Children;Robert Miles;['Dance', 'Pop'];246.0;0.0
+33;1979;The Smashing Pumpkins;['Alternative'];267.0;0.0
+34;Be My Lover;La Bouche;['Pop'];239.0;0.0
+35;Please Don't Go;Immature;['R&B'];271.0;0.0
+36;The World I Know;Collective Soul;['Rock'];255.0;0.0
+37;C'mon N' Ride It (The Train);Quad City DJ's;['Dance'];248.0;0.0
+38;Who Will Save Your Soul;Jewel;['Pop'];239.0;0.0
+39;Flood;Jars Of Clay;[];211.0;0.0
+40;"Not Gon' Cry (From ""Waiting To Exhale"")";Mary J. Blige;['Films/Jeux vidéo', 'Musiques de films'];298.0;0.0
+41;5 O'Clock;Nonchalant;['Rap/Hip Hop'];224.0;0.0
+42;Name;Goo Goo Dolls;['Pop'];270.0;0.0
+43;Renee;Lost Boyz;['Rap/Hip Hop'];293.0;1.0
+44;One Sweet Day;Mariah Carey & Boyz II Men;['Pop'];281.0;0.0
+45;Tres Delinquentes;Delinquent Habits;['Rap/Hip Hop'];255.0;0.0
+46;"Machinehead (From ""Fear"")";Bush;[];;
+47;I Want To Come Over;Melissa Etheridge;['Rock'];325.0;0.0
+48;"A Thin Line Between Love & Hate (From ""A Thin Line..."")";H-Town;[];;
+49;Who Do U Love;Deborah Cox;['R&B', 'Soul'];261.0;0.0
+50;Reach;Gloria Estefan;['Pop'];230.0;0.0
+51;Chains;Tina Arena;['Chanson française'];262.0;0.0
+52;Don't Wanna Lose You;Lionel Richie;['Pop'];297.0;0.0
+53;Your Loving Arms;Billie Ray Martin;['Pop'];398.0;0.0
+54;Don't Cry;Seal;['Pop'];379.0;0.0
+55;Release Me;Angelina;['Dance'];237.0;0.0
+56;In The Meantime;Spacehog;['Alternative', 'Rock'];299.0;0.0
+57;Hay;Crucial Conflict;['Rap/Hip Hop'];260.0;1.0
+58;I Will Survive;Chantay Savage;['Rap/Hip Hop', 'R&B'];372.0;0.0
+59;Counting Blue Cars;Dishwalla;['Rock'];292.0;0.0
+60;Ain't No Nigga/Dead Presidents;Jay-Z Featuring Foxxy Brown;[];;
+61;Lady;D'Angelo;['R&B'];346.0;0.0
+62;The Only Thing That Looks Good On Me Is You;Bryan Adams;['Pop'];217.0;0.0
+63;Can't Get You Off My Mind;Lenny Kravitz;['Rock'];273.0;0.0
+64;Forever More;Puff Johnson;['Pop'];304.0;0.0
+65;You Still Touch Me;Sting;['Pop'];226.0;0.0
+66;Only You;112 Featuring The Notorious B.I.G.;['Rap/Hip Hop'];290.0;0.0
+67;Wrong;Everything But The Girl;['Pop'];276.0;0.0
+68;Wonderwall;Oasis;['Alternative', 'Rock indé', 'Rock'];258.0;0.0
+69;Amish Paradise;"""Weird Al"" Yankovic";['Films/Jeux vidéo', 'Comédie'];199.0;0.0
+70;"Scarred (From ""Eddie"")";Luke;[];;
+71;Ain't Nobody/Kissing You;Faith Evans;['R&B'];202.0;0.0
+72;Feels So Good (Show Me Your Love);Lina Santiago;['Pop'];256.0;0.0
+73;One For The Money;Horace Brown;['Pop'];265.0;0.0
+74;Only Happy When It Rains;Garbage;['Rock'];236.0;0.0
+75;Ever Since You Went Away;Art N' Soul;['Pop'];264.0;0.0
+76;Cumbersome;Seven Mary Three;['Alternative', 'Rock'];237.0;0.0
+77;Shadowboxin';Genius/GZA Featuring Method Man;[];;
+78;My Maria;Brooks & Dunn;['Country'];209.0;0.0
+79;Live And Die For Hip Hop;Kris Kross;['Rap/Hip Hop'];223.0;0.0
+80;Glycerine;Bush;['Rock'];266.0;0.0
+81;Lucky Love;Ace Of Base;['Pop'];175.0;0.0
+82;Do You Want To/Can't Hang;Xscape Featuring MC Lyte;[];;
+83;I'll Never Stop Loving You;J'Son;['Pop'];230.0;0.0
+84;Feel The Music;Planet Soul Featuring Brenda Dee;[];;
+85;Scary Kisses;Voice Of The Beehive;['Pop'];253.0;0.0
+86;Esa Nena Linda;Artie The 1 Man Party;['Electro', 'Sports'];216.0;0.0
+87;"It's All The Way Live (Now) (From ""Eddie"")";Coolio;[];;
+88;Slow Jams;Quincy Jones Feat. Babyface & Tamia With Portrai;[];;
+89;The World Is A Ghetto;Geto Boys Featuring Flaj;[];;
+90;Love Don't Live Here Anymore;Madonna;['Pop'];290.0;0.0
+91;Heartspark Dollarsign;Everclear;['Alternative'];172.0;0.0
+92;"Let's Lay Together (From ""Don't Be A Menace..."")";The Isley Brothers;[];;
+93;Peaches;The Presidents Of The United States Of America;['Pop'];171.0;0.0
+94;"Guilty (From ""Seven"")";Gravity Kills;[];;
+95;One More Try;Kristine W;['Electro', 'Techno/House'];268.0;0.0
+96;House Keeper;Men Of Vizion;['R&B'];273.0;0.0
+97;The 13th;The Cure;['Alternative'];246.0;0.0
+98;I Don't Wanna Be Alone;Shai;['Rap/Hip Hop', 'R&B'];110.0;0.0
+99;"Hoop In Yo Face (From ""Sunset Park"")";69 Boyz Featuring Quad City DJ's;[];;

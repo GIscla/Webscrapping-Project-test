@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;You're So Vain;Carly Simon;['Pop'];258.0;0.0
+1;Clair;Gilbert O'Sullivan;['Pop', 'Rock'];179.0;0.0
+2;Me And Mrs. Jones;Billy Paul;['R&B'];284.0;0.0
+3;Superstition;Stevie Wonder;['R&B'];266.0;0.0
+4;Funny Face;Donna Fargo;['Country'];158.0;0.0
+5;It Never Rains In Southern California;Albert Hammond;['Rock'];233.0;0.0
+6;Rockin' Pneumonia - Boogie Woogie Flu;Johnny Rivers;['Pop'];209.0;0.0
+7;Your Mama Don't Dance;Kenny Loggins & Jim Messina;['Pop'];168.0;0.0
+8;Superfly;Curtis Mayfield;['Pop'];231.0;0.0
+9;You Ought To Be With Me;Al Green;['R&B'];199.0;0.0
+10;Keeper Of The Castle;Four Tops;['Soul'];184.0;0.0
+11;Living In The Past;Jethro Tull;['Rock'];201.0;0.0
+12;Crocodile Rock;Elton John;['Pop'];236.0;0.0
+13;I Am Woman;Helen Reddy;['Pop'];205.0;0.0
+14;Don't Let Me Be Lonely Tonight;James Taylor;['Rock'];155.0;0.0
+15;Something's Wrong With Me;Austin Roberts;['Rock'];192.0;0.0
+16;Walk On Water;Neil Diamond;['Pop'];186.0;0.0
+17;Sitting;Cat Stevens;['Pop'];193.0;0.0
+18;Why Can't We Live Together;Timmy Thomas;['Pop'];277.0;0.0
+19;Sweet Surrender;Bread;['Rock'];156.0;0.0
+20;Pieces Of April;Three Dog Night;['Pop'];252.0;0.0
+21;Hi, Hi, Hi;Wings;['Rock'];190.0;0.0
+22;I Wanna Be With You;Raspberries;['Rock'];187.0;0.0
+23;Been To Canaan;Carole King;['Pop'];217.0;0.0
+24;Oh, Babe, What Would You Say?;Hurricane Smith;['Rock'];209.0;0.0
+25;Trouble Man;Marvin Gaye;['R&B'];228.0;0.0
+26;Papa Was A Rollin' Stone;The Temptations;['Pop'];704.0;0.0
+27;Separate Ways;Elvis Presley;['Pop'];156.0;0.0
+28;Smoke Gets In Your Eyes;Blue Haze;['Pop'];196.0;0.0
+29;The World Is A Ghetto;War;['R&B'];617.0;0.0
+30;Do It Again;Steely Dan;['Rock'];357.0;0.0
+31;Love Jones;Brighter Side Of Darkness;[];;
+32;I Can See Clearly Now;Johnny Nash;['Pop'];166.0;0.0
+33;Dancing In The Moonlight;King Harvest;['Pop'];178.0;0.0
+34;Rocky Mountain High;John Denver;['Country'];281.0;0.0
+35;If You Don't Know Me By Now;Harold Melvin And The Blue Notes;['Bolero'];206.0;0.0
+36;Jambalaya (On The Bayou);The Blue Ridge Rangers;['Rock'];197.0;0.0
+37;You Turn Me On, I'm A Radio;Joni Mitchell;['Pop'];159.0;0.0
+38;Corner Of The Sky;Jackson 5;['R&B'];219.0;0.0
+39;Reelin' & Rockin';Chuck Berry;['Pop', 'Rock'];201.0;0.0
+40;Daddy's Home;Jermaine Jackson;['Pop'];183.0;0.0
+41;Harry Hippie;Bobby Womack & Peace;[];;
+42;The Relay;The Who;['Rock'];235.0;0.0
+43;Summer Breeze;Seals & Crofts;['Pop'];205.0;0.0
+44;Long Dark Road;The Hollies;['Pop'];256.0;0.0
+45;I'll Be Your Shelter (In Time Of Storm);Luther Ingram;['R&B'];201.0;0.0
+46;No;Bulldog;['Rock'];200.0;0.0
+47;Let Us Love;Bill Withers;['Pop'];319.0;0.0
+48;Do You Want To Dance?;Bette Midler;['Pop'];162.0;0.0
+49;You're A Lady;Peter Skellern;['Pop'];274.0;0.0
+50;In Heaven There Is No Beer;Clean Living;['Pop'];157.0;0.0
+51;Dreidel;Don McLean;['Singer & Songwriter'];226.0;0.0
+52;I Can't Stand To See You Cry;Smokey Robinson & The Miracles;['R&B'];221.0;0.0
+53;Don't Expect Me To Be Your Friend;Lobo;['Rock'];217.0;0.0
+54;Ventura Highway;America;['Rock'];211.0;0.0
+55;Woman To Woman;Joe Cocker and The Chris Stainton Band;[];;
+56;Looking Through The Eyes Of Love;The Partridge Family Starring Shirley Jones Featuring David Cassidy;[];;
+57;I'm Stone In Love With You;The Stylistics;['R&B', 'Soul'];199.0;0.0
+58;You've Got To Take It (If You Want It);The Main Ingredient;['R&B'];209.0;0.0
+59;I'm Never Gonna Be Alone Anymore;Cornelius Brothers & Sister Rose;['R&B'];153.0;0.0
+60;Could It Be I'm Falling In Love;The Spinners;['R&B'];249.0;0.0
+61;Remember (Christmas);Nilsson;['Pop'];246.0;0.0
+62;Crazy Horses;The Osmonds;['Pop'];147.0;0.0
+63;Trouble In My Home/I Found My Dad;Joe Simon;[];;
+64;"The Cover Of ""Rolling Stone""";Dr. Hook And The Medicine Show;['Jeunesse'];173.0;0.0
+65;What Am I Crying For?;Dennis Yost And The Classics IV;[];;
+66;Peaceful Easy Feeling;Eagles;['Pop'];257.0;0.0
+67;Anthem;Wayne Newton;[];;
+68;Everybody Loves A Love Song;Mac Davis;['Country'];183.0;0.0
+69;You're A Lady;Dawn Featuring Tony Orlando;[];;
+70;We Need Order;The Chi-lites;['Soul'];317.0;0.0
+71;Daytime Night-Time;Keith Hampshire;['Pop'];186.0;0.0
+72;What My Baby Needs Now Is A Little More Lovin';James Brown-Lyn Collins;['R&B'];175.0;0.0
+73;Last Song;Edward Bear;['Pop'];195.0;0.0
+74;Lucky Man;Emerson, Lake & Palmer;['Rock'];277.0;0.0
+75;Living Together, Growing Together;The 5th Dimension;['Pop'];230.0;0.0
+76;Songman;Cashman & West;['Rock'];220.0;0.0
+77;Mama Weer All Crazee Now;Slade;['Pop', 'Rock'];225.0;0.0
+78;Big City Miss Ruth Ann;Gallery;['Country', 'Rock'];147.0;0.0
+79;Jesus Is Just Alright;The Doobie Brothers;['Pop', 'Singer & Songwriter'];273.0;0.0
+80;Silly Wasn't I;Valerie Simpson;['Soul'];132.0;0.0
+81;One Last Time;Glen Campbell;['Country'];199.0;0.0
+82;Danny's Song;Anne Murray;['Pop'];187.0;0.0
+83;You Can Do Magic;Limmie & Family Cookin';['R&B', 'Soul & Funk', 'Soul'];177.0;0.0
+84;Oh No, Not My Baby;Merry Clayton;['R&B'];207.0;0.0
+85;I Never Said Goodbye;Engelbert Humperdinck;[];227.0;0.0
+86;I'm Sorry;Joey Heatherton;['Pop'];161.0;0.0
+87;Didn't We;Barbra Streisand;['Pop'];156.0;0.0
+88;Boogie Woogie Man;Paul Davis;['Pop'];147.0;0.0
+89;Fever/My Crew;Rita Coolidge;[];;
+90;Jesus Was A Capricorn;Kris Kristofferson;['Country'];147.0;0.0
+91;Happy;Bobby Darin;['Pop'];334.0;0.0
+92;Don't Leave Me Starvin' For Your Love (Part 1);Holland-Dozier;['R&B', 'Soul'];206.0;0.0
+93;But I Do;Bobby Vinton;[];;
+94;Choo Choo Mama;Ten Years After;['Rock'];242.0;0.0
+95;The Red Back Spider;Brownsville Station;[];;
+96;She's Got To Be A Saint;Ray Price;['Country'];249.0;0.0
+97;Soul Song;Joe Stampley;['Country'];171.0;0.0
+98;On And Off (Part 1);Anacostia;[];;
+99;Slow Motion (Part 1);Johnny Williams;['R&B'];177.0;0.0

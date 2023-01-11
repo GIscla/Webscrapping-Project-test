@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Crimson And Clover;Tommy James And The Shondells;['Pop'];209.0;0.0
+1;Everyday People;Sly & The Family Stone;['Soul & Funk'];141.0;0.0
+2;Worst That Could Happen;Brooklyn Bridge;['Pop'];237.0;0.0
+3;Touch Me;The Doors;['Rock'];190.0;0.0
+4;I Heard It Through The Grapevine;Marvin Gaye;['Pop', 'Soul contemporaine', 'Soul & Funk', 'Films/Jeux vidéo', 'Musiques de films', 'Soul'];195.0;0.0
+5;I'm Gonna Make You Love Me;Diana Ross And The Supremes & The Temptations;['Pop'];186.0;0.0
+6;I Started A Joke;Bee Gees;['Pop'];188.0;0.0
+7;Hooked On A Feeling;B.J. Thomas;['Pop', 'Rock'];164.0;0.0
+8;Soulful Strut;Young-Holt Unlimited;['Soul'];181.0;0.0
+9;Build Me Up Buttercup;The Foundations;['Pop'];177.0;0.0
+10;Can I Change My Mind;Tyrone Davis;['R&B', 'Soul'];176.0;0.0
+11;If I Can Dream;Elvis Presley;['Rock'];189.0;0.0
+12;Hang 'Em High;Booker T. & The MG's;['Soul'];328.0;0.0
+13;Son-Of-A Preacher Man;Dusty Springfield;['Pop'];145.0;0.0
+14;Going Up The Country;Canned Heat;['Rock', 'Blues'];171.0;0.0
+15;This Magic Moment;Jay & The Americans;['Rock'];182.0;0.0
+16;You Showed Me;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];196.0;0.0
+17;Wichita Lineman;Glen Campbell;['Country'];186.0;0.0
+18;Stand By Your Man;Tammy Wynette;['Country', 'Pop', 'Pop internationale', 'Rock'];160.0;0.0
+19;Ramblin' Gamblin' Man;Bob Seger System;['Rock'];145.0;0.0
+20;There's Gonna Be A Showdown;Archie Bell & The Drells;['Pop'];164.0;0.0
+21;I'm Livin' In Shame;Diana Ross & The Supremes;['R&B'];180.0;0.0
+22;Hey Jude;Wilson Pickett;['R&B'];247.0;0.0
+23;I've Gotta Be Me;Sammy Davis Jr.;['Alternative', 'Rock indé', 'Rock'];180.0;0.0
+24;Lo Mucho Que Te Quiero (The More I Love You);Rene & Rene;[];;
+25;Cinnamon;Derek;['Pop'];163.0;0.0
+26;California Soul;The 5th Dimension;[];192.0;0.0
+27;Baby, Baby Don't Cry;Smokey Robinson & The Miracles;['R&B'];242.0;0.0
+28;Love Child;Diana Ross & The Supremes;[];175.0;0.0
+29;Cloud Nine;The Temptations;['Pop'];208.0;0.0
+30;For Once In My Life;Stevie Wonder;['R&B'];170.0;0.0
+31;I Love How You Love Me;Bobby Vinton;['Pop'];215.0;0.0
+32;Too Weak To Fight;Clarence Carter;['Soul'];138.0;0.0
+33;Games People Play;Joe South;['Rock'];216.0;0.0
+34;Baby Let's Wait;The Royal Guardsmen;['Rock'];159.0;0.0
+35;Goodnight My Love;Paul Anka;['Pop'];193.0;0.0
+36;Take Care Of Your Homework;Johnnie Taylor;['R&B'];160.0;0.0
+37;The Beginning Of My End;The Unifics;[];;
+38;Stormy;Classics IV Featuring Dennis Yost;['Pop', 'Rock'];178.0;0.0
+39;This Is My Country;The Impressions;['Rock'];168.0;0.0
+40;Soul Sister, Brown Sugar;Sam & Dave;['Rock'];149.0;0.0
+41;Give It Up Or Turnit A Loose;James Brown;['R&B'];197.0;0.0
+42;Are You Happy;Jerry Butler;['R&B'];157.0;0.0
+43;But You Know I Love You;The First Edition;['Country'];187.0;0.0
+44;Ready Or Not Here I Come (Can't Hide From Love);The Delfonics;['Pop'];119.0;0.0
+45;Soulshake;Peggy Scott & Jo Jo Benson;['Soul'];142.0;0.0
+46;Does Anybody Know I'm Here;The Dells;['Rock', 'Blues'];196.0;0.0
+47;Home Cookin;Jr. Walker & The All Stars;['R&B'];177.0;0.0
+48;A Minute Of Your Time;Tom Jones;['Pop'];176.0;0.0
+49;Things I'd Like To Say;New Colony Six;[];145.0;0.0
+50;Sweet Cream Ladies, Forward March;The Box Tops;['Pop'];133.0;0.0
+51;Indian Giver;1910 Fruitgum Co.;['Pop'];161.0;0.0
+52;Feelin' So Good (S.k.o.o.b.y-D.o.o);The Archies;['Pop', 'Rock'];188.0;0.0
+53;Condition Red;The Goodees;['R&B'];173.0;0.0
+54;Proud Mary;Creedence Clearwater Revival;['Rock'];186.0;0.0
+55;Daddy Sang Bass;Johnny Cash;['Country'];140.0;0.0
+56;Ob-La-Di, Ob-La-Da;Arthur Conley;['Pop'];181.0;0.0
+57;Rainbow Ride;Andy Kim;['Pop'];167.0;0.0
+58;I Forgot To Be Your Lover;William Bell;['Rap/Hip Hop', 'R&B'];139.0;0.0
+59;California Dreamin';Bobby Womack;['R&B'];200.0;0.0
+60;Electric Stories;"The 4 Seasons Featuring the ""Sound of Frankie Valli""";[];;
+61;Rain In My Heart;Frank Sinatra;['Jazz'];201.0;0.0
+62;There'll Come A Time;Betty Everett;['Soul'];165.0;0.0
+63;Not On The Outside;The Moments;['R&B', 'Soul'];243.0;0.0
+64;Crossroads;Cream;['Rock'];265.0;0.0
+65;River Deep-Mountain High;Deep Purple;['Rock'];612.0;0.0
+66;This Old Heart Of Mine (Is Weak For You);Tammi Terrell;['Pop'];146.0;0.0
+67;Riot;Hugh Masekela;[];;
+68;Good Lovin' Ain't Easy To Come By;Marvin Gaye & Tammi Terrell;['R&B'];145.0;0.0
+69;I Got A Line On You;Spirit;['Pop'];159.0;0.0
+70;Purple Haze;Dion;['Rock'];153.0;0.0
+71;Tragedy;Brian Hyland;['Rock', 'Rock & Roll/Rockabilly'];124.0;0.0
+72;Kum Ba Yah;Tommy Leonetti;[];;
+73;30-60-90;Willie Mitchell;['R&B'];146.0;0.0
+74;Poor Side Of Town;Al Wilson;['Pop', 'R&B', 'Soul'];230.0;0.0
+75;I'm Gonna Hold On Long As I Can;The Marvelettes;['Pop'];148.0;0.0
+76;Getting The Corners;The T.S.U. Toronadoes;['R&B', 'Soul & Funk', 'Soul'];144.0;0.0
+77;If It Wasn't For Bad Luck;Ray Charles & Jimmy Lewis;[];;
+78;May I;Bill Deal & The Rhondels;[];;
+79;Hey! Baby;Jose Feliciano;['Pop'];256.0;0.0
+80;Bubble Gum Music;Rock & Roll Double Bubble;[];;
+81;The Greatest Love;Dorsey Burnette;['Pop', 'Rock'];160.0;0.0
+82;He Called Me Baby;Ella Washington;['Soul'];181.0;0.0
+83;The Grooviest Girl In The World;The Fun And Games;['Pop', 'Rock'];167.0;0.0
+84;Almost Persuaded;Etta James;['Pop'];202.0;0.0
+85;Dizzy;Tommy Roe;['Rock'];170.0;0.0
+86;Let It Be Me;Glen Campbell & Bobbie Gentry;['Pop'];127.0;0.0
+87;That's Your Baby;Joe Tex;['Pop', 'R&B'];153.0;0.0
+88;Grits Ain't Groceries (All Around The World);Little Milton;['Rock', 'Blues'];159.0;0.0
+89;Woman Helping Man;The Vogues;['Pop'];195.0;0.0
+90;Mendocino;Sir Douglas Quintet;['Rock'];158.0;0.0
+91;This Girl's In Love With You;Dionne Warwick;['Pop'];261.0;0.0
+92;The Carroll County Accident;Porter Wagoner;['Country'];168.0;0.0
+93;Will You Be Staying After Sunday;The Peppermint Rainbow;['Pop'];134.0;0.0
+94;Do Your Thing;The Watts 103rd Street Rhythm Band;['R&B', 'Soul'];209.0;0.0
+95;My Special Prayer;Percy Sledge;[];267.0;0.0
+96;Someday Soon;Judy Collins;['Pop', 'Folk'];224.0;0.0
+97;Please Don't Desert Me Baby;Gloria Walker/Chevelles;[];;
+98;Saturday Night At The World;Mason Williams;['Reggae', 'Folk'];223.0;0.0
+99;Cloud Nine;Mongo Santamaria;['Latino'];345.0;0.0

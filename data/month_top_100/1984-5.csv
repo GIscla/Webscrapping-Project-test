@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Against All Odds (Take A Look At Me Now);Phil Collins;['Pop', 'Rock'];206.0;0.0
+1;Hello;Lionel Richie;['Pop'];247.0;0.0
+2;Hold Me Now;Thompson Twins;['Pop'];286.0;0.0
+3;Footloose;Kenny Loggins;['Films/Jeux vidéo', 'Musiques de films'];226.0;0.0
+4;Love Somebody;Rick Springfield;['Pop'];213.0;0.0
+5;To All The Girls I've Loved Before;Julio Iglesias And Willie Nelson;['Pop', 'Latino'];212.0;0.0
+6;You Might Think;The Cars;['Pop'];187.0;0.0
+7;They Don't Know;Tracey Ullman;['Pop'];179.0;0.0
+8;Let's Hear It For The Boy;Deniece Williams;['Films/Jeux vidéo', 'Musiques de films'];260.0;0.0
+9;Miss Me Blind;Culture Club;['Rock'];269.0;0.0
+10;Oh, Sherrie;Steve Perry;['Rock'];229.0;0.0
+11;Head Over Heels;Go-Go's;['Pop'];217.0;0.0
+12;Tonight;Kool & The Gang;['Pop'];231.0;0.0
+13;Time After Time;Cyndi Lauper;['Pop'];241.0;0.0
+14;Don't Answer Me;The Alan Parsons Project;['Rock'];252.0;0.0
+15;The Authority Song;John Cougar Mellencamp;['Alternative', 'Rock indé', 'Rock', 'Rock Indé/Pop Rock'];200.0;0.0
+16;The Longest Time;Billy Joel;['Pop'];217.0;0.0
+17;Breakdance;Irene Cara;['Electro', 'Techno/House', 'Dance', 'Disco'];207.0;0.0
+18;Automatic;The Pointer Sisters;['Pop', 'Pop internationale', 'Rock'];288.0;0.0
+19;Sister Christian;Night Ranger;['Rock'];302.0;0.0
+20;Dancing In The Sheets;Shalamar;['Films/Jeux vidéo', 'Musiques de films'];245.0;0.0
+21;A Fine Fine Day;Tony Carey;['Rock'];265.0;0.0
+22;I'll Wait;Van Halen;['Rock', 'Hard Rock'];280.0;0.0
+23;Somebody's Watching Me;Rockwell;['Disco'];296.0;0.0
+24;No More Words;Berlin;['Pop', 'Rock'];230.0;0.0
+25;The Reflex;Duran Duran;['Rock'];266.0;0.0
+26;White Horse;Laid Back;['Pop'];237.0;0.0
+27;Show Me;Pretenders;['Pop'];248.0;0.0
+28;Borderline;Madonna;['Pop'];238.0;0.0
+29;Adult Education;Daryl Hall John Oates;['Pop'];323.0;0.0
+30;Leave It;Yes;['Rock'];253.0;0.0
+31;The Heart Of Rock & Roll;Huey Lewis & The News;['Rock'];245.0;0.0
+32;Self Control;Laura Branigan;['Pop', 'Rock'];246.0;0.0
+33;It's My Life;Talk Talk;['Rock'];232.0;0.0
+34;Rock You Like A Hurricane;Scorpions;['Rock'];255.0;0.0
+35;Girls;Dwight Twilley;['Rock'];209.0;0.0
+36;You Can't Get What You Want;Joe Jackson;['Pop'];293.0;0.0
+37;Here Comes The Rain Again;Eurythmics;['Pop'];299.0;0.0
+38;Run, Runaway;Slade;['Pop', 'Rock'];300.0;0.0
+39;Catch Me I'm Falling;Real Life;['Electro', 'Pop'];245.0;0.0
+40;My Ever Changing Moods;The Style Council;['Pop'];217.0;0.0
+41;Jump;Van Halen;['Rock', 'Hard Rock'];241.0;0.0
+42;Love Will Show Us How;Christine McVie;['Rock'];254.0;0.0
+43;Modern Day Delilah;Van Stephenson;[];;
+44;Love Me In A Special Way;Debarge;['R&B'];254.0;0.0
+45;Give Me Tonight;Shannon;['Dance'];367.0;0.0
+46;She's Strange;Cameo;['R&B'];431.0;0.0
+47;Eat It;"""Weird Al"" Yankovic";['Films/Jeux vidéo', 'Comédie'];200.0;0.0
+48;Stay The Night;Chicago;['Pop', 'Rock'];231.0;0.0
+49;Jump (for My Love);The Pointer Sisters;['Pop'];266.0;0.0
+50;Girls Just Want To Have Fun;Cyndi Lauper;['Pop'];238.0;0.0
+51;Baby Come Back;Billy Rankin;[];;
+52;Wouldn't It Be Good;Nik Kershaw;['Pop'];273.0;0.0
+53;Sail Away;The Temptations;['R&B'];304.0;0.0
+54;Whisper To A Scream (Birds Fly);Icicle Works;['Alternative'];229.0;0.0
+55;Runaway;Bon Jovi;['Pop'];230.0;0.0
+56;Believe In Me;Dan Fogelberg;['Pop'];275.0;0.0
+57;Dance Hall Days;Wang Chung;['Pop'];240.0;0.0
+58;There's No Easy Way;James Ingram;['R&B'];227.0;0.0
+59;I Want To Break Free;Queen;['Rock'];258.0;0.0
+60;Who's That Girl;Eurythmics;['Pop'];227.0;0.0
+61;Blue Light;David Gilmour;['Rock'];276.0;0.0
+62;Eyes Without A Face;Billy Idol;['Rock'];298.0;0.0
+63;What Is Love;Howard Jones;['Pop'];219.0;0.0
+64;Olympia;Sergio Mendes;[];;
+65;Don't Waste Your Time;Yarbrough & Peoples;['R&B', 'Soul'];449.0;0.0
+66;Relax;Frankie Goes To Hollywood;['Dance'];332.0;0.0
+67;Music Time;Styx;['Rock', 'Hard Rock'];305.0;0.0
+68;I Want A New Drug;Huey Lewis & The News;['Rock'];211.0;0.0
+69;Holding Out For A Hero;Bonnie Tyler;['Pop'];261.0;0.0
+70;I Cry Just A Little Bit;Shakin' Stevens;['Rock'];193.0;0.0
+71;Come Back And Stay;Paul Young;['Pop'];263.0;0.0
+72;Illegal Alien;Genesis;['Rock'];315.0;0.0
+73;Original Sin;INXS;['Rock'];316.0;0.0
+74;We're Going All The Way;Jeffrey Osborne;['R&B'];255.0;0.0
+75;Don't Look Any Further;Dennis Edwards;['R&B'];242.0;0.0
+76;King Of Suede;"""Weird Al"" Yankovic";['Films/Jeux vidéo', 'Comédie'];255.0;0.0
+77;One In A Million;The Romantics;['Alternative', 'Pop Indé', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];221.0;0.0
+78;Obscene Phone Caller;Rockwell;['R&B'];205.0;0.0
+79;Heart Don't Lie;LaToya Jackson;['R&B'];269.0;0.0
+80;Eyes That See In The Dark;Kenny Rogers;['Country'];277.0;0.0
+81;Radio Ga Ga;Queen;['Rock'];343.0;0.0
+82;Got A Hold On Me;Christine McVie;['Rock'];230.0;0.0
+83;I Can Dream About You;Dan Hartman;['Pop'];249.0;0.0
+84;Days Gone By;Poco;['Pop', 'Rock'];230.0;0.0
+85;Give It Up;KC;['Pop'];253.0;0.0
+86;Communication;Spandau Ballet;['Rock'];220.0;0.0
+87;Hurt;Re-flex;['Pop'];308.0;0.0
+88;Darlin';Frank Stallone;['Pop'];202.0;0.0
+89;Superstar/Until You Come Back To Me;Luther Vandross;['R&B'];558.0;0.0
+90;Terms Of Endearment;Michael Gore;['Films/Jeux vidéo', 'Musiques de films'];30.0;0.0
+91;The Kid's American;Matthew Wilder;['Pop'];276.0;0.0
+92;Hunters Of The Night;Mr. Mister;['Pop'];310.0;0.0
+93;99 Luftballons;Nena;['Pop'];232.0;0.0
+94;Downtown;Dolly Parton;['Country'];201.0;0.0
+95;Thriller;Michael Jackson;['Pop'];357.0;0.0
+96;Red Red Wine;UB40;['Reggae'];184.0;0.0
+97;The Language Of Love;Dan Fogelberg;['Pop'];221.0;0.0
+98;Perfect Combination;Stacy Lattisaw & Johnny Gill;['R&B'];249.0;0.0
+99;I'm Steppin' Out;John Lennon;['Rock'];246.0;0.0

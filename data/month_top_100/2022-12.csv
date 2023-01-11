@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Anti-Hero;Taylor Swift;['Pop'];200.0;0.0
+1;Rich Flex;Drake & 21 Savage;[];;
+2;Unholy;Sam Smith & Kim Petras;['Pop'];156.0;0.0
+3;Bad Habit;Steve Lacy;['Pop', 'R&B', 'Soul'];232.0;1.0
+4;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+5;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+6;I'm Good (Blue);David Guetta & Bebe Rexha;['Dance'];175.0;1.0
+7;As It Was;Harry Styles;['Pop'];167.0;0.0
+8;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+9;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+10;Lift Me Up;Rihanna;['Pop'];196.0;0.0
+11;Die For You;The Weeknd;['R&B'];260.0;0.0
+12;You Proof;Morgan Wallen;['Country'];157.0;0.0
+13;Under The Influence;Chris Brown;['R&B'];184.0;1.0
+14;Super Freaky Girl;Nicki Minaj;['Rap/Hip Hop'];170.0;1.0
+15;Cuff It;Beyonce;['Pop'];225.0;1.0
+16;Something In The Orange;Zach Bryan;['Country'];228.0;0.0
+17;I Like You (A Happier Song);Post Malone Featuring Doja Cat;[];193.0;0.0
+18;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+19;Wasted On You;Morgan Wallen;['Country'];178.0;0.0
+20;Just Wanna Rock;Lil Uzi Vert;['Rap/Hip Hop'];123.0;1.0
+21;Tomorrow 2;GloRilla & Cardi B;['Rap/Hip Hop'];209.0;1.0
+22;Last Christmas;Wham!;['Pop'];263.0;0.0
+23;Made You Look;Meghan Trainor;['Pop'];134.0;0.0
+24;Vegas;Doja Cat;['Pop'];182.0;1.0
+25;Lavender Haze;Taylor Swift;['Pop'];202.0;1.0
+26;I Ain't Worried;OneRepublic;['Pop'];148.0;0.0
+27;Titi Me Pregunto;Bad Bunny;['Latino'];243.0;0.0
+28;Wait For U;Future Featuring Drake & Tems;['Rap/Hip Hop'];189.0;1.0
+29;Major Distribution;Drake & 21 Savage;[];;
+30;Spin Bout U;Drake & 21 Savage;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+31;The Kind Of Love We Make;Luke Combs;['Country'];224.0;0.0
+32;Sunroof;Nicky Youre & dazy;['Pop'];169.0;0.0
+33;The Christmas Song (Merry Christmas To You);Nat King Cole;[];191.0;0.0
+34;Golden Hour;JVKE;['Pop'];209.0;0.0
+35;Jimmy Cooks;Drake Featuring 21 Savage;[];;
+36;Circo Loco;Drake & 21 Savage;[];239.0;0.0
+37;She Had Me At Heads Carolina;Cole Swindell;['Country'];206.0;0.0
+38;On BS;Drake & 21 Savage;['Films/Jeux vidéo', 'Musiques de films'];200.0;0.0
+39;Sleigh Ride;The Ronettes;['Classique'];181.0;0.0
+40;Let It Snow, Let It Snow, Let It Snow;Dean Martin;['Pop'];117.0;0.0
+41;Feliz Navidad;Jose Feliciano;['Classique'];182.0;0.0
+42;It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;[];155.0;0.0
+43;About Damn Time;Lizzo;['Pop'];191.0;1.0
+44;Until I Found You;Stephen Sanchez;['Singer & Songwriter'];177.0;0.0
+45;Thank God;Kane Brown With Katelyn Brown;[];;
+46;Pussy & Millions;Drake & 21 Savage Featuring Travis Scott;[];;
+47;Underneath The Tree;Kelly Clarkson;['Pop'];229.0;0.0
+48;Fall In Love;Bailey Zimmerman;['Country'];232.0;0.0
+49;Bejeweled;Taylor Swift;['Pop'];194.0;0.0
+50;Hold Me Closer;Elton John & Britney Spears;['Pop'];202.0;0.0
+51;Midnight Rain;Taylor Swift;['Pop'];174.0;0.0
+52;Wait In The Truck;HARDY Featuring Lainey Wilson;['Country'];277.0;0.0
+53;Rock And A Hard Place;Bailey Zimmerman;['Country'];207.0;0.0
+54;What My World Spins Around;Jordan Davis;['Country'];186.0;0.0
+55;Half Of Me;Thomas Rhett Featuring Riley Green;[];;
+56;Hotel Lobby (Unc And Phew);Quavo & Takeoff;['Rap/Hip Hop'];142.0;1.0
+57;Maroon;Taylor Swift;['Pop'];218.0;1.0
+58;Victoria's Secret;Jax;['Pop'];176.0;1.0
+59;Don't Come Lookin';Jackson Dean;['Country'];187.0;0.0
+60;Son Of A Sinner;Jelly Roll;['Rock'];232.0;1.0
+61;Privileged Rappers;Drake & 21 Savage;[];167.0;0.0
+62;Shirt;SZA;['Pop', 'R&B'];181.0;1.0
+63;Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;['Pop'];210.0;1.0
+64;Karma;Taylor Swift;['Pop'];204.0;1.0
+65;BackOutsideBoyz;Drake;['Rap/Hip Hop'];152.0;1.0
+66;You're On Your Own, Kid;Taylor Swift;['Pop'];194.0;0.0
+67;Broke Boys;Drake & 21 Savage;[];;
+68;Snow On The Beach;Taylor Swift Featuring Lana Del Rey;[];;
+69;Hours In Silence;Drake & 21 Savage;[];;
+70;Whiskey On You;Nate Smith;['Country'];183.0;0.0
+71;Romantic Homicide;d4vd;['Alternative'];132.0;0.0
+72;Vigilante Shit;Taylor Swift;['Pop'];164.0;1.0
+73;Free Mind;Tems;['R&B'];247.0;0.0
+74;Billie Eilish.;Armani White;['Rap/Hip Hop'];99.0;1.0
+75;Break My Heart;Rod Wave;['Rap/Hip Hop'];169.0;1.0
+76;Jumbotron Shit Poppin;Drake;['Rap/Hip Hop'];137.0;1.0
+77;Question...?;Taylor Swift;['Pop'];210.0;1.0
+78;No Se Va;Grupo Frontera;['Latino'];194.0;0.0
+79;Heyy;Lil Baby;['Rap/Hip Hop'];192.0;1.0
+80;California Breeze;Lil Baby;['Rap/Hip Hop'];177.0;1.0
+81;Calm Down;Rema & Selena Gomez;['Pop'];239.0;0.0
+82;Country On;Luke Bryan;['Country'];236.0;0.0
+83;Mastermind;Taylor Swift;['Pop'];191.0;0.0
+84;Treacherous Twins;Drake & 21 Savage;[];;
+85;Heart Like A Truck;Lainey Wilson;['Country'];199.0;0.0
+86;Pick Me Up;Gabby Barrett;['Country'];169.0;0.0
+87;Down In Atlanta;Pharrell Williams & Travis Scott;['Rap/Hip Hop', 'Pop'];164.0;1.0
+88;Labyrinth;Taylor Swift;['Pop'];247.0;0.0
+89;Freestyle;Lil Baby;['Rap/Hip Hop'];162.0;1.0
+90;Miss You;Oliver Tree & Robin Schulz;['Pop'];206.0;1.0
+91;Sweet Nothing;Taylor Swift;['Pop'];188.0;0.0
+92;All Mine;Brent Faiyaz;['R&B', 'Soul'];216.0;1.0
+93;La Bachata;Manuel Turizo;['Rap/Hip Hop'];162.0;0.0
+94;Got It Right;Rod Wave;['Rap/Hip Hop'];214.0;1.0
+95;Die For You;Joji;['Alternative', 'Pop'];211.0;0.0
+96;Down Home;Jimmie Allen;['Country'];201.0;0.0
+97;Going, Going, Gone;Luke Combs;['Country'];177.0;0.0
+98;Middle Of The Ocean;Drake;['Rap/Hip Hop'];356.0;1.0
+99;More M’s;Drake & 21 Savage;[];;

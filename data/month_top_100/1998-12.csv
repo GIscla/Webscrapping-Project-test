@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'm Your Angel;R. Kelly & Celine Dion;['Pop'];322.0;0.0
+1;Nobody's Supposed To Be Here;Deborah Cox;['Pop', 'R&B', 'Soul'];262.0;0.0
+2;Lately;Divine;['R&B', 'Soul'];218.0;0.0
+3;Doo Wop (That Thing);Lauryn Hill;['Pop'];241.0;0.0
+4;From This Moment On;Shania Twain;['Country'];291.0;0.0
+5;Because Of You;98 Degrees;['R&B'];296.0;0.0
+6;The First Night;Monica;['R&B', 'Soul'];235.0;0.0
+7;How Deep Is Your Love;Dru Hill Featuring Redman;[];;
+8;Iris;Goo Goo Dolls;['Pop'];289.0;0.0
+9;Love Like This;Faith Evans;['R&B'];275.0;0.0
+10;This Kiss;Faith Hill;['Country'];194.0;0.0
+11;Lullaby;Shawn Mullins;['Pop'];272.0;0.0
+12;One Week;Barenaked Ladies;['Pop'];169.0;0.0
+13;Save Tonight;Eagle-Eye Cherry;['Pop'];242.0;0.0
+14;Have You Ever?;Brandy;['Pop'];273.0;0.0
+15;Jumper;Third Eye Blind;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];272.0;0.0
+16;Thank U;Alanis Morissette;['Pop'];258.0;0.0
+17;...Baby One More Time;Britney Spears;['Pop', 'Pop internationale', 'Rock'];211.0;0.0
+18;Love Me;112 Featuring Mase;['R&B'];257.0;0.0
+19;Trippin';Total Featuring Missy Elliott;[];;
+20;Are You That Somebody?;Aaliyah;['R&B', 'Soul'];265.0;0.0
+21;I'll Be;Edwin McCain;['Country'];266.0;0.0
+22;My Favorite Mistake;Sheryl Crow;['Pop'];248.0;0.0
+23;Hands;Jewel;['Pop'];235.0;0.0
+24;Slide;Goo Goo Dolls;['Pop'];213.0;0.0
+25;Crush;Jennifer Paige;['Pop'];200.0;0.0
+26;Can I Get A...;Jay-Z Featuring Amil (Of Major Coinz) & Ja;[];;
+27;Touch It;Monifah;['R&B'];285.0;1.0
+28;Westside;TQ;['R&B'];304.0;1.0
+29;The Power Of Good-Bye;Madonna;['Pop'];250.0;0.0
+30;Inside Out;Eve 6;['Alternative', 'Pop'];219.0;0.0
+31;Too Close;Next;['R&B', 'Soul'];259.0;1.0
+32;All The Places (I Will Kiss You);Aaron Hall;['R&B'];240.0;0.0
+33;I Still Love You;Next;['R&B', 'Soul'];254.0;1.0
+34;I'll Never Break Your Heart;Backstreet Boys;['Pop'];286.0;0.0
+35;Hard Knock Life (Ghetto Anthem);JAY-Z;['Rap/Hip Hop'];238.0;1.0
+36;I Don't Want To Miss A Thing;Aerosmith;['Rock'];299.0;0.0
+37;Real World;matchbox 20;['Pop', 'Rock'];220.0;0.0
+38;Let Me Let Go;Faith Hill;['Country'];191.0;0.0
+39;It Must Be Love;Ty Herndon;['Pop', 'Pop internationale', 'Rock'];211.0;0.0
+40;Wide Open Spaces;Dixie Chicks;['Country'];223.0;0.0
+41;Come And Get With Me;Keith Sweat Featuring Snoop Dogg;['R&B'];293.0;0.0
+42;A Little Past Little Rock;Lee Ann Womack;['Country'];256.0;0.0
+43;Pushin' Weight;Ice Cube Featuring Mr. Short Khop;[];;
+44;Someone You Used To Know;Collin Raye;['Country'];225.0;0.0
+45;My Little Secret;Xscape;['R&B'];268.0;0.0
+46;Torn;Natalie Imbruglia;['Pop'];244.0;0.0
+47;Husbands And Wives;Brooks & Dunn;['Country'];190.0;0.0
+48;We Really Shouldn't Be Doing This;George Strait;['Country'];143.0;0.0
+49;You're Easy On The Eyes;Terri Clark;['Country'];212.0;0.0
+50;When You Believe;Whitney Houston & Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];273.0;0.0
+51;Fly Away;Lenny Kravitz;['Rock'];221.0;0.0
+52;Right On The Money;Alan Jackson;['Country'];229.0;0.0
+53;Ghetto Cowboy;Mo Thugs Family Featuring Bone Thugs-N-Harmony;[];;
+54;For You I Will;Aaron Tippin;['Country'];211.0;0.0
+55;These Are The Times;Dru Hill;['Pop'];248.0;0.0
+56;Miami;Will Smith;['Pop'];197.0;0.0
+57;You're Beginning To Get To Me;Clay Walker;['Country'];162.0;0.0
+58;Tearin' Up My Heart;'N Sync;['Pop'];208.0;0.0
+59;(God Must Have Spent) A Little More Time On You;'N Sync;['Pop'];241.0;0.0
+60;Wrong Again;Martina McBride;['Country'];196.0;0.0
+61;It's Your Song;Garth Brooks;['Country'];238.0;0.0
+62;Angel;Sarah McLachlan;['Pop'];270.0;0.0
+63;You Get What You Give;New Radicals;['Rock'];300.0;0.0
+64;There You Have It;BlackHawk;['Country'];191.0;0.0
+65;Sweetest Thing;U2;['Rock'];179.0;0.0
+66;How Do You Sleep At Night;Wade Hayes;['Country'];205.0;0.0
+67;Changes;2Pac;['Rap/Hip Hop'];268.0;1.0
+68;Hooch;Everything;['Pop', 'Rock'];219.0;0.0
+69;Take Me There;BLACKstreet & Mya Featuring Mase & Blinky Blink;[];;
+70;Home Alone;R. Kelly Featuring Keith Murray;['R&B'];296.0;0.0
+71;Pretty Fly (For A White Guy);The Offspring;['Rock'];188.0;0.0
+72;Don't Laugh At Me;Mark Wills;['Country', 'Singer & Songwriter'];209.0;0.0
+73;Angel Of Mine;Monica;['R&B', 'Soul'];250.0;0.0
+74;Rosa Parks;OutKast;['Rap/Hip Hop'];324.0;1.0
+75;Movin' On;Mya Featuring Silkk The Shocker;[];;
+76;Father Of Mine;Everclear;['Rock'];231.0;0.0
+77;Angel In Disguise;Brandy;['Pop'];288.0;0.0
+78;Where The Green Grass Grows;Tim McGraw;['Country'];201.0;0.0
+79;Lean On Me;Kirk Franklin Featuring Mary J. Blige, Bono, R. Kelly, Crystal Lewis & The Family;[];;
+80;Wherever You Go;Voices Of Theory;['Rap/Hip Hop', 'R&B'];339.0;0.0
+81;How Do You Fall In Love;Alabama;['Country'];181.0;0.0
+82;Absence Of The Heart;Deana Carter;['Country'];210.0;0.0
+83;Spirit Of A Boy, Wisdom Of A Man;Randy Travis;[];200.0;0.0
+84;Celebrity Skin;Hole;['Rock'];162.0;0.0
+85;For A Little While;Tim McGraw;['Country'];213.0;0.0
+86;Never There;Cake;['Rock'];164.0;0.0
+87;Thinkin' Bout It;Gerald Levert;['R&B'];391.0;0.0
+88;Fire Escape;Fastball;['Pop'];201.0;0.0
+89;Hold Me;Brian McKnight Featuring Tone & Kobe Bryant;[];;
+90;Hold On To Me;John Michael Montgomery;['Country'];251.0;0.0
+91;If I Lost You;Travis Tritt;['Pop'];228.0;0.0
+92;Here We Come;"Timbaland Featuring Missy ""Misdemeanor"" Elliott & Magoo";[];;
+93;Jump Jive An' Wail;The Brian Setzer Orchestra;['Rock'];173.0;0.0
+94;Everything's Changed;Lonestar;['Country'];233.0;0.0
+95;Can't Get Enough;Willie Max Featuring Raphael Saadiq;[];;
+96;Time After Time;Inoj;['R&B'];255.0;0.0
+97;Splackavellie;Pressha;['R&B'];242.0;0.0
+98;It's The Things You Do;Five;['Pop'];216.0;0.0
+99;SuperThug (What What);Noreaga;[];;

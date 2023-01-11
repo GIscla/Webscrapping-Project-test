@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Starboy;The Weeknd Featuring Daft Punk;['Pop', 'Singer & Songwriter'];199.0;0.0
+1;Black Beatles;Rae Sremmurd Featuring Gucci Mane;['Alternative', 'Pop'];241.0;0.0
+2;Closer;The Chainsmokers Featuring Halsey;['Pop', 'Singer & Songwriter'];217.0;0.0
+3;24K Magic;Bruno Mars;['Pop'];225.0;0.0
+4;Juju On That Beat (TZ Anthem);Zay Hilfigerrr & Zayion McCall;['Rap/Hip Hop'];144.0;0.0
+5;Side To Side;Ariana Grande Featuring Nicki Minaj;['Dance', 'Pop'];224.0;0.0
+6;Let Me Love You;DJ Snake Featuring Justin Bieber;[];204.0;0.0
+7;Don't Wanna Know;Maroon 5 Featuring Kendrick Lamar;[];213.0;0.0
+8;Bad Things;Machine Gun Kelly x Camila Cabello;['Pop'];243.0;0.0
+9;Fake Love;Drake;['Rap/Hip Hop'];210.0;1.0
+10;Caroline;Amine;['Rap/Hip Hop'];209.0;1.0
+11;Heathens;twenty one pilots;['Alternative'];195.0;0.0
+12;Bad And Boujee;Migos Featuring Lil Uzi Vert;[];181.0;0.0
+13;Scars To Your Beautiful;Alessia Cara;['Pop'];230.0;0.0
+14;Broccoli;D.R.A.M. Featuring Lil Yachty;['Rap/Hip Hop'];225.0;1.0
+15;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+16;Starving;Hailee Steinfeld & Grey Featuring Zedd;[];181.0;0.0
+17;I Don't Wanna Live Forever (Fifty Shades Darker);Zayn / Taylor Swift;['Pop'];247.0;0.0
+18;OOOUUU;Young M.A;['Rap/Hip Hop'];234.0;1.0
+19;Love On The Brain;Rihanna;['Pop'];224.0;1.0
+20;Bounce Back;Big Sean;['Rap/Hip Hop'];222.0;1.0
+21;The Greatest;Sia Featuring Kendrick Lamar;['Pop'];210.0;0.0
+22;Hallelujah;Pentatonix;['Pop'];269.0;0.0
+23;All Time Low;Jon Bellion;['Pop'];217.0;1.0
+24;I Feel It Coming;The Weeknd Featuring Daft Punk;[];268.0;0.0
+25;Treat You Better;Shawn Mendes;['Pop'];187.0;0.0
+26;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+27;Mercy;Shawn Mendes;['Pop'];208.0;0.0
+28;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+29;In The Name Of Love;Martin Garrix & Bebe Rexha;['Electro', 'Techno/House', 'Dance', 'Pop'];195.0;0.0
+30;I Hate U I Love U;gnash Featuring Olivia O'Brien;['Alternative'];251.0;1.0
+31;Can't Stop The Feeling!;Justin Timberlake;['Pop', 'Pop internationale', 'Rock'];236.0;0.0
+32;Blue Ain't Your Color;Keith Urban;['Country'];230.0;0.0
+33;Don't Let Me Down;The Chainsmokers Featuring Daya;['Electro', 'Dance', 'Pop'];208.0;0.0
+34;Deja Vu;J. Cole;['Rap/Hip Hop'];264.0;1.0
+35;Cheap Thrills;Sia Featuring Sean Paul;['Pop', 'Pop internationale', 'Rock', 'R&B', 'Soul'];224.0;0.0
+36;This Town;Niall Horan;['Pop'];232.0;0.0
+37;Cold Water;Major Lazer Featuring Justin Bieber & MO;['Electro'];185.0;0.0
+38;Chill Bill;Rob $tone Featuring J. Davi$ & Spooks;['Rap/Hip Hop'];177.0;1.0
+39;Love Me Now;John Legend;['Pop', 'Pop internationale', 'Rock', 'R&B'];210.0;0.0
+40;Both;Gucci Mane Featuring Drake;['Rap/Hip Hop'];190.0;1.0
+41;Unsteady;X Ambassadors;['Alternative'];193.0;0.0
+42;X;21 Savage & Metro Boomin Featuring Future;['Pop'];267.0;0.0
+43;Feliz Navidad;Jose Feliciano;['Classique'];182.0;0.0
+44;Mary, Did You Know?;Pentatonix;['Pop'];203.0;0.0
+45;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+46;The Christmas Song (Merry Christmas To You);Nat King Cole;[];191.0;0.0
+47;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+48;Party Monster;The Weeknd;['R&B'];249.0;1.0
+49;Last Christmas;Wham!;['Pop'];263.0;0.0
+50;Water Under The Bridge;Adele;['Pop'];240.0;0.0
+51;You Was Right;Lil Uzi Vert;['Rap/Hip Hop'];163.0;1.0
+52;No Heart;21 Savage & Metro Boomin;['Rap/Hip Hop'];235.0;1.0
+53;Neighbors;J. Cole;['Rap/Hip Hop'];216.0;1.0
+54;Used To This;Future Featuring Drake;['Rap/Hip Hop'];180.0;1.0
+55;How Far I'll Go;Auli'i Cravalho;['Films/Jeux vidéo', 'Musiques de films'];163.0;0.0
+56;Do You Mind;DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross;['Rap/Hip Hop'];325.0;1.0
+57;Party;Chris Brown Featuring Usher & Gucci Mane;['R&B'];221.0;1.0
+58;Immortal;J. Cole;['Rap/Hip Hop'];201.0;1.0
+59;May We All;Florida Georgia Line Featuring Tim McGraw;[];225.0;0.0
+60;Say You Won't Let Go;James Arthur;['Pop', 'Pop internationale', 'Rock'];211.0;0.0
+61;Wanna Be That Song;Brett Eldredge;['Country'];236.0;0.0
+62;Too Much Sauce;DJ ESCO Featuring Future & Lil Uzi Vert;['Rap/Hip Hop'];223.0;1.0
+63;Better Man;Little Big Town;['Country'];263.0;0.0
+64;Chantaje;Shakira Featuring Maluma;['Pop'];195.0;0.0
+65;Dirty Laundry;Carrie Underwood;['Country'];204.0;0.0
+66;1 Night;Lil Yachty;['Rap/Hip Hop'];237.0;0.0
+67;Redbone;Childish Gambino;['Rap/Hip Hop'];317.0;0.0
+68;Sneakin';Drake Featuring 21 Savage;['Pop'];257.0;0.0
+69;Million Reasons;Lady Gaga;['Pop'];205.0;0.0
+70;A Guy With A Girl;Blake Shelton;['Country'];189.0;0.0
+71;Just Hold On;Steve Aoki & Louis Tomlinson;['Electro', 'Dance', 'Pop'];198.0;0.0
+72;Song For Another Time;Old Dominion;['Country', 'Folk'];191.0;0.0
+73;Pick Up The Phone;Young Thug And Travis Scott Featuring Quavo;['Pop'];255.0;0.0
+74;Make Me (Cry);Noah Cyrus Featuring Labrinth;[];242.0;0.0
+75;Star Of The Show;Thomas Rhett;['Country'];181.0;0.0
+76;HandClap;Fitz And The Tantrums;['Alternative'];193.0;0.0
+77;How I'll Always Be;Tim McGraw;['Country'];213.0;0.0
+78;Rockabye;Clean Bandit Featuring Sean Paul & Anne-Marie;['Electro', 'Dance'];251.0;0.0
+79;Alone;Marshmello;['Electro', 'Dance'];273.0;0.0
+80;How Far I'll Go;Alessia Cara;['Films/Jeux vidéo', 'Musiques de films'];175.0;0.0
+81;All We Know;The Chainsmokers Featuring Phoebe Ryan;['Electro', 'Dance', 'Pop', 'Pop internationale', 'Rock'];194.0;0.0
+82;Change;J. Cole;['Rap/Hip Hop'];331.0;1.0
+83;Dirt On My Boots;Jon Pardi;['Country'];201.0;0.0
+84;Selfish;PnB Rock;['Rap/Hip Hop'];245.0;1.0
+85;You're Welcome;Dwayne Johnson;['Films/Jeux vidéo', 'Musiques de films'];163.0;0.0
+86;Fresh Eyes;Andy Grammer;['Pop'];198.0;0.0
+87;Sleep Without You;Brett Young;['Country'];187.0;0.0
+88;She's Mine Pt. 1;J. Cole;['Rap/Hip Hop'];209.0;1.0
+89;Ville Mentality;J. Cole;['Rap/Hip Hop'];194.0;1.0
+90;OTW;DJ Luke Nasty;['Rap/Hip Hop'];219.0;1.0
+91;Red Opps;21 Savage;['Rap/Hip Hop'];163.0;1.0
+92;For Whom The Bell Tolls;J. Cole;['Rap/Hip Hop'];127.0;1.0
+93;Six Feet Under;The Weeknd;['R&B'];237.0;1.0
+94;Reminder;The Weeknd;['R&B'];218.0;1.0
+95;Play That Song;Train;['Electro', 'Techno/House', 'Dance', 'Pop'];241.0;0.0
+96;Sidewalks;The Weeknd Featuring Kendrick Lamar;[];;
+97;Foldin Clothes;J. Cole;['Rap/Hip Hop'];316.0;1.0
+98;Swang;Rae Sremmurd;['Rap/Hip Hop'];208.0;1.0
+99;Versace On The Floor;Bruno Mars;['Pop'];261.0;0.0

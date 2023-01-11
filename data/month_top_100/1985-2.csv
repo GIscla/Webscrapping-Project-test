@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Want To Know What Love Is;Foreigner;['Rock', 'Hard Rock'];301.0;0.0
+1;Easy Lover;Philip Bailey With Phil Collins;['Pop', 'Rock', 'R&B', 'R&B contemporain'];304.0;0.0
+2;Careless Whisper;Wham! Featuring George Michael;['Pop', 'Singer & Songwriter'];194.0;0.0
+3;You're The Inspiration;Chicago;['Rock'];227.0;0.0
+4;Lover Boy;Billy Ocean;['Pop', 'R&B'];249.0;0.0
+5;The Boys Of Summer;Don Henley;['Rock'];288.0;0.0
+6;Like A Virgin;Madonna;['Pop'];218.0;0.0
+7;I Would Die 4 U;Prince And The Revolution;['Pop', 'R&B', 'Soul'];206.0;0.0
+8;Method Of Modern Love;Daryl Hall John Oates;['Pop'];332.0;0.0
+9;Neutron Dance;The Pointer Sisters;['Films/Jeux vidéo', 'Musiques de films'];253.0;0.0
+10;All I Need;Jack Wagner;['Pop'];207.0;0.0
+11;Run To You;Bryan Adams;['Pop'];233.0;0.0
+12;The Heat Is On;Glenn Frey;['Pop'];227.0;0.0
+13;Solid;Ashford & Simpson;['Rap/Hip Hop'];312.0;0.0
+14;Call To The Heart;Giuffria;['Rock'];277.0;0.0
+15;Jamie;Ray Parker Jr.;['Pop', 'R&B'];256.0;0.0
+16;Love Light In Flight;Stevie Wonder;['Pop'];414.0;0.0
+17;Operator;Midnight Star;['R&B'];465.0;0.0
+18;Sugar Walls;Sheena Easton;['Pop'];241.0;0.0
+19;Foolish Heart;Steve Perry;['Rock'];219.0;0.0
+20;Misled;Kool & The Gang;['R&B'];298.0;0.0
+21;The Old Man Down The Road;John Fogerty;['Rock'];214.0;0.0
+22;California Girls;David Lee Roth;['Rock'];168.0;0.0
+23;Jungle Love;The Time;['R&B'];333.0;0.0
+24;Mr. Telephone Man;New Edition;['R&B'];238.0;0.0
+25;Can't Fight This Feeling;REO Speedwagon;['Pop'];294.0;0.0
+26;Born In The USA;Bruce Springsteen;['Rock'];278.0;0.0
+27;Money Changes Everything;Cyndi Lauper;['Pop'];303.0;0.0
+28;The Wild Boys;Duran Duran;['Rock'];257.0;0.0
+29;Tenderness;General Public;['Pop'];211.0;0.0
+30;We Belong;Pat Benatar;['Rock'];219.0;0.0
+31;Do What You Do;Jermaine Jackson;['Pop'];248.0;0.0
+32;Mistake No. 3;Culture Club;['Pop'];234.0;0.0
+33;Rockin' At Midnight;The Honeydrippers;['Rock'];359.0;0.0
+34;Private Dancer;Tina Turner;['R&B'];240.0;0.0
+35;Only The Young;Journey;['Pop', 'Rock'];245.0;0.0
+36;Too Late For Goodbyes;Julian Lennon;['Pop'];214.0;0.0
+37;Relax;Frankie Goes To Hollywood;['Dance'];332.0;0.0
+38;Lover Girl;Teena Marie;['Pop'];291.0;0.0
+39;Naughty Naughty;John Parr;['Rock'];261.0;0.0
+40;Do It Again;The Kinks;['Rock'];254.0;0.0
+41;Ooh Ooh Song;Pat Benatar;['Rock'];248.0;0.0
+42;Tragedy;John Hunter;[];;
+43;Cool It Now;New Edition;['R&B'];347.0;0.0
+44;I Wanna Hear It From Your Lips;Eric Carmen;['Pop'];197.0;0.0
+45;Keeping The Faith;Billy Joel;['Pop'];279.0;0.0
+46;High On You;Survivor;['Rock'];248.0;0.0
+47;20/20;George Benson;['Pop'];242.0;0.0
+48;Do They Know It's Christmas?;Band Aid;['Pop'];222.0;0.0
+49;Treat Her Like A Lady;The Temptations;['R&B'];281.0;0.0
+50;Missing You;Diana Ross;['Pop'];260.0;0.0
+51;Sea Of Love;The Honeydrippers;['Rock'];183.0;0.0
+52;Save A Prayer;Duran Duran;['Rock'];225.0;0.0
+53;Turn Up The Radio;Autograph;['Pop', 'Rock', 'Rock & Roll/Rockabilly'];262.0;0.0
+54;Valotte;Julian Lennon;['Pop'];214.0;0.0
+55;Small Town Boy;Bronski Beat;['Pop'];299.0;0.0
+56;The Borderlines;Jeffrey Osborne;['R&B'];238.0;0.0
+57;In Neon;Elton John;['Pop'];259.0;0.0
+58;Somebody;Bryan Adams;['Pop'];282.0;0.0
+59;This Is My Night;Chaka Khan;['Dance', 'Rock'];280.0;0.0
+60;Knocking At Your Back Door;Deep Purple;['Rock'];425.0;0.0
+61;Nightshift;Commodores;['Pop'];305.0;0.0
+62;Understanding;Bob Seger;['Rock'];271.0;0.0
+63;Beat Of A Heart;Scandal Featuring Patty Smyth;[];;
+64;This Is Not America;David Bowie/Pat Metheny Group;['Pop'];232.0;0.0
+65;Why Can't I Have You;The Cars;['Pop'];245.0;0.0
+66;I Feel For You;Chaka Khan;['Dance', 'Rock'];343.0;0.0
+67;Go For It;Kim Wilde;[];;
+68;Invitation To Dance;Kim Carnes;['Pop'];219.0;0.0
+69;Yo Little Brother;Nolan Thomas;['Pop'];321.0;0.0
+70;Out Of Touch;Daryl Hall John Oates;['Pop', 'Rock'];235.0;0.0
+71;Tender Years;John Cafferty & The Beaver Brown Band;['Rock'];396.0;0.0
+72;Playing To Win;Little River Band;['Pop'];177.0;0.0
+73;Bruce;Rick Springfield;['Pop'];216.0;0.0
+74;I Can't Hold Back;Survivor;['Pop'];239.0;0.0
+75;Obsession;Animotion;['Alternative', 'Rock indé', 'Dance', 'Pop', 'Rock'];323.0;0.0
+76;Wake Me Up Before You Go-Go;Wham!;['Pop'];231.0;0.0
+77;Restless Heart;John Waite;['Pop'];270.0;0.0
+78;Lonely School;Tommy Shaw;['Rock'];300.0;0.0
+79;Rain Forest;Paul Hardcastle;['Pop'];448.0;0.0
+80;Crazy;Kenny Rogers;['Country', 'Pop'];257.0;0.0
+81;The Word Is Out;Jermaine Stewart;['R&B'];209.0;0.0
+82;Gotta Get You Home Tonight;Eugene Wilde;['Soul'];320.0;0.0
+83;Make No Mistake, He's Mine;Barbra Streisand With Kim Carnes;['Pop'];249.0;0.0
+84;Centipede;Rebbie Jackson;['R&B'];179.0;0.0
+85;No More Lonely Nights;Paul McCartney;['Rock'];283.0;0.0
+86;Baby Come Back To Me;The Manhattan Transfer;['Soul'];170.0;0.0
+87;All Through The Night;Cyndi Lauper;['Pop'];270.0;0.0
+88;The Belle Of St. Mark;Sheila E.;['Pop'];306.0;0.0
+89;Hello Again;The Cars;['Pop'];228.0;0.0
+90;Strut;Sheena Easton;['Pop'];241.0;0.0
+91;Penny Lover;Lionel Richie;['Pop'];225.0;0.0
+92;I Just Called To Say I Love You;Stevie Wonder;['Pop'];261.0;0.0
+93;(Pride) In The Name Of Love;U2;['Rock'];228.0;0.0
+94;When The Rain Begins To Fall;Jermaine Jackson & Pia Zadora;['R&B'];243.0;0.0
+95;It Ain't Enough;Corey Hart;['Rock'];209.0;0.0
+96;Better Be Good To Me;Tina Turner;['R&B'];310.0;0.0
+97;Stranger In Town;Toto;['Rock'];286.0;0.0
+98;Desert Moon;Dennis DeYoung;['Alternative'];369.0;0.0
+99;Caribbean Queen (No More Love On The Run);Billy Ocean;['Pop', 'Rock', 'R&B'];244.0;0.0

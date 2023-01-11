@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;"Kokomo (From""Cocktail"" )";The Beach Boys;[];;
+1;Wild, Wild West;The Escape Club;['Pop', 'Rock'];245.0;0.0
+2;Groovy Kind Of Love;Phil Collins;['Pop', 'Rock'];210.0;0.0
+3;The Loco-Motion;Kylie Minogue;['Pop'];193.0;0.0
+4;Bad Medicine;Bon Jovi;['Rock'];316.0;0.0
+5;One Moment In Time;Whitney Houston;['R&B'];283.0;0.0
+6;Never Tear Us Apart;INXS;['Pop'];184.0;0.0
+7;Desire;U2;['Rock'];179.0;0.0
+8;Red Red Wine;UB40;['Reggae'];184.0;0.0
+9;What's On Your Mind (Pure Energy);Information Society;['Dance', 'Pop'];275.0;0.0
+10;Don't You Know What The Night Can Do?;Steve Winwood;['Rock'];415.0;0.0
+11;How Can I Fall?;Breathe;['Pop'];284.0;0.0
+12;Baby, I Love Your Way/Freebird Medley;Will To Power;[];238.0;0.0
+13;Chains Of Love;Erasure;['Electro', 'Pop'];223.0;0.0
+14;Kissing A Fool;George Michael;['Pop'];276.0;0.0
+15;Another Lover;Giant Steps;[];;
+16;Look Away;Chicago;['Pop'];240.0;0.0
+17;Don't Know What You Got (Till It's Gone);Cinderella;['Rock'];354.0;0.0
+18;Don't Be Cruel;Bobby Brown;['R&B'];291.0;0.0
+19;I Don't Want Your Love;Duran Duran;['Rock'];228.0;0.0
+20;Love Bites;Def Leppard;['Rock'];346.0;0.0
+21;Giving You The Best That I Got;Anita Baker;['R&B'];233.0;0.0
+22;Waiting For A Star To Fall;Boy Meets Girl;['Pop'];270.0;0.0
+23;A Word In Spanish;Elton John;['Pop'];279.0;0.0
+24;Forever Young;Rod Stewart;['Pop', 'Rock'];245.0;0.0
+25;Walk On Water;Eddie Money;['Rock'];281.0;0.0
+26;The Promise;When In Rome;['Rock'];221.0;0.0
+27;Don't Be Cruel;Cheap Trick;['Rock'];187.0;0.0
+28;"Don't Worry, Be Happy (From ""Cocktail"")";Bobby McFerrin;[];;
+29;Edge Of A Broken Heart;Vixen;['Rock'];265.0;0.0
+30;Downtown Life;Daryl Hall John Oates;['Pop'];268.0;0.0
+31;Domino Dancing;Pet Shop Boys;['Dance'];258.0;0.0
+32;Welcome To The Jungle;Guns N' Roses;['Rock'];273.0;1.0
+33;Dance Little Sister;Terence Trent D'Arby;['Pop'];234.0;0.0
+34;Finish What Ya Started;Van Halen;['Rock', 'Hard Rock'];263.0;0.0
+35;True Love;Glenn Frey;['Pop'];279.0;0.0
+36;Small World;Huey Lewis & The News;['Rock'];282.0;0.0
+37;Time And Tide;Basia;['Pop'];242.0;0.0
+38;I'll Always Love You;Taylor Dayne;['Pop'];270.0;0.0
+39;Spy In The House Of Love;Was (Not Was);['Pop'];327.0;0.0
+40;In Your Room;The Bangles;['Pop'];207.0;0.0
+41;Every Rose Has Its Thorn;Poison;['Rock'];260.0;0.0
+42;Till I Loved You;Barbra Streisand & Don Johnson;['Pop'];256.0;0.0
+43;Please Don't Go Girl;New Kids On The Block;['Pop'];247.0;0.0
+44;My Prerogative;Bobby Brown;['R&B'];291.0;0.0
+45;It Takes Two;Rob Base & D.J. E-Z Rock;[];;
+46;Not Just Another Girl;Ivan Neville;['R&B'];251.0;0.0
+47;Early In The Morning;Robert Palmer;['Rock'];282.0;0.0
+48;Symptoms Of True Love;Tracie Spencer;['R&B'];304.0;0.0
+49;Any Love;Luther Vandross;['R&B'];302.0;0.0
+50;Boy, I've Been Told;SaFire;[];242.0;0.0
+51;I Hate Myself For Loving You;Joan Jett & The Blackhearts;['Rock'];246.0;0.0
+52;One Good Woman;Peter Cetera;['Pop'];277.0;0.0
+53;Sweet Child O' Mine;Guns N' Roses;['Pop'];354.0;1.0
+54;Yeah, Yeah, Yeah;Judson Spence;[];;
+55;Cars With The Boom;L'Trimm;['Rap/Hip Hop'];234.0;0.0
+56;You Came;Kim Wilde;['Pop'];208.0;0.0
+57;I Remember Holding You;Boys Club;['Pop'];293.0;0.0
+58;Never Let You Go;Sweet Sensation;['Pop'];368.0;0.0
+59;Silhouette;Kenny G;['Jazz', 'Pop'];272.0;0.0
+60;The Way You Love Me;Karyn White;['R&B', 'Soul & Funk', 'Soul'];294.0;0.0
+61;Didn't Know It Was Love;Survivor;['Pop'];263.0;0.0
+62;If It Isn't Love;New Edition;['R&B'];309.0;0.0
+63;Little Liar;Joan Jett & The Blackhearts;['Rock'];239.0;0.0
+64;"Hippy Hippy Shake (From ""Cocktail"")";The Georgia Satellites;[];;
+65;Handle With Care;Traveling Wilburys;['Rock'];199.0;0.0
+66;Thanks For My Child;Cheryl Pepsii Riley;['R&B'];316.0;0.0
+67;I Can't Wait;Deniece Williams;['Pop'];266.0;0.0
+68;Dancing Under A Latin Moon;Candi;[];;
+69;Rock & Roll Strategy;Thirty Eight Special;[];;
+70;Peek-A-Boo;Siouxsie & The Banshees;['Rock'];189.0;0.0
+71;Simply Irresistible;Robert Palmer;['Pop'];254.0;0.0
+72;Best Of Times;Peter Cetera;['Pop'];256.0;0.0
+73;Don't Break My Heart;Romeo's Daughter;[];;
+74;Strangelove;Depeche Mode;['Rock'];224.0;0.0
+75;Put This Love To The Test;Jon Astley;['Pop', 'Rock'];230.0;0.0
+76;Fallen Angel;Poison;['Rock'];236.0;0.0
+77;Wild World;Maxi Priest;['Reggae'];216.0;0.0
+78;Girls Ain't Nothing But Trouble;D.J. Jazzy Jeff & The Fresh Prince;['Rap/Hip Hop', 'Pop'];306.0;0.0
+79;A Nightmare On My Street;D.J. Jazzy Jeff & The Fresh Prince;['Pop'];298.0;0.0
+80;Don't Rush Me;Taylor Dayne;['Pop'];227.0;0.0
+81;Forever Young;Alphaville;['Pop'];226.0;0.0
+82;Ghost Town;Cheap Trick;['Rock'];253.0;0.0
+83;Baby Can I Hold You;Tracy Chapman;['Folk'];193.0;0.0
+84;It's Money That Matters;Randy Newman;['Pop', 'Rock'];247.0;0.0
+85;Got A New Love;Good Question;[];;
+86;Way Out;J.J. Fad;['Rap/Hip Hop'];169.0;0.0
+87;Spring Love (Come Back To Me);Stevie B;[];330.0;0.0
+88;You Make Me Work;Cameo;['R&B', 'Soul'];368.0;0.0
+89;All This Time;Tiffany;['Pop'];261.0;0.0
+90;Jealous Guy;John Lennon & The Plastic Ono Band;[];;
+91;When The Children Cry;White Lion;['Rock', 'Hard Rock'];263.0;0.0
+92;When It's Love;Van Halen;['Pop'];339.0;0.0
+93;I'm Not Your Man;Tommy Conwell And The Young Rumblers;['Rock'];256.0;0.0
+94;Superstitious;Europe;['Pop'];274.0;0.0
+95;Put A Little Love In Your Heart;Annie Lennox & Al Green;['R&B'];228.0;0.0
+96;I Believe In You;Stryper;['Rock'];197.0;0.0
+97;Nobody's Perfect;Mike + The Mechanics;['Pop', 'Rock'];281.0;0.0
+98;The Lover In Me;Sheena Easton;['Pop'];301.0;0.0
+99;"Nobody's Fool (Theme From ""Caddyshack II"")";Kenny Loggins;['Pop'];257.0;0.0

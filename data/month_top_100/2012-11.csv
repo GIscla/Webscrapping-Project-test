@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;One More Night;Maroon 5;['Pop'];219;0
+1;Gangnam Style;PSY;['Pop'];219;0
+2;Some Nights;fun.;['Alternative'];277;1
+3;We Are Never Ever Getting Back Together;Taylor Swift;['Country'];193;0
+4;Die Young;Ke$ha;['Pop'];213;0
+5;As Long As You Love Me;Justin Bieber Featuring Big Sean;['Pop'];222;0
+6;Too Close;Alex Clare;['Pop'];256;0
+7;Diamonds;Rihanna;['Pop'];225;0
+8;Let Me Love You (Until You Learn To Love Yourself);Ne-Yo;['R&B'];251;0
+9;Blow Me (One Last Kiss);P!nk;['Pop', 'Pop internationale', 'Rock'];255;1
+10;Don't Wake Me Up;Chris Brown;['Rap/Hip Hop', 'R&B'];222;0
+11;Good Time;Owl City & Carly Rae Jepsen;['Pop'];205;0
+12;State Of Grace;Taylor Swift;['Country'];295;0
+13;Lights;Ellie Goulding;['Pop'];210;0
+14;Locked Out Of Heaven;Bruno Mars;['Pop'];233;0
+15;Everybody Talks;Neon Trees;['Alternative'];177;1
+16;Home;Phillip Phillips;['Pop'];210;0
+17;Clique;Kanye West, Jay-Z, Big Sean;['Rap/Hip Hop'];293;1
+18;Whistle;Flo Rida;['Rap/Hip Hop'];225;0
+19;50 Ways To Say Goodbye;Train;['Pop', 'Pop internationale', 'Rock'];247;0
+20;Blown Away;Carrie Underwood;['Country'];240;0
+21;Adorn;Miguel;['Pop', 'Pop internationale', 'Rock', 'R&B'];194;0
+22;I Knew You Were Trouble.;Taylor Swift;['Country'];219;0
+23;I Cry;Flo Rida;['Rap/Hip Hop'];223;0
+24;Call Me Maybe;Carly Rae Jepsen;['Pop'];193;0
+25;Somebody That I Used To Know;Gotye Featuring Kimbra;['Alternative', 'Pop Indé', 'Pop'];243;0
+26;Ho Hey;The Lumineers;['Alternative'];163;0
+27;Wide Awake;Katy Perry;['Pop'];220;0
+28;Cruise;Florida Georgia Line Featuring Nelly;['Country', 'Singer & Songwriter'];216;0
+29;Titanium;David Guetta Featuring Sia;['Dance'];245;0
+30;Live While We're Young;One Direction;['Pop', 'Pop internationale', 'Rock'];200;0
+31;Payphone;Maroon 5 Featuring Wiz Khalifa;['Pop'];231;0
+32;Mercy;Kanye West, Big Sean, Pusha T, 2 Chainz;['Rap/Hip Hop'];329;1
+33;I Will Wait;Mumford & Sons;['Rock'];276;0
+34;It's Time;Imagine Dragons;['Alternative'];240;0
+35;Finally Found You;Enrique Iglesias Featuring Sammy Adams;['Pop'];223;0
+36;Pop That;French Montana Featuring Rick Ross, Drake, Lil Wayne;['Rap/Hip Hop'];30;0
+37;Wanted;Hunter Hayes;['Pop'];228;0
+38;Give Your Heart A Break;Demi Lovato;['Pop'];205;0
+39;Hard To Love;Lee Brice;['Country'];224;0
+40;The A Team;Ed Sheeran;['Pop'];258;0
+41;Kiss Tomorrow Goodbye;Luke Bryan;['Country'];202;0
+42;No Lie;2 Chainz Featuring Drake;['Rap/Hip Hop'];239;0
+43;I Won't Give Up;Jason Mraz;['Pop'];240;0
+44;Skyfall;Adele;['Pop', 'Films/Jeux vidéo', 'Musiques de films'];286;0
+45;Bandz A Make Her Dance;Juicy J Featuring Lil Wayne & 2 Chainz;['Rap/Hip Hop'];278;1
+46;Girl On Fire;Alicia Keys Featuring Nicki Minaj;['R&B'];270;0
+47;2 Reasons;Trey Songz Featuring T.I.;['R&B'];197;1
+48;Birthday Song;2 Chainz Featuring Kanye West;['Rap/Hip Hop'];298;0
+49;Ball;T.I. Featuring Lil Wayne;['Rap/Hip Hop'];205;1
+50;Pound The Alarm;Nicki Minaj;['Rap/Hip Hop'];205;1
+51;Thinkin Bout You;Frank Ocean;['Pop'];201;0
+52;Turn On The Lights;Future;['Electro', 'Dance'];267;0
+53;Catch My Breath;Kelly Clarkson;['Pop', 'Pop internationale', 'Rock'];251;0
+54;Swimming Pools (Drank);Kendrick Lamar;['Rap/Hip Hop'];247;1
+55;Feel Again;OneRepublic;['Pop'];185;0
+56;The One That Got Away;Jake Owen;['Country'];194;0
+57;I Can Only Imagine;David Guetta Featuring Chris Brown & Lil Wayne;['Dance'];209;0
+58;Your Body;Christina Aguilera;['Pop', 'Pop internationale', 'Rock'];239;0
+59;Fastest Girl In Town;Miranda Lambert;['Country'];197;0
+60;Lovin' You Is Fun;Easton Corbin;['Country'];199;0
+61;Come Wake Me Up;Rascal Flatts;['Country'];266;0
+62;Take A Little Ride;Jason Aldean;['Country'];187;0
+63;Anything Could Happen;Ellie Goulding;['Pop'];286;0
+64;Put It Down;Brandy Featuring Chris Brown;['Dance', 'Rap/Hip Hop', 'Pop', 'R&B', 'Soul'];248;0
+65;Madness;Muse;['Alternative'];281;0
+66;Beer Money;Kip Moore;['Country'];218;0
+67;Want U Back;Cher Lloyd;['Pop'];214;0
+68;Numb;Usher;['R&B'];225;0
+69;Hall Of Fame;The Script Featuring will.i.am;['Pop'];202;0
+70;Beauty And A Beat;Justin Bieber Featuring Nicki Minaj;['Pop'];228;0
+71;No Worries;Lil Wayne Featuring Detail;['Rap/Hip Hop'];211;0
+72;Creepin';Eric Church;['Country'];232;0
+73;Pontoon;Little Big Town;['Country'];193;0
+74;Don't You Worry Child;Swedish House Mafia Featuring John Martin;['Electro'];212;0
+75;Til My Last Day;Justin Moore;['Country'];237;0
+76;Red;Taylor Swift;['Alternative'];254;1
+77;Begin Again;Taylor Swift;['Country'];239;0
+78;Dance For You;Beyonce;['Pop', 'Pop internationale', 'Rock'];377;0
+79;Truck Yeah;Tim McGraw;['Country'];208;0
+80;Dive In;Trey Songz;['R&B'];252;0
+81;Thrift Shop;Macklemore & Ryan Lewis Featuring Wanz;['Rap/Hip Hop'];235;1
+82;Babel;Mumford & Sons;['Rock'];276;0
+83;Southern Comfort Zone;Brad Paisley;['Country'];317;0
+84;Take A Walk;Passion Pit;['Alternative'];264;0
+85;How Country Feels;Randy Houser;['Country'];185;0
+86;Diced Pineapples;Rick Ross Featuring Wale & Drake;['Rap/Hip Hop'];203;0
+87;Did It For The Girl;Greg Bates;['Country'];191;0
+88;Every Storm (Runs Out Of Rain);Gary Allan;['Country'];226;0
+89;El Cerrito Place;Kenny Chesney;['Country'];351;0
+90;Goodbye In Her Eyes;Zac Brown Band;['Country'];324;0
+91;Night Train;Jason Aldean;['Country'];232;0
+92;Radioactive;Imagine Dragons;['Alternative'];186;0
+93;She's So Mean;matchbox twenty;['Pop'];232;0
+94;My Moment;DJ Drama Featuring 2 Chainz, Meek Mill & Jeremih;['Rap/Hip Hop'];198;1
+95;Sweet Nothing;Calvin Harris Featuring Florence Welch;['Electro', 'Techno/House', 'Dance'];214;0
+96;Hello;Karmin;['Pop'];236;0
+97;Ready Or Not;Bridgit Mendler;['Pop'];200;0
+98;Amen;Meek Mill Featuring Drake;['Rap/Hip Hop'];289;1
+99;Whispers In The Dark;Mumford & Sons;['Rock'];195;0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;All I Have;Jennifer Lopez Featuring LL Cool J;['Pop'];254.0;0.0
+1;In Da Club;50 Cent;['Rap/Hip Hop'];193.0;1.0
+2;Mesmerize;Ja Rule Featuring Ashanti;['Rap/Hip Hop'];282.0;1.0
+3;Bump, Bump, Bump;B2K & P. Diddy;['Pop'];282.0;0.0
+4;Miss You;Aaliyah;['R&B', 'Soul'];245.0;0.0
+5;Cry Me A River;Justin Timberlake;['Pop'];288.0;0.0
+6;I'm With You;Avril Lavigne;['Pop'];223.0;0.0
+7;Beautiful;Christina Aguilera;['Pop'];238.0;0.0
+8;Gossip Folks;"Missy ""Misdemeanor"" Elliott Featuring Ludacris";['Pop'];210.0;0.0
+9;Landslide;Dixie Chicks;['Country'];226.0;0.0
+10;Picture;Kid Rock Featuring Sheryl Crow Or Allison Moorer;[];;
+11;Ignition;R. Kelly;['Rap/Hip Hop', 'R&B'];172.0;0.0
+12;Wanksta;50 Cent;['Rap/Hip Hop'];219.0;1.0
+13;When I'm Gone;3 Doors Down;['Rock'];260.0;0.0
+14;How You Gonna Act Like That;Tyrese;['R&B', 'Soul'];294.0;0.0
+15;'03 Bonnie & Clyde;Jay-Z Featuring Beyonce Knowles;['Pop'];218.0;0.0
+16;Superman;Eminem;['Rap/Hip Hop'];350.0;1.0
+17;Don't Mess With My Man;Nivea Featuring Brian & Brandon Casey;['Pop'];237.0;0.0
+18;Air Force Ones;Nelly Featuring Kyjuan, Ali & Murphy Lee;[];;
+19;The Game Of Love;Santana Featuring Michelle Branch;['Pop'];254.0;0.0
+20;Sick Of Being Lonely;Field Mob;['Pop'];229.0;0.0
+21;Your Body Is A Wonderland;John Mayer;['Pop'];249.0;0.0
+22;All The Things She Said;t.A.T.u.;['Pop'];212.0;0.0
+23;Excuse Me Miss;JAY-Z;['Rap/Hip Hop'];279.0;1.0
+24;Lifestyles Of The Rich And Famous;Good Charlotte;['Rock'];190.0;0.0
+25;She Hates Me;Puddle Of Mudd;['Rock'];216.0;1.0
+26;19 Somethin';Mark Wills;['Country'];199.0;0.0
+27;I Just Wanna Be Mad;Terri Clark;['Country'];206.0;0.0
+28;The Baby;Blake Shelton;['Country'];235.0;0.0
+29;Tell Me (What's Goin' On);Smilez & Southstar;['Pop'];257.0;0.0
+30;Underneath It All;No Doubt Featuring Lady Saw;[];281.0;0.0
+31;Travelin' Soldier;Dixie Chicks;['Country'];310.0;0.0
+32;Man To Man;Gary Allan;['Country'];220.0;0.0
+33;Lose Yourself;Eminem;['Rap/Hip Hop'];326.0;1.0
+34;Blowin' Me Up (With Her Love);JC Chasez;['Pop'];290.0;0.0
+35;Love Of My Life (An Ode To Hip Hop);Erykah Badu Featuring Common;['Pop'];248.0;0.0
+36;Beautiful;Snoop Dogg Featuring Pharrell & Uncle Charlie Wilson;['Pop'];245.0;0.0
+37;You Can't Hide Beautiful;Aaron Lines;['Country'];230.0;0.0
+38;Brokenheartsville;Joe Nichols;['Country', 'Rock'];231.0;0.0
+39;Angel;Amanda Perez;['Pop'];218.0;0.0
+40;Don't Know Why;Norah Jones;['Singer & Songwriter'];187.0;0.0
+41;Family Portrait;P!nk;['Pop'];295.0;0.0
+42;The Jump Off;Lil' Kim Featuring Mr. Cheeks;['Rap/Hip Hop'];249.0;1.0
+43;Work It;"Missy ""Misdemeanor"" Elliott";[];;
+44;Thugz Mansion;2Pac;['Rap/Hip Hop'];252.0;1.0
+45;I Can;Nas;['Rap/Hip Hop'];253.0;0.0
+46;That'd Be Alright;Alan Jackson;['Country'];221.0;0.0
+47;dontchange;Musiq;['Soul'];304.0;0.0
+48;Fabulous;Jaheim Featuring Tha Rayne;['Rap/Hip Hop'];227.0;0.0
+49;Clocks;Coldplay;['Rock'];307.0;0.0
+50;No One Knows;Queens Of The Stone Age;['Pop'];278.0;0.0
+51;I'd Do Anything;Simple Plan;['Pop'];197.0;0.0
+52;I Drove All Night;Celine Dion;['Pop'];240.0;0.0
+53;What Happened To That Boy;Baby Featuring Clipse;[];;
+54;Always;Saliva;['Pop'];231.0;0.0
+55;I Should Be...;Dru Hill;['R&B'];297.0;0.0
+56;Hell Yeah;Ginuwine Featuring Baby;[];;
+57;Big Star;Kenny Chesney;['Country', 'Pop', 'Pop internationale', 'Rock'];239.0;0.0
+58;No Letting Go;Wayne Wonder;['Reggae'];202.0;0.0
+59;Fall Into Me;Emerson Drive;['Country'];170.0;0.0
+60;A.D.I.D.A.S.;Killer Mike Featuring Big Boi;['Rap/Hip Hop'];207.0;1.0
+61;The Red;Chevelle;['Rock'];238.0;0.0
+62;Can't Stop;Red Hot Chili Peppers;['Alternative'];269.0;0.0
+63;I Wish You'd Stay;Brad Paisley;['Country'];377.0;0.0
+64;Get Busy;Sean Paul;['Pop'];211.0;0.0
+65;Make It Clap;Busta Rhymes Featuring Spliff Star;['Rap/Hip Hop'];220.0;1.0
+66;Up!;Shania Twain;['Country'];162.0;0.0
+67;Laundromat;Nivea;[];;
+68;Fine Again;Seether;['Rock'];244.0;0.0
+69;Come Close To Me;Common Featuring Mary J. Blige;['R&B'];219.0;0.0
+70;Do That...;Baby Featuring P. Diddy;[];;
+71;Like A Stone;Audioslave;['Rock'];294.0;0.0
+72;Satisfaction;Eve;['Rap/Hip Hop'];258.0;1.0
+73;Chrome;Trace Adkins;['Country'];208.0;0.0
+74;Emotional Rollercoaster;Vivian Green;['R&B'];196.0;0.0
+75;She's My Kind Of Rain;Tim McGraw;['Country'];255.0;0.0
+76;Paradise;LL Cool J Featuring Amerie;['Pop'];246.0;1.0
+77;Something;Lasgo;['Dance'];221.0;0.0
+78;Beautiful Goodbye;Jennifer Hanson;[];230.0;0.0
+79;All My Life;Foo Fighters;['Alternative', 'Pop', 'Pop internationale', 'Rock'];263.0;0.0
+80;Disease;matchbox twenty;['Pop'];219.0;0.0
+81;Can't Stop Loving You;Phil Collins;['Pop'];258.0;0.0
+82;B R Right;Trina Featuring Ludacris;['Rap/Hip Hop'];261.0;1.0
+83;In A Little While;Uncle Kracker;['Pop'];249.0;0.0
+84;Made You Look;Nas;['Rap/Hip Hop'];203.0;1.0
+85;Ma, I Don't Love Her;Clipse Featuring Faith Evans;['Rap/Hip Hop'];257.0;1.0
+86;You Know You're Right;Nirvana;['Rock'];217.0;0.0
+87;Bother;Stone Sour;['Rock'];240.0;1.0
+88;I'm Gonna Getcha Good!;Shania Twain;['Country'];242.0;0.0
+89;One Of Those Days;Whitney Houston;['Pop'];255.0;0.0
+90;X Gon' Give It To Ya;DMX;['Pop'];219.0;0.0
+91;All I Need;Fat Joe Featuring Tony Sunshine & Armageddon;['Rap/Hip Hop'];278.0;1.0
+92;Through The Rain;Mariah Carey;['Pop'];288.0;0.0
+93;A Lot Of Things Different;Kenny Chesney;['Country', 'Pop', 'Pop internationale', 'Rock'];283.0;0.0
+94;Breathe;Telepopmusik;['Electro'];282.0;0.0
+95;Cochise;Audioslave;['Rock'];222.0;0.0
+96;He Is;Heather Headley;['Pop'];226.0;0.0
+97;Talkin' To Me;Amerie;['Pop'];234.0;0.0
+98;Breathe;Blu Cantrell Featuring Sean Paul;['Pop'];228.0;0.0
+99;I'd Rather;Luther Vandross;['R&B'];259.0;0.0

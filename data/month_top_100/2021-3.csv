@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Drivers License;Olivia Rodrigo;['Pop'];242.0;1.0
+1;Up;Cardi B;['Rap/Hip Hop'];156.0;1.0
+2;Go Crazy;Chris Brown & Young Thug;['Rap/Hip Hop', 'R&B'];176.0;1.0
+3;34+35;Ariana Grande Feat. Doja Cat & Megan Thee Stallion;[];;
+4;Blinding Lights;The Weeknd;['R&B'];200.0;0.0
+5;Save Your Tears;The Weeknd & Ariana Grande;['Pop'];219.0;0.0
+6;Mood;24kGoldn Featuring iann dior;['Alternative', 'Pop'];140.0;1.0
+7;Calling My Phone;Lil Tjay Featuring 6LACK;[];205.0;0.0
+8;Positions;Ariana Grande;['Pop'];172.0;0.0
+9;Levitating;Dua Lipa;['Pop'];203.0;0.0
+10;What You Know Bout Love;Pop Smoke;['Rap/Hip Hop'];160.0;0.0
+11;Therefore I Am;Billie Eilish;['Alternative'];173.0;0.0
+12;Back In Blood;Pooh Shiesty Featuring Lil Durk;['Rap/Hip Hop'];184.0;1.0
+13;Whoopty;CJ;['Rap/Hip Hop'];123.0;0.0
+14;For The Night;Pop Smoke Featuring Lil Baby & DaBaby;[];192.0;0.0
+15;Dakiti;Bad Bunny & Jhay Cortez;['Electro', 'Dance'];193.0;0.0
+16;Good Days;SZA;['R&B'];278.0;1.0
+17;I Hope;Gabby Barrett Featuring Charlie Puth;['Country'];209.0;0.0
+18;You're Mines Still;Yung Bleu Featuring Drake;['Rap/Hip Hop'];226.0;1.0
+19;Better Together;Luke Combs;['Country'];219.0;0.0
+20;You Broke Me First.;Tate McRae;['Pop'];169.0;1.0
+21;Streets;Doja Cat;['R&B'];226.0;1.0
+22;On Me;Lil Baby;['Rap/Hip Hop'];135.0;1.0
+23;My Ex's Best Friend;Machine Gun Kelly X blackbear;[];;
+24;Good Time;Niko Moon;['Country'];214.0;0.0
+25;Throat Baby (Go Baby);BRS Kash;['Rap/Hip Hop'];218.0;1.0
+26;Holy;Justin Bieber Featuring Chance The Rapper;['Pop'];167.0;0.0
+27;Best Friend;Saweetie Featuring Doja Cat;['Rap/Hip Hop'];155.0;1.0
+28;Willow;Taylor Swift;['Alternative'];214.0;0.0
+29;Lonely;Justin Bieber & benny blanco;['Pop'];149.0;1.0
+30;Bang!;AJR;['Pop'];170.0;0.0
+31;No More Parties;Coi Leray Featuring Lil Durk;['Rap/Hip Hop'];176.0;1.0
+32;Anyone;Justin Bieber;['Pop'];153.0;0.0
+33;Lemonade;Internet Money & Gunna Featuring Don Toliver & NAV;[];194.0;0.0
+34;Just The Way;Parmalee x Blanco Brown;[];;
+35;Put Your Records On;Ritt Momney;['Pop'];210.0;0.0
+36;Down To One;Luke Bryan;['Country'];221.0;0.0
+37;Without You;The Kid LAROI;['Rap/Hip Hop'];161.0;1.0
+38;Laugh Now Cry Later;Drake Featuring Lil Durk;['Rap/Hip Hop', 'Sports'];181.0;1.0
+39;Starting Over;Chris Stapleton;['Country'];240.0;0.0
+40;Body;Megan Thee Stallion;['Rap/Hip Hop'];171.0;1.0
+41;Cry Baby;Megan Thee Stallion Featuring DaBaby;['Rap/Hip Hop'];137.0;1.0
+42;Time Today;Moneybagg Yo;['Rap/Hip Hop'];136.0;1.0
+43;What's Your Country Song;Thomas Rhett;['Country'];171.0;0.0
+44;Damage;H.E.R.;['R&B'];223.0;0.0
+45;Beers And Sunshine;Darius Rucker;['Country'];178.0;0.0
+46;Beat Box;SpotemGottem Featuring Pooh Shiesty Or DaBaby;[];;
+47;The Good Ones;Gabby Barrett;['Country'];213.0;0.0
+48;We're Good;Dua Lipa;['Pop'];165.0;0.0
+49;Dynamite;BTS;['Musique asiatique'];199.0;0.0
+50;Buss It;Erica Banks;['Rap/Hip Hop'];187.0;1.0
+51;Wasted On You;Morgan Wallen;['Country'];178.0;0.0
+52;Clouds;NF;['Rap/Hip Hop'];243.0;0.0
+53;Telepatia;Kali Uchis;['Latino'];160.0;0.0
+54;Monsters;All Time Low Featuring Demi Lovato & blackbear;['Alternative'];174.0;1.0
+55;Goosebumps;Travis Scott & HVME;['Rap/Hip Hop'];162.0;1.0
+56;Golden;Harry Styles;['Pop'];208.0;0.0
+57;La Noche de Anoche;Bad Bunny & Rosalia;['Latino'];203.0;0.0
+58;My Head And My Heart;Ava Max;['Pop'];174.0;0.0
+59;Long Live;Florida Georgia Line;['Country'];153.0;0.0
+60;Test Drive;Ariana Grande;['Pop'];122.0;0.0
+61;Astronaut In The Ocean;Masked Wolf;['Rap/Hip Hop'];132.0;1.0
+62;Heartbreak Anniversary;Giveon;['R&B'];198.0;0.0
+63;Sand In My Boots;Morgan Wallen;['Country'];202.0;0.0
+64;Heat Waves;Glass Animals;['Pop'];238.0;0.0
+65;Lady;Brett Young;['Country'];194.0;0.0
+66;Hit Bout It;Lil Yachty Featuring Kodak Black;[];;
+67;Forever After All;Luke Combs;['Country'];232.0;0.0
+68;Hole In The Bottle;Kelsea Ballerini;['Country'];155.0;0.0
+69;Tyler Herro;Jack Harlow;['Rap/Hip Hop'];156.0;1.0
+70;Girl Like Me;Black Eyed Peas X Shakira;[];;
+71;Finesse Out The Gang Way;Lil Durk Featuring Lil Baby;['Rap/Hip Hop'];186.0;1.0
+72;Hell Of A View;Eric Church;['Country'];175.0;0.0
+73;Lifestyle;Jason Derulo Featuring Adam Levine;['Pop'];153.0;1.0
+74;Momma's House;Dustin Lynch;['Country'];220.0;0.0
+75;Masterpiece;DaBaby;['Rap/Hip Hop'];181.0;1.0
+76;Somebody Like That;Tenille Arts;['Country'];198.0;0.0
+77;Opp Stoppa;YBN Nahmir Featuring 21 Savage;['Rap/Hip Hop'];135.0;1.0
+78;Neighbors;Pooh Shiesty Featuring BIG30;['Rap/Hip Hop'];171.0;1.0
+79;Somebody's Problem;Morgan Wallen;['Country'];161.0;0.0
+80;You Got It;VEDO;['R&B', 'Soul'];203.0;1.0
+81;Bandido;Myke Towers & Juhn;['Latino'];232.0;0.0
+82;Moonwalking In Calabasas;DDG;['Rap/Hip Hop'];163.0;1.0
+83;Drankin N Smokin;Future & Lil Uzi Vert;['Rap/Hip Hop'];213.0;1.0
+84;One Too Many;Keith Urban Duet With P!nk;[];;
+85;Still Trappin';Lil Durk & King Von;['Rap/Hip Hop'];172.0;1.0
+86;Quicksand;Morray;['Rap/Hip Hop'];224.0;1.0
+87;Chicken Tendies;Clinton Kane;['Pop', 'Singer & Songwriter'];196.0;0.0
+88;Pick Up Your Feelings;Jazmine Sullivan;['R&B'];229.0;0.0
+89;ZaZa;6ix9ine;['Rap/Hip Hop'];103.0;1.0
+90;Almost Maybes;Jordan Davis;['Country'];179.0;0.0
+91;Made For You;Jake Owen;['Country'];238.0;0.0
+92;Glad You Exist;Dan + Shay;['Country'];144.0;0.0
+93;Afterglow;Ed Sheeran;['Pop'];185.0;0.0
+94;Cover Me Up;Morgan Wallen;['Country'];292.0;0.0
+95;The Business;Tiesto;['Dance'];164.0;0.0
+96;Hello;Pop Smoke Featuring A Boogie Wit da Hoodie;[];;
+97;Monster;Shawn Mendes & Justin Bieber;['Pop'];178.0;0.0
+98;Track Star;Mooski;['R&B'];199.0;1.0
+99;Like I Want You;Giveon;['R&B'];260.0;0.0
