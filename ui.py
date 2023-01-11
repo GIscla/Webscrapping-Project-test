@@ -37,7 +37,6 @@ def page_stats():
     return render_template('stats.html', genre_file=save_genre, duration_file=save_duration)
 
 
-
 if __name__ == "__main__":
     shutil.rmtree("static/uploads")
     os.mkdir("static/uploads")

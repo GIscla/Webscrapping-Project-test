@@ -112,7 +112,7 @@ def HOT100_history_by_year(df):
 
 
 def plot_genres_evolution(df, precision=20, save_name=None):
-    fig, ax = plt.subplots(figsize=(10, 5))
+    fig, ax = plt.subplots()
 
     genres_pop = dict()
     for genre in df.columns:
@@ -136,7 +136,7 @@ def plot_genres_evolution(df, precision=20, save_name=None):
 
 
 def plot_duration_evolution(df, precision=20, save_name=None):
-    fig, ax = plt.subplots(figsize=(10, 5))
+    fig, ax = plt.subplots()
     X_Y_Spline = make_interp_spline(df.year, df.duration, 3)
     X_ = df.year.iloc[np.linspace(0, len(df) - 1, precision)]
     Y_ = X_Y_Spline(X_)
