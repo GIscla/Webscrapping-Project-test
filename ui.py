@@ -37,10 +37,6 @@ def page_stats():
     return render_template('stats.html', genre_file=save_genre, duration_file=save_duration)
 
 
-@app.route("/report")
-def page_report():
-    return render_template('report.html')
-
 
 if __name__ == "__main__":
     shutil.rmtree("static/uploads")
