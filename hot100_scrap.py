@@ -10,7 +10,7 @@ import deezer_api as deez
 from tqdm import tqdm
 tqdm.pandas()
 
-chromedriver_path = r"C:/Users/Aymeric Leboucher/OneDrive - De Vinci/ESILV/A5/Webscrapping/Projet/data/modules/chromedriver.exe"
+chromedriver_path = r"modules/chromedriver.exe"
 
 
 def timeit(func):
@@ -142,7 +142,7 @@ def top_100s(start, end):
             try:
                 top_100 = get_top_100(annee, month, 1, additional=True)
                 top_100.to_csv(
-                    f"C:/Users/AymericLEBOUCHER/OneDrive - Groupe ERGET/Ressources/ESILV/Webscrapping/month_top_100/{annee}-{month}.csv",
+                    f"/month_top_100_temp/{annee}-{month}.csv",
                     sep=";")
             except:
                 print(f"No top 100 in {annee}/{month}")
