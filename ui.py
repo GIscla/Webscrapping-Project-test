@@ -22,7 +22,7 @@ def page_menu():
 def page_hot100():
     year = int(request.form["year"])
     month = int(request.form["month"])
-    with open(url_for('static', filename='data/month_top_100/{year}-{month}.csv')) as file:
+    with open(f"data/month_top_100/{year}-{month}.csv") as file:
         reader = csv.reader(file, delimiter=';')
         data = list(reader)
     return render_template('hot100.html', csv=data, date=f"{year}-{month}")
