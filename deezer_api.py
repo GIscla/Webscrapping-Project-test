@@ -22,7 +22,7 @@ def get_album_genre(album_id):
     album_url = f"https://api.deezer.com/album/{album_id}"
     album_data = requests.get(album_url)
     album_data = album_data.json()
-    for genre in album_data['genres']['static']:
+    for genre in album_data['genres']['data']:
         list_genres.append(genre['name'])
     return list_genres
 
@@ -51,7 +51,7 @@ def get_track_genres(title, artist):# Set the search query
 def get_track_additional_infos(title, artist, genre=True):# Set the search query
     data = deezer_query(title, artist)
     try:
-        track = data['static'][0]
+        track = data['data'][0]
         track_infos = dict()
         track_infos['explicit_lyrics'] = 1 if bool(track['explicit_lyrics']) else 0
         track_infos['duration'] = int(track['duration'])
@@ -68,4 +68,4 @@ def get_track_additional_infos(title, artist, genre=True):# Set the search query
 
 
 if __name__ == "__main__":
-    print(deezer_query("Get Down on it", ""))
+    print(get_track_additional_infos("Hit the road Jack", "RAY CHARLES"))
