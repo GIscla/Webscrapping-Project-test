@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;(Everything I Do) I Do It For You;Bryan Adams;['Pop'];393.0;0.0
+1;Rush Rush;Paula Abdul;['Pop'];293.0;0.0
+2;Baby Baby;Amy Grant;[];;
+3;Baby Baby;Amy Grant;[];236.0;0.0
+4;The First Time;Surface;['Pop'];237.0;0.0
+5;Romantic;Karyn White;['Dance'];247.0;0.0
+6;All The Man That I Need;Whitney Houston;['Pop', 'Pop internationale', 'Rock', 'R&B'];249.0;0.0
+7;I Don't Wanna Cry;Mariah Carey;['Rock'];288.0;0.0
+8;Coming Out Of The Dark;Gloria Estefan;['Pop'];244.0;0.0
+9;Good Vibrations;Marky Mark & The Funky Bunch Featuring Loleatta Holloway;[];;
+10;Justify My Love;Madonna;['Pop'];302.0;0.0
+11;Emotions;Mariah Carey;['Pop', 'Rock'];248.0;0.0
+12;Gonna Make You Sweat (Everybody Dance Now);C+C Music Factory;['Pop'];243.0;0.0
+13;"I Wanna Sex You Up (From ""New Jack City"")";Color Me Badd;['Rap/Hip Hop'];236.0;0.0
+14;More Than Words;Extreme;['Pop'];334.0;0.0
+15;Unbelievable;EMF;['Rock'];209.0;1.0
+16;I Adore Mi Amor;Color Me Badd;['Pop'];289.0;0.0
+17;Joyride;Roxette;['Pop'];263.0;0.0
+18;Someday;Mariah Carey;['Pop', 'Rock'];248.0;0.0
+19;I've Been Thinking About You;Londonbeat;['Pop'];228.0;0.0
+20;One More Try;Timmy T.;['Electro'];209.0;0.0
+21;P.A.S.S.I.O.N.;Rhythm Syndicate;[];217.0;0.0
+22;Right Here, Right Now;Jesus Jones;['Rock'];189.0;0.0
+23;The Promise Of A New Day;Paula Abdul;['Pop'];255.0;0.0
+24;I Like The Way (The Kissing Game);Hi-Five;['R&B'];343.0;0.0
+25;Motownphilly;Boyz II Men;['R&B'];236.0;0.0
+26;Because I Love You (The Postman Song);Stevie B;['Pop'];303.0;0.0
+27;Do Anything;Natural Selection;['Pop'];237.0;0.0
+28;Love Will Never Do (Without You);Janet Jackson;['R&B'];349.0;0.0
+29;You're In Love;Wilson Phillips;['Pop'];291.0;0.0
+30;Hold You Tight;Tara Kemp;['Rap/Hip Hop', 'R&B'];284.0;0.0
+31;Sensitivity;Ralph Tresvant;['R&B'];281.0;0.0
+32;Touch Me (All Night Long);Cathy Dennis;['Pop'];210.0;0.0
+33;From A Distance;Bette Midler;['Pop'];274.0;0.0
+34;Where Does My Heart Beat Now;Celine Dion;['Pop'];270.0;0.0
+35;Here We Go;C+C Music Factory/F. Williams;[];;
+36;High Enough;Damn Yankees;['Rock', 'Hard Rock', 'Metal'];284.0;0.0
+37;Cream;Prince And The N.P.G.;[];;
+38;Things That Make You Go Hmmmm. . .;C+C Music Factory;['Pop'];321.0;0.0
+39;Summertime;D.J. Jazzy Jeff & The Fresh Prince;['Pop'];235.0;0.0
+40;Power Of Love/Love Power;Luther Vandross;['R&B'];402.0;0.0
+41;Love Is A Wonderful Thing;Michael Bolton;[];282.0;0.0
+42;Every Heartbeat;Amy Grant;['Pop'];213.0;0.0
+43;Losing My Religion;R.E.M.;['Alternative'];268.0;0.0
+44;Love Of A Lifetime;Firehouse;['Rock'];286.0;0.0
+45;Hole Hearted;Extreme;['Rock'];222.0;0.0
+46;3 A.M. Eternal;The KLF;['Electro', 'Techno/House', 'Dance'];399.0;0.0
+47;Wind Of Change;Scorpions;['Rock'];313.0;0.0
+48;Play That Funky Music;Vanilla Ice;['Rap/Hip Hop'];285.0;0.0
+49;Sadeness Part 1;Enigma;['Pop'];260.0;0.0
+50;I Touch Myself;Divinyls;['Rock'];227.0;0.0
+51;Rhythm Of My Heart;Rod Stewart;['Pop', 'Rock'];255.0;0.0
+52;Wicked Game;Chris Isaak;['Pop'];286.0;0.0
+53;It Ain't Over 'til It's Over;Lenny Kravitz;['Rock'];242.0;0.0
+54;Can't Stop This Thing We Started;Bryan Adams;['Pop'];269.0;0.0
+55;After The Rain;Nelson;['Rock'];236.0;0.0
+56;This House;Tracie Spencer;['R&B'];306.0;0.0
+57;Something To Talk About;Bonnie Raitt;['Country'];227.0;0.0
+58;Cry For Help;Rick Astley;['Pop'];245.0;0.0
+59;Signs;Tesla;['Pop'];193.0;1.0
+60;Crazy;Seal;['Pop'];356.0;0.0
+61;Place In This World;Michael W. Smith;[];241.0;0.0
+62;Iesha;Another Bad Creation;['R&B'];261.0;0.0
+63;Show Me The Way;Styx;['Rock'];275.0;0.0
+64;I Can't Wait Another Minute;Hi-Five;['R&B'];301.0;0.0
+65;Around The Way Girl;LL Cool J;['Pop'];244.0;0.0
+66;Temptation;Corina;['Pop'];241.0;0.0
+67;Tom's Diner;DNA Featuring Suzanne Vega;['Pop'];229.0;0.0
+68;Time, Love And Tenderness;Michael Bolton;[];231.0;0.0
+69;Fading Like A Flower (Every Time You Leave);Roxette;['Pop'];230.0;0.0
+70;Now That We Found Love;Heavy D & The Boyz;['Rap/Hip Hop'];258.0;0.0
+71;Silent Lucidity;Queensryche;['Rock'];347.0;0.0
+72;I'll Be There;The Escape Club;['Pop', 'Rock'];314.0;0.0
+73;Real Real Real;Jesus Jones;['Rock'];188.0;0.0
+74;Here I Am (Come And Take Me);UB40;['Rock'];242.0;0.0
+75;I'm Not In Love;Will To Power;['Pop'];227.0;0.0
+76;Too Many Walls;Cathy Dennis;['Pop'];265.0;0.0
+77;Impulsive;Wilson Phillips;['Pop'];274.0;0.0
+78;Round And Round;Tevin Campbell;['R&B'];293.0;0.0
+79;Don't Want To Be A Fool;Luther Vandross;['Pop'];276.0;0.0
+80;The One And Only;Chesney Hawkes;['Pop'];223.0;0.0
+81;I'll Give All My Love To You;Keith Sweat;['R&B'];269.0;0.0
+82;I Saw Red;Warrant;['Rock'];226.0;0.0
+83;Gypsy Woman (She's Homeless);Crystal Waters;['Pop'];217.0;0.0
+84;Just Another Dream;Cathy Dennis;[];;
+85;Just Another Dream;Cathy Dennis;['Pop'];236.0;0.0
+86;All This Time;Sting;['Pop'];294.0;0.0
+87;Get Here;Oleta Adams;['Pop'];278.0;0.0
+88;Shiny Happy People;R.E.M.;['Alternative'];225.0;0.0
+89;Everybody Plays The Fool;Aaron Neville;['Pop'];265.0;0.0
+90;Rico Suave;Gerardo;['Pop'];250.0;0.0
+91;Piece Of My Heart;Tara Kemp;['Rap/Hip Hop', 'R&B'];289.0;0.0
+92;O.P.P.;Naughty By Nature;['Rap/Hip Hop', 'Rock', 'Hard Rock'];271.0;0.0
+93;Disappear;INXS;['Rock'];248.0;0.0
+94;Voices That Care;Voices That Care;['Pop', 'Rock'];272.0;0.0
+95;Playground;Another Bad Creation;['R&B'];261.0;0.0
+96;Walking In Memphis;Marc Cohn;['Country', 'Pop'];252.0;0.0
+97;Strike It Up;Black Box;['Pop'];298.0;0.0
+98;Do You Want Me;Salt-N-Pepa;['R&B'];232.0;0.0
+99;How Can I Ease The Pain;Lisa Fischer;['Pop', 'Rock'];319.0;0.0

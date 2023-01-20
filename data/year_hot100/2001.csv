@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Fallin';Alicia Keys;['R&B'];210.0;0.0
+1;All For You;Janet;['Pop'];330.0;0.0
+2;It Wasn't Me;"Shaggy Feat. Ricardo ""RikRok"" Ducent";['Pop'];228.0;0.0
+3;Lady Marmalade;Christina Aguilera, Lil' Kim, Mya & P!nk;['Pop'];264.0;0.0
+4;Independent Women Part I;Destiny's Child;['Pop'];221.0;0.0
+5;U Remind Me;Usher;['Rap/Hip Hop', 'R&B'];266.0;0.0
+6;I'm Real;Jennifer Lopez Featuring Ja Rule;['Pop', 'R&B', 'Soul'];258.0;0.0
+7;Stutter;Joe Featuring Mystikal;['R&B'];213.0;0.0
+8;Hanging By A Moment;Lifehouse;['Pop'];218.0;0.0
+9;Butterfly;Crazy Town;['Rock'];216.0;0.0
+10;Family Affair;Mary J. Blige;['R&B'];266.0;0.0
+11;Survivor;Destiny's Child;['Pop'];254.0;0.0
+12;Bootylicious;Destiny's Child;['Pop'];207.0;0.0
+13;Hit 'Em Up Style (Oops!);Blu Cantrell;['Pop'];250.0;0.0
+14;Again;Lenny Kravitz;['Rock'];228.0;0.0
+15;Angel;Shaggy Featuring Rayvon;['Pop'];245.0;0.0
+16;He Loves U Not;Dream;[];223.0;0.0
+17;Thank You;Dido;['Pop'];217.0;0.0
+18;Love Don't Cost A Thing;Jennifer Lopez;['Pop'];221.0;0.0
+19;Ms. Jackson;OutKast;['Rap/Hip Hop'];270.0;1.0
+20;Where The Party At;Jagged Edge With Nelly;[];254.0;0.0
+21;Let Me Blow Ya Mind;Eve Featuring Gwen Stefani;['Pop'];251.0;0.0
+22;Don't Tell Me;Madonna;['Pop'];280.0;0.0
+23;Loverboy;Mariah Carey Featuring Cameo;[];;
+24;If You're Gone;matchbox twenty;['Pop'];274.0;0.0
+25;Ride Wit Me;Nelly Featuring City Spud;['Pop'];254.0;1.0
+26;It's Been Awhile;Staind;['Pop'];264.0;1.0
+27;Someone To Call My Lover;Janet;['Pop'];272.0;0.0
+28;Drops Of Jupiter (Tell Me);Train;['Rock'];259.0;0.0
+29;Case Of The Ex (Whatcha Gonna Do);Mya;['Pop'];236.0;0.0
+30;Put It On Me;Ja Rule Featuring Lil' Mo & Vita;['Pop'];283.0;1.0
+31;Differences;Ginuwine;['Pop'];265.0;0.0
+32;The Way You Love Me;Faith Hill;['Country', 'Pop'];186.0;0.0
+33;With Arms Wide Open;Creed;['Rock'];235.0;0.0
+34;Peaches & Cream;Eve Featuring Gwen Stefani;[];;
+35;Follow Me;Uncle Kracker;['Country', 'Pop'];218.0;1.0
+36;Crazy;K-Ci & JoJo;['R&B'];263.0;0.0
+37;Jaded;Aerosmith;['Rock'];214.0;0.0
+38;Let Me Blow Ya Mind;Train;[];;
+39;All Or Nothing;O-Town;['Pop'];281.0;0.0
+40;South Side;Moby Featuring Gwen Stefani;['Pop'];227.0;1.0
+41;Crazy For This Girl;Evan And Jaron;['Pop'];202.0;0.0
+42;Promise;Jagged Edge;['R&B'];246.0;0.0
+43;Hero;Enrique Iglesias;['Pop'];264.0;0.0
+44;I Hope You Dance;Lee Ann Womack;['Country'];295.0;0.0
+45;I Just Wanna Love U (Give It 2 Me);JAY-Z;['Rap/Hip Hop'];229.0;1.0
+46;Izzo (H.O.V.A.);JAY-Z;['Rap/Hip Hop'];240.0;1.0
+47;Fiesta;R. Kelly Featuring Jay-Z;[];;
+48;This I Promise You;'N Sync;['Pop'];283.0;0.0
+49;What Would You Do?;City High;['R&B'];175.0;1.0
+50;Kryptonite;3 Doors Down;['Pop'];233.0;0.0
+51;Turn Off The Light;Nelly Furtado;['Pop'];275.0;0.0
+52;Drops Of Jupiter (Tell Me);Nelly Featuring City Spud;[];;
+53;Missing You;Case;['R&B'];284.0;0.0
+54;Livin' It Up;Ja Rule Featuring Case;[];;
+55;Nobody Wants To Be Lonely;Ricky Martin Duet With Christina Aguilera;[];;
+56;Get Over Yourself;Eden's Crush;[];197.0;0.0
+57;Get Ur Freak On;"Missy ""Misdemeanor"" Elliott";[];;
+58;Dance With Me;Debelah Morgan;['R&B'];290.0;0.0
+59;Danger (Been So Long);Mystikal Featuring Nivea;['Rap/Hip Hop'];211.0;1.0
+60;Only Time;Enya;['Pop'];218.0;0.0
+61;Ride Wit Me;"Missy ""Misdemeanor"" Elliott";[];;
+62;Liquid Dreams;O-Town;['Pop'];210.0;0.0
+63;No More (Baby I'ma Do Right);3LW;['R&B'];263.0;0.0
+64;I'm Like A Bird;Nelly Furtado;['Pop'];244.0;0.0
+65;Get Ur Freak On;Lil' Romeo;[];;
+66;Fill Me In;Craig David;['Pop'];257.0;0.0
+67;U Got It Bad;Usher;['Rap/Hip Hop', 'R&B'];247.0;0.0
+68;Bizounce;Olivia;['Pop', 'R&B'];264.0;1.0
+69;Stronger;Britney Spears;['Pop'];203.0;0.0
+70;Peaches & Cream;Alicia Keys;[];;
+71;My Baby;R. Kelly Featuring Jay-Z;[];;
+72;Fallin';Jagged Edge With Nelly;[];;
+73;Fiesta;Lil' Mo Featuring Fabolous;[];;
+74;One Minute Man;"Missy ""Misdemeanor"" Elliott";['Rap/Hip Hop'];241.0;1.0
+75;I Wish;R. Kelly;['R&B'];332.0;0.0
+76;Hemorrhage (In My Hands);Fuel;['Rock'];237.0;0.0
+77;Heard It All Before;Sunshine Anderson;['R&B', 'Soul'];295.0;0.0
+78;My Baby;Lil' Romeo;['Rap/Hip Hop'];221.0;0.0
+79;Peaches & Cream;O-Town;[];;
+80;Where The Party At;Jennifer Lopez Featuring Ja Rule;[];;
+81;Superwoman Pt. II;Destiny's Child;[];;
+82;E.I.;Nelly;['Pop'];285.0;1.0
+83;Most Girls;P!nk;['Pop'];298.0;0.0
+84;Gotta Tell You;Samantha Mumba;['Pop'];202.0;0.0
+85;Bootylicious;Faith Hill;[];;
+86;All Or Nothing;Sugar Ray;[];;
+87;You Rock My World;Michael Jackson;['Pop'];265.0;0.0
+88;Beautiful Day;U2;['Pop'];248.0;0.0
+89;I'm Real;Staind;[];;
+90;Never Had A Dream Come True;S Club 7;['Pop'];240.0;0.0
+91;Stranger In My House;Tamia;['R&B'];285.0;0.0
+92;Everywhere;Michelle Branch;['Pop'];214.0;0.0
+93;It's Been Awhile;Incubus;[];;
+94;There You'll Be;Incubus;[];;
+95;When It's Over;JAY-Z;[];;
+96;Love;Musiq Soulchild;['R&B', 'Soul'];236.0;0.0
+97;What's Your Fantasy;Ludacris Featuring Shawnna;['R&B'];275.0;1.0
+98;Drive;Uncle Kracker;[];;
+99;Drive;City High;['Electro'];236.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Joy To The World;Three Dog Night;['Pop'];196.0;0.0
+1;One Bad Apple;The Osmonds;['Pop'];163.0;0.0
+2;How Can You Mend A Broken Heart;Bee Gees;['Pop'];285.0;0.0
+3;How Can You Mend A Broken Heart;Bee Gees;[];285.0;0.0
+4;Knock Three Times;Dawn;['Pop'];177.0;0.0
+5;Maggie May/Reason To Believe;Rod Stewart;[];;
+6;Just My Imagination (Running Away With Me);The Temptations;['Pop'];230.0;0.0
+7;My Sweet Lord/Isn't It A Pity;George Harrison;[];;
+8;It's Too Late/I Feel The Earth Move;Carole King;[];;
+9;Uncle Albert/Admiral Halsey;Paul & Linda McCartney;['Pop'];295.0;0.0
+10;Brown Sugar;The Rolling Stones;['Rock'];228.0;0.0
+11;Indian Reservation (The Lament Of The Cherokee Reservation Indian);The Raiders;['Pop'];171.0;0.0
+12;Gypsys, Tramps & Thieves;Cher;['Pop'];158.0;0.0
+13;Me And Bobby McGee;Janis Joplin;['Rock'];271.0;0.0
+14;Go Away Little Girl;Donny Osmond;['Pop'];147.0;0.0
+15;Put Your Hand In The Hand;Ocean;['Pop'];176.0;0.0
+16;One Less Bell To Answer;The 5th Dimension;['Pop'];211.0;0.0
+17;Mama's Pearl;Jackson 5;['Pop'];193.0;0.0
+18;Want Ads;The Honey Cone;[];167.0;0.0
+19;Want Ads;The Honey Cone;['R&B', 'Soul'];167.0;0.0
+20;For All We Know;Carpenters;['Pop'];152.0;0.0
+21;You've Got A Friend;James Taylor;['Rock'];268.0;0.0
+22;Smiling Faces Sometimes;The Undisputed Truth;['Pop'];197.0;0.0
+23;She's A Lady;Tom Jones;['Pop'];172.0;0.0
+24;Theme From Shaft;Isaac Hayes;['R&B'];279.0;0.0
+25;The Night They Drove Old Dixie Down;Joan Baez;['Folk'];203.0;0.0
+26;What's Going On;Marvin Gaye;['R&B'];233.0;0.0
+27;Never Can Say Goodbye;Jackson 5;['R&B'];179.0;0.0
+28;Never Can Say Goodbye;Jackson 5;[];179.0;0.0
+29;Treat Her Like A Lady;Cornelius Brothers & Sister Rose;['R&B'];160.0;0.0
+30;Rainy Days And Mondays;Carpenters;['Pop'];218.0;0.0
+31;Superstar/Bless The Beasts And Children;Carpenters;[];;
+32;Mr. Big Stuff;Jean Knight;['R&B'];164.0;0.0
+33;Spanish Harlem;Aretha Franklin;['R&B'];211.0;0.0
+34;Ain't No Sunshine;Bill Withers;['R&B'];125.0;0.0
+35;It Don't Come Easy;Ringo Starr;['Pop'];181.0;0.0
+36;Take Me Home, Country Roads;John Denver;['Country', 'Folk'];190.0;0.0
+37;Lonely Days;Bee Gees;['Pop'];225.0;0.0
+38;Rose Garden;Lynn Anderson;['Country'];173.0;0.0
+39;Don't Pull Your Love;Hamilton, Joe Frank & Reynolds;['Pop', 'Rock'];164.0;0.0
+40;Yo-Yo;The Osmonds;['Pop'];190.0;0.0
+41;If You Could Read My Mind;Gordon Lightfoot;['Films/Jeux vidéo', 'Musiques de films'];231.0;0.0
+42;Bridge Over Troubled Water/Brand New Me;Aretha Franklin;[];;
+43;Sweet And Innocent;Donny Osmond of The Osmonds;[];;
+44;Draggin' The Line;Tommy James;['Pop'];165.0;0.0
+45;Proud Mary;Ike & Tina Turner;['R&B'];297.0;0.0
+46;Doesn't Somebody Want To Be Wanted;The Partridge Family Starring Shirley Jones Featuring David Cassidy;[];;
+47;I Am...I Said/Done Too Soon;Neil Diamond;[];;
+48;The Tears Of A Clown;Smokey Robinson & The Miracles;[];179.0;0.0
+49;Imagine;John Lennon/Plastic Ono Band;[];;
+50;If;Bread;['Rock'];155.0;0.0
+51;Another Day/Oh Woman Oh Why;Paul McCartney;[];;
+52;Groove Me;King Floyd;['Rock', 'Blues'];184.0;0.0
+53;Black Magic Woman;Santana;['Pop'];196.0;0.0
+54;Amos Moses;Jerry Reed;['Country'];138.0;0.0
+55;I Hear You Knocking;Dave Edmunds;['Pop'];167.0;0.0
+56;Do You Know What I Mean;Lee Michaels;['Rock', 'Rock Indé/Pop Rock'];193.0;0.0
+57;Signs;Five Man Electrical Band;['Pop'];185.0;0.0
+58;Stay Awhile;The Bells;['Pop'];204.0;0.0
+59;Help Me Make It Through The Night;Sammi Smith;['Country'];151.0;0.0
+60;Tired Of Being Alone;Al Green;['R&B'];172.0;0.0
+61;I've Found Someone Of My Own;The Free Movement;['Rock'];226.0;0.0
+62;I Think I Love You;The Partridge Family Starring Shirley Jones Featuring David Cassidy;[];;
+63;Beginnings/Colour My World;Chicago;[];;
+64;(Where Do I Begin) Love Story;Andy Williams;['Pop'];189.0;0.0
+65;Mr. Bojangles;Nitty Gritty Dirt Band;['Country'];216.0;0.0
+66;Chick-A-Boom (Don't Ya Jes' Love It);Daddy Dewdrop;['Pop'];171.0;0.0
+67;Whatcha See Is Whatcha Get;The Dramatics;['R&B'];214.0;0.0
+68;Mercy, Mercy Me (The Ecology);Marvin Gaye;[];196.0;0.0
+69;I Just Want To Celebrate;Rare Earth;['R&B'];219.0;0.0
+70;If You Really Love Me;Stevie Wonder;['Pop'];178.0;0.0
+71;Me And You And A Dog Named Boo;Lobo;['Pop'];176.0;0.0
+72;Stoney End;Barbra Streisand;['Pop'];179.0;0.0
+73;If I Were Your Woman;Gladys Knight And The Pips;['R&B'];190.0;0.0
+74;Your Song;Elton John;['Pop'];241.0;0.0
+75;Stick-Up;The Honey Cone;['R&B', 'Soul'];173.0;0.0
+76;Have You Ever Seen The Rain/Hey Tonight;Creedence Clearwater Revival;[];;
+77;Stoned Love;The Supremes;[];178.0;0.0
+78;Peace Train;Cat Stevens;['Pop'];251.0;0.0
+79;Liar;Three Dog Night;['Pop'];183.0;0.0
+80;Wild World;Cat Stevens;[];200.0;0.0
+81;Watching Scotty Grow;Bobby Goldsboro;['Country'];157.0;0.0
+82;It's Impossible;Perry Como;['Pop'];198.0;0.0
+83;One Toke Over The Line;Brewer And Shipley;['Pop'];199.0;0.0
+84;I Don't Know How To Love Him;Helen Reddy;['Pop'];199.0;0.0
+85;Temptation Eyes;The Grass Roots;['Rock'];236.0;0.0
+86;Sweet City Woman;Stampeders;['Rock'];207.0;0.0
+87;When You're Hot, You're Hot;Jerry Reed;['Country'];161.0;0.0
+88;What The World Needs Now Is Love/Abraham, Martin and John;Tom Clay;['R&B'];325.0;0.0
+89;She's Not Just Another Woman;The 8th Day;['R&B', 'Soul'];184.0;0.0
+90;Timothy;The Buoys;['Pop', 'Rock', 'Hard Rock'];256.0;0.0
+91;Does Anybody Really Know What Time It Is?;Chicago;['Rock'];275.0;0.0
+92;Bring The Boys Home;Freda Payne;['Pop'];205.0;0.0
+93;Superstar;Murray Head With The Trinidad Singers;[];;
+94;I'll Meet You Halfway;The Partridge Family Starring Shirley Jones Featuring David Cassidy;[];;
+95;That's The Way I've Always Heard It Should Be;Carly Simon;['Pop'];258.0;0.0
+96;Sweet Mary;Wadsworth Mansion;['Pop', 'Rock'];191.0;0.0
+97;Don't Knock My Love - Pt. 1;Wilson Pickett;['R&B'];136.0;0.0
+98;Trapped By A Thing Called Love;Denise LaSalle;['Soul'];159.0;0.0
+99;Riders On The Storm;The Doors;['Rock'];434.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;We Belong Together;Mariah Carey;['Pop'];201.0;0.0
+1;Let Me Love You;Mario;['R&B', 'Soul'];249.0;0.0
+2;Candy Shop;50 Cent Featuring Olivia;[];;
+3;Hollaback Girl;Gwen Stefani;['Pop'];200.0;1.0
+4;Gold Digger;Kanye West Featuring Jamie Foxx;[];208.0;0.0
+5;Boulevard Of Broken Dreams;Green Day;['Alternative'];261.0;1.0
+6;1, 2 Step;Ciara Featuring Missy Elliott;['Pop'];202.0;0.0
+7;Don't Cha;The Pussycat Dolls Featuring Busta Rhymes;['Pop'];217.0;0.0
+8;Inside Your Heaven;Carrie Underwood;['Country'];243.0;0.0
+9;Pon de Replay;Rihanna;['Pop'];246.0;0.0
+10;Since U Been Gone;Kelly Clarkson;['Pop', 'Pop internationale', 'Rock'];190.0;0.0
+11;Shake It Off;Mariah Carey;['Pop'];232.0;0.0
+12;Hate It Or Love It;The Game Featuring 50 Cent;['R&B'];208.0;0.0
+13;Drop It Like It's Hot;Snoop Dogg Featuring Pharrell;[];;
+14;Oh;Ciara Featuring Ludacris;['R&B', 'Soul'];256.0;0.0
+15;Disco Inferno;50 Cent;['Rap/Hip Hop'];213.0;1.0
+16;Don't Phunk With My Heart;The Black Eyed Peas;['Rap/Hip Hop'];239.0;0.0
+17;Lovers And Friends;Lil Jon & The East Side Boyz Featuring Usher & Ludacris;[];;
+18;Behind These Hazel Eyes;Kelly Clarkson;['Pop'];199.0;0.0
+19;How We Do;The Game Featuring 50 Cent;['R&B'];257.0;0.0
+20;Just A Lil Bit;50 Cent;['Rap/Hip Hop'];237.0;1.0
+21;Soldier;Destiny's Child Featuring T.I. & Lil Wayne;['Pop'];325.0;0.0
+22;Like You;Bow Wow Featuring Ciara;['Pop'];205.0;0.0
+23;Lose Control;Missy Elliott Featuring Ciara & Fat Man Scoop;['Rap/Hip Hop'];226.0;1.0
+24;My Humps;The Black Eyed Peas;['Rap/Hip Hop'];327.0;0.0
+25;Obsession (No Es Amor);Frankie J Featuring Baby Bash;['Pop'];241.0;0.0
+26;Run It!;Chris Brown;['R&B'];250.0;0.0
+27;Let Me Hold You;Bow Wow Featuring Omarion;['Pop'];248.0;0.0
+28;You And Me;Lifehouse;['Electro'];306.0;0.0
+29;Lonely No More;Rob Thomas;['Pop'];226.0;0.0
+30;Lonely;Akon;['R&B'];235.0;0.0
+31;Switch;Will Smith;['R&B'];196.0;0.0
+32;Mr. Brightside;The Killers;['Rock'];223.0;0.0
+33;Beverly Hills;Weezer;['Rock'];196.0;0.0
+34;Rich Girl;Gwen Stefani Featuring Eve;['Pop'];251.0;0.0
+35;Breakaway;Kelly Clarkson;['Pop'];219.0;0.0
+36;Caught Up;Usher;['R&B'];224.0;0.0
+37;Grind With Me;Pretty Ricky;['Rap/Hip Hop'];237.0;1.0
+38;Listen To Your Heart;D.H.T.;['Dance'];272.0;0.0
+39;Feel Good Inc;Gorillaz;['Rap/Hip Hop'];222.0;0.0
+40;Wake Me Up When September Ends;Green Day;['Alternative'];285.0;0.0
+41;Speed Of Sound;Coldplay;['Rock'];287.0;0.0
+42;Photograph;Nickelback;['Rock'];259.0;0.0
+43;Over And Over;Nelly Featuring Tim McGraw;[];257.0;0.0
+44;Get It Poppin';Fat Joe Featuring Nelly;['Rap/Hip Hop'];205.0;1.0
+45;Sugar, We're Goin' Down;Fall Out Boy;['Rock'];229.0;0.0
+46;My Boo;Usher And Alicia Keys;['Pop'];223.0;0.0
+47;Let Me Go;3 Doors Down;['Rock'];243.0;0.0
+48;Soul Survivor;Young Jeezy Featuring Akon;['Pop'];284.0;0.0
+49;Pimpin' All Over The World;Ludacris Featuring Bobby Valentino;['Pop'];335.0;1.0
+50;Bring Em Out;T.I.;['Rap/Hip Hop'];217.0;0.0
+51;Holiday;Green Day;['Alternative'];174.0;1.0
+52;Mockingbird;Eminem;['Rap/Hip Hop'];251.0;1.0
+53;I Don't Want To Be;Gavin DeGraw;['Pop'];219.0;0.0
+54;Scars;Papa Roach;['Rock'];208.0;0.0
+55;Slow Down;Bobby Valentino;['R&B'];258.0;0.0
+56;Outta Control (Remix);50 Cent Feat. Mobb Deep;[];;
+57;Play;David Banner;['Rap/Hip Hop'];230.0;1.0
+58;Some Cut;Trillville Featuring Cutty;['Rap/Hip Hop'];283.0;1.0
+59;Incomplete;Backstreet Boys;['Pop'];239.0;0.0
+60;Get Back;Ludacris;['Rap/Hip Hop'];270.0;0.0
+61;Karma;Alicia Keys;['Pop', 'R&B'];256.0;0.0
+62;1 Thing;Amerie;['Pop'];238.0;0.0
+63;Sugar (Gimme Some);Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo;['Rap/Hip Hop'];246.0;0.0
+64;She Will Be Loved;Maroon 5;['Pop'];257.0;0.0
+65;Collide;Howie Day;['Pop'];249.0;0.0
+66;Because Of You;Kelly Clarkson;['Pop'];219.0;0.0
+67;Cater 2 U;Destiny's Child;['Pop', 'R&B', 'Soul'];245.0;0.0
+68;It's Like That;Mariah Carey;['Pop'];203.0;0.0
+69;Cool;Gwen Stefani;['Pop'];189.0;0.0
+70;Best Of You;Foo Fighters;['Alternative', 'Pop', 'Pop internationale', 'Rock'];254.0;0.0
+71;Goin' Crazy;Natalie;['Pop'];291.0;0.0
+72;Wonderful;Ja Rule Featuring R. Kelly & Ashanti;[];;
+73;Truth Is;Fantasia;['R&B'];235.0;0.0
+74;Beautiful Soul;Jesse McCartney;['Rock'];214.0;0.0
+75;Your Body;Pretty Ricky;['Rap/Hip Hop'];240.0;1.0
+76;Wait (The Whisper Song);Ying Yang Twins;['Rap/Hip Hop', 'Dirty South'];179.0;1.0
+77;Baby I'm Back;Baby Bash Featuring Akon;['Rap/Hip Hop'];220.0;1.0
+78;La Tortura;Shakira Feat. Alejandro Sanz;['Pop'];212.0;0.0
+79;Just The Girl;The Click Five;['Pop'];234.0;0.0
+80;Daughters;John Mayer;['Rock'];238.0;0.0
+81;Only U;Ashanti;['R&B'];186.0;0.0
+82;Lose My Breath;Destiny's Child;['Pop'];242.0;0.0
+83;Numb/Encore;Jay-Z/Linkin Park;['Rap/Hip Hop', 'Rock'];205.0;1.0
+84;These Words;Natasha Bedingfield;['Pop'];215.0;0.0
+85;Karma;Lloyd Banks Featuring Avant;['Pop'];283.0;0.0
+86;Don't Lie;The Black Eyed Peas;['Rap/Hip Hop'];219.0;0.0
+87;True;Ryan Cabrera;['Pop'];206.0;0.0
+88;Get Right;Jennifer Lopez;['Dance', 'Pop', 'Rock'];227.0;0.0
+89;U Don't Know Me;T.I.;['Rap/Hip Hop'];243.0;0.0
+90;Girlfight;Brooke Valentine Featuring Lil Jon & Big Boi;['Rap/Hip Hop'];216.0;0.0
+91;Back Then;Mike Jones;['Rap/Hip Hop'];244.0;1.0
+92;As Good As I Once Was;Toby Keith;['Country'];227.0;0.0
+93;We Be Burnin';Sean Paul;['R&B'];213.0;0.0
+94;O;Omarion;['R&B'];280.0;1.0
+95;Ordinary People;John Legend;['R&B'];281.0;0.0
+96;Bless The Broken Road;Rascal Flatts;['Country', 'Pop'];226.0;0.0
+97;Give Me That;Webbie Featuring Bun B;['Rap/Hip Hop'];283.0;1.0
+98;I'm Sprung;T-Pain;['Pop'];231.0;0.0
+99;Goodies;Ciara Featuring Petey Pablo;['Pop'];224.0;0.0

@@ -148,7 +148,48 @@ def top_100s(start, end):
                 print(f"No top 100 in {annee}/{month}")
 
 
+def hot100_year(year, month_folder=None):
+
+    hot100_year = None
+
+    def score(row):
+        return 1/(row.name+1)
+
+    def index_song(row):
+        return str(row.artist) + " - " + str(row.title)
+
+    for month in range(1, 12):
+        try:
+            hot100_month = pd.read_csv(f"data/month_top_100/{year}-{month}.csv", sep=";")
+            hot100_month = hot100_month.drop(hot100_month.columns[0], axis=1)
+            hot100_month['score'] = hot100_month.apply(score, axis=1)
+            hot100_month['id'] = hot100_month.apply(index_song, axis=1)
+            if hot100_year is None:
+                hot100_year = hot100_month.copy()
+            else:
+                hot100_year = pd.concat([hot100_year, hot100_month])
+        except:
+            print(f"No top 100 in {year}")
+
+    scores = hot100_year.groupby(by='id').score.sum().sort_values(ascending=False)
+
+    def sort_year(row):
+        return scores[row.id]
+
+    all_song = hot100_year.drop("score", axis=1).drop_duplicates()
+    all_song["score"] = all_song.apply(sort_year, axis=1)
+    hot100 = all_song.sort_values(by="score", ascending=False)[:100].drop(["id", "score"], axis=1).reset_index(drop=True)
+
+    return hot100
+
+
+def hot100_years(start, end):
+    for annee in tqdm(range(start, end+1)):
+        hot100 = hot100_year(annee)
+        hot100.to_csv(f"data/year_hot100/{annee}.csv", sep=";")
+
+
 if __name__ == "__main__":
-    print(get_top_100(1980, 2, 10))
+    hot100_years(1958, 2022)
     pass
 

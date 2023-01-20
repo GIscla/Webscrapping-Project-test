@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I'm A Believer;The Monkees;['Pop'];167.0;0.0
+1;Ode To Billie Joe;Bobbie Gentry;['Country'];254.0;0.0
+2;Light My Fire;The Doors;['Rock'];425.0;0.0
+3;Windy;The Association;[];176.0;0.0
+4;Windy;The Association;['Pop', 'Rock'];176.0;0.0
+5;Happy Together;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];176.0;0.0
+6;Respect;Aretha Franklin;['Pop'];147.0;0.0
+7;Somethin' Stupid;Nancy Sinatra & Frank Sinatra;['Jazz'];160.0;0.0
+8;Ruby Tuesday;The Rolling Stones;['Rock'];196.0;0.0
+9;The Letter;The Box Tops;['Pop'];112.0;0.0
+10;To Sir With Love;Lulu;['Rock', 'Rock & Roll/Rockabilly'];163.0;0.0
+11;Groovin';The Young Rascals;['Pop', 'Rock'];147.0;0.0
+12;Snoopy Vs. The Red Baron;The Royal Guardsmen;['Rock'];160.0;0.0
+13;All You Need Is Love;The Beatles;['Rock'];227.0;0.0
+14;Georgy Girl;The Seekers;['Rock'];140.0;0.0
+15;Never My Love;The Association;['Pop', 'Rock'];190.0;0.0
+16;The Happening;The Supremes;['Pop'];172.0;0.0
+17;I Was Made To Love Her;Stevie Wonder;['Pop'];155.0;0.0
+18;Tell It Like It Is;Aaron Neville;['Soul'];165.0;0.0
+19;Love Is Here And Now You're Gone;The Supremes;[];165.0;0.0
+20;Love Is Here And Now You're Gone;The Supremes;['Pop'];165.0;0.0
+21;Soul Man;Sam & Dave;['Rock'];159.0;0.0
+22;Kind Of A Drag;The Buckinghams;['Rock'];124.0;0.0
+23;Dedicated To The One I Love;The Mamas & The Papas;['Rock', 'Folk'];178.0;0.0
+24;Dedicated To The One I Love;The Mamas & The Papas;[];178.0;0.0
+25;Little Bit O' Soul;The Music Explosion;['Rock'];141.0;0.0
+26;Sweet Soul Music;Arthur Conley;['Pop'];141.0;0.0
+27;Reflections;Diana Ross & The Supremes;[];170.0;0.0
+28;Come Back When You Grow Up;Bobby Vee And The Strangers;[];;
+29;I Got Rhythm;The Happenings;['Pop'];178.0;0.0
+30;It Must Be Him;Vikki Carr;['Latino'];172.0;0.0
+31;Can't Take My Eyes Off You;Frankie Valli;['Pop'];203.0;0.0
+32;Penny Lane;The Beatles;['Rock'];180.0;0.0
+33;Release Me (And Let Me Love Again);Engelbert Humperdinck;['Pop'];167.0;0.0
+34;Baby I Need Your Lovin';Johnny Rivers;['Pop', 'Rock'];199.0;0.0
+35;San Francisco (Be Sure To Wear Flowers In Your Hair);Scott McKenzie;['Pop'];178.0;0.0
+36;Expressway (To Your Heart);Soul Survivors;['Rap/Hip Hop', 'R&B'];140.0;0.0
+37;A Little Bit Me, A Little Bit You;The Monkees;['Pop'];168.0;0.0
+38;A Whiter Shade Of Pale;Procol Harum;['Pop'];248.0;0.0
+39;I Think We're Alone Now;Tommy James And The Shondells;['Pop'];131.0;0.0
+40;There's A Kind Of Hush;Herman's Hermits;['Pop'];153.0;0.0
+41;Words Of Love;The Mamas & The Papas;['Pop'];135.0;0.0
+42;Winchester Cathedral;The New Vaudeville Band;['Pop'];146.0;0.0
+43;She'd Rather Be With Me;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];141.0;0.0
+44;(We Ain't Got) Nothin' Yet;Blues Magoos;['Rock'];135.0;0.0
+45;This Is My Song;Petula Clark;['Pop', 'Rock'];207.0;0.0
+46;Good Thing;Paul Revere & The Raiders Featuring Mark Lindsay;['Rock'];167.0;0.0
+47;Baby I Love You;Aretha Franklin;['Pop', 'Rock'];158.0;0.0
+48;Sugar Town;Nancy Sinatra;['Pop'];143.0;0.0
+49;Your Precious Love;Marvin Gaye & Tammi Terrell;['R&B'];184.0;0.0
+50;Little Ole Man (Uptight-Everything's Alright);Bill Cosby;[];;
+51;Bernadette;Four Tops;['Films/Jeux vidéo', 'Musiques de films'];183.0;0.0
+52;Pleasant Valley Sunday;The Monkees;['Pop'];194.0;0.0
+53;Apples, Peaches, Pumpkin Pie;Jay And The Techniques;['Soul'];148.0;0.0
+54;The Beat Goes On;Sonny & Cher;['Pop'];210.0;0.0
+55;For What It's Worth (Stop, Hey What's That Sound);Buffalo Springfield;['Pop'];153.0;0.0
+56;Creeque Alley;The Mamas & The Papas;['Pop'];207.0;0.0
+57;Somebody To Love;Jefferson Airplane;['Pop', 'Rock'];174.0;0.0
+58;Standing In The Shadows Of Love;Four Tops;['R&B'];161.0;0.0
+59;Don't You Care;The Buckinghams;['Pop'];148.0;0.0
+60;Then You Can Tell Me Goodbye;The Casinos;[];187.0;0.0
+61;Then You Can Tell Me Goodbye;The Casinos;['R&B'];187.0;0.0
+62;(Your Love Keeps Lifting Me) Higher And Higher;Jackie Wilson;['R&B'];179.0;0.0
+63;Mercy, Mercy, Mercy;The Buckinghams;['Pop'];148.0;0.0
+64;Him Or Me - What's It Gonna Be?;Paul Revere & The Raiders;['Pop'];170.0;0.0
+65;Gimme Some Lovin';The Spencer Davis Group;['Pop'];178.0;0.0
+66;98.6;Keith;['Pop', 'Rock'];194.0;0.0
+67;Come On Down To My Boat;Every Mothers' Son;[];148.0;0.0
+68;Come On Down To My Boat;Every Mothers' Son;['Pop'];148.0;0.0
+69;Close Your Eyes;Peaches & Herb;['Pop'];154.0;0.0
+70;How Can I Be Sure;The Young Rascals;['Pop'];175.0;0.0
+71;My Cup Runneth Over;Ed Ames;['Country'];164.0;0.0
+72;Western Union;The Five Americans;['Alternative', 'Rock indé', 'Pop', 'Rock'];150.0;0.0
+73;Sock It To Me-Baby!;Mitch Ryder And The Detroit Wheels;['Rock'];192.0;0.0
+74;Gimme Little Sign;Brenton Wood;['Soul'];141.0;0.0
+75;Get On Up;The Esquires;['R&B', 'Soul'];138.0;0.0
+76;On A Carousel;The Hollies;['Rock'];194.0;0.0
+77;You're My Everything;The Temptations;['Soul'];185.0;0.0
+78;That's Life;Frank Sinatra;['Jazz'];187.0;0.0
+79;Cold Sweat - Part 1;James Brown And The Famous Flames;[];;
+80;Jimmy Mack;Martha & The Vandellas;['R&B'];172.0;0.0
+81;Incense And Peppermints;Strawberry Alarm Clock;['Pop'];167.0;0.0
+82;White Rabbit;Jefferson Airplane;['Pop', 'Rock'];150.0;0.0
+83;Let's Live For Today;The Grass Roots;['Pop'];166.0;0.0
+84;(You Make Me Feel Like) A Natural Woman;Aretha Franklin;['Pop'];165.0;0.0
+85;A Girl Like You;The Young Rascals;['Pop'];170.0;0.0
+86;All I Need;The Temptations;['Soul & Funk'];191.0;0.0
+87;Up -- Up And Away;The 5th Dimension;['Pop'];289.0;0.0
+88;Strawberry Fields Forever;The Beatles;['Rock'];247.0;0.0
+89;I Never Loved A Man (The Way I Love You);Aretha Franklin;['Pop'];147.0;0.0
+90;You Got What It Takes;The Dave Clark Five;['Pop'];103.0;0.0
+91;Silence Is Golden;The Tremeloes;['Rock'];189.0;0.0
+92;Silence Is Golden;The Tremeloes;[];189.0;0.0
+93;Carrie-Anne;The Hollies;['Rock'];175.0;0.0
+94;Mercy, Mercy, Mercy;Cannonball Adderley;['Jazz'];310.0;0.0
+95;Mercy, Mercy, Mercy;Cannonball Adderley;[];310.0;0.0
+96;Brown Eyed Girl;Van Morrison;['Rock'];183.0;0.0
+97;Mirage;Tommy James And The Shondells;['Pop'];159.0;0.0
+98;Don't Sleep In The Subway;Petula Clark;['Pop'];176.0;0.0
+99;I Had Too Much To Dream (Last Night);The Electric Prunes;['Pop'];177.0;0.0

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Love Rock 'N Roll;Joan Jett & The Blackhearts;['Rock'];175.0;0.0
+1;Centerfold;The J. Geils Band;['Rock'];216.0;0.0
+2;Abracadabra;The Steve Miller Band;['Rock'];307.0;0.0
+3;Eye Of The Tiger;Survivor;['Films/Jeux vidéo', 'Musiques de films'];245.0;0.0
+4;Ebony And Ivory;Paul McCartney And Stevie Wonder;['Rock'];225.0;0.0
+5;Don't You Want Me;The Human League;['Rock'];236.0;0.0
+6;Jack & Diane;John Cougar;['Pop'];253.0;0.0
+7;Physical;Olivia Newton-John;['Films/Jeux vidéo', 'Musiques de films'];223.0;0.0
+8;Open Arms;Journey;['Rock'];198.0;0.0
+9;Up Where We Belong;Joe Cocker And Jennifer Warnes;['Rock'];233.0;0.0
+10;Hurts So Good;John Cougar;['Pop'];210.0;0.0
+11;Hard To Say I'm Sorry;Chicago;['Rock'];232.0;0.0
+12;I Can't Go For That (No Can Do);Daryl Hall John Oates;['Pop'];307.0;0.0
+13;Don't Talk To Strangers;Rick Springfield;['Pop'];180.0;0.0
+14;Waiting For A Girl Like You;Foreigner;['Rock', 'Hard Rock'];292.0;0.0
+15;Rosanna;Toto;['Pop'];331.0;0.0
+16;Chariots Of Fire - Titles;Vangelis;['Films/Jeux vidéo', 'Musiques de films'];213.0;0.0
+17;Who Can It Be Now?;Men At Work;['Pop'];201.0;0.0
+18;We Got The Beat;Go-Go's;['Pop'];151.0;0.0
+19;Hold Me;Fleetwood Mac;['Pop'];225.0;0.0
+20;That Girl;Stevie Wonder;['R&B'];314.0;0.0
+21;I've Never Been To Me;Charlene;['Pop'];234.0;0.0
+22;You Should Hear How She Talks About You;Melissa Manchester;['Pop'];256.0;0.0
+23;Harden My Heart;Quarterflash;['Rock'];232.0;0.0
+24;867-5309/jenny;Tommy Tutone;['Pop', 'Rock'];228.0;0.0
+25;Eye In The Sky;The Alan Parsons Project;['Rock'];276.0;0.0
+26;Shake It Up;The Cars;['Pop'];211.0;0.0
+27;Freeze-frame;The J. Geils Band;['Rock'];216.0;0.0
+28;Heart Attack;Olivia Newton-John;['Pop'];190.0;0.0
+29;Heat Of The Moment;Asia;['Rock'];229.0;0.0
+30;Always On My Mind;Willie Nelson;['Country'];212.0;0.0
+31;Let's Groove;Earth, Wind & Fire;['Pop'];334.0;0.0
+32;I Keep Forgettin' (Every Time You're Near);Michael McDonald;['Rock'];222.0;0.0
+33;Even The Nights Are Better;Air Supply;['Pop'];236.0;0.0
+34;Sweet Dreams;Air Supply;['Pop'];316.0;0.0
+35;The Other Woman;Ray Parker Jr.;['Pop'];247.0;0.0
+36;'65 Love Affair;Paul Davis;['Rock'];233.0;0.0
+37;Turn Your Love Around;George Benson;['Pop'];229.0;0.0
+38;Let It Whip;Dazz Band;['R&B'];246.0;0.0
+39;Key Largo;Bertie Higgins;['Pop'];198.0;0.0
+40;Make A Move On Me;Olivia Newton-John;['Pop'];198.0;0.0
+41;Leather And Lace;Stevie Nicks With Don Henley;['Rock'];229.0;0.0
+42;Only The Lonely;The Motels;['Pop'];196.0;0.0
+43;You Can Do Magic;America;['Pop'];235.0;0.0
+44;Tainted Love;Soft Cell;['Pop'];160.0;0.0
+45;Do You Believe In Love;Huey Lewis & The News;['Rock'];207.0;0.0
+46;Somebody's Baby;Jackson Browne;['Pop'];243.0;0.0
+47;Wasted On The Way;Crosby, Stills & Nash;['Pop', 'Rock'];171.0;0.0
+48;Leader Of The Band;Dan Fogelberg;['Pop', 'Rock', 'Singer & Songwriter'];259.0;0.0
+49;Pac-Man Fever;Buckner & Garcia;['Pop'];229.0;0.0
+50;Love's Been A Little Bit Hard On Me;Juice Newton;['Country'];195.0;0.0
+51;The Sweetest Thing (I've Ever Known);Juice Newton;['Country'];248.0;0.0
+52;Vacation;Go-Go's;['Pop'];179.0;0.0
+53;Keep The Fire Burnin';REO Speedwagon;['Pop'];235.0;0.0
+54;Young Turks;Rod Stewart;['Pop', 'Rock'];302.0;0.0
+55;Take It Easy On Me;Little River Band;['Rock'];228.0;0.0
+56;Gloria;Laura Branigan;['Pop'];295.0;0.0
+57;Did It In A Minute;Daryl Hall John Oates;['Pop'];217.0;0.0
+58;Mirror, Mirror;Diana Ross;['Pop'];369.0;0.0
+59;Crimson And Clover;Joan Jett & The Blackhearts;['Rock'];197.0;0.0
+60;Take It Away;Paul McCartney;['Rock'];256.0;0.0
+61;Caught Up In You;38 Special;['Rock'];278.0;0.0
+62;I Ran (So Far Away);A Flock Of Seagulls;['Pop'];306.0;0.0
+63;Break It To Me Gently;Juice Newton;['Country'];243.0;0.0
+64;Love Is In Control (Finger On The Trigger);Donna Summer;['Pop'];260.0;0.0
+65;Think I'm In Love;Eddie Money;['Rock'];188.0;0.0
+66;Hooked On Classics;Royal Philharmonic Orchestra;[];306.0;0.0
+67;Heartlight;Neil Diamond;['Pop'];264.0;0.0
+68;Blue Eyes;Elton John;['Pop'];209.0;0.0
+69;Cool Night;Paul Davis;['Rock'];218.0;0.0
+70;Should I Do It;The Pointer Sisters;['Pop'];231.0;0.0
+71;(Oh) Pretty Woman;Van Halen;['Rock', 'Hard Rock'];172.0;0.0
+72;Why Do Fools Fall In Love;Diana Ross;['Pop'];299.0;0.0
+73;Love Will Turn You Around;Kenny Rogers;['Country'];217.0;0.0
+74;Edge Of Seventeen (Just Like The White Winged Dove);Stevie Nicks;['Pop'];328.0;0.0
+75;Empty Garden (Hey Hey Johnny);Elton John;['Pop'];308.0;0.0
+76;Through The Years;Kenny Rogers;['Country'];232.0;0.0
+77;Spirits In The Material World;The Police;['Pop'];178.0;0.0
+78;Making Love;Roberta Flack;['Films/Jeux vidéo', 'Musiques de films', 'Soul'];175.0;0.0
+79;It's Gonna Take A Miracle;Deniece Williams;['Pop'];249.0;0.0
+80;Trouble;Lindsey Buckingham;['Rock'];236.0;0.0
+81;One Hundred Ways;Quincy Jones Featuring James Ingram;[];;
+82;Love In The First Degree;Alabama;['Country'];198.0;0.0
+83;Get Down On It;Kool & The Gang;['R&B'];293.0;0.0
+84;Man On Your Mind;Little River Band;['Rock'];257.0;0.0
+85;Gypsy;Fleetwood Mac;['Pop'];264.0;0.0
+86;Do I Do;Stevie Wonder;['R&B'];628.0;0.0
+87;What's Forever For;Michael Murphey;['Country'];172.0;0.0
+88;Personally;Karla Bonoff;[];216.0;0.0
+89;Bobbie Sue;The Oak Ridge Boys;['Country'];171.0;0.0
+90;Take Off;Bob & Doug McKenzie;['Films/Jeux vidéo', 'Comédie'];286.0;0.0
+91;Waiting On A Friend;The Rolling Stones;['Rock'];274.0;0.0
+92;Any Day Now;Ronnie Milsap;['Country'];215.0;0.0
+93;Only Time Will Tell;Asia;['Rock'];286.0;0.0
+94;Don't Stop Believin';Journey;['Rock'];248.0;0.0
+95;Comin' In And Out Of Your Life;Barbra Streisand;['Pop'];249.0;0.0
+96;Hot In The City;Billy Idol;['Rock'];213.0;0.0
+97;American Music;The Pointer Sisters;['Pop'];238.0;0.0
+98;Kids In America;Kim Wilde;['Pop'];205.0;0.0
+99;You Could Have Been With Me;Sheena Easton;['Pop'];228.0;0.0

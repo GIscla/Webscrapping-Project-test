@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Happy;Pharrell Williams;['Pop'];232.0;0.0
+1;Fancy;Iggy Azalea Featuring Charli XCX;[];196.0;0.0
+2;Dark Horse;Katy Perry Featuring Juicy J;['Pop'];214.0;0.0
+3;All About That Bass;Meghan Trainor;['Pop'];187.0;1.0
+4;Shake It Off;Taylor Swift;['Pop'];219.0;0.0
+5;All Of Me;John Legend;['R&B'];269.0;0.0
+6;Timber;Pitbull Featuring Ke$ha;['Electro', 'Techno/House', 'Dance', 'Rap/Hip Hop', 'Pop'];204.0;0.0
+7;Rude;MAGIC!;['Alternative', 'Pop'];224.0;0.0
+8;Problem;Ariana Grande Featuring Iggy Azalea;[];193.0;0.0
+9;The Monster;Eminem Featuring Rihanna;['Pop'];253.0;1.0
+10;Talk Dirty;Jason Derulo Featuring 2 Chainz;['Pop'];177.0;1.0
+11;Counting Stars;OneRepublic;['Pop'];257.0;0.0
+12;Stay With Me;Sam Smith;['Pop'];172.0;0.0
+13;Anaconda;Nicki Minaj;['Rap/Hip Hop'];260.0;1.0
+14;Say Something;A Great Big World & Christina Aguilera;['Pop', 'Pop internationale', 'Rock', 'Singer & Songwriter'];229.0;0.0
+15;Am I Wrong;Nico & Vinz;['Pop'];247.0;0.0
+16;Bang Bang;Jessie J, Ariana Grande & Nicki Minaj;['Pop'];142.0;0.0
+17;Pompeii;Bastille;['Alternative'];214.0;0.0
+18;Turn Down For What;DJ Snake & Lil Jon;['Rap/Hip Hop', 'Pop', 'Pop internationale', 'Rock'];213.0;0.0
+19;Black Widow;Iggy Azalea Featuring Rita Ora;['Pop', 'Singer & Songwriter'];202.0;0.0
+20;Let It Go;Idina Menzel;['Films/Jeux vidéo', 'Musiques de films'];223.0;0.0
+21;Team;Lorde;['Alternative'];193.0;0.0
+22;Let Her Go;Passenger;['Rap/Hip Hop'];174.0;0.0
+23;Drunk In Love;Beyonce Featuring Jay Z;['Pop', 'Pop internationale', 'Rock'];323.0;1.0
+24;Royals;Lorde;['Alternative'];190.0;0.0
+25;Chandelier;Sia;['Pop'];216.0;0.0
+26;Wiggle;Jason Derulo Featuring Snoop Dogg;['Pop'];193.0;0.0
+27;Story Of My Life;One Direction;['Pop'];245.0;0.0
+28;Demons;Imagine Dragons;['Alternative'];177.0;0.0
+29;Maps;Maroon 5;['Pop'];189.0;0.0
+30;Break Free;Ariana Grande Featuring Zedd;['Pop', 'Singer & Songwriter'];184.0;0.0
+31;Wake Me Up!;Avicii;['Dance'];247.0;0.0
+32;Summer;Calvin Harris;['Dance'];222.0;0.0
+33;Latch;Disclosure Featuring Sam Smith;[];257.0;0.0
+34;Not A Bad Thing;Justin Timberlake;['Pop', 'Pop internationale', 'Rock'];688.0;1.0
+35;Loyal;Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga;[];;
+36;Boom Clap;Charli XCX;['Pop'];169.0;0.0
+37;Habits (Stay High);Tove Lo;['Alternative'];209.0;0.0
+38;Best Day Of My Life;American Authors;['Alternative'];194.0;0.0
+39;Don't Tell 'Em;Jeremih Featuring YG;['Pop'];270.0;0.0
+40;The Man;Aloe Blacc;['Pop'];255.0;0.0
+41;Rather Be;Clean Bandit Featuring Jess Glynne;['Dance'];227.0;0.0
+42;Burn;Ellie Goulding;['Pop'];231.0;0.0
+43;Show Me;Kid Ink Featuring Chris Brown;['Rap/Hip Hop'];217.0;1.0
+44;Bailando;Enrique Iglesias Featuring Descemer Bueno & Gente de Zona;[];;
+45;Ain't It Fun;Paramore;['Alternative'];296.0;0.0
+46;Sing;Ed Sheeran;['Pop'];235.0;0.0
+47;Wrecking Ball;Miley Cyrus;['Pop'];221.0;0.0
+48;Roar;Katy Perry;['Pop'];223.0;0.0
+49;This Is How We Roll;Florida Georgia Line Ft. Jason Derulo & Luke Bryan;[];;
+50;Classic;MKTO;['Pop'];175.0;0.0
+51;Love Runs Out;OneRepublic;['Pop'];224.0;0.0
+52;Play It Again;Luke Bryan;['Country'];226.0;0.0
+53;Hot Boy;Bobby Shmurda;['Rap/Hip Hop'];194.0;0.0
+54;Hey Brother;Avicii;['Dance'];255.0;0.0
+55;Don't;Ed Sheeran;['Pop'];219.0;0.0
+56;Cool Kids;Echosmith;['Alternative'];237.0;0.0
+57;Na Na;Trey Songz;['R&B'];231.0;0.0
+58;Hold On, We're Going Home;Drake Featuring Majid Jordan;['Rap/Hip Hop'];227.0;0.0
+59;Animals;Maroon 5;['Pop'];229.0;0.0
+60;A Sky Full Of Stars;Coldplay;['Alternative', 'Rock'];267.0;0.0
+61;Shower;Becky G;['Pop'];206.0;0.0
+62;Bottoms Up;Brantley Gilbert;['Country'];220.0;0.0
+63;Dirt;Florida Georgia Line;['Country'];230.0;0.0
+64;2 On;Tinashe Featuring ScHoolboy Q;['Rap/Hip Hop', 'Pop', 'R&B'];230.0;1.0
+65;My Hitta;YG Featuring Jeezy & Rich Homie Quan;[];;
+66;Animals;Martin Garrix;['Dance'];304.0;0.0
+67;Radioactive;Imagine Dragons;['Alternative'];186.0;0.0
+68;Me And My Broken Heart;Rixton;['Pop'];193.0;0.0
+69;Trumpets;Jason Derulo;['Pop'];217.0;0.0
+70;Burnin' It Down;Jason Aldean;['Country'];219.0;0.0
+71;Can't Remember To Forget You;Shakira Featuring Rihanna;['Pop'];206.0;0.0
+72;Birthday;Katy Perry;['Pop'];215.0;0.0
+73;American Kids;Kenny Chesney;['Country'];182.0;0.0
+74;Sweater Weather;The Neighbourhood;['Alternative'];240.0;0.0
+75;Do What U Want;Lady Gaga Featuring R. Kelly;['Dance', 'Pop'];231.0;0.0
+76;Lifestyle;Rich Gang Featuring Young Thug & Rich Homie Quan;[];266.0;0.0
+77;Drunk On A Plane;Dierks Bentley;['Country'];254.0;0.0
+78;Love Never Felt So Good;Michael Jackson & Justin Timberlake;['Pop'];246.0;0.0
+79;White Walls;Macklemore & Ryan Lewis Featuring ScHoolboy Q & Hollis;['Rap/Hip Hop'];220.0;1.0
+80;La La La;Naughty Boy Featuring Sam Smith;[];219.0;0.0
+81;Come With Me Now;KONGOS;['Alternative'];211.0;0.0
+82;Stay The Night;Zedd Featuring Hayley Williams;['Dance'];217.0;0.0
+83;Brave;Sara Bareilles;['Pop'];220.0;0.0
+84;Bartender;Lady Antebellum;['Alternative'];198.0;0.0
+85;Drink A Beer;Luke Bryan;['Country'];202.0;0.0
+86;Beachin';Jake Owen;['Country'];191.0;0.0
+87;23;Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J;[];250.0;0.0
+88;No Mediocre;T.I. Featuring Iggy Azalea;['Rap/Hip Hop'];201.0;1.0
+89;Partition;Beyonce;['Pop', 'Pop internationale', 'Rock'];319.0;1.0
+90;Give Me Back My Hometown;Eric Church;['Country'];252.0;0.0
+91;Paranoid;Ty Dolla $ign Featuring B.o.B;['Rap/Hip Hop'];216.0;1.0
+92;New Flame;Chris Brown Featuring Usher & Rick Ross;['R&B'];244.0;1.0
+93;Really Don't Care;Demi Lovato Featuring Cher Lloyd;[];201.0;0.0
+94;Neon Lights;Demi Lovato;['Pop'];233.0;0.0
+95;Pills N Potions;Nicki Minaj;['Rap/Hip Hop'];268.0;1.0
+96;Adore You;Miley Cyrus;['Pop'];278.0;0.0
+97;I Don't Dance;Lee Brice;['Country'];221.0;0.0
+98;Human;Christina Perri;['Pop'];250.0;0.0
+99;She Looks So Perfect;5 Seconds Of Summer;['Pop'];202.0;0.0

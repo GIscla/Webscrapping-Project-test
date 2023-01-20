@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Believe;Cher;['Pop'];239.0;0.0
+1;Angel Of Mine;Monica;['R&B', 'Soul'];250.0;0.0
+2;Genie In A Bottle;Christina Aguilera;['Pop'];217.0;0.0
+3;If You Had My Love;Jennifer Lopez;['Pop'];266.0;0.0
+4;No Scrubs;TLC;['R&B'];214.0;0.0
+5;Livin' La Vida Loca;Ricky Martin;['Rock', 'Latino'];243.0;0.0
+6;...Baby One More Time;Britney Spears;['Pop', 'Pop internationale', 'Rock'];211.0;0.0
+7;Unpretty;TLC;['R&B'];278.0;0.0
+8;Smooth;Santana Featuring Rob Thomas;['Pop'];295.0;0.0
+9;I'm Your Angel;R. Kelly & Celine Dion;['Pop'];322.0;0.0
+10;Bailamos;Enrique Iglesias;['Pop'];212.0;0.0
+11;Heartbreak Hotel;Whitney Houston Feat. Faith Evans & Kelly Price;['Pop', 'R&B', 'Soul'];281.0;0.0
+12;Nobody's Supposed To Be Here;Deborah Cox;['Pop', 'R&B', 'Soul'];262.0;0.0
+13;Kiss Me;Sixpence None The Richer;['Pop', 'Rock'];208.0;0.0
+14;Every Morning;Sugar Ray;['Pop', 'Rock'];220.0;0.0
+15;Bills, Bills, Bills;Destiny's Child;['Pop'];256.0;0.0
+16;Have You Ever?;Brandy;['Pop'];273.0;0.0
+17;Angel;Sarah McLachlan;['Pop'];270.0;0.0
+18;All I Have To Give;Backstreet Boys;['Pop'];276.0;0.0
+19;Satisfy You;Puff Daddy Featuring R. Kelly;['R&B'];304.0;0.0
+20;Last Kiss;Pearl Jam;['Rock'];195.0;0.0
+21;She's All I Ever Had;Ricky Martin;['Pop'];295.0;0.0
+22;Mambo No. 5 (A Little Bit Of...);Lou Bega;['Dance', 'Pop'];220.0;0.0
+23;All Star;Smash Mouth;['Rock'];200.0;0.0
+24;What's It Gonna Be?!;Busta Rhymes Featuring Janet;['Rap/Hip Hop'];325.0;0.0
+25;Slide;Goo Goo Dolls;['Pop'];213.0;0.0
+26;Lately;Divine;['R&B', 'Soul'];218.0;0.0
+27;Fortunate;Maxwell;['Pop'];301.0;0.0
+28;I Still Believe;Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];234.0;0.0
+29;Summer Girls;LFO;['Pop'];257.0;0.0
+30;Tell Me It's Real;K-Ci & JoJo;['R&B'];281.0;0.0
+31;Heartbreaker;Mariah Carey Featuring Jay-Z;[];285.0;0.0
+32;Save Tonight;Eagle-Eye Cherry;['Pop'];242.0;0.0
+33;I Want It That Way;Backstreet Boys;['Pop'];213.0;0.0
+34;Jumper;Third Eye Blind;['Alternative', 'Rock', 'Rock Indé/Pop Rock'];272.0;0.0
+35;I Need To Know;Marc Anthony;['Dance'];227.0;0.0
+36;The Hardest Thing;98 Degrees;['R&B'];274.0;0.0
+37;(God Must Have Spent) A Little More Time On You;'N Sync;['Pop'];241.0;0.0
+38;It's Not Right But It's Okay;Whitney Houston;['Pop', 'R&B', 'Soul'];292.0;0.0
+39;Wild Wild West;Will Smith Featuring Dru Hill & Kool Mo Dee;['Pop'];268.0;0.0
+40;Because Of You;98 Degrees;['R&B'];296.0;0.0
+41;Someday;Sugar Ray;['Pop'];242.0;0.0
+42;My Love Is Your Love;Whitney Houston;['Pop', 'R&B', 'Soul'];261.0;0.0
+43;Doo Wop (That Thing);Lauryn Hill;['Pop'];241.0;0.0
+44;From This Moment On;Shania Twain;['Country'];291.0;0.0
+45;Lullaby;Shawn Mullins;['Pop'];272.0;0.0
+46;Trippin';Total Featuring Missy Elliott;[];;
+47;Hands;Jewel;['Pop'];235.0;0.0
+48;Scar Tissue;Red Hot Chili Peppers;['Alternative'];215.0;0.0
+49;Sweet Lady;Tyrese;['R&B', 'Soul'];290.0;0.0
+50;All Night Long;Faith Evans Featuring Puff Daddy;['R&B'];234.0;0.0
+51;You;Jesse Powell;['R&B'];318.0;0.0
+52;I Don't Want To Miss A Thing;Mark Chesnutt;['Country'];246.0;0.0
+53;Can I Get A...;Jay-Z Featuring Amil (Of Major Coinz) & Ja;[];;
+54;Miami;Will Smith;['Pop'];197.0;0.0
+55;Fly Away;Lenny Kravitz;[];;
+56;Fly Away;Lenny Kravitz;['Rock'];221.0;0.0
+57;Stay The Same;Joey McIntyre;['Pop'];227.0;0.0
+58;Where My Girls At?;JT Money Featuring Sole;[];;
+59;What It's Like;Everlast;['Rock'];303.0;1.0
+60;Taking Everything;Gerald Levert;['R&B'];325.0;0.0
+61;Love Like This;Faith Evans;['R&B'];275.0;0.0
+62;Where My Girls At?;98 Degrees;[];;
+63;Faded Pictures;Case & Joe;['Rap/Hip Hop'];230.0;0.0
+64;If You (Lovin' Me);Silk;['Pop', 'Rock'];337.0;0.0
+65;Where My Girls At?;Santana Featuring Rob Thomas;[];;
+66;Who Dat;Shania Twain;[];;
+67;Back 2 Good;matchbox 20;['Pop'];329.0;0.0
+68;When A Woman's Fed Up;R. Kelly;['R&B'];278.0;1.0
+69;These Are The Times;Dru Hill;['Pop'];248.0;0.0
+70;Ex-Factor;Lauryn Hill;['Pop'];326.0;0.0
+71;Ghetto Cowboy;Mo Thugs Family Featuring Bone Thugs-N-Harmony;[];;
+72;C'est La Vie;B*Witched;['Pop'];172.0;0.0
+73;Smooth;Jennifer Lopez;['Pop', 'Rock'];211.0;0.0
+74;Back At One;Brian McKnight;['R&B'];263.0;0.0
+75;That Don't Impress Me Much;Sugar Ray;[];;
+76;It Ain't My Fault 1 & 2;Silkk The Shocker Featuring Mystikal;[];;
+77;Goodbye;Spice Girls;['Rock'];275.0;0.0
+78;When You Believe;Whitney Houston & Mariah Carey;['Pop', 'R&B', 'R&B contemporain'];273.0;0.0
+79;Take Me There;BLACKstreet & Mya Featuring Mase & Blinky Blink;[];;
+80;Every Morning;Blaque;[];;
+81;Where My Girls At?;Sixpence None The Richer;[];;
+82;We Can't Be Friends;Deborah Cox With R.L.;['R&B', 'Soul'];281.0;0.0
+83;Where My Girls At?;LFO;[];;
+84;If You Had My Love;Sugar Ray;[];;
+85;Please Remember Me;Tim McGraw;['Country'];296.0;0.0
+86;How Forever Feels;Kenny Chesney;['Country'];188.0;0.0
+87;808;Chante Moore;[];;
+88;Kiss Me;Destiny's Child;[];;
+89;Steal My Sunshine;Len;['Pop'];211.0;0.0
+90;Summer Girls;Whitney Houston;[];;
+91;Someday;Pearl Jam;['Rock'];157.0;0.0
+92;Iris;Goo Goo Dolls;['Pop'];289.0;0.0
+93;When I Close My Eyes;Shanice;['Pop', 'R&B'];202.0;0.0
+94;This Kiss;Faith Hill;['Country'];194.0;0.0
+95;Hard Knock Life (Ghetto Anthem);JAY-Z;['Rap/Hip Hop'];238.0;1.0
+96;Chante's Got A Man;Jordan Knight;[];;
+97;It's Not Right But It's Okay;Naughty By Nature Featuring Zhane;[];;
+98;Last Kiss;Backstreet Boys;[];;
+99;Bills, Bills, Bills;Sporty Thievz Featuring Mr. Woods;[];;

@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;I Gotta Feeling;The Black Eyed Peas;['Pop'];289.0;0.0
+1;Boom Boom Pow;The Black Eyed Peas;['Pop'];251.0;1.0
+2;Right Round;Flo Rida;['Rap/Hip Hop'];204.0;0.0
+3;Poker Face;Lady Gaga;['Pop'];237.0;0.0
+4;Poker Face;Lady Gaga;[];;
+5;Single Ladies (Put A Ring On It);Beyonce;['Pop'];193.0;0.0
+6;My Life Would Suck Without You;Kelly Clarkson;['Pop', 'Pop internationale', 'Rock'];212.0;0.0
+7;Just Dance;Lady Gaga Featuring Colby O'Donis;['Pop'];244.0;0.0
+8;Best I Ever Had;Drake;['Rap/Hip Hop'];257.0;1.0
+9;Fireflies;Owl City;['Electro'];228.0;0.0
+10;Down;Jay Sean Featuring Lil Wayne;['Pop', 'Singer & Songwriter'];163.0;0.0
+11;Dead And Gone;T.I. Featuring Justin Timberlake;[];;
+12;Dead And Gone;T.I. Featuring Justin Timberlake;['Rap/Hip Hop'];301.0;0.0
+13;Heartless;Kanye West;['Rap/Hip Hop'];211.0;0.0
+14;Heartless;Kanye West;[];;
+15;You Belong With Me;Taylor Swift;['Pop'];231.0;0.0
+16;Party In The U.S.A.;Miley Cyrus;['Pop'];202.0;0.0
+17;Run This Town;Jay-Z, Rihanna & Kanye West;['Rap/Hip Hop'];167.0;0.0
+18;Gives You Hell;The All-American Rejects;['Alternative'];213.0;0.0
+19;Knock You Down;Keri Hilson Featuring Kanye West & Ne-Yo;['Pop'];332.0;0.0
+20;Blame It;Jamie Foxx Featuring T-Pain;['R&B'];290.0;1.0
+21;Kiss Me Thru The Phone;Soulja Boy Tell 'em Featuring Sammie;['Electro'];202.0;0.0
+22;Live Your Life;T.I. Featuring Rihanna;[];279.0;0.0
+23;I Know You Want Me (Calle Ocho);Pitbull;['Rap/Hip Hop'];237.0;0.0
+24;Love Story;Taylor Swift;['Country'];233.0;0.0
+25;Whatcha Say;Jason Derulo;['Pop'];221.0;0.0
+26;The Climb;Miley Cyrus;['Pop'];231.0;0.0
+27;Use Somebody;Kings Of Leon;['Rock'];231.0;0.0
+28;Use Somebody;Kings Of Leon;[];;
+29;Fire Burning;Sean Kingston;['Pop'];240.0;0.0
+30;You Found Me;The Fray;['Rock'];241.0;0.0
+31;Day 'N' Nite;Kid Cudi;['Pop'];166.0;0.0
+32;I'm Yours;Jason Mraz;['Pop'];243.0;0.0
+33;I'm Yours;Jason Mraz;[];;
+34;Halo;Beyonce;['Rap/Hip Hop', 'Pop', 'Rock', 'R&B', 'R&B contemporain'];262.0;0.0
+35;LoveGame;Lady Gaga;['Pop'];216.0;0.0
+36;Waking Up In Vegas;Katy Perry;['Pop'];199.0;0.0
+37;Birthday Sex;Jeremih;['Rap/Hip Hop', 'R&B'];226.0;0.0
+38;Second Chance;Shinedown;['Rock'];222.0;0.0
+39;Circus;Britney Spears;['Pop'];224.0;0.0
+40;Don't Trust Me;3OH!3;['Alternative', 'Pop Indé', 'Rock indé'];194.0;0.0
+41;Hot N Cold;Katy Perry;['Pop'];223.0;0.0
+42;New Divide;Linkin Park;['Rock'];268.0;0.0
+43;Paparazzi;Lady Gaga;['Pop'];208.0;0.0
+44;Womanizer;Britney Spears;['Pop'];224.0;0.0
+45;Good Girls Go Bad;Cobra Starship Featuring Leighton Meester;['Alternative'];196.0;0.0
+46;Obsessed;Mariah Carey;['R&B'];244.0;0.0
+47;Crack A Bottle;Eminem, Dr. Dre & 50 Cent;['Pop'];318.0;0.0
+48;Empire State Of Mind;Jay-Z + Alicia Keys;['Rap/Hip Hop'];276.0;1.0
+49;Mad;Ne-Yo;['R&B'];254.0;0.0
+50;Mad;Ne-Yo;[];;
+51;Let It Rock;Kevin Rudolf Featuring Lil Wayne;['R&B'];252.0;0.0
+52;Hotel Room Service;Pitbull;['Dance', 'Rap/Hip Hop', 'Pop', 'R&B', 'Latino'];238.0;0.0
+53;Don't Stop Believin';Glee Cast;['Pop'];232.0;0.0
+54;Sober;P!nk;[];;
+55;Sober;P!nk;['Pop'];251.0;0.0
+56;Every Girl;Young Money;['Rap/Hip Hop'];313.0;1.0
+57;She Wolf;Shakira;['Pop'];188.0;0.0
+58;Turnin Me On;Keri Hilson Featuring Lil Wayne;['R&B'];256.0;0.0
+59;Sugar;Flo Rida Featuring Wynter;['Rap/Hip Hop'];252.0;0.0
+60;Please Don't Leave Me;P!nk;['Pop'];232.0;0.0
+61;Whatever You Like;T.I.;['Rap/Hip Hop'];249.0;0.0
+62;I Hate This Part;The Pussycat Dolls;['Pop'];218.0;0.0
+63;Love Lockdown;Kanye West;['Rap/Hip Hop'];270.0;0.0
+64;Forever;Drake Featuring Kanye West, Lil Wayne & Eminem;[];;
+65;Battlefield;Jordin Sparks;['Pop'];241.0;0.0
+66;Break Up;Mario Featuring Gucci Mane & Sean Garrett;['R&B'];250.0;0.0
+67;Sweet Dreams;Beyonce;['Pop'];208.0;0.0
+68;Beautiful;Akon Featuring Colby O'Donis & Kardinal Offishall;['Pop'];314.0;0.0
+69;Beautiful;Akon Featuring Colby O'Donis & Kardinal Offishall;[];;
+70;I Told You So;Carrie Underwood Featuring Randy Travis;['Country'];259.0;0.0
+71;Gotta Be Somebody;Nickelback;['Rock'];252.0;0.0
+72;I Love College;Asher Roth;['Pop'];240.0;1.0
+73;Big Green Tractor;Jason Aldean;['Country'];204.0;0.0
+74;Throw It In The Bag;Fabolous Featuring The-Dream;[];;
+75;So What;P!nk;['Dance', 'Rap/Hip Hop', 'Pop', 'Variété Internationale', 'Rock', 'R&B'];215.0;0.0
+76;Meet Me Halfway;The Black Eyed Peas;['Pop'];284.0;0.0
+77;Viva La Vida;Coldplay;[];;
+78;Viva La Vida;Coldplay;['Rock'];242.0;0.0
+79;No Surprise;Daughtry;['Pop'];270.0;0.0
+80;21 Guns;Green Day;[];;
+81;21 Guns;Green Day;['Alternative'];321.0;0.0
+82;Untouched;The Veronicas;[];;
+83;Untouched;The Veronicas;['Pop'];255.0;0.0
+84;If I Were A Boy;Beyonce;['Pop'];249.0;0.0
+85;We Made You;Eminem;['Rap/Hip Hop'];269.0;0.0
+86;If U Seek Amy;Britney Spears;['Pop'];216.0;0.0
+87;Diva;Beyonce;[];;
+88;Diva;Beyonce;['Pop'];200.0;0.0
+89;Rockin' That Thang;The-Dream;[];;
+90;Rockin' That Thang;The-Dream;['R&B'];221.0;0.0
+91;Love Drunk;Boys Like Girls;['Alternative'];226.0;0.0
+92;Miss Independent;Ne-Yo;['R&B'];232.0;0.0
+93;Right Now (Na Na Na);Akon;['Pop'];240.0;0.0
+94;Turn My Swag On;Soulja Boy Tell'em;[];;
+95;Turn My Swag On;Soulja Boy Tell'em;['Rap/Hip Hop'];206.0;0.0
+96;If Today Was Your Last Day;Nickelback;['Rock'];248.0;0.0
+97;Then;Brad Paisley;['Country'];321.0;0.0
+98;Then;Brad Paisley;[];;
+99;3;Britney Spears;['Pop'];205.0;0.0

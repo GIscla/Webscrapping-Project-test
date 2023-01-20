@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Rhinestone Cowboy;Glen Campbell;['Country', 'Pop', 'Rock'];195.0;0.0
+1;One Of These Nights;Eagles;['Pop'];291.0;0.0
+2;Laughter In The Rain;Neil Sedaka;['Pop'];170.0;0.0
+3;Fame;David Bowie;['Rock'];251.0;1.0
+4;Love Will Keep Us Together;The Captain & Tennille;['Pop'];205.0;0.0
+5;Best Of My Love;Eagles;['Pop'];274.0;0.0
+6;Thank God I'm A Country Boy;John Denver;['Pop'];193.0;0.0
+7;Lovin' You;Minnie Riperton;['R&B'];203.0;0.0
+8;I'm Sorry;John Denver;['Country'];212.0;0.0
+9;Lucy In The Sky With Diamonds;Elton John;['Pop'];376.0;0.0
+10;He Don't Love You (Like I Love You);Tony Orlando & Dawn;['Pop', 'Rock'];219.0;0.0
+11;Island Girl;Elton John;['Pop'];224.0;0.0
+12;Philadelphia Freedom;The Elton John Band;[];;
+13;The Hustle;Van McCoy & The Soul City Symphony;['Pop'];242.0;0.0
+14;(Hey Won't You Play) Another Somebody Done Somebody Wrong Song;B.J. Thomas;['Pop'];206.0;0.0
+15;Have You Never Been Mellow;Olivia Newton-John;['Pop'];213.0;0.0
+16;I'm Not In Love;10cc;['Pop'];366.0;0.0
+17;Fire;Ohio Players;['Soul & Funk'];273.0;0.0
+18;Fallin' In Love;Hamilton, Joe Frank & Reynolds;['Pop', 'Singer & Songwriter'];184.0;0.0
+19;Sister Golden Hair;America;['Rock'];197.0;0.0
+20;Before The Next Teardrop Falls;Freddy Fender;['Country'];160.0;0.0
+21;Jive Talkin';Bee Gees;['Pop'];224.0;0.0
+22;You're The First, The Last, My Everything;Barry White;['Dance'];274.0;0.0
+23;Listen To What The Man Said;Wings;['Pop'];234.0;0.0
+24;Boogie On Reggae Woman;Stevie Wonder;['R&B'];296.0;0.0
+25;How Long;Ace;['Pop'];204.0;0.0
+26;Black Water;The Doobie Brothers;['Pop', 'Rock'];258.0;0.0
+27;My Eyes Adored You;Frankie Valli;['Pop'];212.0;0.0
+28;Miracles;Jefferson Starship;['Rock'];412.0;0.0
+29;Please Mr. Please;Olivia Newton-John;['Pop'];202.0;0.0
+30;Pick Up The Pieces;AWB;['Jazz', 'R&B'];391.0;0.0
+31;No No Song/snookeroo;Ringo Starr;[];;
+32;Get Down Tonight;KC And The Sunshine Band;['Pop'];191.0;0.0
+33;Love Won't Let Me Wait;Major Harris;['R&B'];227.0;0.0
+34;Wildfire;Michael Murphey;['Rock'];286.0;0.0
+35;At Seventeen;Janis Ian;['Singer & Songwriter'];283.0;0.0
+36;Kung Fu Fighting;Carl Douglas;['R&B', 'Soul'];197.0;0.0
+37;Express;B.T. Express;['Pop', 'Disco'];353.0;0.0
+38;Some Kind Of Wonderful;Grand Funk;['Rock'];203.0;0.0
+39;Bad Time;Grand Funk;['Rock'];176.0;0.0
+40;You're No Good;Linda Ronstadt;['Rock'];224.0;0.0
+41;Lady Marmalade;Labelle;['R&B'];235.0;0.0
+42;Chevy Van;Sammy Johns;['Pop', 'Rock'];173.0;0.0
+43;When Will I Be Loved;Linda Ronstadt;['Rock'];124.0;0.0
+44;Run Joey Run;David Geddes;['Pop'];175.0;0.0
+45;I'm Not Lisa;Jessi Colter;['Pop'];201.0;0.0
+46;Lyin' Eyes;Eagles;['Pop'];382.0;0.0
+47;They Just Can't Stop It the (Games People Play);The Spinners;['R&B', 'Soul & Funk', 'Soul'];211.0;0.0
+48;Please Mr. Postman;Carpenters;['Pop'];168.0;0.0
+49;Feelings;Morris Albert;['Pop'];224.0;0.0
+50;Bad Blood;Neil Sedaka;['Pop'];179.0;0.0
+51;Ballroom Blitz;Sweet;['Pop', 'Rock'];242.0;0.0
+52;Shining Star;Earth, Wind & Fire;['R&B'];170.0;0.0
+53;How Sweet It Is (To Be Loved By You);James Taylor;['Rock'];215.0;0.0
+54;Junior's Farm/Sally G;Paul McCartney And Wings;[];;
+55;You Are So Beautiful/It's A Sin When You Love Somebody;Joe Cocker;[];;
+56;Magic;Pilot;['Pop'];186.0;0.0
+57;Poetry Man;Phoebe Snow;['Folk'];278.0;0.0
+58;Mandy;Barry Manilow;['Pop'];213.0;0.0
+59;Jackie Blue;Ozark Mountain Daredevils;['Rock'];250.0;0.0
+60;Old Days;Chicago;['Pop', 'Rock'];209.0;0.0
+61;Someone Saved My Life Tonight;Elton John;['Pop'];407.0;0.0
+62;Who Loves You;The 4 Seasons;['Pop'];252.0;0.0
+63;Mr. Jaws;Dickie Goodman;['Films/Jeux vidéo', 'Comédie', 'Livres audio'];125.0;0.0
+64;Fight The Power Part 1;The Isley Brothers;['R&B'];197.0;0.0
+65;Wasted Days And Wasted Nights;Freddy Fender;[];;
+66;Wasted Days And Wasted Nights;Freddy Fender;['Country'];171.0;0.0
+67;Lonely People;America;['Pop'];150.0;0.0
+68;Could It Be Magic;Barry Manilow;['Pop'];407.0;0.0
+69;Midnight Blue;Melissa Manchester;['Pop'];238.0;0.0
+70;Dance With Me;Orleans;['Rap/Hip Hop'];204.0;0.0
+71;The Way We Were/try To Remember;Gladys Knight And The Pips;['Pop'];281.0;0.0
+72;Rockin' Chair;Gwen McCrae;['Rap/Hip Hop'];202.0;0.0
+73;Morning Side Of The Mountain;Donny & Marie Osmond;['Pop'];182.0;0.0
+74;Why Can't We Be Friends?;War;['R&B'];230.0;0.0
+75;Walking In Rhythm;The Blackbyrds;['R&B'];252.0;0.0
+76;Dynomite-Part I;Tony Camillo's Bazuka;[];;
+77;Angie Baby;Helen Reddy;['Pop'];211.0;0.0
+78;Only Yesterday;Carpenters;['Pop'];226.0;0.0
+79;Brazil;The Ritchie Family;['Dance', 'Pop', 'Rock', 'R&B', 'Disco'];312.0;0.0
+80;It Only Takes A Minute;Tavares;['Soul'];337.0;0.0
+81;Only Women;Alice Cooper;['Rock'];210.0;0.0
+82;Lady;Styx;['Rock'];184.0;0.0
+83;Feel Like Makin' Love;Bad Company;[];;
+84;Feel Like Makin' Love;Bad Company;['Rock', 'Hard Rock'];312.0;0.0
+85;Only You;Ringo Starr;['Pop'];204.0;0.0
+86;Ain't No Way To Treat A Lady;Helen Reddy;['Pop'];208.0;0.0
+87;Nightingale;Carole King;['Pop'];216.0;0.0
+88;Long Tall Glasses (I Can Dance);Leo Sayer;['Pop'];185.0;0.0
+89;Cut The Cake;AWB;['Jazz', 'R&B'];261.0;0.0
+90;I Don't Like To Sleep Alone;Paul Anka with Odia Coates;[];;
+91;Doctor's Orders;Carol Douglas;['Pop', 'Disco'];273.0;0.0
+92;That's The Way Of The World;Earth, Wind & Fire;['R&B'];346.0;0.0
+93;Can't Get It Out Of My Head;Electric Light Orchestra;['Rock'];261.0;0.0
+94;Rocky;Austin Roberts;['Pop', 'Rock'];222.0;0.0
+95;Get Down, Get Down (Get On The Floor);Joe Simon;['R&B', 'Soul'];176.0;0.0
+96;#9 Dream;John Lennon;['Rock'];286.0;0.0
+97;Swearin' To God;Frankie Valli;['Pop'];245.0;0.0
+98;Don't Call Us, We'll Call You;Sugarloaf/Jerry Corbetta;['Rock'];201.0;0.0
+99;One Man Woman/One Woman Man;Paul Anka with Odia Coates;[];;

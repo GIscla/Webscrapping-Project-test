@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;TiK ToK;Ke$ha;['Pop'];200.0;0.0
+1;Love The Way You Lie;Eminem Featuring Rihanna;['Pop'];296.0;0.0
+2;California Gurls;Katy Perry Featuring Snoop Dogg;['Films/Jeux vidéo', 'Musiques de films'];218.0;0.0
+3;Nothin' On You;B.o.B Featuring Bruno Mars;['Rap/Hip Hop'];268.0;0.0
+4;OMG;Usher Featuring will.i.am;['R&B'];269.0;0.0
+5;Rude Boy;Rihanna;['Pop'];222.0;0.0
+6;Just The Way You Are;Bruno Mars;['Pop'];220.0;0.0
+7;Imma Be;The Black Eyed Peas;['Pop'];257.0;1.0
+8;Airplanes;B.o.B Featuring Hayley Williams;['Rap/Hip Hop'];180.0;1.0
+9;Dynamite;Taio Cruz;['Pop'];202.0;0.0
+10;Like A G6;Far*East Movement Featuring Cataracs & Dev;['Pop'];220.0;0.0
+11;Bad Romance;Lady Gaga;['Pop'];294.0;0.0
+12;Hey, Soul Sister;Train;['Pop'];216.0;0.0
+13;BedRock;Young Money Featuring Lloyd;['Musique brésilienne', 'Jeunesse'];291.0;0.0
+14;Need You Now;Lady Antebellum;['Country'];236.0;0.0
+15;Teenage Dream;Katy Perry;['Pop'];227.0;0.0
+16;Empire State Of Mind;Jay-Z + Alicia Keys;['Rap/Hip Hop'];276.0;1.0
+17;Break Your Heart;Taio Cruz Featuring Ludacris;['Pop'];187.0;0.0
+18;Only Girl (In The World);Rihanna;['Pop'];235.0;0.0
+19;Telephone;Lady Gaga Featuring Beyonce;['Pop'];222.0;0.0
+20;Billionaire;Travie McCoy Featuring Bruno Mars;['Pop'];211.0;1.0
+21;DJ Got Us Fallin' In Love;Usher Featuring Pitbull;['R&B'];220.0;0.0
+22;Today Was A Fairytale;Taylor Swift;['Country'];242.0;0.0
+23;Replay;Iyaz;['Pop'];182.0;0.0
+24;In My Head;Jason Derulo;['Pop'];199.0;0.0
+25;I Like It;Enrique Iglesias Featuring Pitbull;['Pop'];219.0;0.0
+26;Sexy Chick;David Guetta Featuring Akon;['Pop'];205.0;0.0
+27;Just A Dream;Nelly;['Rap/Hip Hop'];237.0;0.0
+28;Baby;Justin Bieber Featuring Ludacris;['Jeunesse'];196.0;0.0
+29;How Low;Ludacris;['Rap/Hip Hop'];201.0;1.0
+30;Fireflies;Owl City;['Electro'];228.0;0.0
+31;Say Aah;Trey Songz Featuring Fabolous;['R&B'];207.0;0.0
+32;Carry Out;Timbaland Featuring Justin Timberlake;[];;
+33;Carry Out;Timbaland Featuring Justin Timberlake;['Pop'];232.0;0.0
+34;Find Your Love;Gold x4;[];;
+35;Your Love Is My Drug;Ke$ha;[];;
+36;Your Love Is My Drug;Ke$ha;['Pop'];187.0;0.0
+37;Not Afraid;Eminem;['Rap/Hip Hop'];248.0;1.0
+38;Hard;Rihanna Featuring Jeezy;['Pop'];257.0;0.0
+39;Right Above It;Lil Wayne Featuring Drake;['Jeunesse', 'Rap/Hip Hop'];273.0;0.0
+40;Cooler Than Me;Mike Posner;['Pop'];215.0;0.0
+41;Bottoms Up;Trey Songz Featuring Nicki Minaj;['R&B'];242.0;1.0
+42;Mine;Taylor Swift;['Pop'];230.0;0.0
+43;Whatcha Say;Jason Derulo;['Pop'];221.0;0.0
+44;Down;Jay Sean Featuring Lil Wayne;['Pop', 'Singer & Songwriter'];163.0;0.0
+45;I Gotta Feeling;The Black Eyed Peas;['Pop'];289.0;0.0
+46;Whataya Want From Me;Adam Lambert;['Pop'];227.0;0.0
+47;Blah Blah Blah;Ke$ha Featuring 3OH!3;['Pop'];172.0;1.0
+48;Club Can't Handle Me;Flo Rida Featuring David Guetta;['Rap/Hip Hop'];234.0;0.0
+49;Alejandro;Lady Gaga;['Pop'];274.0;0.0
+50;According To You;Orianthi;['Pop'];200.0;0.0
+51;Breakeven;The Script;[];;
+52;Breakeven;The Script;['Pop', 'Rock'];261.0;0.0
+53;Live Like We're Dying;Kris Allen;['Pop'];212.0;0.0
+54;Take It Off;Ke$ha;['Pop'];215.0;0.0
+55;Do You Remember;Jay Sean Featuring Sean Paul & Lil Jon;['Pop'];217.0;0.0
+56;Young Forever;Jay-Z + Mr. Hudson;['Rap/Hip Hop'];253.0;1.0
+57;Magic;B.o.B Featuring Rivers Cuomo;['Rap/Hip Hop'];196.0;0.0
+58;I Like It;Gold x4;[];;
+59;We Are The World 25: For Haiti;Artists For Haiti;[];;
+60;Your Love Is My Drug;Drake;['Pop'];190.0;0.0
+61;Meet Me Halfway;The Black Eyed Peas;['Pop'];284.0;0.0
+62;All The Right Moves;OneRepublic;['Rock'];238.0;0.0
+63;All The Right Moves;OneRepublic;[];;
+64;Alejandro;Ke$ha;[];;
+65;Cooler Than Me;Enrique Iglesias Featuring Pitbull;[];;
+66;3;Britney Spears;['Pop'];205.0;0.0
+67;Tie Me Down;New Boyz Featuring Ray J;['Rap/Hip Hop'];178.0;0.0
+68;Haven't Met You Yet;Michael Buble;['Pop'];244.0;0.0
+69;You Belong With Me;Taylor Swift;['Pop'];231.0;0.0
+70;Ridin' Solo;Jason Derulo;['Pop'];215.0;0.0
+71;Can't Be Tamed;Miley Cyrus;['Pop'];168.0;0.0
+72;Paparazzi;Lady Gaga;['Pop'];208.0;0.0
+73;Cooler Than Me;Lady Gaga;[];;
+74;OMG;Mike Posner;[];;
+75;Two Is Better Than One;Boys Like Girls Featuring Taylor Swift;['Alternative'];242.0;0.0
+76;Forever;Drake Featuring Kanye West, Lil Wayne & Eminem;[];;
+77;My Chick Bad;Ludacris Featuring Nicki Minaj;['Rap/Hip Hop'];217.0;0.0
+78;Say Something;Timbaland Featuring Drake;['Pop'];240.0;1.0
+79;Say Something;Timbaland Featuring Drake;[];;
+80;Deuces;Chris Brown Featuring Tyga & Kevin McCall;['R&B'];276.0;1.0
+81;Bulletproof;La Roux;['Pop'];162.0;0.0
+82;Animal;Neon Trees;['Alternative'];212.0;0.0
+83;Not Afraid;Mike Posner;[];;
+84;Find Your Love;Usher Featuring will.i.am;[];;
+85;Already Gone;Kelly Clarkson;['Pop', 'Pop internationale', 'Rock'];281.0;0.0
+86;Over;Drake;['Rap/Hip Hop'];153.0;1.0
+87;Hey Daddy (Daddy's Home);Usher Featuring Plies;[];;
+88;Hey Daddy (Daddy's Home);Usher Featuring Plies;['R&B'];256.0;0.0
+89;Party In The U.S.A.;Miley Cyrus;['Pop'];202.0;0.0
+90;Party In The U.S.A.;Miley Cyrus;[];;
+91;Ridin' Solo;Drake;['Rap/Hip Hop'];114.0;0.0
+92;Raise Your Glass;P!nk;['Pop'];203.0;1.0
+93;Break Your Heart;Eminem;[];;
+94;Naturally;Selena Gomez & The Scene;['Pop'];202.0;0.0
+95;Try Sleeping With A Broken Heart;Alicia Keys;[];;
+96;Try Sleeping With A Broken Heart;Alicia Keys;['R&B'];249.0;0.0
+97;Heartbreak Warfare;John Mayer;[];;
+98;Heartbreak Warfare;John Mayer;['Rock'];269.0;0.0
+99;American Honey;Lady Antebellum;['Country'];221.0;0.0

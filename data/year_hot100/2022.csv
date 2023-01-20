@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;As It Was;Harry Styles;['Pop'];167.0;0.0
+1;Heat Waves;Glass Animals;['Pop'];238.0;0.0
+2;We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;['Films/Jeux vidéo', 'Musiques de films'];216.0;0.0
+3;About Damn Time;Lizzo;['Pop'];191.0;1.0
+4;First Class;Jack Harlow;['Rap/Hip Hop'];173.0;1.0
+5;Stay;The Kid LAROI & Justin Bieber;['Pop'];141.0;1.0
+6;Jimmy Cooks;Drake Featuring 21 Savage;[];;
+7;Easy On Me;Adele;['Pop', 'Pop internationale', 'Rock'];224.0;0.0
+8;Wait For U;Future Featuring Drake & Tems;['Rap/Hip Hop'];189.0;1.0
+9;Bad Habit;Steve Lacy;['Pop', 'R&B', 'Soul'];232.0;1.0
+10;All I Want For Christmas Is You;Mariah Carey;['Pop'];241.0;0.0
+11;Anti-Hero;Taylor Swift;['Pop'];200.0;0.0
+12;Super Gremlin;Kodak Black;['Rap/Hip Hop'];200.0;1.0
+13;abcdefu;GAYLE;['Pop'];168.0;1.0
+14;Big Energy;Latto;['Alternative', 'Pop Indé', 'Rap/Hip Hop', 'Pop'];173.0;1.0
+15;Ghost;Justin Bieber;['Pop'];153.0;0.0
+16;Running Up That Hill (A Deal With God);Kate Bush;['Pop'];298.0;0.0
+17;I Like You (A Happier Song);Post Malone Featuring Doja Cat;[];193.0;0.0
+18;Late Night Talking;Harry Styles;['Pop'];177.0;0.0
+19;Shivers;Ed Sheeran;['Pop'];207.0;0.0
+20;Enemy;Imagine Dragons X JID;[];;
+21;Sunroof;Nicky Youre & dazy;['Pop'];169.0;0.0
+22;Me Porto Bonito;Bad Bunny & Chencho Corleone;['Latino'];178.0;1.0
+23;Rockin' Around The Christmas Tree;Brenda Lee;[];124.0;0.0
+24;Lavender Haze;Taylor Swift;['Pop'];202.0;1.0
+25;Cold Heart (PNAU Remix);Elton John & Dua Lipa;['Pop'];202.0;0.0
+26;Bad Habits;Ed Sheeran;['Pop'];230.0;0.0
+27;Thats What I Want;Lil Nas X;['Pop'];143.0;1.0
+28;Break My Soul;Beyonce;['Pop'];278.0;0.0
+29;Woman;Doja Cat;['Pop'];172.0;1.0
+30;You Proof;Morgan Wallen;['Country'];157.0;0.0
+31;Super Freaky Girl;Nicki Minaj;['Rap/Hip Hop'];170.0;1.0
+32;Wasted On You;Morgan Wallen;['Country'];178.0;0.0
+33;Titi Me Pregunto;Bad Bunny;['Latino'];243.0;0.0
+34;I Ain't Worried;OneRepublic;['Pop'];148.0;0.0
+35;Need To Know;Doja Cat;['Pop'];210.0;1.0
+36;Maroon;Taylor Swift;['Pop'];218.0;1.0
+37;Jingle Bell Rock;Bobby Helms;[];132.0;0.0
+38;The Kind Of Love We Make;Luke Combs;['Country'];224.0;0.0
+39;Pushin P;Gunna & Future Featuring Young Thug;['Rap/Hip Hop'];136.0;1.0
+40;Industry Baby;Lil Nas X & Jack Harlow;['Rap/Hip Hop', 'Pop'];212.0;1.0
+41;Glimpse Of Us;Joji;['Alternative', 'Pop'];233.0;0.0
+42;A Holly Jolly Christmas;Burl Ives;[];132.0;0.0
+43;Snow On The Beach;Taylor Swift Featuring Lana Del Rey;[];;
+44;Levitating;Dua Lipa;['Pop'];203.0;0.0
+45;Surface Pressure;Jessica Darrow;['Films/Jeux vidéo', 'Musiques de films'];202.0;0.0
+46;Save Your Tears;The Weeknd & Ariana Grande;['Pop'];219.0;0.0
+47;One Right Now;Post Malone & The Weeknd;['Rap/Hip Hop'];193.0;1.0
+48;Sticky;Drake;['Dance'];243.0;1.0
+49;Numb Little Bug;Em Beihold;['Pop'];169.0;0.0
+50;Vegas;Doja Cat;['Pop'];182.0;1.0
+51;Moscow Mule;Bad Bunny;['Latino'];245.0;1.0
+52;Midnight Rain;Taylor Swift;['Pop'];174.0;0.0
+53;She Had Me At Heads Carolina;Cole Swindell;['Country'];206.0;0.0
+54;Something In The Orange;Zach Bryan;['Country'];228.0;0.0
+55;'Til You Can't;Cody Johnson;['Country'];224.0;0.0
+56;MAMIII;Becky G X Karol G;[];;
+57;Hrs And Hrs;Muni Long;['R&B'];204.0;1.0
+58;Boyfriend;Dove Cameron;['Alternative', 'Pop'];153.0;1.0
+59;Music For A Sushi Restaurant;Harry Styles;['Pop'];193.0;0.0
+60;Good 4 U;Olivia Rodrigo;['Pop'];178.0;1.0
+61;Bejeweled;Taylor Swift;['Pop'];194.0;0.0
+62;It's The Most Wonderful Time Of The Year;Andy Williams;['Classique'];151.0;0.0
+63;In A Minute;Lil Baby;['Rap/Hip Hop'];200.0;1.0
+64;I Hate U;SZA;['R&B'];173.0;1.0
+65;Broadway Girls;Lil Durk Featuring Morgan Wallen;['Rap/Hip Hop'];185.0;0.0
+66;Last Christmas;Wham!;['Pop'];263.0;0.0
+67;Falling Back;Drake;['Dance'];266.0;0.0
+68;Question...?;Taylor Swift;['Pop'];210.0;1.0
+69;5 Foot 9;Tyler Hubbard;['Country'];189.0;0.0
+70;Sweetest Pie;Megan Thee Stallion & Dua Lipa;['Rap/Hip Hop', 'Pop'];201.0;1.0
+71;AA;Walker Hayes;['Country'];189.0;0.0
+72;Fall In Love;Bailey Zimmerman;['Country'];232.0;0.0
+73;Smokin Out The Window;Silk Sonic (Bruno Mars & Anderson .Paak);['Pop'];183.0;0.0
+74;Fancy Like;Walker Hayes;['Country', 'Pop'];161.0;0.0
+75;Bam Bam;Camila Cabello Featuring Ed Sheeran;['Pop'];206.0;0.0
+76;Provenza;Karol G;['Rap/Hip Hop', 'Latino'];210.0;0.0
+77;Thousand Miles;The Kid LAROI;['Rap/Hip Hop', 'Pop'];164.0;1.0
+78;Feliz Navidad;Jose Feliciano;['Classique'];182.0;0.0
+79;You're On Your Own, Kid;Taylor Swift;['Pop'];194.0;0.0
+80;Buy Dirt;Jordan Davis Featuring Luke Bryan;[];167.0;0.0
+81;Rock And A Hard Place;Bailey Zimmerman;['Country'];207.0;0.0
+82;Sand In My Boots;Morgan Wallen;['Country'];202.0;0.0
+83;Get Into It (Yuh);Doja Cat;['Pop'];138.0;1.0
+84;You Right;Doja Cat & The Weeknd;['Pop'];186.0;1.0
+85;What Happened To Virgil;Lil Durk Featuring Gunna;['Rap/Hip Hop'];181.0;1.0
+86;Fingers Crossed;Lauren Spencer-Smith;['Pop'];175.0;0.0
+87;Love Nwantiti (Ah Ah Ah);CKay;['Musique africaine'];145.0;1.0
+88;Matilda;Harry Styles;['Pop'];174.0;0.0
+89;Karma;Taylor Swift;['Pop'];204.0;1.0
+90;Efecto;Bad Bunny;['Latino'];213.0;0.0
+91;Light Switch;Charlie Puth;['Pop'];185.0;0.0
+92;Like I Love Country Music;Kane Brown;['Country'];234.0;0.0
+93;The Family Madrigal;Stephanie Beatriz, Olga Merediz & Encanto Cast;[];258.0;0.0
+94;Doin' This;Luke Combs;['Country'];254.0;0.0
+95;Knife Talk;Drake Featuring 21 Savage & Project Pat;[];;
+96;Party;Bad Bunny & Rauw Alejandro;['Latino'];227.0;0.0
+97;Vigilante Shit;Taylor Swift;['Pop'];164.0;1.0
+98;Sleigh Ride;The Ronettes;['Classique'];181.0;0.0
+99;Despues de La Playa;Bad Bunny;['Latino'];230.0;0.0

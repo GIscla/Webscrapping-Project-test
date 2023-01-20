@@ -1,0 +1,101 @@
+;title;artist;genres;duration;explicit_content
+0;Hey Jude;The Beatles;['Rock'];425.0;0.0
+1;(Sittin' On) The Dock Of The Bay;Otis Redding;['R&B', 'Soul'];160.0;0.0
+2;Honey;Bobby Goldsboro;['Country'];238.0;0.0
+3;Love Is Blue (L'amour Est Bleu);Paul Mauriat And His Orchestra;[];152.0;0.0
+4;People Got To Be Free;The Rascals;['Pop'];181.0;0.0
+5;Hello, I Love You;The Doors;['Rock'];133.0;0.0
+6;This Guy's In Love With You;Herb Alpert;['Pop'];237.0;0.0
+7;Green Tambourine;The Lemon Pipers;['Pop'];147.0;0.0
+8;Mrs. Robinson;Simon & Garfunkel;['Folk'];242.0;0.0
+9;Hello Goodbye;The Beatles;['Rock'];207.0;0.0
+10;Young Girl;The Union Gap Featuring Gary Puckett;['Pop'];252.0;0.0
+11;Judy In Disguise (With Glasses);John Fred And The Playboys;['R&B'];174.0;0.0
+12;Harper Valley P.T.A.;Jeannie C. Riley;['Country'];194.0;0.0
+13;Cry Like A Baby;The Box Tops;['Rock'];113.0;0.0
+14;Cry Like A Baby;The Box Tops;[];113.0;0.0
+15;The Good, The Bad And The Ugly;Hugo Montenegro, His Orchestra And Chorus;['Films/Jeux vidéo', 'Musiques de films'];136.0;0.0
+16;The Horse;Cliff Nobles & Co.;['Latino'];159.0;0.0
+17;Born To Be Wild;Steppenwolf;['Pop'];210.0;0.0
+18;Little Green Apples;O.C. Smith;['R&B'];240.0;0.0
+19;Fire;The Crazy World Of Arthur Brown;['Pop'];174.0;0.0
+20;(Theme From) Valley Of The Dolls;Dionne Warwick;['Pop'];218.0;0.0
+21;Classical Gas;Mason Williams;['Films/Jeux vidéo', 'Musiques de films'];184.0;0.0
+22;Daydream Believer;The Monkees;['Pop'];179.0;0.0
+23;Those Were The Days;Mary Hopkin;[];301.0;0.0
+24;Those Were The Days;Mary Hopkin;['Folk'];301.0;0.0
+25;Tighten Up;Archie Bell & The Drells;['Pop', 'Rock'];191.0;0.0
+26;Jumpin' Jack Flash;The Rolling Stones;['Rock'];222.0;0.0
+27;Chain Of Fools;Aretha Franklin;['Pop', 'Rock'];163.0;0.0
+28;A Beautiful Morning;The Rascals;['Pop', 'Rock'];151.0;0.0
+29;Grazing In The Grass;Hugh Masekela;['Jazz'];157.0;0.0
+30;Stoned Soul Picnic;The 5th Dimension;['Pop'];207.0;0.0
+31;Spooky;Classics IV;['Rock'];171.0;0.0
+32;Light My Fire;Jose Feliciano;['Pop'];251.0;0.0
+33;Lady Madonna;The Beatles;['Rock'];136.0;0.0
+34;Woman, Woman;The Union Gap Featuring Gary Puckett;[];;
+35;I Wish It Would Rain;The Temptations;['R&B'];172.0;0.0
+36;Bend Me, Shape Me;The American Breed;['Pop'];130.0;0.0
+37;Valleri;The Monkees;['Pop'];140.0;0.0
+38;La - La - Means I Love You;The Delfonics;['Pop', 'R&B', 'Soul'];199.0;0.0
+39;The Look Of Love;Sergio Mendes & Brasil '66;['Jazz'];164.0;0.0
+40;I Heard It Through The Grapevine;Gladys Knight And The Pips;['R&B'];166.0;0.0
+41;Lady Willpower;Gary Puckett And The Union Gap;['Pop'];159.0;0.0
+42;Simon Says;1910 Fruitgum Co.;['Pop'];135.0;0.0
+43;Girl Watcher;The O'Kaysions;['Pop'];157.0;0.0
+44;Yummy Yummy Yummy;Ohio Express;['Pop'];140.0;0.0
+45;Cowboys To Girls;The Intruders;[];157.0;0.0
+46;Cowboys To Girls;The Intruders;['R&B', 'Soul'];157.0;0.0
+47;(Sweet Sweet Baby) Since You've Been Gone;Aretha Franklin;['Pop', 'Rock'];146.0;0.0
+48;Midnight Confessions;The Grass Roots;['Pop'];164.0;0.0
+49;1, 2, 3, Red Light;1910 Fruitgum Co.;['Pop'];128.0;0.0
+50;Sunshine Of Your Love;Cream;['Pop'];251.0;0.0
+51;Hurdy Gurdy Man;Donovan;['Pop'];193.0;0.0
+52;Mony Mony;Tommy James And The Shondells;['Pop'];174.0;0.0
+53;I Got The Feelin';James Brown And The Famous Flames;[];;
+54;Slip Away;Clarence Carter;['R&B'];151.0;0.0
+55;Nobody But Me;The Human Beinz;['Rock'];140.0;0.0
+56;The House That Jack Built;Aretha Franklin;['Pop', 'Rock'];139.0;0.0
+57;Angel Of The Morning;Merrilee Rush & The Turnabouts;[];192.0;0.0
+58;Angel Of The Morning;Merrilee Rush & The Turnabouts;['Pop'];192.0;0.0
+59;I Second That Emotion;Smokey Robinson & The Miracles;['Pop'];162.0;0.0
+60;The Ballad Of Bonnie And Clyde;Georgie Fame;[];189.0;0.0
+61;I've Gotta Get A Message To You;Bee Gees;['Pop'];183.0;0.0
+62;MacArthur Park;Richard Harris;['Pop'];450.0;0.0
+63;Goin' Out Of My Head/Can't Take My Eyes Off You;The Lettermen;['Pop'];180.0;0.0
+64;Turn Around, Look At Me;The Vogues;['Pop'];180.0;0.0
+65;Just Dropped In (To See What Condition My Condition Was In);The First Edition;['Country'];201.0;0.0
+66;Ain't Nothing Like The Real Thing;Marvin Gaye & Tammi Terrell;['R&B'];133.0;0.0
+67;The Unicorn;The Irish Rovers;['Pop', 'Pop internationale', 'Variété Internationale'];179.0;0.0
+68;The Unicorn;The Irish Rovers;[];179.0;0.0
+69;I Wonder What She's Doing Tonite;Tommy Boyce & Bobby Hart;['Pop'];162.0;0.0
+70;Elenore;The Turtles;['Alternative', 'Rock indé', 'Pop', 'Pop indé/Folk', 'Rock'];151.0;0.0
+71;You're All I Need To Get By;Marvin Gaye & Tammi Terrell;['R&B'];170.0;0.0
+72;Baby, Now That I've Found You;The Foundations;['Pop'];156.0;0.0
+73;Dance To The Music;Sly & The Family Stone;['Soul & Funk'];179.0;0.0
+74;Over You;Gary Puckett And The Union Gap;['Pop'];144.0;0.0
+75;Love Is All Around;The Troggs;['Pop'];178.0;0.0
+76;Here Comes The Judge;Shorty Long;['R&B'];154.0;0.0
+77;Stay In My Corner;The Dells;['Rock', 'Blues'];370.0;0.0
+78;If You Can Want;Smokey Robinson & The Miracles;['Pop'];163.0;0.0
+79;Bottle Of Wine;The Fireballs;['Pop'];132.0;0.0
+80;Reach Out Of The Darkness;Friend And Lover;['Folk'];190.0;0.0
+81;Different Drum;Stone Poneys Featuring Linda Ronstadt;['Pop'];162.0;0.0
+82;Pictures Of Matchstick Men;The Status Quo;['Rock'];194.0;0.0
+83;Time Has Come Today;The Chambers Brothers;['Pop'];661.0;0.0
+84;Take Time To Know Her;Percy Sledge;['Pop'];173.0;0.0
+85;Take Time To Know Her;Percy Sledge;[];173.0;0.0
+86;Hold Me Tight;Johnny Nash;['Pop'];162.0;0.0
+87;Think;Aretha Franklin;['Pop'];139.0;0.0
+88;Do You Know The Way To San José;Dionne Warwick;['Pop'];179.0;0.0
+89;You Keep Me Hangin' On;The Vanilla Fudge;['Rock'];226.0;0.0
+90;I Say A Little Prayer;Aretha Franklin;['Pop', 'Rock'];212.0;0.0
+91;I Love You;People;['Alternative'];214.0;0.0
+92;I Love You;People;[];214.0;0.0
+93;Suzie Q. (Part One);Creedence Clearwater Revival;[];;
+94;Mighty Quinn (Quinn The Eskimo);Manfred Mann;['Rock', 'Rock & Roll/Rockabilly'];167.0;0.0
+95;Hush;Deep Purple;['Rock'];266.0;0.0
+96;Susan;The Buckinghams;['Pop'];175.0;0.0
+97;Say It Loud - I'm Black And I'm Proud (Part 1);James Brown;['R&B', 'Soul & Funk'];176.0;0.0
+98;I Can't Stop Dancing;Archie Bell & The Drells;['Pop', 'Rock'];139.0;0.0
+99;Revolution;The Beatles;['Rock'];205.0;0.0
