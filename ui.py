@@ -28,13 +28,13 @@ def page_hot100():
     return render_template('hot100.html', csv=data, date=f"{year}-{month}")
 
 
-@app.route("/stats")
+@app.route("/stats_hot100")
 def page_stats():
     data_file = "data/HOT100_year_bis.csv"
     save_genre = f"{UPLOAD_FOLDER}genres.png"
     save_duration = f"{UPLOAD_FOLDER}duration.png"
     hot100.music_evolution(1958, 2022, precision=20, file=data_file, save_genre=save_genre, save_duration=save_duration)
-    return render_template('stats.html', genre_file=save_genre, duration_file=save_duration)
+    return render_template('stats_hot100.html', genre_file=save_genre, duration_file=save_duration)
 
 
 if __name__ == "__main__":
