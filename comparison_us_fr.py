@@ -116,14 +116,8 @@ def graph_percent_amer_inc(starty, endy):
     plt.show()
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+def comparison_all(starty, endy, save_similarity=None, save_genre_comp=None, genre=None, save_american_percent=None):
+    graph_percent_simil(starty, endy, save_similarity)
+    graph_genre_percent(starty, endy, save_name=save_genre_comp, genre=genre)
+    graph_percent_amer(starty, endy, save_american_percent)
     

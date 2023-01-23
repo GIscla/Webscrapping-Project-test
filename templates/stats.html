@@ -1,0 +1,51 @@
+
+{% extends 'base.html'%}
+{%block title %}
+    Stats
+{% endblock %}
+{%block home_current%}
+    <span class="sr-only">(current)</span>
+{%endblock%}
+{%block content%}
+<style>
+
+</style>
+<div style=" margin-top:50px; margin-bottom:50px">
+    {% if genre_file%}
+        <div style="text-align:center">
+            <h1 style="font-size:200%;">Music style evolution:</h1>
+            <image src="{{genre_file}}" style="width: auto; height: auto; max-width:100%; max-height:100%">
+            </image>
+        </div>
+    {% endif %}
+    {%if duration_file %}
+    <br><br>
+        <div style="text-align:center">
+            <h1 style="font-size:200%;">Music duration evolution:</h1>
+            <image src="{{duration_file}}" style="width: auto; height: auto; max-width:100%; max-height:100%">
+            </image>
+        </div>
+    </div>
+    {% endif %}
+    {% if similarity_file%}
+        <div style="text-align:center">
+            <h1 style="font-size:200%;">Hot100 vs Top50 similarity:</h1>
+            <image src="{{similarity_file}}" style="width: auto; height: auto; max-width:100%; max-height:100%">
+            </image>
+        </div>
+    {% endif %}
+    {% if genre_comp_file%}
+        <div style="text-align:center">
+            <h1 style="font-size:200%;">Comparison of styles evolution:</h1>
+            <image src="{{genre_comp_file}}" style="width: auto; height: auto; max-width:100%; max-height:100%">
+            </image>
+        </div>
+    {% endif %}
+    {% if american_prop_file%}
+        <div style="text-align:center">
+            <h1 style="font-size:200%;">American songs in french music:</h1>
+            <image src="{{american_prop_file}}" style="width: auto; height: auto; max-width:100%; max-height:100%">
+            </image>
+        </div>
+    {% endif %}
+{%endblock%}
